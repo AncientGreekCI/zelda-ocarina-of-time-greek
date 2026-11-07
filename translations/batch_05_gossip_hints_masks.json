@@ -1,0 +1,1143 @@
+[
+  {
+    "id": "0x0400",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"This is a \" COLOR(RED) \"Gossip Stone\" COLOR(DEFAULT) \"!\"",
+    "el_msg": "\"Οὗτός ἐστι \" COLOR(RED) \"Ψίθυρος Λίθος\" COLOR(DEFAULT) \"!\""
+  },
+  {
+    "id": "0x0401",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"They say that you can swim faster\\n\"\n\"by continuously pressing \" COLOR(ADJUSTABLE) \"[B]\" COLOR(DEFAULT) \".\"",
+    "el_msg": "\"Λέγουσιν ὅτι θᾶττον νήχῃ\\n\"\n\"συνεχῶς πιέζων τὸ \" COLOR(ADJUSTABLE) \"[B]\" COLOR(DEFAULT) \".\""
+  },
+  {
+    "id": "0x0402",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"They say that there is a secret \\n\"\n\"near the lone tree which is not\\n\"\n\"far from the river in the \\n\"\n\"northwest part of Hyrule Field.\"",
+    "el_msg": "\"Λέγουσιν ὅτι κρυπτόν τί ἐστι\\n\"\n\"παρὰ τῷ μόνῳ δένδρῳ, οὐ\\n\"\n\"πόρρω ποταμοῦ, πρὸς βορρᾶν\\n\"\n\"καὶ δυσμὰς Πεδίου Ὑρούλης.\""
+  },
+  {
+    "id": "0x0403",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"They say that there is a secret\\n\"\n\"on the road that leads to Lake\\n\"\n\"Hylia.\"",
+    "el_msg": "\"Λέγουσιν ὅτι κρυπτόν τί ἐστιν\\n\"\n\"ἐν τῇ ὁδῷ τῇ ἀγούσῃ\\n\"\n\"πρὸς τὴν Λίμνην Ὑλίαν.\""
+  },
+  {
+    "id": "0x0404",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"They say that Biggoron's Sword is \\n\"\n\"super sharp and will never break.\"",
+    "el_msg": "\"Λέγουσιν ὅτι τὸ τοῦ\\n\"\n\"Μεγαλογόρωνος Ξίφος ὀξύτατόν\\n\"\n\"ἐστι καὶ οὐδέποτε συντρίβεται.\""
+  },
+  {
+    "id": "0x0405",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"They say that Medigoron didn't \\n\"\n\"really think about his own size, \\n\"\n\"so his store is really cramped.\"",
+    "el_msg": "\"Λέγουσιν ὅτι ὁ Μεσογόρων\\n\"\n\"οὐκ ἐσκέψατο τὸ ἑαυτοῦ\\n\"\n\"μέγεθος, διὸ καὶ τὸ ἐργαστήριον\\n\"\n\"αὐτοῦ λίαν στενόν ἐστιν.\""
+  },
+  {
+    "id": "0x0406",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"They say that Malon set the\\n\"\n\"original record in the obstacle\\n\"\n\"course of Lon Lon Ranch.\"",
+    "el_msg": "\"Λέγουσιν ὅτι ἡ Μάλων\\n\"\n\"τὸν πρῶτον χρόνον ἔστησεν\\n\"\n\"ἐν τῷ δρόμῳ τῶν ἐμποδίων\\n\"\n\"τῆς Ἐπαύλεως Λὸν Λόν.\""
+  },
+  {
+    "id": "0x0407",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"They say that Malon of Lon Lon \\n\"\n\"Ranch hopes a knight in shining \\n\"\n\"armor will come and sweep her off \\n\"\n\"her feet someday.\"",
+    "el_msg": "\"Λέγουσιν ὅτι ἡ Μάλων τῆς\\n\"\n\"Ἐπαύλεως Λὸν Λόν ἐλπίζει\\n\"\n\"ἱππότην ἐν λαμπρᾷ πανοπλίᾳ\\n\"\n\"ἥξειν καὶ ἁρπάσειν αὐτήν.\""
+  },
+  {
+    "id": "0x0408",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"They say that Ruto, the Zora \\n\"\n\"Princess who is known for her \\n\"\n\"selfish nature, likes a certain \\n\"\n\"boy...\"",
+    "el_msg": "\"Λέγουσιν ὅτι ἡ Ῥούτω, ἡ τῶν\\n\"\n\"Ζῶρα βασιλὶς ἡ δι' αὐθάδειαν\\n\"\n\"γνωστή, φιλεῖ παῖδά τινα...\""
+  },
+  {
+    "id": "0x0409",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"They say that players who select\\n\"\n\"the \\\"HOLD\\\" option for \\\"Z \\n\"\n\"TARGETING\\\" are the real \\\"Zelda\\n\"\n\"players!\\\"\"",
+    "el_msg": "\"Λέγουσιν ὅτι οἱ αἱρούμενοι\\n\"\n\"τὸ «ΚΡΑΤΕΙΝ» ἐν τῇ\\n\"\n\"«Ζ-ΣΚΟΠΕΥΣΕΙ», οὗτοι εἰσιν\\n\"\n\"οἱ ὄντως «παῖκται Ζέλδας»!\""
+  },
+  {
+    "id": "0x040A",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"They say that there is a secret\\n\"\n\"near a tree in Kakariko Village.\"",
+    "el_msg": "\"Λέγουσιν ὅτι κρυπτόν τί ἐστι\\n\"\n\"παρὰ δένδρῳ τινὶ ἐν τῇ\\n\"\n\"κώμῃ Κακαρικό.\""
+  },
+  {
+    "id": "0x040B",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"They say that, contrary to her \\n\"\n\"elegant image, Princess Zelda of \\n\"\n\"Hyrule Castle is, in fact, a \\n\"\n\"tomboy!\"",
+    "el_msg": "\"Λέγουσιν ὅτι, παρὰ τὸ σεμνὸν\\n\"\n\"εἶδος αὐτῆς, ἡ βασιλὶς Ζέλδα\\n\"\n\"τοῦ Φρουρίου Ὑρούλης τῷ\\n\"\n\"ὄντι ἀρρενωπή ἐστιν!\""
+  },
+  {
+    "id": "0x040C",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"They say that Princess Zelda's \\n\"\n\"nanny is actually one of the \\n\"\n\"Sheikah, who many thought had \\n\"\n\"died out.\"",
+    "el_msg": "\"Λέγουσιν ὅτι ἡ τῆς βασιλίδος\\n\"\n\"Ζέλδας τροφὸς μία ἐστὶ τῶν\\n\"\n\"Σειχῶν, οὺς πολλοὶ ἐνόμιζον\\n\"\n\"ἤδη ἐκλελοιπέναι.\""
+  },
+  {
+    "id": "0x040D",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"They say that there is a man who\\n\"\n\"can always be found running\\n\"\n\"around in Hyrule Field.\"",
+    "el_msg": "\"Λέγουσιν ὅτι ἀνήρ τίς ἐστιν\\n\"\n\"ὃν ἀεὶ εὑρήσεις περιτρέχοντα\\n\"\n\"ἐν τῷ Πεδίῳ τῆς Ὑρούλης.\""
+  },
+  {
+    "id": "0x040E",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"They say that it is against the\\n\"\n\"rules to use glasses at the \\n\"\n\"Treasure Chest Shop in Hyrule\\n\"\n\"Castle Town Market.\"",
+    "el_msg": "\"Λέγουσιν ὅτι οὐκ ἔξεστι φακοὺς\\n\"\n\"χρῆσθαι ἐν τῷ Πωλητηρίῳ\\n\"\n\"Κιβωτῶν ἐν τῇ Ἀγορᾷ τοῦ\\n\"\n\"Φρουρίου τῆς Ὑρούλης.\""
+  },
+  {
+    "id": "0x040F",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"They say that the Chicken Lady \\n\"\n\"goes to the Lakeside Laboratory \\n\"\n\"to study how to breed pocket-\\n\"\n\"sized Cuccos.\"",
+    "el_msg": "\"Λέγουσιν ὅτι ἡ ὀρνιθοτρόφος\\n\"\n\"φοιτᾷ εἰς τὸ παρὰ τῇ Λίμνῃ\\n\"\n\"Ἐργαστήριον, μαθεῖν πῶς ἂν\\n\"\n\"θύλακος κοῦκκους τρέφοι.\""
+  },
+  {
+    "id": "0x0410",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"They say that Gerudos sometimes\\n\"\n\"come to Hyrule Castle Town to\\n\"\n\"look for boyfriends.\"",
+    "el_msg": "\"Λέγουσιν ὅτι αἱ Γερούδαι\\n\"\n\"ἐνίοτε ἔρχονται εἰς τὴν Πόλιν\\n\"\n\"τοῦ Φρουρίου Ὑρούλης ζητοῦσαι\\n\"\n\"ἐραστάς.\""
+  },
+  {
+    "id": "0x0411",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"They say that the thief named \\n\"\n\"Nabooru, who haunts this area, is\\n\"\n\"a Gerudo.\"",
+    "el_msg": "\"Λέγουσιν ὅτι ἡ λῃστρὶς\\n\"\n\"ὀνόματι Ναβούρου, ἡ ἐν\\n\"\n\"τούτοις τοῖς τόποις στρεφομένη,\\n\"\n\"Γερούδα ἐστίν.\""
+  },
+  {
+    "id": "0x0412",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"They say that if you get close to a\\n\"\n\"butterfly while holding a Deku\\n\"\n\"Stick in your hands, something\\n\"\n\"good will happen.\"",
+    "el_msg": "\"Λέγουσιν ὅτι ἐὰν ψυχῇ\\n\"\n\"πλησιάσῃς Ῥάβδον Δέκου\\n\"\n\"ἐν χερσὶν ἔχων, ἀγαθόν τί\\n\"\n\"σοι συμβήσεται.\""
+  },
+  {
+    "id": "0x0413",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"They say that you may find\\n\"\n\"something new in dungeons that\\n\"\n\"you have already finished.\"",
+    "el_msg": "\"Λέγουσιν ὅτι καινόν τι εὕροις\\n\"\n\"ἂν ἐν τοῖς δεσμωτηρίοις ἃ\\n\"\n\"ἤδη ἐξετέλεσας.\""
+  },
+  {
+    "id": "0x0414",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"They say that Gerudos worship \\n\"\n\"Ganondorf almost like a god.\"",
+    "el_msg": "\"Λέγουσιν ὅτι αἱ Γερούδαι\\n\"\n\"σχεδὸν ὡς θεὸν σέβουσι\\n\"\n\"τὸν Γανωνδόρφ.\""
+  },
+  {
+    "id": "0x0415",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"They say that there is a secret \\n\"\n\"around the entrance to Gerudo \\n\"\n\"Valley.\"",
+    "el_msg": "\"Λέγουσιν ὅτι κρυπτόν τί ἐστι\\n\"\n\"περὶ τὴν εἴσοδον τῆς\\n\"\n\"Φάραγγος τῶν Γερούδων.\""
+  },
+  {
+    "id": "0x0416",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"They say that the owl named\\n\"\n\"Kaepora Gaebora is the\\n\"\n\"reincarnation of an ancient Sage.\"",
+    "el_msg": "\"Λέγουσιν ὅτι ὁ βύας ὁ\\n\"\n\"ὀνομαζόμενος Καιπώρα Γαιβώρα\\n\"\n\"μετεμψύχωσίς ἐστιν\\n\"\n\"ἀρχαίου τινὸς Σοφοῦ.\""
+  },
+  {
+    "id": "0x0417",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"They say that strange owl,\\n\"\n\"Kaepora Gaebora, may look big and\\n\"\n\"heavy, but its character is rather \\n\"\n\"lighthearted.\"",
+    "el_msg": "\"Λέγουσιν ὅτι ὁ ἄτοπος βύας,\\n\"\n\"ὁ Καιπώρα Γαιβώρα, μέγας μὲν\\n\"\n\"καὶ βαρὺς φαίνεται, τὸν δὲ\\n\"\n\"τρόπον εὔθυμός ἐστιν.\""
+  },
+  {
+    "id": "0x0418",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"They say that the horse\\n\"\n\"Ganondorf rides is a solid black\\n\"\n\"Gerudo stallion.\"",
+    "el_msg": "\"Λέγουσιν ὅτι ὁ ἵππος ἐφ' οὗ\\n\"\n\"ἐπιβαίνει ὁ Γανωνδόρφ\\n\"\n\"μέλας ἵππος ἐστὶ Γερούδιος.\""
+  },
+  {
+    "id": "0x0419",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"They say that Ganondorf is not \\n\"\n\"satisfied with ruling only the\\n\"\n\"Gerudo and aims to conquer all\\n\"\n\"of Hyrule!\"",
+    "el_msg": "\"Λέγουσιν ὅτι ὁ Γανωνδόρφ οὐκ\\n\"\n\"ἀρκεῖται μόνον Γερούδων\\n\"\n\"ἄρχειν, ἀλλ' ἐφίεται πάσης\\n\"\n\"τῆς Ὑρούλης κρατῆσαι!\""
+  },
+  {
+    "id": "0x041A",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"They say that the treasure you\\n\"\n\"can earn in the Gerudo's Training\\n\"\n\"Ground is not as great as you\\n\"\n\"would expect, given its difficulty!\"",
+    "el_msg": "\"Λέγουσιν ὅτι ὁ θησαυρὸς ἐν\\n\"\n\"τῷ Γυμνασίῳ τῶν Γερούδων\\n\"\n\"οὐ τοσοῦτός ἐστιν ὅσον ἄν\\n\"\n\"τις κατὰ τὸν πόνον ἤλπιζεν!\""
+  },
+  {
+    "id": "0x041B",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"They say that there is a switch \\n\"\n\"that you can activate only by\\n\"\n\"using the Spin Attack.\"",
+    "el_msg": "\"Λέγουσιν ὅτι ἔστι μοχλός τις\\n\"\n\"ὃν οὐκ ἔνεστι κινῆσαι εἰ μὴ\\n\"\n\"διὰ τῆς Κυκλοτεροῦς Πληγῆς.\""
+  },
+  {
+    "id": "0x041C",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"They say that it's possible to find\\n\"\n\"a total of 100 Gold Skulltulas\\n\"\n\"throughout Hyrule.\"",
+    "el_msg": "\"Λέγουσιν ὅτι ἔξεστιν εὑρεῖν\\n\"\n\"ἑκατὸν Χρυσᾶς Σκουλτούλας\\n\"\n\"ἐν πάσῃ τῇ Ὑρούλῃ.\""
+  },
+  {
+    "id": "0x041D",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"They say that when non-fairy\\n\"\n\"folk enter the Lost Woods, they\\n\"\n\"become monsters!\"",
+    "el_msg": "\"Λέγουσιν ὅτι οἱ ἄνευ νύμφης,\\n\"\n\"ὅταν εἰσέλθωσιν εἰς τὸν\\n\"\n\"Δρυμὸν τῆς Πλάνης,\\n\"\n\"τέρατα γίγνονται!\""
+  },
+  {
+    "id": "0x041E",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"They say that the small holes in\\n\"\n\"the ground that you can find all\\n\"\n\"over Hyrule make perfect breeding\\n\"\n\"ground for bugs.\"",
+    "el_msg": "\"Λέγουσιν ὅτι τὰ μικρὰ τρήματα\\n\"\n\"ἐν τῇ γῇ πανταχοῦ τῆς Ὑρούλης\\n\"\n\"ἄριστα χωρία εἰσὶ πρὸς τὴν\\n\"\n\"τῶν κανθάρων γένεσιν.\""
+  },
+  {
+    "id": "0x041F",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"They say that the Kokiri are \\n\"\n\"always followed by small fairies.\"",
+    "el_msg": "\"Λέγουσιν ὅτι τοῖς Κοκίρι ἀεὶ\\n\"\n\"μικραὶ νύμφαι ἕπονται.\""
+  },
+  {
+    "id": "0x0420",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"They say that one Kokiri has left\\n\"\n\"the forest, but he is still\\n\"\n\"alive!\"",
+    "el_msg": "\"Λέγουσιν ὅτι εἷς τις τῶν\\n\"\n\"Κοκίρι ἐξῆλθε τοῦ δρυμοῦ,\\n\"\n\"ἀλλ' ἔτι ζῇ!\""
+  },
+  {
+    "id": "0x0600",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE COLOR(RED) \"What's that?\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE COLOR(RED) \"Τί τοῦτό ἐστιν;\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0601",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Gohma\\n\"\nCOLOR(LIGHTBLUE) \"It's one of the parasitic monsters\\n\"\n\"inside the Deku Tree! Its \" COLOR(DEFAULT) \"eye\" COLOR(LIGHTBLUE) \" is\\n\"\n\"vulnerable when it's red!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Γῶμα\\n\"\nCOLOR(LIGHTBLUE) \"Τέρας τι παρασιτικὸν ἔνδον\\n\"\n\"τοῦ Δένδρου Δέκου! Ὁ \" COLOR(DEFAULT) \"ὀφθαλμὸς\" COLOR(LIGHTBLUE) \"\\n\"\n\"τρωτός ἐστιν ὅταν ἐρυθραίνῃ!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0602",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Gohma Egg\\n\"\nCOLOR(LIGHTBLUE) \"When this egg hatches, a Gohma\\n\"\n\"Larva will be born.\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Ὠὸν Γῶμα\\n\"\nCOLOR(LIGHTBLUE) \"Ὅταν τοῦτο τὸ ὠὸν ἐκκολαφθῇ,\\n\"\n\"κάμπη Γῶμα γεννηθήσεται.\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0603",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Gohma Larva\\n\"\nCOLOR(LIGHTBLUE) \"Look out when it gets ready to\\n\"\n\"pounce!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Κάμπη Γῶμα\\n\"\nCOLOR(LIGHTBLUE) \"Φυλάττου ὅταν μέλλῃ\\n\"\n\"ἐφάλλεσθαι!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0604",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Skulltula\\n\"\nCOLOR(LIGHTBLUE) \"Its soft \" COLOR(DEFAULT) \"belly\" COLOR(LIGHTBLUE) \" is its weak point!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Σκουλτούλα\\n\"\nCOLOR(LIGHTBLUE) \"Ἡ ἁπαλὴ \" COLOR(DEFAULT) \"γαστὴρ\" COLOR(LIGHTBLUE) \" αὐτῆς\\n\"\n\"τὸ τρωτόν ἐστι σημεῖον!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0605",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Big Skulltula\\n\"\nCOLOR(LIGHTBLUE) \"Its soft \" COLOR(DEFAULT) \"belly\" COLOR(LIGHTBLUE) \" is its weak point!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Μεγάλη Σκουλτούλα\\n\"\nCOLOR(LIGHTBLUE) \"Ἡ ἁπαλὴ \" COLOR(DEFAULT) \"γαστὴρ\" COLOR(LIGHTBLUE) \" αὐτῆς\\n\"\n\"τὸ τρωτόν ἐστι σημεῖον!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0606",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Tailpasaran\\n\"\nCOLOR(LIGHTBLUE) \"Its \" COLOR(DEFAULT) \"tail \" COLOR(LIGHTBLUE) \"is its weak point!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Ταιλπασαράν\\n\"\nCOLOR(LIGHTBLUE) \"Ἡ \" COLOR(DEFAULT) \"οὐρὰ \" COLOR(LIGHTBLUE) \"αὐτοῦ\\n\"\n\"τὸ τρωτόν ἐστιν!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0607",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Deku Baba\\n\"\nCOLOR(LIGHTBLUE) \"Hit it when it lunges at you, and \\n\"\n\"it will stand upright. Cut it\\n\"\n\"quickly to get a \" COLOR(DEFAULT) \"Deku Stick\" COLOR(LIGHTBLUE) \"!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Βάβα Δέκου\\n\"\nCOLOR(LIGHTBLUE) \"Πλῆξον αὐτὸ ὁρμῶν, καὶ ὀρθὸν\\n\"\n\"στήσεται. Τέμε ταχέως λαβεῖν\\n\"\nCOLOR(DEFAULT) \"Ῥάβδον Δέκου\" COLOR(LIGHTBLUE) \"!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0608",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Big Deku Baba\\n\"\nCOLOR(LIGHTBLUE) \"Hit it when it lunges at you, and \\n\"\n\"it will stand upright. Cut it\\n\"\n\"quickly to get a \" COLOR(DEFAULT) \"Deku Stick\" COLOR(LIGHTBLUE) \"!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Μεγάλη Βάβα Δέκου\\n\"\nCOLOR(LIGHTBLUE) \"Πλῆξον αὐτὸ ὁρμῶν, καὶ ὀρθὸν\\n\"\n\"στήσεται. Τέμε ταχέως λαβεῖν\\n\"\nCOLOR(DEFAULT) \"Ῥάβδον Δέκου\" COLOR(LIGHTBLUE) \"!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0609",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Deku Baba\\n\"\nCOLOR(LIGHTBLUE) \"Though it looks withered, it will\\n\"\n\"hurt you if you touch it!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Βάβα Δέκου\\n\"\nCOLOR(LIGHTBLUE) \"Καίπερ ξηρὸν δοκοῦν, βλάψει σε\\n\"\n\"ἐὰν ἅψῃ αὐτοῦ!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x060A",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Deku Scrub\\n\"\nCOLOR(LIGHTBLUE) \"It will hide in the grass if you get\\n\"\n\"close to it. Bounce the nuts it \\n\"\n\"spits back at it!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Θαμνίσκος Δέκου\\n\"\nCOLOR(LIGHTBLUE) \"Ἐν τῇ ποίᾳ κρύπτεται ἐὰν\\n\"\n\"ἐγγίζῃς. Ἀποσόβει τὰ κάρυα ἃ\\n\"\n\"πτύει εἰς αὐτόν!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x060B",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"060b\"",
+    "el_msg": "\"060b\""
+  },
+  {
+    "id": "0x060C",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"King Dodongo\\n\"\nCOLOR(LIGHTBLUE) \"This is a huge Dodongo that eats\\n\"\n\"anything! Give it a shock, and \\n\"\n\"finish it off with your \" COLOR(DEFAULT) \"sword\" COLOR(LIGHTBLUE) \"!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Βασιλεὺς Δοδόνγος\\n\"\nCOLOR(LIGHTBLUE) \"Μέγας ἐστὶ Δοδόνγος ὃς πάντα\\n\"\n\"ἐσθίει! Ἔκπληξον αὐτόν, καὶ\\n\"\n\"κατάλυσον τῷ \" COLOR(DEFAULT) \"ξίφει\" COLOR(LIGHTBLUE) \" σου!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x060D",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Dodongo\\n\"\nCOLOR(LIGHTBLUE) \"Watch out for its fiery breath!\\n\"\n\"Use \" COLOR(DEFAULT) \"[Z] Targeting \" COLOR(LIGHTBLUE) \"techniques!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Δοδόνγος\\n\"\nCOLOR(LIGHTBLUE) \"Φυλάττου τὸ πῦρ ὃ ἐκπνεῖ!\\n\"\n\"Χρῶ δὲ τῇ \" COLOR(DEFAULT) \"[Z]-Σκοπεύσει\" COLOR(LIGHTBLUE) \"!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x060E",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Baby Dodongo\\n\"\nCOLOR(LIGHTBLUE) \"Watch out for its leaping attack!\\n\"\n\"It will explode after it's defeated!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Νήπιος Δοδόνγος\\n\"\nCOLOR(LIGHTBLUE) \"Φυλάττου τὸ ἅλμα αὐτοῦ!\\n\"\n\"Ἡττηθεὶς γὰρ διαρρήγνυται!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x060F",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Lizalfos \\n\"\nCOLOR(LIGHTBLUE) \"Use your shield well and fight \\n\"\n\"with \" COLOR(DEFAULT) \"[Z] Targeting \" COLOR(LIGHTBLUE) \"techniques!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Λιζάλφος\\n\"\nCOLOR(LIGHTBLUE) \"Εὖ χρῶ τῷ θυρεῷ καὶ μάχου\\n\"\n\"τῇ \" COLOR(DEFAULT) \"[Z]-Σκοπεύσει\" COLOR(LIGHTBLUE) \"!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0610",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Dinolfos \\n\"\nCOLOR(LIGHTBLUE) \"Use your shield well and fight \\n\"\n\"with \" COLOR(DEFAULT) \"[Z] Targeting \" COLOR(LIGHTBLUE) \"techniques!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Δινόλφος\\n\"\nCOLOR(LIGHTBLUE) \"Εὖ χρῶ τῷ θυρεῷ καὶ μάχου\\n\"\n\"τῇ \" COLOR(DEFAULT) \"[Z]-Σκοπεύσει\" COLOR(LIGHTBLUE) \"!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0611",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Fire Keese\\n\"\nCOLOR(LIGHTBLUE) \"Destroy it before it flies into\\n\"\n\"you! If you don't, its flames will\\n\"\n\"burn up your \" COLOR(DEFAULT) \"Deku Shield\" COLOR(LIGHTBLUE) \"!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Πύρινος Κῆσις\\n\"\nCOLOR(LIGHTBLUE) \"Ἀπόλεσον πρὶν προσπτῆναι!\\n\"\n\"Εἰ δὲ μή, τὸ πῦρ κατακαύσει\\n\"\n\"τὸν \" COLOR(DEFAULT) \"θυρεὸν Δέκου\" COLOR(LIGHTBLUE) \"!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0612",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Keese\\n\"\nCOLOR(LIGHTBLUE) \"When you get close to it, use \\n\"\nCOLOR(DEFAULT) \"[Z] Targeting\" COLOR(LIGHTBLUE) \". Even if it flies\\n\"\n\"away, you can still target it.\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Κῆσις\\n\"\nCOLOR(LIGHTBLUE) \"Ἐγγίσας, χρῶ τῇ \" COLOR(DEFAULT) \"[Z]-Σκοπεύσει\" COLOR(LIGHTBLUE) \".\\n\"\n\"Κἂν ἀποπτῇ, ἔτι δυνατὸν\\n\"\n\"αὐτὸν σκοπεῖν.\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0613",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Armos\\n\"\nCOLOR(LIGHTBLUE) \"Stop its movement and then\\n\"\n\"destroy it!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Ἄρμος\\n\"\nCOLOR(LIGHTBLUE) \"Παῦσον τὴν κίνησιν αὐτοῦ καὶ\\n\"\n\"ἔπειτα κατάλυσον!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0614",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Barinade\\n\"\nCOLOR(LIGHTBLUE) \"Many parasitic jellyfish swarm\\n\"\n\"around this monster. Aim for its\\n\"\n\"body, protected by jellyfish!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Βαρινάδη\\n\"\nCOLOR(LIGHTBLUE) \"Πολλαὶ μέδουσαι παρασιτικαὶ\\n\"\n\"περιέπουσιν αὐτό. Σκόπει τὸ\\n\"\n\"σῶμα, ὑπ' αὐτῶν φρουρούμενον!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0615",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Parasitic Tentacle?\\n\"\nCOLOR(LIGHTBLUE) \"It seems that the narrow part is \\n\"\n\"its weak point... You need a \\n\"\n\"particular item to destroy it!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Παρασιτικὴ Πλεκτάνη;\\n\"\nCOLOR(LIGHTBLUE) \"Ἔοικε τὸ στενὸν μέρος τρωτὸν\\n\"\n\"εἶναι... Χρεία δέ ἐστί τινος\\n\"\n\"σκευοῦς πρὸς τὸ ἀπολέσαι!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0616",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Shabom\\n\"\nCOLOR(LIGHTBLUE) \"If you try to cut it, it will bounce\\n\"\n\"off your blade!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Σαβόμ\\n\"\nCOLOR(LIGHTBLUE) \"Ἐὰν τέμνειν ἐπιχειρῇς,\\n\"\n\"ἀποπηδήσει ἀπὸ τοῦ ξίφους!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0617",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Biri\\n\"\nCOLOR(LIGHTBLUE) \"If you touch it, you will be\\n\"\n\"electrocuted!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Βίρι\\n\"\nCOLOR(LIGHTBLUE) \"Ἐὰν ἅψῃ αὐτοῦ,\\n\"\n\"κεραυνωθήσῃ!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0618",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Bari\\n\"\nCOLOR(LIGHTBLUE) \"If you touch it, you will be \\n\"\n\"electrocuted!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Βάρι\\n\"\nCOLOR(LIGHTBLUE) \"Ἐὰν ἅψῃ αὐτοῦ,\\n\"\n\"κεραυνωθήσῃ!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0619",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Stinger\\n\"\nCOLOR(LIGHTBLUE) \"Destroy it before it flies into you!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Κεντρίτης\\n\"\nCOLOR(LIGHTBLUE) \"Κατάλυσον αὐτὸ πρὶν\\n\"\n\"προσπτῆναί σοι!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x061A",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Phantom Ganon\\n\"\nCOLOR(LIGHTBLUE) \"It's an evil ghost of the Forest\\n\"\n\"Temple! He comes out of one of\\n\"\n\"the pictures.\"\nBOX_BREAK\n\nCOLOR(LIGHTBLUE) \"Answer his magic attack with an\\n\"\n\"attack of your own!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Φάντασμα τοῦ Γάνωνος\\n\"\nCOLOR(LIGHTBLUE) \"Πονηρὸν φάσμα τοῦ Ναοῦ τῆς\\n\"\n\"Ὕλης! Ἐξέρχεται ἔκ τινος τῶν\\n\"\n\"πινάκων.\"\nBOX_BREAK\n\nCOLOR(LIGHTBLUE) \"Τὴν μαγικὴν προσβολὴν αὐτοῦ\\n\"\n\"ἀντιπροσβολῇ ἄμυναι!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x061B",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Stalfos\\n\"\nCOLOR(LIGHTBLUE) \"Lure it close to you and watch its\\n\"\n\"movement carefully! Attack it when \\n\"\n\"it drops its guard!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Στάλφος\\n\"\nCOLOR(LIGHTBLUE) \"Ἕλκυσον ἐγγὺς καὶ τὴν κίνησιν\\n\"\n\"ἀκριβῶς σκόπει! Προσβαλε\\n\"\n\"ὅταν τὴν φυλακὴν χαλάσῃ!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x061C",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Blue Bubble\\n\"\nCOLOR(LIGHTBLUE) \"Guard against its blue flame with \\n\"\n\"your \" COLOR(DEFAULT) \"shield\" COLOR(LIGHTBLUE) \"!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Κυανῆ Πομφόλυξ\\n\"\nCOLOR(LIGHTBLUE) \"Τὴν κυανῆν φλόγα τῷ \" COLOR(DEFAULT) \"θυρεῷ\" COLOR(LIGHTBLUE) \"\\n\"\n\"σου ἄμυναι!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x061D",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"White Bubble\\n\"\nCOLOR(LIGHTBLUE) \"Aim for it when it stops!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Λευκὴ Πομφόλυξ\\n\"\nCOLOR(LIGHTBLUE) \"Σκόπει αὐτὴν ὅταν στῇ!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x061E",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Green Bubble\\n\"\nCOLOR(LIGHTBLUE) \"Use your sword when its green\\n\"\n\"fire vanishes!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Χλωρὰ Πομφόλυξ\\n\"\nCOLOR(LIGHTBLUE) \"Τῷ ξίφει χρῶ ὅταν τὸ χλωρὸν\\n\"\n\"πῦρ ἀφανισθῇ!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x061F",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Skullwalltula\\n\"\nCOLOR(LIGHTBLUE) \"Be careful not to touch it!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Τοιχοσκουλτούλα\\n\"\nCOLOR(LIGHTBLUE) \"Εὐλαβοῦ μὴ ἅψῃ αὐτῆς!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0620",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Gold Skulltula\\n\"\nCOLOR(LIGHTBLUE) \"This is also known as a Spider of\\n\"\n\"the Curse. If you defeat it, you'll\\n\"\n\"get a \" COLOR(DEFAULT) \"token\" COLOR(LIGHTBLUE) \" as proof!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Χρυσῆ Σκουλτούλα\\n\"\nCOLOR(LIGHTBLUE) \"Αὕτη καὶ Ἀράχνη τῆς Κατάρας\\n\"\n\"καλεῖται. Νικήσας δὲ λήψῃ\\n\"\nCOLOR(DEFAULT) \"σημεῖον\" COLOR(LIGHTBLUE) \" εἰς μαρτύριον!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0621",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Volvagia\\n\"\nCOLOR(LIGHTBLUE) \"It's the Boss of the Fire Temple,\\n\"\n\"revived by the Evil King. I don't\\n\"\n\"know its weak point...\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Βολβαγία\\n\"\nCOLOR(LIGHTBLUE) \"Ὁ ἄρχων τοῦ Ναοῦ τοῦ Πυρός,\\n\"\n\"ἀναστηθεὶς ὑπὸ τοῦ Πονηροῦ\\n\"\n\"Βασιλέως. Τὸ δὲ τρωτὸν ἀγνοῶ...\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0622",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Flare Dancer\\n\"\nCOLOR(LIGHTBLUE) \"Extinguish its \" COLOR(DEFAULT) \"flaming clothes \\n\"\nCOLOR(LIGHTBLUE) \"first...\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Πυρορχηστής\\n\"\nCOLOR(LIGHTBLUE) \"Σβέσον τὰ \" COLOR(DEFAULT) \"φλεγόμενα ἱμάτια\\n\"\nCOLOR(LIGHTBLUE) \"πρῶτον...\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0623",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Torch Slug\\n\"\nCOLOR(LIGHTBLUE) \"When the fire on its back is\\n\"\n\"extinguished, it will run away.\\n\"\n\"Destroy it before it relights!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Δᾳδολείμαξ\\n\"\nCOLOR(LIGHTBLUE) \"Ὅταν τὸ ἐπὶ νώτου πῦρ σβεσθῇ,\\n\"\n\"φεύγει. Ἀπόλεσον αὐτὸ πρὶν\\n\"\n\"πάλιν ἀναφθῆναι!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0624",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Red Bubble\\n\"\nCOLOR(LIGHTBLUE) \"Guard against its attack with \\n\"\n\"your \" COLOR(DEFAULT) \"shield\" COLOR(LIGHTBLUE) \"!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Ἐρυθρὰ Πομφόλυξ\\n\"\nCOLOR(LIGHTBLUE) \"Τὴν προσβολὴν αὐτῆς τῷ\\n\"\nCOLOR(DEFAULT) \"θυρεῷ\" COLOR(LIGHTBLUE) \" σου ἄμυναι!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0625",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Morpha\\n\"\nCOLOR(LIGHTBLUE) \"Master of the Water Temple. It \\n\"\n\"has absolute control of water. Pull\\n\"\n\"out its \" COLOR(DEFAULT) \"nucleus \" COLOR(LIGHTBLUE) \"and attack it!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Μόρφα\\n\"\nCOLOR(LIGHTBLUE) \"Ὁ ἄρχων τοῦ Ναοῦ τοῦ Ὕδατος,\\n\"\n\"παντελῶς κρατῶν τοῦ ὕδατος.\\n\"\n\"Ἔξελκε τὸν \" COLOR(DEFAULT) \"πυρῆνα\" COLOR(LIGHTBLUE) \" καὶ πρόσβαλλε!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0626",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Dark \" NAME \"\\n\"\nCOLOR(LIGHTBLUE) \"Conquer yourself!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Σκοτεινὸς \" NAME \"\\n\"\nCOLOR(LIGHTBLUE) \"Νίκησον σεαυτόν!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0627",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Shell Blade\\n\"\nCOLOR(LIGHTBLUE) \"Its \" COLOR(DEFAULT) \"internal muscle \" COLOR(LIGHTBLUE) \"is its\" COLOR(DEFAULT) \" \\n\"\nCOLOR(LIGHTBLUE) \"weak point!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Ὀστρακόξιφος\\n\"\nCOLOR(LIGHTBLUE) \"Ὁ \" COLOR(DEFAULT) \"ἐντὸς μῦς \" COLOR(LIGHTBLUE) \"αὐτοῦ ἐστι\" COLOR(DEFAULT) \" \\n\"\nCOLOR(LIGHTBLUE) \"τὸ τρωτόν!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0628",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Spike\\n\"\nCOLOR(LIGHTBLUE) \"Aim for it when it retracts its\\n\"\n\"spikes!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Ἀκανθίας\\n\"\nCOLOR(LIGHTBLUE) \"Σκόπει αὐτὸ ὅταν συνέλκῃ\\n\"\n\"τὰς ἀκάνθας!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0629",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Bongo Bongo\\n\"\nCOLOR(LIGHTBLUE) \"Boss of the Shadow Temple, \\n\"\n\"revived from the well. Look at it\\n\"\n\"with the \" COLOR(DEFAULT) \"eye of truth\" COLOR(LIGHTBLUE) \"!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Βογγο-Βόγγος\\n\"\nCOLOR(LIGHTBLUE) \"Ὁ ἄρχων τοῦ Ναοῦ τῆς Σκιᾶς,\\n\"\n\"ἀναστὰς ἐκ τοῦ φρέατος. Σκόπει\\n\"\n\"τῷ \" COLOR(DEFAULT) \"ὀφθαλμῷ τῆς ἀληθείας\" COLOR(LIGHTBLUE) \"!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x062A",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"ReDead\\n\"\nCOLOR(LIGHTBLUE) \"Its gaze will paralyze you. If it\\n\"\n\"bites you, \" COLOR(DEFAULT) \"tap any button\" COLOR(LIGHTBLUE) \" to \\n\"\n\"escape!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Νεκροζῶν\\n\"\nCOLOR(LIGHTBLUE) \"Τὸ ὄμμα παραλύσει σε. Ἐὰν δὲ\\n\"\n\"δάκνῃ, \" COLOR(DEFAULT) \"πλῆττε πᾶν πλῆκτρον\" COLOR(LIGHTBLUE) \"\\n\"\n\"πρὸς τὸ φυγεῖν!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x062B",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE QUICKTEXT_ENABLE \"Phantom Ganon\\n\"\nCOLOR(LIGHTBLUE) \"Attack him\" COLOR(RED) \" \" COLOR(DEFAULT) \"when he comes out of\\n\"\n\"one of the pictures\" COLOR(LIGHTBLUE) \"!\\n\"\n\"Watch out for the fake one!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "UNSKIPPABLE QUICKTEXT_ENABLE \"Φάντασμα τοῦ Γάνωνος\\n\"\nCOLOR(LIGHTBLUE) \"Πρόσβαλε\" COLOR(RED) \" \" COLOR(DEFAULT) \"ἐξερχομένῳ ἔκ τινος\\n\"\n\"τῶν πινάκων\" COLOR(LIGHTBLUE) \"!\\n\"\n\"Φυλάττου δὲ τὸν κίβδηλον!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x062C",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"062c\"",
+    "el_msg": "\"062c\""
+  },
+  {
+    "id": "0x062D",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Gibdo\\n\"\nCOLOR(LIGHTBLUE) \"Its gaze will paralyze you. If it\\n\"\n\"bites you, \" COLOR(DEFAULT) \"tap any button\" COLOR(LIGHTBLUE) \" to\\n\"\n\"escape!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Γίβδω\\n\"\nCOLOR(LIGHTBLUE) \"Τὸ ὄμμα παραλύσει σε. Ἐὰν δὲ\\n\"\n\"δάκνῃ, \" COLOR(DEFAULT) \"πλῆττε πᾶν πλῆκτρον\" COLOR(LIGHTBLUE) \" πρὸς\\n\"\n\"τὸ φυγεῖν!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x062E",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Dead Hand's Hands\\n\"\nCOLOR(LIGHTBLUE) \"If it grabs you, \" COLOR(DEFAULT) \"tap any button \\n\"\nCOLOR(LIGHTBLUE) \"to escape!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Χεῖρες Νεκροχεῖρος\\n\"\nCOLOR(LIGHTBLUE) \"Ἐάν σε λάβῃ, \" COLOR(DEFAULT) \"πλῆττε πᾶν\\n\"\n\"πλῆκτρον \" COLOR(LIGHTBLUE) \"πρὸς τὸ φυγεῖν!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x062F",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Dead Hand\\n\"\nCOLOR(LIGHTBLUE) \"Watch out for its infinite hands!\\n\"\n\"Aim for its head!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Νεκρόχειρ\\n\"\nCOLOR(LIGHTBLUE) \"Φυλάττου τὰς ἀπείρους χεῖρας!\\n\"\n\"Σκόπει δὲ τὴν κεφαλὴν αὐτοῦ!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0630",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Wallmaster\\n\"\nCOLOR(LIGHTBLUE) \"Watch out for its \" COLOR(DEFAULT) \"shadow\" COLOR(LIGHTBLUE) \" on the\\n\"\n\"floor. Destroy it before it goes\\n\"\n\"back up to the ceiling!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Τοιχοκράτωρ\\n\"\nCOLOR(LIGHTBLUE) \"Φυλάττου τὴν \" COLOR(DEFAULT) \"σκιὰν\" COLOR(LIGHTBLUE) \" ἐπὶ τοῦ\\n\"\n\"ἐδάφους. Κατάλυσον πρὶν\\n\"\n\"ἀνελθεῖν εἰς τὸν ὄροφον!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0631",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Floormaster\\n\"\nCOLOR(LIGHTBLUE) \"When it splits up, destroy all the\\n\"\n\"pieces before they reunite!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Ἐδαφοκράτωρ\\n\"\nCOLOR(LIGHTBLUE) \"Ὅταν σχισθῇ, πάντα τὰ μέρη\\n\"\n\"κατάλυσον πρὶν πάλιν\\n\"\n\"συμφῦναι!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0632",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Twinrova Koume\\n\"\nCOLOR(LIGHTBLUE) \"Ganondorf's surrogate mother.\\n\"\n\"Sorceress of Flame. She seems\\n\"\n\"vulnerable to \" COLOR(DEFAULT) \"low temperature\" COLOR(LIGHTBLUE) \".\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Τουΐνροβα Κούμη\\n\"\nCOLOR(LIGHTBLUE) \"Ἡ θετὴ τοῦ Γανωνδόρφ μήτηρ.\\n\"\n\"Μάγισσα Πυρός. Ἔοικε τρωτὴ\\n\"\n\"εἶναι τῷ \" COLOR(DEFAULT) \"ψύχει\" COLOR(LIGHTBLUE) \".\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0633",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Twinrova Kotake\\n\"\nCOLOR(LIGHTBLUE) \"Ganondorf's surrogate mother.\\n\"\n\"Sorceress of Ice. She seems\\n\"\n\"vulnerable to \" COLOR(DEFAULT) \"high temperature\" COLOR(LIGHTBLUE) \".\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Τουΐνροβα Κοτάκη\\n\"\nCOLOR(LIGHTBLUE) \"Ἡ θετὴ τοῦ Γανωνδόρφ μήτηρ.\\n\"\n\"Μάγισσα Κρυστάλλου. Ἔοικε\\n\"\n\"τρωτὴ εἶναι τῇ \" COLOR(DEFAULT) \"θερμότητι\" COLOR(LIGHTBLUE) \".\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0634",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Iron Knuckle\\n\"\nCOLOR(LIGHTBLUE) \"Something's strange...\\n\"\n\"This is not an ordinary enemy!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Σιδηροκόνδυλος\\n\"\nCOLOR(LIGHTBLUE) \"Ἄτοπόν τί ἐστιν...\\n\"\n\"Οὐ γάρ ἐστι συνήθης ἐχθρός!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0635",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Iron Knuckle\\n\"\nCOLOR(LIGHTBLUE) \"Watch out for its ax attack! \\n\"\n\"It hurts a lot! Strike when it\\n\"\n\"drops its guard!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Σιδηροκόνδυλος\\n\"\nCOLOR(LIGHTBLUE) \"Φυλάττου τὸν πέλεκυν αὐτοῦ!\\n\"\n\"Λίαν γὰρ βλάπτει! Πλῆξον δὲ\\n\"\n\"ὅταν τὴν φυλακὴν χαλάσῃ!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0636",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Skull Kid\\n\"\nCOLOR(LIGHTBLUE) \"Is this what happens to kids who\\n\"\n\"wander into the forest? It looks\\n\"\n\"like he doesn't like grownups.\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Παιδίον τοῦ Κρανίου\\n\"\nCOLOR(LIGHTBLUE) \"Ἆρα τοῦτο πάσχουσι τὰ παιδία\\n\"\n\"τὰ πλανώμενα ἐν τῷ δρυμῷ;\\n\"\n\"Ἔοικεν οὐ φιλεῖν τοὺς ἄνδρας.\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0637",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Like Like\\n\"\nCOLOR(LIGHTBLUE) \"An enemy that eats \" COLOR(DEFAULT) \"shields \" COLOR(LIGHTBLUE) \"and\\n\"\n\"certain \" COLOR(DEFAULT) \"clothes\" COLOR(LIGHTBLUE) \". Beat it quickly\\n\"\n\"to get your gear back!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Λικε-Λίκε\\n\"\nCOLOR(LIGHTBLUE) \"Ἐχθρὸς ἐσθίων \" COLOR(DEFAULT) \"θυρεοὺς \" COLOR(LIGHTBLUE) \"καὶ\\n\"\n\"ἐνίας \" COLOR(DEFAULT) \"ἐσθῆτας\" COLOR(LIGHTBLUE) \". Τάχιστα νίκησον\\n\"\n\"κομίσασθαι τὰ σκεύη!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0638",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"0638\"",
+    "el_msg": "\"0638\""
+  },
+  {
+    "id": "0x0639",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Beamos\\n\"\nCOLOR(LIGHTBLUE) \"Watch out for its searching beam!\\n\"\n\"I bet it doesn't like \" COLOR(DEFAULT) \"smoke\" COLOR(LIGHTBLUE) \" to\\n\"\n\"get in its eye!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Βέαμος\\n\"\nCOLOR(LIGHTBLUE) \"Φυλάττου τὴν ἐρευνῶσαν ἀκτῖνα!\\n\"\n\"Οὐκ ἂν δήπου φιλοῖ τὸν \" COLOR(DEFAULT) \"καπνὸν\" COLOR(LIGHTBLUE) \"\\n\"\n\"εἰς τὸν ὀφθαλμὸν ἐμπίπτειν!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x063A",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Anubis\\n\"\nCOLOR(LIGHTBLUE) \"It's vulnerable to \" COLOR(RED) \"fire\" COLOR(LIGHTBLUE) \"!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Ἄνουβις\\n\"\nCOLOR(LIGHTBLUE) \"Τρωτός ἐστι τῷ \" COLOR(RED) \"πυρί\" COLOR(LIGHTBLUE) \"!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x063B",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Freezzard\\n\"\nCOLOR(LIGHTBLUE) \"Watch out for its freezing\\n\"\n\"breath! Destroy it completely\\n\"\n\"before it revives.\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Φριζάρδος\\n\"\nCOLOR(LIGHTBLUE) \"Φυλάττου τὸ κρυσταλλῶδες\\n\"\n\"πνεῦμα! Κατάλυσον παντελῶς\\n\"\n\"πρὶν ἀναβιῶναι.\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x063C",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"063c\"",
+    "el_msg": "\"063c\""
+  },
+  {
+    "id": "0x063D",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Ganondorf the Evil King\\n\"\nCOLOR(LIGHTBLUE) \"I have no idea what his weak\\n\"\n\"point is!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Γανωνδόρφ ὁ Πονηρὸς Βασιλεύς\\n\"\nCOLOR(LIGHTBLUE) \"Παντάπασιν ἀγνοῶ ὅ τι τὸ\\n\"\n\"τρωτὸν αὐτοῦ ἐστιν!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x063E",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Ganon\\n\"\nCOLOR(LIGHTBLUE) \"I really have no idea what his\\n\"\n\"weak point is!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Γάνων\\n\"\nCOLOR(LIGHTBLUE) \"Ὄντως παντάπασιν ἀγνοῶ ὅ τι\\n\"\n\"τὸ τρωτὸν αὐτοῦ ἐστιν!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x063F",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Skull Kid\\n\"\nCOLOR(LIGHTBLUE) \"Is this what happens to kids who\\n\"\n\"get lost in the forest? He might\\n\"\n\"be our friend if we do something...\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Παιδίον τοῦ Κρανίου\\n\"\nCOLOR(LIGHTBLUE) \"Ἆρα τοῦτο πάσχουσι τὰ παιδία\\n\"\n\"τὰ ἀπολόμενα ἐν τῷ δρυμῷ;\\n\"\n\"Φίλος ἂν γένοιτο εἴ τι ποιοῖμεν...\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0640",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Skull Kid\\n\"\nCOLOR(LIGHTBLUE) \"Is this what happens to kids who\\n\"\n\"get lost in this forest? He seems\\n\"\n\"unhappy to have no face...\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Παιδίον τοῦ Κρανίου\\n\"\nCOLOR(LIGHTBLUE) \"Ἆρα τοῦτο πάσχουσι τὰ παιδία\\n\"\n\"τὰ ἀπολόμενα ἐν τῷ δρυμῷ;\\n\"\n\"Ἔοικεν ἀθυμεῖν ἀπρόσωπος ὤν...\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0641",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Skull Kid\\n\"\nCOLOR(LIGHTBLUE) \"Is this what happens to kids who\\n\"\n\"get lost in this forest? He looks\\n\"\n\"satisfied with his skull face.\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Παιδίον τοῦ Κρανίου\\n\"\nCOLOR(LIGHTBLUE) \"Ἆρα τοῦτο πάσχουσι τὰ παιδία\\n\"\n\"τὰ ἀπολόμενα ἐν τῷ δρυμῷ;\\n\"\n\"Ἔοικεν ἥδεσθαι τῷ κρανίῳ.\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0642",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Octorok\\n\"\nCOLOR(LIGHTBLUE) \"Bounce back the rocks they spit\\n\"\n\"at you!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Ὀκτώροκος\\n\"\nCOLOR(LIGHTBLUE) \"Ἀποσόβει τοὺς λίθους οὺς\\n\"\n\"πτύουσι πρός σε!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0643",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Poe of the graveyard?\\n\"\nCOLOR(LIGHTBLUE) \"If you stare at it with \" COLOR(DEFAULT) \"[Z] \\n\"\n\"Targeting\" COLOR(LIGHTBLUE) \", it will disappear...\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Πόε τῶν Μνημάτων;\\n\"\nCOLOR(LIGHTBLUE) \"Ἐὰν ἀτενίσῃς τῇ \" COLOR(DEFAULT) \"[Z]-\\n\"\n\"Σκοπεύσει\" COLOR(LIGHTBLUE) \", ἀφανισθήσεται...\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0644",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Poe\\n\"\nCOLOR(LIGHTBLUE) \"If you stare at it with \" COLOR(DEFAULT) \"[Z] \\n\"\n\"Targeting\" COLOR(LIGHTBLUE) \", it will disappear...\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Πόε\\n\"\nCOLOR(LIGHTBLUE) \"Ἐὰν ἀτενίσῃς τῇ \" COLOR(DEFAULT) \"[Z]-\\n\"\n\"Σκοπεύσει\" COLOR(LIGHTBLUE) \", ἀφανισθήσεται...\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0645",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Red Tektite\\n\"\nCOLOR(LIGHTBLUE) \"Lock on to it as it jumps with \" COLOR(DEFAULT) \"[Z]\\n\"\n\"Targeting\" COLOR(LIGHTBLUE) \"!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Ἐρυθρὸς Τεκτίτης\\n\"\nCOLOR(LIGHTBLUE) \"Σκόπει αὐτὸ ἁλλόμενον τῇ \" COLOR(DEFAULT) \"[Z]-\\n\"\n\"Σκοπεύσει\" COLOR(LIGHTBLUE) \"!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0646",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Blue Tektite\\n\"\nCOLOR(LIGHTBLUE) \"It's hard to beat on the water.\\n\"\n\"Lure it onto the land!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Κυανοῦς Τεκτίτης\\n\"\nCOLOR(LIGHTBLUE) \"Χαλεπὸν νικᾶν ἐπὶ τοῦ ὕδατος.\\n\"\n\"Ἕλκυσον δὲ ἐπὶ τὴν χέρσον!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0647",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Leever\\n\"\nCOLOR(LIGHTBLUE) \"Watch its movements closely and\\n\"\n\"let it go by!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Λεΐβηρ\\n\"\nCOLOR(LIGHTBLUE) \"Τὴν κίνησιν ἀκριβῶς σκόπει\\n\"\n\"καὶ ἔασον παρελθεῖν!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0648",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Peahat\\n\"\nCOLOR(LIGHTBLUE) \"Its weak point is its \" COLOR(DEFAULT) \"roots\" COLOR(LIGHTBLUE) \"!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Πιῆχατ\\n\"\nCOLOR(LIGHTBLUE) \"Τὸ τρωτόν ἐστιν αἱ \" COLOR(DEFAULT) \"ῥίζαι\" COLOR(LIGHTBLUE) \"!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0649",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Peahat Larva\\n\"\nCOLOR(LIGHTBLUE) \"Defend with your \" COLOR(DEFAULT) \"shield\" COLOR(LIGHTBLUE) \"!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Κάμπη Πιῆχατ\\n\"\nCOLOR(LIGHTBLUE) \"Ἄμυναι τῷ \" COLOR(DEFAULT) \"θυρεῷ\" COLOR(LIGHTBLUE) \" σου!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x064A",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"064a\"",
+    "el_msg": "\"064a\""
+  },
+  {
+    "id": "0x064B",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"064b\"",
+    "el_msg": "\"064b\""
+  },
+  {
+    "id": "0x064C",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Wolfos\\n\"\nCOLOR(LIGHTBLUE) \"Draw it close to you and watch \\n\"\n\"its movement carefully! Attack it \\n\"\n\"when it drops its guard!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Οὐόλφος\\n\"\nCOLOR(LIGHTBLUE) \"Ἕλκυσον ἐγγὺς καὶ τὴν κίνησιν\\n\"\n\"ἀκριβῶς σκόπει! Προσβαλε\\n\"\n\"ὅταν τὴν φυλακὴν χαλάσῃ!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x064D",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Mad Scrub\\n\"\nCOLOR(LIGHTBLUE) \"If you get close to it, it will hide \\n\"\n\"in the grass...\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Μαινόμενος Θαμνίσκος\\n\"\nCOLOR(LIGHTBLUE) \"Ἐὰν ἐγγίσῃς, κρύπτεται\\n\"\n\"ἐν τῇ ποίᾳ...\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x064E",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Business Scrub\\n\"\nCOLOR(LIGHTBLUE) \"If you get close to it, it will hide \\n\"\n\"in the grass...\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Ἔμπορος Θαμνίσκος\\n\"\nCOLOR(LIGHTBLUE) \"Ἐὰν ἐγγίσῃς, κρύπτεται\\n\"\n\"ἐν τῇ ποίᾳ...\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x064F",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Dampé's Ghost\\n\"\nCOLOR(LIGHTBLUE) \"That's the ghost of the dead\\n\"\n\"gravekeeper! If you chase him,\\n\"\n\"he might give you his \" COLOR(DEFAULT) \"keepsake\" COLOR(LIGHTBLUE) \"...\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Φάσμα τοῦ Δαμπέ\\n\"\nCOLOR(LIGHTBLUE) \"Τὸ τοῦ τεθνηκότος ταφοφύλακος\\n\"\n\"φάσμα! Ἐὰν διώκῃς, τάχ' ἄν σοι\\n\"\n\"δοίη τὸ \" COLOR(DEFAULT) \"μνημόσυνον\" COLOR(LIGHTBLUE) \"...\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0650",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Meg - one of the Poe sisters\\n\"\nCOLOR(LIGHTBLUE) \"If she splits into multiple images,\\n\"\n\"you need to figure out which one \\n\"\n\"is the \" COLOR(DEFAULT) \"real one\" COLOR(LIGHTBLUE) \". Is it this one?\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Μέγη - ἀδελφὴ Πόε\\n\"\nCOLOR(LIGHTBLUE) \"Ἐὰν σχισθῇ εἰς πολλὰ εἴδωλα,\\n\"\n\"διαγνῶναι δεῖ ἥτις ἐστὶν ἡ\\n\"\nCOLOR(DEFAULT) \"ἀληθινή\" COLOR(LIGHTBLUE) \". Ἆρ' αὕτη ἐστίν;\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0651",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Joelle - one of the Poe sisters\\n\"\nCOLOR(LIGHTBLUE) \"Aim for her when she appears!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Ἰωέλλη - ἀδελφὴ Πόε\\n\"\nCOLOR(LIGHTBLUE) \"Σκόπει αὐτὴν ὅταν φανῇ!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0652",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Beth - one of the Poe sisters\\n\"\nCOLOR(LIGHTBLUE) \"Aim for her when she appears!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Βήθη - ἀδελφὴ Πόε\\n\"\nCOLOR(LIGHTBLUE) \"Σκόπει αὐτὴν ὅταν φανῇ!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0653",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Amy - one of the Poe sisters\\n\"\nCOLOR(LIGHTBLUE) \"Aim for her when she appears!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Ἄμυ - ἀδελφὴ Πόε\\n\"\nCOLOR(LIGHTBLUE) \"Σκόπει αὐτὴν ὅταν φανῇ!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0654",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Gerudo Thief\\n\"\nCOLOR(LIGHTBLUE) \"When she drops her guard,\\n\"\n\"attack! If you don't defeat her,\\n\"\n\"you'll be captured!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Γερούδα Λῃστρίς\\n\"\nCOLOR(LIGHTBLUE) \"Ὅταν τὴν φυλακὴν χαλάσῃ,\\n\"\n\"πρόσβαλλε! Εἰ δὲ μὴ νικήσεις,\\n\"\n\"συλληφθήσῃ!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0655",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Stalchild\\n\"\nCOLOR(LIGHTBLUE) \"Don't be afraid of the Stalchild!\\n\"\n\"Just attack it repeatedly!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Σταλπαιδίον\\n\"\nCOLOR(LIGHTBLUE) \"Μὴ φοβοῦ τὸ Σταλπαιδίον!\\n\"\n\"Ἀλλὰ συνεχῶς πρόσβαλλε!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0656",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Ice Keese\\n\"\nCOLOR(LIGHTBLUE) \"Destroy it before it flies into\\n\"\n\"you!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Παγετώδης Κῆσις\\n\"\nCOLOR(LIGHTBLUE) \"Ἀπόλεσον αὐτὸν πρὶν\\n\"\n\"προσπτῆναί σοι!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0657",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"White Wolfos\\n\"\nCOLOR(LIGHTBLUE) \"Lure it close to you and watch \\n\"\n\"its movement carefully! Attack it \\n\"\n\"when it drops its guard!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Λευκὸς Οὐόλφος\\n\"\nCOLOR(LIGHTBLUE) \"Ἕλκυσον ἐγγὺς καὶ τὴν κίνησιν\\n\"\n\"ἀκριβῶς σκόπει! Προσβαλε\\n\"\n\"ὅταν τὴν φυλακὴν χαλάσῃ!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0658",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Guay\\n\"\nCOLOR(LIGHTBLUE) \"Destroy it before it flies into\\n\"\n\"you!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Γουάυ\\n\"\nCOLOR(LIGHTBLUE) \"Ἀπόλεσον αὐτὸ πρὶν\\n\"\n\"προσπτῆναί σοι!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0659",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Bigocto\\n\"\nCOLOR(LIGHTBLUE) \"Attack it from behind!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Μεγαλόκτωπος\\n\"\nCOLOR(LIGHTBLUE) \"Πρόσβαλε ὄπισθεν!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x065A",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Big Poe\\n\"\nCOLOR(LIGHTBLUE) \"This Poe won't disappear even\\n\"\n\"if you stare at it. It moves\\n\"\n\"fast despite its size!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Μέγα Πόε\\n\"\nCOLOR(LIGHTBLUE) \"Τοῦτο τὸ Πόε οὐκ ἀφανίζεται\\n\"\n\"κἂν ἀτενίσῃς. Ταχέως δὲ\\n\"\n\"κινεῖται καίπερ τηλικοῦτον ὄν!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x065B",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Twinrova\\n\"\nCOLOR(LIGHTBLUE) \"This is the combined form of\\n\"\n\"Kotake and Koume. Turn their\\n\"\nCOLOR(DEFAULT) \"magic attack \" COLOR(LIGHTBLUE) \"back at them!\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Τουΐνροβα\\n\"\nCOLOR(LIGHTBLUE) \"Ἡ συνημμένη μορφὴ Κοτάκης\\n\"\n\"καὶ Κούμης. Τὴν \" COLOR(DEFAULT) \"μαγικὴν\\n\"\n\"προσβολὴν\" COLOR(LIGHTBLUE) \" ἐπ' αὐτὰς ἄποστρεψον!\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x065C",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Poe\\n\"\nCOLOR(LIGHTBLUE) \"This Poe doesn't disappear even if\\n\"\n\"you stare at it. It doesn't spook\\n\"\n\"easily, does it...\" COLOR(DEFAULT) QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Πόε\\n\"\nCOLOR(LIGHTBLUE) \"Τοῦτο τὸ Πόε οὐκ ἀφανίζεται\\n\"\n\"κἂν ἀτενίσῃς. Οὐ ῥᾳδίως\\n\"\n\"πτύρεται, ἦ γάρ...\" COLOR(DEFAULT) QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x086D",
+    "box_type": "TEXTBOX_TYPE_OCARINA",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE SHIFT(60) \"Play using \" COLOR(BLUE) \"[A]\" COLOR(DEFAULT) \" and \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \".\" COLOR(YELLOW) \"\\n\"\nCOLOR(DEFAULT) \"\\n\"\n\"\\n\"\nQUICKTEXT_DISABLE OCARINA",
+    "el_msg": "QUICKTEXT_ENABLE SHIFT(45) \"Αὔλει διὰ τοῦ \" COLOR(BLUE) \"[A]\" COLOR(DEFAULT) \" καὶ τοῦ \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \".\" COLOR(YELLOW) \"\\n\"\nCOLOR(DEFAULT) \"\\n\"\n\"\\n\"\nQUICKTEXT_DISABLE OCARINA"
+  },
+  {
+    "id": "0x086E",
+    "box_type": "TEXTBOX_TYPE_OCARINA",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Play using \" COLOR(BLUE) \"[A]\" COLOR(DEFAULT) \" and \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \"; \" COLOR(ADJUSTABLE) \"[B]\" COLOR(DEFAULT) \" to Stop.\\n\"\n\"\\n\"\n\"\\n\"\nQUICKTEXT_DISABLE OCARINA",
+    "el_msg": "QUICKTEXT_ENABLE \"Αὔλει διὰ τοῦ \" COLOR(BLUE) \"[A]\" COLOR(DEFAULT) \" καὶ \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \"· \" COLOR(ADJUSTABLE) \"[B]\" COLOR(DEFAULT) \" παῦσαι.\\n\"\n\"\\n\"\n\"\\n\"\nQUICKTEXT_DISABLE OCARINA"
+  },
+  {
+    "id": "0x086F",
+    "box_type": "TEXTBOX_TYPE_OCARINA",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"\\n\"\n\"\\n\"\nOCARINA",
+    "el_msg": "\"\\n\"\n\"\\n\"\nOCARINA"
+  },
+  {
+    "id": "0x0870",
+    "box_type": "TEXTBOX_TYPE_OCARINA",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE SHIFT(22) \"Play the \" COLOR(ADJUSTABLE) \"Minuet of Forest\" COLOR(DEFAULT) \"!\" COLOR(ADJUSTABLE) \"\\n\"\n\"\\n\"\n\"\\n\"\nCOLOR(DEFAULT) QUICKTEXT_DISABLE OCARINA",
+    "el_msg": "QUICKTEXT_ENABLE SHIFT(42) \"Αὔλει τὸ \" COLOR(ADJUSTABLE) \"Μινουέτον τῆς Ὕλης\" COLOR(DEFAULT) \"!\" COLOR(ADJUSTABLE) \"\\n\"\n\"\\n\"\n\"\\n\"\nCOLOR(DEFAULT) QUICKTEXT_DISABLE OCARINA"
+  },
+  {
+    "id": "0x0871",
+    "box_type": "TEXTBOX_TYPE_OCARINA",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE SHIFT(31) \"Play the \" COLOR(RED) \"Bolero of Fire\" COLOR(DEFAULT) \"!\\n\"\n\"\\n\"\n\"\\n\"\nQUICKTEXT_DISABLE OCARINA",
+    "el_msg": "QUICKTEXT_ENABLE SHIFT(46) \"Αὔλει τὸ \" COLOR(RED) \"Μπολερὸ τοῦ Πυρός\" COLOR(DEFAULT) \"!\\n\"\n\"\\n\"\n\"\\n\"\nQUICKTEXT_DISABLE OCARINA"
+  },
+  {
+    "id": "0x0872",
+    "box_type": "TEXTBOX_TYPE_OCARINA",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE SHIFT(17) \"Play the \" COLOR(BLUE) \"Serenade of Water\" COLOR(DEFAULT) \"!\\n\"\n\"\\n\"\n\"\\n\"\nQUICKTEXT_DISABLE OCARINA",
+    "el_msg": "QUICKTEXT_ENABLE SHIFT(36) \"Αὔλει τὴν \" COLOR(BLUE) \"Σερενάταν τοῦ Ὕδατος\" COLOR(DEFAULT) \"!\\n\"\n\"\\n\"\n\"\\n\"\nQUICKTEXT_DISABLE OCARINA"
+  },
+  {
+    "id": "0x0873",
+    "box_type": "TEXTBOX_TYPE_OCARINA",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE SHIFT(21) \"Play the \" COLOR(YELLOW) \"Requiem of Spirit\" COLOR(DEFAULT) \"!\\n\"\n\"\\n\"\n\"\\n\"\nQUICKTEXT_DISABLE OCARINA",
+    "el_msg": "QUICKTEXT_ENABLE SHIFT(33) \"Αὔλει τὸ \" COLOR(YELLOW) \"Ἐπιτάφιον τοῦ Πνεύματος\" COLOR(DEFAULT) \"!\\n\"\n\"\\n\"\n\"\\n\"\nQUICKTEXT_DISABLE OCARINA"
+  },
+  {
+    "id": "0x0874",
+    "box_type": "TEXTBOX_TYPE_OCARINA",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE SHIFT(13) \"Play the \" COLOR(PURPLE) \"Nocturne of Shadow\" COLOR(DEFAULT) \"!\\n\"\n\"\\n\"\n\"\\n\"\nQUICKTEXT_DISABLE OCARINA",
+    "el_msg": "QUICKTEXT_ENABLE SHIFT(41) \"Αὔλει τὸ \" COLOR(PURPLE) \"Νυκτερινὸν τῆς Σκιᾶς\" COLOR(DEFAULT) \"!\\n\"\n\"\\n\"\n\"\\n\"\nQUICKTEXT_DISABLE OCARINA"
+  },
+  {
+    "id": "0x0875",
+    "box_type": "TEXTBOX_TYPE_OCARINA",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE SHIFT(25) \"Play the \" COLOR(LIGHTBLUE) \"Prelude of Light\" COLOR(DEFAULT) \"!\\n\"\n\"\\n\"\n\"\\n\"\nQUICKTEXT_DISABLE OCARINA",
+    "el_msg": "QUICKTEXT_ENABLE SHIFT(43) \"Αὔλει τὸ \" COLOR(LIGHTBLUE) \"Προοίμιον τοῦ Φωτός\" COLOR(DEFAULT) \"!\\n\"\n\"\\n\"\n\"\\n\"\nQUICKTEXT_DISABLE OCARINA"
+  },
+  {
+    "id": "0x0876",
+    "box_type": "TEXTBOX_TYPE_OCARINA",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE SHIFT(11) \"Follow along with \" COLOR(ADJUSTABLE) \"Saria's Song\" COLOR(DEFAULT) \"!\\n\"\n\"\\n\"\n\"\\n\"\nQUICKTEXT_DISABLE OCARINA",
+    "el_msg": "QUICKTEXT_ENABLE SHIFT(46) \"Συναύλει τῇ \" COLOR(ADJUSTABLE) \"ᾠδῇ τῆς Σαρίας\" COLOR(DEFAULT) \"!\\n\"\n\"\\n\"\n\"\\n\"\nQUICKTEXT_DISABLE OCARINA"
+  },
+  {
+    "id": "0x0877",
+    "box_type": "TEXTBOX_TYPE_OCARINA",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE SHIFT(32) \"OK? This is \" COLOR(RED) \"the Song\" COLOR(DEFAULT) \"...\\n\"\n\"\\n\"\n\"\\n\"\nQUICKTEXT_DISABLE OCARINA",
+    "el_msg": "QUICKTEXT_ENABLE SHIFT(55) \"Εἶεν; Αὕτη ἐστὶν \" COLOR(RED) \"ἡ ᾠδή\" COLOR(DEFAULT) \"...\\n\"\n\"\\n\"\n\"\\n\"\nQUICKTEXT_DISABLE OCARINA"
+  },
+  {
+    "id": "0x0878",
+    "box_type": "TEXTBOX_TYPE_OCARINA",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE SHIFT(39) \"Memorize \" COLOR(BLUE) \"this song\" COLOR(DEFAULT) \"...\\n\"\n\"\\n\"\n\"\\n\"\nQUICKTEXT_DISABLE OCARINA",
+    "el_msg": "QUICKTEXT_ENABLE SHIFT(42) \"Μνημόνευε \" COLOR(BLUE) \"ταύτην τὴν ᾠδήν\" COLOR(DEFAULT) \"...\\n\"\n\"\\n\"\n\"\\n\"\nQUICKTEXT_DISABLE OCARINA"
+  },
+  {
+    "id": "0x0879",
+    "box_type": "TEXTBOX_TYPE_OCARINA",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Keep the \" COLOR(YELLOW) \"Sun's Song \" COLOR(DEFAULT) \"in your heart.\\n\"\n\"\\n\"\n\"\\n\"\nQUICKTEXT_DISABLE OCARINA",
+    "el_msg": "QUICKTEXT_ENABLE \"Τὴν \" COLOR(YELLOW) \"ᾠδὴν τοῦ Ἡλίου \" COLOR(DEFAULT) \"φύλασσε ἐν καρδίᾳ.\\n\"\n\"\\n\"\n\"\\n\"\nQUICKTEXT_DISABLE OCARINA"
+  },
+  {
+    "id": "0x087A",
+    "box_type": "TEXTBOX_TYPE_OCARINA",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE COLOR(LIGHTBLUE) \"This song\" COLOR(DEFAULT) \" opens the Door of Time...\\n\"\n\"\\n\"\n\"\\n\"\nQUICKTEXT_DISABLE OCARINA",
+    "el_msg": "QUICKTEXT_ENABLE COLOR(LIGHTBLUE) \"Αὕτη ἡ ᾠδὴ\" COLOR(DEFAULT) \" τὴν Πύλην τοῦ Χρόνου ἀνοίγει...\\n\"\n\"\\n\"\n\"\\n\"\nQUICKTEXT_DISABLE OCARINA"
+  },
+  {
+    "id": "0x087B",
+    "box_type": "TEXTBOX_TYPE_OCARINA",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE SHIFT(23) \"I'll never forget \" COLOR(PURPLE) \"this song\" COLOR(DEFAULT) \"!\\n\"\n\"\\n\"\n\"\\n\"\nQUICKTEXT_DISABLE OCARINA",
+    "el_msg": "QUICKTEXT_ENABLE SHIFT(31) \"Οὔποτε ἐπιλήσομαι \" COLOR(PURPLE) \"ταύτης τῆς ᾠδῆς\" COLOR(DEFAULT) \"!\\n\"\n\"\\n\"\n\"\\n\"\nQUICKTEXT_DISABLE OCARINA"
+  },
+  {
+    "id": "0x087C",
+    "box_type": "TEXTBOX_TYPE_OCARINA",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Play using \" COLOR(BLUE) \"[A]\" COLOR(DEFAULT) \" and \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \"; \" COLOR(ADJUSTABLE) \"[B]\" COLOR(DEFAULT) \" to Stop.\\n\"\n\"\\n\"\n\"\\n\"\nQUICKTEXT_DISABLE OCARINA",
+    "el_msg": "QUICKTEXT_ENABLE \"Αὔλει διὰ τοῦ \" COLOR(BLUE) \"[A]\" COLOR(DEFAULT) \" καὶ \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \"· \" COLOR(ADJUSTABLE) \"[B]\" COLOR(DEFAULT) \" παῦσαι.\\n\"\n\"\\n\"\n\"\\n\"\nQUICKTEXT_DISABLE OCARINA"
+  },
+  {
+    "id": "0x088B",
+    "box_type": "TEXTBOX_TYPE_OCARINA",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "BACKGROUND(X_LEFT, ORANGE, BLACK, 1, 0) PERSISTENT",
+    "el_msg": "BACKGROUND(X_LEFT, ORANGE, BLACK, 1, 0) PERSISTENT"
+  },
+  {
+    "id": "0x088C",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "QUICKTEXT_ENABLE SHIFT(35) COLOR(RED) \"You can't warp here!\" COLOR(DEFAULT) QUICKTEXT_DISABLE FADE(40)",
+    "el_msg": "QUICKTEXT_ENABLE SHIFT(49) COLOR(RED) \"Οὐκ ἔξεστιν ὧδε μεταβῆναι!\" COLOR(DEFAULT) QUICKTEXT_DISABLE FADE(40)"
+  },
+  {
+    "id": "0x088D",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "QUICKTEXT_ENABLE COLOR(ADJUSTABLE) \"Warp to the Lost Woods?\" COLOR(DEFAULT) QUICKTEXT_DISABLE \"\\n\"\n\"\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"OK\\n\"\n    \"No\" COLOR(DEFAULT)",
+    "el_msg": "QUICKTEXT_ENABLE COLOR(ADJUSTABLE) \"Μεταβῆναι εἰς τὸν Δρυμὸν τῆς Πλάνης;\" COLOR(DEFAULT) QUICKTEXT_DISABLE \"\\n\"\n\"\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Ναί\\n\"\n    \"Οὔ\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x088E",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "QUICKTEXT_ENABLE COLOR(RED) \"Warp to the Death Mountain \\n\"\n\"Crater?\" COLOR(DEFAULT) QUICKTEXT_DISABLE \"\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"OK\\n\"\n    \"No\" COLOR(DEFAULT)",
+    "el_msg": "QUICKTEXT_ENABLE COLOR(RED) \"Μεταβῆναι εἰς τὸν Κρατῆρα \\n\"\n\"τοῦ Ὄρους τοῦ Θανάτου;\" COLOR(DEFAULT) QUICKTEXT_DISABLE \"\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Ναί\\n\"\n    \"Οὔ\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x088F",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "QUICKTEXT_ENABLE COLOR(BLUE) \"Warp to Lake Hylia?\" COLOR(DEFAULT) QUICKTEXT_DISABLE \"\\n\"\n\"\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"OK\\n\"\n    \"No\" COLOR(DEFAULT)",
+    "el_msg": "QUICKTEXT_ENABLE COLOR(BLUE) \"Μεταβῆναι εἰς τὴν Λίμνην Ὑλίαν;\" COLOR(DEFAULT) QUICKTEXT_DISABLE \"\\n\"\n\"\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Ναί\\n\"\n    \"Οὔ\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x0890",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "QUICKTEXT_ENABLE COLOR(YELLOW) \"Warp to the Desert Colossus?\" COLOR(DEFAULT) QUICKTEXT_DISABLE \"\\n\"\n\"\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"OK\\n\"\n    \"No\" COLOR(DEFAULT)",
+    "el_msg": "QUICKTEXT_ENABLE COLOR(YELLOW) \"Μεταβῆναι εἰς τὸν Κολοσσὸν τῆς Ἐρήμου;\" COLOR(DEFAULT) QUICKTEXT_DISABLE \"\\n\"\n\"\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Ναί\\n\"\n    \"Οὔ\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x0891",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "QUICKTEXT_ENABLE COLOR(PURPLE) \"Warp to the graveyard?\" COLOR(DEFAULT) QUICKTEXT_DISABLE \"\\n\"\n\"\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"OK\\n\"\n    \"No\" COLOR(DEFAULT)",
+    "el_msg": "QUICKTEXT_ENABLE COLOR(PURPLE) \"Μεταβῆναι εἰς τὰ Μνήματα;\" COLOR(DEFAULT) QUICKTEXT_DISABLE \"\\n\"\n\"\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Ναί\\n\"\n    \"Οὔ\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x0892",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "QUICKTEXT_ENABLE COLOR(LIGHTBLUE) \"Warp to the Temple of Time?\" COLOR(DEFAULT) QUICKTEXT_DISABLE \"\\n\"\n\"\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"OK\\n\"\n    \"No\" COLOR(DEFAULT)",
+    "el_msg": "QUICKTEXT_ENABLE COLOR(LIGHTBLUE) \"Μεταβῆναι εἰς τὸν Ναὸν τοῦ Χρόνου;\" COLOR(DEFAULT) QUICKTEXT_DISABLE \"\\n\"\n\"\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Ναί\\n\"\n    \"Οὔ\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x0893",
+    "box_type": "TEXTBOX_TYPE_OCARINA",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE SHIFT(5) \"You played the \" COLOR(ADJUSTABLE) \"Minuet of Forest\" COLOR(DEFAULT) \".\\n\"\n\"\\n\"\n\"\\n\"\nQUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE SHIFT(36) \"Ηὔλησας τὸ \" COLOR(ADJUSTABLE) \"Μινουέτον τῆς Ὕλης\" COLOR(DEFAULT) \".\\n\"\n\"\\n\"\n\"\\n\"\nQUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0894",
+    "box_type": "TEXTBOX_TYPE_OCARINA",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE SHIFT(14) \"You played the \" COLOR(RED) \"Bolero of Fire\" COLOR(DEFAULT) \".\\n\"\n\"\\n\"\n\"\\n\"\nQUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE SHIFT(40) \"Ηὔλησας τὸ \" COLOR(RED) \"Μπολερὸ τοῦ Πυρός\" COLOR(DEFAULT) \".\\n\"\n\"\\n\"\n\"\\n\"\nQUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0895",
+    "box_type": "TEXTBOX_TYPE_OCARINA",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"You played the \" COLOR(BLUE) \"Serenade of Water\" COLOR(DEFAULT) \".\\n\"\n\"\\n\"\n\"\\n\"\nQUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Ηὔλησας τὴν \" COLOR(BLUE) \"Σερενάταν τοῦ Ὕδατος\" COLOR(DEFAULT) \".\\n\"\n\"\\n\"\n\"\\n\"\nQUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0896",
+    "box_type": "TEXTBOX_TYPE_OCARINA",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE SHIFT(4) \"You played the \" COLOR(YELLOW) \"Requiem of Spirit\" COLOR(DEFAULT) \".\\n\"\n\"\\n\"\n\"\\n\"\nQUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE SHIFT(27) \"Ηὔλησας τὸ \" COLOR(YELLOW) \"Ἐπιτάφιον τοῦ Πνεύματος\" COLOR(DEFAULT) \".\\n\"\n\"\\n\"\n\"\\n\"\nQUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0897",
+    "box_type": "TEXTBOX_TYPE_OCARINA",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE SHIFT(9) \"Played the \" COLOR(PURPLE) \"Nocturne of Shadow\" COLOR(DEFAULT) \".\\n\"\n\"\\n\"\n\"\\n\"\nQUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE SHIFT(35) \"Ηὔλησας τὸ \" COLOR(PURPLE) \"Νυκτερινὸν τῆς Σκιᾶς\" COLOR(DEFAULT) \".\\n\"\n\"\\n\"\n\"\\n\"\nQUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0898",
+    "box_type": "TEXTBOX_TYPE_OCARINA",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE SHIFT(8) \"You played the \" COLOR(LIGHTBLUE) \"Prelude of Light\" COLOR(DEFAULT) \".\\n\"\n\"\\n\"\n\"\\n\"\nQUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE SHIFT(37) \"Ηὔλησας τὸ \" COLOR(LIGHTBLUE) \"Προοίμιον τοῦ Φωτός\" COLOR(DEFAULT) \".\\n\"\n\"\\n\"\n\"\\n\"\nQUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0899",
+    "box_type": "TEXTBOX_TYPE_OCARINA",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE SHIFT(30) \"You played \" COLOR(ADJUSTABLE) \"Saria's Song\" COLOR(DEFAULT) \".\\n\"\n\"\\n\"\n\"\\n\"\nQUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE SHIFT(42) \"Ηὔλησας τὴν \" COLOR(ADJUSTABLE) \"ᾠδὴν τῆς Σαρίας\" COLOR(DEFAULT) \".\\n\"\n\"\\n\"\n\"\\n\"\nQUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x089A",
+    "box_type": "TEXTBOX_TYPE_OCARINA",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE SHIFT(28) \"You played \" COLOR(RED) \"Epona's Song\" COLOR(DEFAULT) \".\\n\"\n\"\\n\"\n\"\\n\"\nQUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE SHIFT(40) \"Ηὔλησας τὴν \" COLOR(RED) \"ᾠδὴν τῆς Ἐπώνας\" COLOR(DEFAULT) \".\\n\"\n\"\\n\"\n\"\\n\"\nQUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x089B",
+    "box_type": "TEXTBOX_TYPE_OCARINA",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE SHIFT(24) \"You played \" COLOR(BLUE) \"Zelda's Lullaby\" COLOR(DEFAULT) \".\\n\"\n\"\\n\"\n\"\\n\"\nQUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE SHIFT(28) \"Ηὔλησας τὸ \" COLOR(BLUE) \"Κατακοίμισμα τῆς Ζέλδας\" COLOR(DEFAULT) \".\\n\"\n\"\\n\"\n\"\\n\"\nQUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x089C",
+    "box_type": "TEXTBOX_TYPE_OCARINA",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE SHIFT(22) \"You played the \" COLOR(YELLOW) \"Sun's Song\" COLOR(DEFAULT) \".\\n\"\n\"\\n\"\n\"\\n\"\nQUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE SHIFT(43) \"Ηὔλησας τὴν \" COLOR(YELLOW) \"ᾠδὴν τοῦ Ἡλίου\" COLOR(DEFAULT) \".\\n\"\n\"\\n\"\n\"\\n\"\nQUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x089D",
+    "box_type": "TEXTBOX_TYPE_OCARINA",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE SHIFT(16) \"You played the \" COLOR(LIGHTBLUE) \"Song of Time\" COLOR(DEFAULT) \".\\n\"\n\"\\n\"\n\"\\n\"\nQUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE SHIFT(41) \"Ηὔλησας τὴν \" COLOR(LIGHTBLUE) \"ᾠδὴν τοῦ Χρόνου\" COLOR(DEFAULT) \".\\n\"\n\"\\n\"\n\"\\n\"\nQUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x089E",
+    "box_type": "TEXTBOX_TYPE_OCARINA",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE SHIFT(9) \"You played the \" COLOR(PURPLE) \"Song of Storms\" COLOR(DEFAULT) \".\\n\"\n\"\\n\"\n\"\\n\"\nQUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE SHIFT(32) \"Ηὔλησας τὴν \" COLOR(PURPLE) \"ᾠδὴν τῶν Καταιγίδων\" COLOR(DEFAULT) \".\\n\"\n\"\\n\"\n\"\\n\"\nQUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x089F",
+    "box_type": "TEXTBOX_TYPE_OCARINA",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE SHIFT(4) \"You played the \" COLOR(YELLOW) \"Scarecrow's Song\" COLOR(DEFAULT) \".\\n\"\n\"\\n\"\n\"\\n\"\nQUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE SHIFT(36) \"Ηὔλησας τὴν \" COLOR(YELLOW) \"ᾠδὴν τοῦ Σκιάχτρου\" COLOR(DEFAULT) \".\\n\"\n\"\\n\"\n\"\\n\"\nQUICKTEXT_DISABLE"
+  }
+]

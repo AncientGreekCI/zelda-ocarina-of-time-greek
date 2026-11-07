@@ -1,0 +1,1255 @@
+[
+  {
+    "id": "0x7100",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"What? Have we met before?\"",
+    "el_msg": "\"Τί ἐστιν; Ἆρα πρότερόν ποτε\\n\" \"συνετύχομεν;\""
+  },
+  {
+    "id": "0x7101",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Awww... That's so cute!\\n\"\n\"Could you tell me where you\\n\"\n\"found it?\"",
+    "el_msg": "\"Βαβαί... ὡς χαρίεν ἐστίν!\\n\" \"Ἆρ' ἂν λέγοις μοι ποῦ\\n\" \"ηὗρες αὐτό;\""
+  },
+  {
+    "id": "0x7102",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Yeeeah!\\n\"\n\"Help me!\"",
+    "el_msg": "\"Οὐαί!\\n\" \"Βοήθει μοι!\""
+  },
+  {
+    "id": "0x7103",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Uh...yeah? So what?\"",
+    "el_msg": "\"Φεῦ... τί δή; Τί πρὸς ἐμέ;\""
+  },
+  {
+    "id": "0x7104",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"I hate foxes!\"",
+    "el_msg": "\"Στυγῶ τὰς ἀλώπεκας!\""
+  },
+  {
+    "id": "0x7105",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"How irritating!\"",
+    "el_msg": "\"Ὡς ὀχληρόν ἐστιν!\""
+  },
+  {
+    "id": "0x7106",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Hey, you look good!\"",
+    "el_msg": "\"Ἰδού, ὡς εὐπρεπὴς φαίνῃ!\""
+  },
+  {
+    "id": "0x7107",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"YEEEAH! What's your problem?!\" QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Οὐαί! Τί τὸ δεινόν σοι;\" QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x7108",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Oooh...is that a Zora?\\n\"\n\"Those cool eyes are really\\n\"\n\"fascinating...\"",
+    "el_msg": "\"Ὠ... ἆρα Ζῶρά ἐστιν;\\n\" \"Οἱ ψυχροὶ ἐκεῖνοι ὀφθαλμοὶ\\n\" \"κομιδῇ θέλγουσί με...\""
+  },
+  {
+    "id": "0x7109",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Oh no! You're scary!\\n\"\n\"Don't come any closer!\"",
+    "el_msg": "\"Οἴμοι! Φοβερὸς εἶ!\\n\" \"Μὴ ἐγγυτέρω προσέλθῃς!\""
+  },
+  {
+    "id": "0x710A",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Wow...how nostalgic! That\\n\"\n\"reminds me of when I was a\\n\"\n\"little kid.\"",
+    "el_msg": "\"Βαβαί... ὡς ἡδὺ μνημονεῦσαι!\\n\" \"Ὑπομιμνήσκει με τῶν ἐμῶν\\n\" \"παιδικῶν χρόνων.\""
+  },
+  {
+    "id": "0x710B",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"That's kind of funny...it\\n\"\n\"makes me laugh!\\n\"\n\"Hee hee!\"",
+    "el_msg": "\"Γελοῖον μέντοι ἐστίν...\\n\" \"γέλωτά μοι παρέχει!\\n\" \"Ἁ ἅ!\""
+  },
+  {
+    "id": "0x710C",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Uh-oh!\" QUICKTEXT_DISABLE \" I'm sorry, mom!\\n\"\n\"Oh...hey, it's you!\\n\"\n\"Don't scare me like\\n\"\n\"that!\"",
+    "el_msg": "QUICKTEXT_ENABLE \"Οἴμοι!\" QUICKTEXT_DISABLE \" Σύγγνωθι, μῆτερ!\\n\" \"Ὤ... σύ γ' εἶ!\\n\" \"Μὴ οὕτω με\\n\" \"πτοήσῃς!\""
+  },
+  {
+    "id": "0x710D",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"What a big head you have!\"",
+    "el_msg": "\"Ὡς μεγάλην τὴν κεφαλὴν ἔχεις!\""
+  },
+  {
+    "id": "0x710E",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Oh, don't do that!\\n\"\n\"I'm shy...\"",
+    "el_msg": "\"Ὦ, μὴ ποιήσῃς τοῦτο!\\n\" \"Αἰδώς γάρ μέ ἐστιν...\""
+  },
+  {
+    "id": "0x710F",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Is there a mask competition\\n\"\n\"going on? \\n\"\nQUICKTEXT_ENABLE \"I'm going to vote for you!\" QUICKTEXT_DISABLE",
+    "el_msg": "\"Ἆρ' ἀγὼν προσωπείων\\n\" \"νῦν συνίσταται; \\n\" QUICKTEXT_ENABLE \"Σοὶ δὴ τὴν ψῆφον δώσω!\" QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x7110",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Oh! A rabbit!\\n\"\n\"Speaking of rabbits, I saw a \\n\"\n\"strange man chasing rabbits \\n\"\n\"around...\"",
+    "el_msg": "\"Ἰδού! Λαγώς!\\n\" \"Περὶ δὲ λαγῶν, εἶδον ἄνδρα\\n\" \"ἄτοπόν τινα διώκοντα\\n\" \"λαγὼς κύκλῳ...\""
+  },
+  {
+    "id": "0x7111",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Oooh, what a pretty lady!\\n\"\n\"But you're kind of short,\\n\"\n\"aren't you?\"",
+    "el_msg": "\"Ὤ, ὡς καλή γυνή!\\n\" \"Ἀλλὰ βραχύς πως εἶ,\\n\" \"οὐχ οὕτως;\""
+  },
+  {
+    "id": "0x7112",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Well...I can't think of anything\\n\"\n\"funny to say...sorry, kid!\"",
+    "el_msg": "\"Ἀλλ'... οὐδὲν γελοῖον\\n\" \"ἔχω λέγειν... σύγγνωθι,\\n\" \"ὦ παῖ!\""
+  },
+  {
+    "id": "0x7113",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"A mask... When I was a little \\n\"\n\"kid, I also wore masks around...\\n\"\n\"What? You say you can't imagine\\n\"\n\"me doing that?\"",
+    "el_msg": "\"Προσωπεῖον... Ὅτε παῖς ἦ,\\n\" \"καὶ αὐτὸς περιεφόρουν...\\n\" \"Τί; Οὐκ ἂν οἴει με\\n\" \"τοῦτο πρᾶξαί ποτε;\""
+  },
+  {
+    "id": "0x7114",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Ohhhh...I see...\\n\"\n\"It's an illusion...\"",
+    "el_msg": "\"Ὤ... μανθάνω...\\n\" \"Φάντασμα γάρ ἐστιν...\""
+  },
+  {
+    "id": "0x7115",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Hey, kid, don't grow up to be\\n\"\n\"like me...\"",
+    "el_msg": "\"Ὦ παῖ, μὴ γενηθεὶς ἀνὴρ\\n\" \"ὅμοιος ἐμοὶ γένῃ...\""
+  },
+  {
+    "id": "0x7116",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"AAAAAAAAAAAH!\\n\"\n\"A GERUDO!!!!\" QUICKTEXT_DISABLE\nBOX_BREAK\n\n\"Wha-? A mask?\\n\"\n\"Why do you have a mask \\n\"\n\"like that?!\"",
+    "el_msg": "QUICKTEXT_ENABLE \"ΑΑΑΑΑΑΑΑΑ!\\n\" \"ΓΕΡΟΥΔΟ!!!!\" QUICKTEXT_DISABLE BOX_BREAK \"Τί- ; Προσωπεῖον;\\n\" \"Διὰ τί τοιοῦτον\\n\" \"προσωπεῖον φορεῖς;!\""
+  },
+  {
+    "id": "0x7117",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Sorry, I'm busy right now.\"",
+    "el_msg": "\"Σύγγνωθι, ἀσχολίαν ἔχω νῦν.\""
+  },
+  {
+    "id": "0x7118",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Oh wow! It's Keaton!\\n\"\n\"Hi, Keaton!\"",
+    "el_msg": "\"Βαβαί! Κίτων ἐστίν!\\n\" \"Χαῖρε, ὦ Κίτων!\""
+  },
+  {
+    "id": "0x7119",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"How spooky!\\n\"\n\"There's a boy in Kakariko\\n\"\n\"Village who was looking for a\\n\"\n\"mask like that!\"",
+    "el_msg": "\"Ὡς φοβερόν!\\n\" \"Παῖς τις ἐν τῇ κώμῃ Κακαρικὸ\\n\" \"τοιοῦτον προσωπεῖον\\n\" \"ἐζήτει!\""
+  },
+  {
+    "id": "0x711A",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Hmm...well...don't you have any\\n\"\n\"other masks?\"",
+    "el_msg": "\"Μμ... ἆρ' οὐκ ἔχεις\\n\" \"ἕτερά τινα προσωπεῖα;\""
+  },
+  {
+    "id": "0x711B",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"What a strange mask!\\n\"\n\"Hee hah haa!\"",
+    "el_msg": "\"Ὡς ἄτοπον προσωπεῖον!\\n\" \"Ἁ ἅ ἅ!\""
+  },
+  {
+    "id": "0x711C",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Hey kid! Can't you see we're\\n\"\n\"busy?! Leave us alone!\"",
+    "el_msg": "\"Ὦ παῖ! Οὐχ ὁρᾷς ὅτι\\n\" \"ἀσχολούμεθα; Ἔα ἡμᾶς!\""
+  },
+  {
+    "id": "0x711D",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"I'm sorry. I don't even want to\\n\"\n\"look at any other woman!\"",
+    "el_msg": "\"Σύγγνωθι. Οὐδὲ προσβλέπειν\\n\" \"βούλομαι ἑτέραν γυναῖκα!\""
+  },
+  {
+    "id": "0x711E",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Hee hee.\\n\"\n\"Don't pay any attention to that\\n\"\n\"kid, my dear... Just pretend we're\\n\"\n\"in our own, private little world...\"",
+    "el_msg": "\"Ἁ ἅ.\\n\" \"Μηδὲν πρόσεχε τῷ παιδί,\\n\" \"ὦ φίλη... Δόξωμεν ὅτι ἐν ἰδίῳ\\n\" \"μόνοι κόσμῳ ἐσμέν...\""
+  },
+  {
+    "id": "0x711F",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Oh, please!\\n\"\n\"Go bother someone \\n\"\n\"else!\"",
+    "el_msg": "\"Ἄγε δή!\\n\" \"Ἄλλον τινὰ πάλιν\\n\" \"ἐνόχλει!\""
+  },
+  {
+    "id": "0x7120",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"There's a rumor going around that\\n\"\n\"there is a Potion Shop that can\\n\"\n\"make the ultimate medicine!\"",
+    "el_msg": "\"Φήμη τις περιφέρεται ὅτι\\n\" \"Φαρμακοπωλεῖόν τι οἷόν τέ ἐστι\\n\" \"τὸ ὑπέρτατον φάρμακον\\n\" \"ποιεῖν!\""
+  },
+  {
+    "id": "0x7121",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"I heard a rumor that there is a \\n\"\n\"monster that eats \" COLOR(LIGHTBLUE) \"Hylian Shields\" COLOR(DEFAULT) \"\\n\"\n\"somewhere out there in the world.\\n\"\n\"Have you ever seen it?\"",
+    "el_msg": "\"Ἤκουσα φήμην ὅτι τέρας τί ἐστιν\\n\" \"ὃ κατεσθίει \" COLOR(LIGHTBLUE) \"Ὑλικοὺς θυρεούς\" COLOR(DEFAULT) \"\\n\" \"πού ποτε ἐν τῷ κόσμῳ.\\n\" \"Ἆρά ποτε εἶδες αὐτό;\""
+  },
+  {
+    "id": "0x7122",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"I came here to sell bombs...\\n\"\n\"Please buy some!\"",
+    "el_msg": "\"Ἦλθον δεῦρο βόμβας πωλήσων...\\n\" \"Ὤνησαι δή τινας!\""
+  },
+  {
+    "id": "0x7123",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE \"I...I am afraid...\\n\"\n\"I have a feeling that man is going\\n\"\n\"to destroy Hyrule.\"\nBOX_BREAK\n\nUNSKIPPABLE \"He has such terrifying power!\"\nBOX_BREAK\n\nUNSKIPPABLE \"But it's fortunate that you have \\n\"\n\"come...\" EVENT",
+    "el_msg": "UNSKIPPABLE \"Φοβοῦμαι... φοβοῦμαι δὴ\\n\" \"μὴ ὁ ἀνὴρ ἐκεῖνος διαφθείρῃ\\n\" \"τὴν Ὑρούλην.\" BOX_BREAK UNSKIPPABLE \"Δύναμιν γὰρ ἔχει φοβεράν!\" BOX_BREAK UNSKIPPABLE \"Ἀλλ' εὐτυχές ἐστιν ὅτι σύ γε\\n\" \"ἐλήλυθας...\" EVENT"
+  },
+  {
+    "id": "0x7124",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"What? If you want something,\\n\"\n\"just make it clear!\"",
+    "el_msg": "\"Τί δή; Εἴ τινος χρῄζεις,\\n\" \"σαφῶς λέγε!\""
+  },
+  {
+    "id": "0x7125",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"I'm busy! Get out of my way,\\n\"\n\"you bum!\"",
+    "el_msg": "\"Ἀσχολοῦμαι! Ἐκποδὼν γενοῦ,\\n\" \"ὦ ῥᾴθυμε!\""
+  },
+  {
+    "id": "0x7126",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Hey, you have some good,\\n\"\n\"quality wood there, kid!\"",
+    "el_msg": "\"Ἕ, ξύλον καλόν τε καὶ χρηστὸν\\n\" \"ἔχεις ἐκεῖ, ὦ παῖ!\""
+  },
+  {
+    "id": "0x7127",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Hrrrrm!\\n\"\n\"Get out of my face!\\n\"\n\"You good for nothin'...\"",
+    "el_msg": "\"Γρρρ!\\n\" \"Ἄπελθε ἀπ' ὀφθαλμῶν μου!\\n\" \"Ἄχρηστε σύ...\""
+  },
+  {
+    "id": "0x7128",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"EEEEEEAAAAH!\\n\"\n\"Whoops, I shouldn't scream like\\n\"\n\"that or the boss will yell at me!\"",
+    "el_msg": "\"ΕΕΕΕΕΕΑΑΑ!\\n\" \"Οἴμοι, οὐ δεῖ οὕτω βοᾶν,\\n\" \"ἵνα μὴ ὁ δεσπότης μοι ἐπιτιμᾷ!\""
+  },
+  {
+    "id": "0x7129",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Oh, sorry boss! \\n\"\n\"I didn't mean to slack off!\\n\"\n\"I'll get busy!\"\nBOX_BREAK\n\n\"Oh, that's not you, boss?\"",
+    "el_msg": "\"Ὦ, σύγγνωθι, δέσποτα! \\n\" \"Οὐχ ἑκὼν ἐρρᾳθύμουν!\\n\" \"Ἐργάσομαι εὐθύς!\" BOX_BREAK \"Ὤ, οὐ σύ γ' εἶ, δέσποτα;\""
+  },
+  {
+    "id": "0x712A",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Gerudos are beautiful and brave...\\n\"\n\"They are just so fascinating!\"",
+    "el_msg": "\"Αἱ Γερούδαι καλαὶ καὶ ἀνδρεῖαι...\\n\" \"Θαυμασταὶ κομιδῇ εἰσιν!\""
+  },
+  {
+    "id": "0x712B",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Someday, when I have more skill,\\n\"\n\"I'll carve a mask like that one!\"",
+    "el_msg": "\"Ποτέ, ὅταν ἐμπειρότερος γένωμαι,\\n\" \"γλύψω προσωπεῖον τοιοῦτο!\""
+  },
+  {
+    "id": "0x712C",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Oh, that's the mask\\n\"\n\"everyone is talking about!\\n\"\n\"Looks kind of strange...\"",
+    "el_msg": "\"Ὤ, τοῦτό ἐστι τὸ προσωπεῖον\\n\" \"περὶ οὗ πάντες λέγουσιν!\\n\" \"Ἄτοπόν πως φαίνεται...\""
+  },
+  {
+    "id": "0x712D",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Wa-ha-hah!\\n\"\n\"How's business,\\n\"\n\"Mr. Hero?\\n\"\n\"Hah hah hah!\"",
+    "el_msg": "\"Οὐὰ ἅ ἅ!\\n\" \"Πῶς ἔχει τὰ πράγματα,\\n\" \"ὦ Ἥρως;\\n\" \"Ἁ ἅ ἅ!\""
+  },
+  {
+    "id": "0x712E",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"I'm on duty.\\n\"\n\"Understand?\\n\"\n\"ON DUTY!\"",
+    "el_msg": "\"Ἐν φυλακῇ εἰμι.\\n\" \"Μανθάνεις;\\n\" \"ΕΝ ΦΥΛΑΚΗ!\""
+  },
+  {
+    "id": "0x712F",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Hmm, well, I don't really know\\n\"\n\"what to say about that one...\"",
+    "el_msg": "\"Μμ, ἀλλ' οὐ πάνυ οἶδα\\n\" \"τί ἂν εἴποιμι περὶ τούτου...\""
+  },
+  {
+    "id": "0x7130",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Oh wow! Cute!\\n\"\n\"But Cuccos are much cuter!\"",
+    "el_msg": "\"Βαβαί! Ὡς χαρίεν!\\n\" \"Ἀλλ' οἱ Κουκκὼ πολὺ\\n\" \"χαριέστεροί εἰσιν!\""
+  },
+  {
+    "id": "0x7131",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Eh, what?\\n\"\n\"Are you sad?\\n\"\n\"Happy?\\n\"\n\"I really can't tell...\"",
+    "el_msg": "\"Ἔα, τί δή;\\n\" \"Ἆρα λυπούμενος εἶ;\\n\" \"Ἤ χαίρων;\\n\" \"Οὐ πάνυ διακρῖναι δύναμαι...\""
+  },
+  {
+    "id": "0x7132",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"I'm sorry, I'm not really\\n\"\n\"interested in that.\"",
+    "el_msg": "\"Σύγγνωθι, οὐ πάνυ μοι\\n\" \"μέλει τούτου.\""
+  },
+  {
+    "id": "0x7133",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"The little kid playing in the\\n\"\n\"graveyard was saying something\\n\"\n\"about his face...\"",
+    "el_msg": "\"Τὸ παιδάριον τὸ παῖζον ἐν\\n\" \"τοῖς Μνήμασιν ἔλεγέ τι\\n\" \"περὶ τοῦ προσώπου αὐτοῦ...\""
+  },
+  {
+    "id": "0x7134",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"I really am a good man.\\n\"\n\"Don't you believe me?\"",
+    "el_msg": "\"Ἀληθῶς ἀνὴρ ἀγαθός εἰμι.\\n\" \"Ἆρ' οὐ πιστεύεις μοι;\""
+  },
+  {
+    "id": "0x7135",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"WHAAAA--!\\n\"\n\"I thought you were that old hag!\\n\"\n\"Don't scare me like that!\"",
+    "el_msg": "\"Οὐαί--!\\n\" \"Ὤμην σε τὴν γραῦν ἐκείνην εἶναι!\\n\" \"Μὴ οὕτω με φοβήσῃς!\""
+  },
+  {
+    "id": "0x7136",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"I remember my father talking\\n\"\n\"about a swordsmith...but that\\n\"\n\"doesn't really matter to me\\n\"\n\"anyway.\"",
+    "el_msg": "\"Μέμνημαι τοῦ πατρός μου\\n\" \"ξιφοποιόν τινα λέγοντος...\\n\" \"ἀλλ' οὐδὲν τοῦτό γε διαφέρει\\n\" \"μοι πάντως.\""
+  },
+  {
+    "id": "0x7137",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"I'm not afraid of any forest \\n\"\n\"monsters! Are you trying to\\n\"\n\"make fun of me?\"",
+    "el_msg": "\"Οὐδένα φοβοῦμαι τῶν τῆς ὕλης\\n\" \"τεράτων! Ἆρα σκώπτειν με\\n\" \"πειρᾷ;\""
+  },
+  {
+    "id": "0x7138",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"What is that? I can't see it\\n\"\n\"very well from here...\"",
+    "el_msg": "\"Τί τοῦτό ἐστιν; Οὐ πάνυ\\n\" \"καθορῶ ἐνθένδε...\""
+  },
+  {
+    "id": "0x7139",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Hi again! How are you today?\"",
+    "el_msg": "\"Χαῖρε πάλιν! Πῶς ἔχεις σήμερον;\""
+  },
+  {
+    "id": "0x713A",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Everything's fine today!\"",
+    "el_msg": "\"Πάντα καλῶς ἔχει σήμερον!\""
+  },
+  {
+    "id": "0x713B",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Tired...I'm so tired...\"",
+    "el_msg": "\"Κέκμηκα... πάνυ κέκμηκα...\""
+  },
+  {
+    "id": "0x713C",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"I don't care about any\\n\"\n\"foxes!\"",
+    "el_msg": "\"Οὐδέν μοι μέλει περὶ\\n\" \"ἀλωπέκων!\""
+  },
+  {
+    "id": "0x713D",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"That's irritating!\\n\"\n\"It bothers my eyes!\"",
+    "el_msg": "\"Ὡς ὀχληρόν!\\n\" \"Λυπεῖ τοὺς ὀφθαλμούς μου!\""
+  },
+  {
+    "id": "0x713E",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"That looks quite handsome!\"",
+    "el_msg": "\"Ὡς καλὸν ἰδεῖν φαίνεται!\""
+  },
+  {
+    "id": "0x713F",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Waaaaaaah!\\n\"\n\"What is wrong with you?\\n\"\n\"Do you have a bad attitude?\"",
+    "el_msg": "\"Οὐάαα!\\n\" \"Τί πάσχεις;\\n\" \"Ἆρα δυσκόλως διάκεισαι;\""
+  },
+  {
+    "id": "0x7140",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"You idiot! \\n\"\n\"When you talk to someone, you\\n\"\n\"should make eye contact!\"",
+    "el_msg": "\"Ὦ ἀνόητε!\\n\" \"Ὅταν διαλέγῃ τινί, δεῖ\\n\" \"εἰς τοὺς ὀφθαλμοὺς βλέπειν!\""
+  },
+  {
+    "id": "0x7141",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"You idiot!\\n\"\n\"When you talk to someone, you\\n\"\n\"shouldn't stare!\"",
+    "el_msg": "\"Ὦ ἀνόητε!\\n\" \"Ὅταν διαλέγῃ τινί, οὐ\\n\" \"προσήκει ἀτενίζειν!\""
+  },
+  {
+    "id": "0x7142",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"You idiot!\\n\"\n\"When you talk to someone, you\\n\"\n\"should take off your mask!\"",
+    "el_msg": "\"Ὦ ἀνόητε!\\n\" \"Ὅταν διαλέγῃ τινί, δεῖ\\n\" \"τὸ προσωπεῖον ἀφαιρεῖν!\""
+  },
+  {
+    "id": "0x7143",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"You idiot!\\n\"\n\"I don't know why I'm calling\\n\"\n\"you that, but...you are one!\"",
+    "el_msg": "\"Ὦ ἀνόητε!\\n\" \"Οὐκ οἶδα δι' ὅτι οὕτω καλῶ\\n\" \"σε, ἀλλ'... ἀληθῶς τοιοῦτος εἶ!\""
+  },
+  {
+    "id": "0x7144",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Where did you get that?\\n\"\n\"What?\\n\"\n\"It's a mask?\"",
+    "el_msg": "\"Πόθεν ἔλαβες τοῦτο;\\n\" \"Τί δή;\\n\" \"Ἆρα προσωπεῖόν ἐστιν;\""
+  },
+  {
+    "id": "0x7145",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Uh, leave me alone...\\n\"\n\"Can't you see I'm in a groove\\n\"\n\"right now?\"",
+    "el_msg": "\"Ἔα με μόνον...\\n\" \"Οὐχ ὁρᾷς ὅτι νῦν ἐν ῥυθμῷ\\n\" \"διατελῶ;\""
+  },
+  {
+    "id": "0x7146",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"A mask is just like a musical \\n\"\n\"instrument--it reflects the\\n\"\n\"character of its owner. I like\\n\"\n\"your originality, kid!\"",
+    "el_msg": "\"Τὸ προσωπεῖον ὥσπερ ὄργανον\\n\" \"μουσικόν ἐστιν· τὸν τρόπον γὰρ\\n\" \"τοῦ κεκτημένου ἐμφαίνει. Ἀρέσκει\\n\" \"μοι τὸ ἴδιον ἦθός σου, ὦ παῖ!\""
+  },
+  {
+    "id": "0x7147",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"What a big head!\\n\"\n\"How'd you fit through that door?!\"",
+    "el_msg": "\"Ὡς μεγάλη κεφαλή!\\n\" \"Πῶς διὰ τῆς θύρας ἐκείνης\\n\" \"διεξῆλθες;!\""
+  },
+  {
+    "id": "0x7148",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"I HATE foxes, sonny!\"",
+    "el_msg": "\"ΣΤΥΓΩ τὰς ἀλώπεκας, ὦ παῖ!\""
+  },
+  {
+    "id": "0x7149",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Now if that isn't the most\\n\"\n\"irritating face I've seen in\\n\"\n\"all my days, I don't know what\\n\"\n\"is!\"",
+    "el_msg": "\"Εἰ μὴ τοῦτό ἐστι τὸ ὀχληρότατον\\n\" \"πρόσωπον ὃ ἑώρακα ἐν παντὶ\\n\" \"τῷ βίῳ μου, οὐκ οἶδα τί ἂν\\n\" \"εἴη ἄλλο!\""
+  },
+  {
+    "id": "0x714A",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Hey, that's a fine face\\n\"\n\"you got there, sonny!\"",
+    "el_msg": "\"Ἰδού, πρόσωπον κάλλιστον\\n\" \"ἔχεις ἐκεῖ, ὦ παῖ!\""
+  },
+  {
+    "id": "0x714B",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Have you got any complaints?\\n\"\n\"Speak up, then!\"",
+    "el_msg": "\"Ἆρα μέμψιν τινὰ ἔχεις;\\n\" \"Λέγε δὴ σαφῶς!\""
+  },
+  {
+    "id": "0x714C",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Please quit playing around\\n\"\n\"and dispel our curse!\"",
+    "el_msg": "\"Παῦσαι δὴ παίζων καὶ\\n\" \"λῦσον τὴν κατάραν ἡμῶν!\""
+  },
+  {
+    "id": "0x714D",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"If I wore something like that...\\n\"\n\"I'd be a real Skulltula...\\n\"\n\"AAAAAAAAAAH!\"",
+    "el_msg": "\"Εἰ τοιοῦτό τι ἐφόρουν...\\n\" \"ἀληθὴς ἂν ἦ Σκουλτούλα...\\n\" \"ΑΑΑΑΑΑΑΑΑ!\""
+  },
+  {
+    "id": "0x714E",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Please understand if I don't\\n\"\n\"laugh... It's hard to be happy\\n\"\n\"in this condition... \\n\"\n\"Being cursed and all...\"",
+    "el_msg": "\"Σύγγνωθι δή μοι μὴ γελῶντι...\\n\" \"Χαλεπὸν γὰρ εὐθυμεῖν οὕτως\\n\" \"διακειμένῳ... ἐπικαταράτῳ\\n\" \"παντάπασιν ὄντι...\""
+  },
+  {
+    "id": "0x714F",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "SFX(NA_SE_VO_ST_DAMAGE) \"Hyaaaaah!\\n\"\n\"That's scary!\\n\"\n\"I know I'm scary, but...man!\\n\"\n\"That's really scary!\"",
+    "el_msg": "SFX(NA_SE_VO_ST_DAMAGE) \"Ἰαααα!\\n\" \"Ὡς φοβερόν!\\n\" \"Οἶδα ὅτι φοβερός εἰμι, ἀλλ'... ὤ!\\n\" \"Τοῦτο κομιδῇ φοβερόν ἐστιν!\""
+  },
+  {
+    "id": "0x7150",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Huh?! Wha--!\"\nBOX_BREAK\n\n\"Oh, it's just a kid.\\n\"\n\"Don't scare me like that!\\n\"\n\"I may not look like it, but I'm a\\n\"\n\"very sensitive guy!\"",
+    "el_msg": "\"Ἆ; Τί--!\" BOX_BREAK \"Ὤ, παῖς μόνον ἐστίν.\\n\" \"Μὴ οὕτω με πτοήσῃς!\\n\" \"Εἰ καὶ μὴ δοκῶ, ἀνὴρ\\n\" \"λίαν εὐπαθής εἰμι!\""
+  },
+  {
+    "id": "0x7151",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Well, will you lookit the noggin on \\n\"\n\"this kid! It's HUGE!\\n\"\n\"Mine is huge too, though...\"",
+    "el_msg": "\"Ἄγε, ἴδε τὴν κεφαλὴν τοῦ\\n\" \"παιδὸς τούτου! Ὑπερμεγέθης ἐστίν!\\n\" \"Καὶ ἡ ἐμὴ μέντοι μεγάλη...\""
+  },
+  {
+    "id": "0x7152",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Do you know what kind of\\n\"\n\"mask you're wearing...?\\n\"\n\"And you're still wearing it?\"",
+    "el_msg": "\"Ἆρ' οἶσθα οἷον προσωπεῖον\\n\" \"φορεῖς...;\\n\" \"Καὶ ὅμως ἔτι φορεῖς αὐτό;\""
+  },
+  {
+    "id": "0x7153",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"I'm on duty now... \\n\"\n\"If you want me to dig, don't\\n\"\n\"bother me.\"",
+    "el_msg": "\"Ἐν φυλακῇ νῦν εἰμι...\\n\" \"Εἰ ὀρύσσειν με βούλῃ,\\n\" \"μὴ ἐνόχλει μοι.\""
+  },
+  {
+    "id": "0x7154",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"What is that? It's something\\n\"\n\"that hops around in a field...\\n\"\n\"I forgot what those things are\\n\"\n\"called...\"",
+    "el_msg": "\"Τί τοῦτό ἐστιν; Ἆρα τὸ ἐν τῷ\\n\" \"λειμῶνι σκιρτῶν...;\\n\" \"Ἐπελαθόμην ὅπως\\n\" \"ὀνομάζεται...\""
+  },
+  {
+    "id": "0x7155",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Hey! It's a Keaton Mask!!\\n\"\n\"I asked my daddy to get me one,\\n\"\n\"too!\"",
+    "el_msg": "\"Ἰδού! Προσωπεῖον Κίτωνος!!\\n\" \"Ἠρώτησα τὸν πατέρα μου\\n\" \"καμοὶ ἓν πορίσαι!\""
+  },
+  {
+    "id": "0x7156",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"That's not very different from\\n\"\n\"Mr. Dampé, is it?\"",
+    "el_msg": "\"Οὐ πάνυ διαφέρει τοῦτο\\n\" \"τοῦ κυρίου Δαμπέ, ἆρ' οὐχί;\""
+  },
+  {
+    "id": "0x7157",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"That doesn't look anything like\\n\"\n\"Mr. Dampé, huh?\"",
+    "el_msg": "\"Οὐδὲν ὅμοιόν ἐστι τοῦτο\\n\" \"τῷ κυρίῳ Δαμπέ, ἦ γάρ;\""
+  },
+  {
+    "id": "0x7158",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "SFX(NA_SE_VO_RT_LAUGH_0) \"Hey, cool mask...but a little\\n\"\n\"scary, don't you think?\"",
+    "el_msg": "SFX(NA_SE_VO_RT_LAUGH_0) \"Ἰδού, καλὸν προσωπεῖον...\\n\" \"ἀλλὰ φοβερόν πως, οὐχ οὕτως;\""
+  },
+  {
+    "id": "0x7159",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Hey! That looks familiar...\\n\"\n\"I think I saw something like it\\n\"\n\"in the Lost Woods, no?\"",
+    "el_msg": "\"Ἰδού! Γνώριμον φαίνεται...\\n\" \"Οἶμαι ὅμοιον ἑωρακέναι τι\\n\" \"ἐν τῷ Δρυμῷ τῆς Πλάνης, ἆρ' οὔ;\""
+  },
+  {
+    "id": "0x715A",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "SFX(NA_SE_VO_RT_LAUGH_0) \"That makes me feel...happy...\"",
+    "el_msg": "SFX(NA_SE_VO_RT_LAUGH_0) \"Τοῦτό με ποιεῖ... χαίρειν...\""
+  },
+  {
+    "id": "0x715B",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Oh...uh...sniff...\\n\"\n\"That mask...\\n\"\n\"It makes me feel...sad...\"",
+    "el_msg": "\"Ὤ... οἴμοι... *μύζω*...\\n\" \"Τὸ προσωπεῖον ἐκεῖνο...\\n\" \"Ποιεῖ μέ... λυπεῖσθαι...\""
+  },
+  {
+    "id": "0x715C",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Hah! That mask won't do you any\\n\"\n\"good! You're just afraid of me,\\n\"\n\"the great Mido...aren't you?!\"",
+    "el_msg": "\"Ἁ! Οὐδὲν ὀνήσει σε τὸ προσωπεῖον!\\n\" \"Φοβῇ γάρ με, τὸν μέγαν\\n\" \"Μίδωνα... ἆρ' οὐχί;!\""
+  },
+  {
+    "id": "0x715D",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Waaaaah! What?\\n\"\n\"Hey, I'm not scared of you!\\n\"\n\"Just don't come any closer,\\n\"\n\"understand?!\"",
+    "el_msg": "\"Οὐάαα! Τί δή;\\n\" \"Ἰδού, οὐ φοβοῦμαί σε!\\n\" \"Μὴ μόνον ἐγγυτέρω προσέλθῃς,\\n\" \"μανθάνεις;!\""
+  },
+  {
+    "id": "0x715E",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Hey, that's a cool mask.\\n\"\n\"I want it!\\n\"\n\"JUST KIDDING! Hah!\\n\"\n\"I don't want that stupid mask!\"",
+    "el_msg": "\"Ἰδού, καλὸν προσωπεῖον.\\n\" \"Βούλομαι αὐτό!\\n\" \"ΠΑΙΖΩ ΜΕΝΤΟΙ! Ἁ!\\n\" \"Οὐ δέομαι τοῦ μώρου τούτου!\""
+  },
+  {
+    "id": "0x715F",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Wah hah ha hah!\\n\"\n\"That really suits you!\"",
+    "el_msg": "\"Οὐὰ ἅ ἅ ἅ!\\n\" \"Κομιδῇ γάρ σοι πρέπει!\""
+  },
+  {
+    "id": "0x7160",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Waaaah!\\n\"\n\"I-I'm gonna tell Mido about \\n\"\n\"this!\"",
+    "el_msg": "\"Οὐάαα!\\n\" \"Ἀ-ἀπαγγελῶ ταῦτα\\n\" \"τῷ Μίδωνι!\""
+  },
+  {
+    "id": "0x7161",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Yeeeeah!\\n\"\n\"I-I'm gonna tell Mido to beat\\n\"\n\"you up!\"",
+    "el_msg": "\"Οὐαί!\\n\" \"Κ-κελεύσω τὸν Μίδωνα\\n\" \"τυπτήσειν σε!\""
+  },
+  {
+    "id": "0x7162",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Whooooah!\\n\"\n\"Are you some kind of forest\\n\"\n\"ghost?\"",
+    "el_msg": "\"Ὦ ὤ!\\n\" \"Ἆρα φάσμα τί εἰ τῆς ὕλης;\""
+  },
+  {
+    "id": "0x7163",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"That's so cool!\\n\"\n\"Uh...don't tell Mido I said that!\"",
+    "el_msg": "\"Ὡς καλὸν τοῦτό γε!\\n\" \"Φεῦ... μὴ εἴπῃς τῷ Μίδωνι\\n\" \"ὅτι τοῦτο εἶπον!\""
+  },
+  {
+    "id": "0x7164",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"What?!\\n\"\n\"You came back!\\n\"\n\"I can tell who you are, even\\n\"\n\"with that mask on!\"",
+    "el_msg": "\"Τί;!\\n\" \"Ἐπανῆλθες γάρ!\\n\" \"Γιγνώσκω σε ὅστις εἶ, καίπερ\\n\" \"τὸ προσωπεῖον φοροῦντα!\""
+  },
+  {
+    "id": "0x7165",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"I wonder what Mido would say if\\n\"\n\"he saw that?\\n\"\n\"I really would like to see his\\n\"\n\"reaction!\"",
+    "el_msg": "\"Θαυμάζω τί ἂν εἴποι Μίδων εἰ\\n\" \"ἴδοι τοῦτο;\\n\" \"Ὡς ἂν ἡδέως ἴδοιμι\\n\" \"πῶς διατεθήσεται!\""
+  },
+  {
+    "id": "0x7166",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"I see...\\n\"\n\"You're going to scare Mido with\\n\"\n\"that mask, aren't you?!\"",
+    "el_msg": "\"Μανθάνω...\\n\" \"Πτοήσειν μέλλεις τὸν Μίδωνα\\n\" \"τῷ προσωπείῳ τούτῳ, ἦ γάρ;!\""
+  },
+  {
+    "id": "0x7167",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Hah hah hah!\\n\"\n\"What a funny face!\\n\"\n\"I bet Saria would think it's\\n\"\n\"pretty funny, too!\"",
+    "el_msg": "\"Ἁ ἅ ἅ!\\n\" \"Ὡς γελοῖον πρόσωπον!\\n\" \"Καὶ ἡ Σαρία οἶμαι γελοῖον ἂν\\n\" \"ἡγήσαιτο αὐτό!\""
+  },
+  {
+    "id": "0x7168",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Tee hee hee!\\n\"\n\"A mask made of wood?\\n\"\n\"It looks like you're wearing\\n\"\n\"a shield on your face!\"",
+    "el_msg": "\"Ἁ ἅ ἅ!\\n\" \"Προσωπεῖον ἐκ ξύλου;\\n\" \"Ἔοικας ὥσπερ θυρεὸν\\n\" \"ἐπὶ τῷ προσώπῳ φορεῖν!\""
+  },
+  {
+    "id": "0x7169",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"What a weird face!\"\nBOX_BREAK\n\n\"Speaking of weird faces, one of\\n\"\n\"the forest kids was complaining\\n\"\n\"about his face...\"",
+    "el_msg": "\"Ὡς ἄτοπον πρόσωπον!\" BOX_BREAK \"Περὶ δὲ ἀτόπων προσώπων, παῖς\\n\" \"τις τῶν ἐν τῇ ὕλῃ ἐμέμφετο\\n\" \"περὶ τοῦ ἑαυτοῦ προσώπου...\""
+  },
+  {
+    "id": "0x716A",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"What an enormous head you have!\"",
+    "el_msg": "\"Ὡς ὑπερμεγέθη κεφαλὴν ἔχεις!\""
+  },
+  {
+    "id": "0x716B",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Tee hee!\\n\"\n\"Where did you get that?\\n\"\n\"Outside the forest?\\n\"\n\"No way! I don't believe it!\"",
+    "el_msg": "\"Ἁ ἅ!\\n\" \"Πόθεν ἔλαβες τοῦτο;\\n\" \"Ἔξω τοῦ δρυμοῦ;\\n\" \"Οὐδαμῶς! Οὐ πείθομαι!\""
+  },
+  {
+    "id": "0x716C",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Hee hee!\\n\"\n\"Kind of funny, but it's not\\n\"\n\"really my style...\"",
+    "el_msg": "\"Ἁ ἅ!\\n\" \"Γελοῖον μέν πως, ἀλλ' οὐ\\n\" \"κατὰ τὸν ἐμὸν τρόπον ἐστίν...\""
+  },
+  {
+    "id": "0x716D",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Right on! \\n\"\n\"Wearing this mask makes me feel\\n\"\n\"really tough and scary!\\n\"\n\"Hee hee!\"",
+    "el_msg": "\"Εὖ γε! \\n\" \"Τοῦτο τὸ προσωπεῖον φορῶν δοκῶ\\n\" \"καρτερώτατος καὶ φοβερώτατος\\n\" \"εἶναι! Ἁ ἅ!\""
+  },
+  {
+    "id": "0x716E",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Hee hee!\\n\"\n\"There sure are a lot of different\\n\"\n\"people in the world!\"",
+    "el_msg": "\"Ἁ ἅ!\\n\" \"Παντοδαποὶ δήπου ἄνθρωποι\\n\" \"ἐν τῷ κόσμῳ εἰσίν!\""
+  },
+  {
+    "id": "0x716F",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Hee hee!\\n\"\n\"I don't need a new one...\\n\"\n\"I like the one I have, thanks!\"",
+    "el_msg": "\"Ἁ ἅ!\\n\" \"Οὐ δέομαι καινοῦ...\\n\" \"Ἀρέσκει μοι ὃ ἔχω, χάριν οἶδα!\""
+  },
+  {
+    "id": "0x7170",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "SFX(NA_SE_VO_Z0_SMILE_0) \"Wow, that makes your head\\n\"\n\"look huge!\\n\"\n\"Hee hee!\"",
+    "el_msg": "SFX(NA_SE_VO_Z0_SMILE_0) \"Βαβαί, ὡς ὑπερμεγέθη\\n\" \"τὴν κεφαλὴν φαίνεσθαι ποιεῖ!\\n\" \"Ἁ ἅ!\""
+  },
+  {
+    "id": "0x7171",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "SFX(NA_SE_VO_Z0_QUESTION) \"What a cute little mouse!\\n\"\n\"What?\\n\"\n\"Oh, it's not a mouse?\"",
+    "el_msg": "SFX(NA_SE_VO_Z0_QUESTION) \"Ὡς χαρίεν μυίδιον!\\n\" \"Τί δή;\\n\" \"Ὤ, οὐ μυΐδιόν ἐστιν;\""
+  },
+  {
+    "id": "0x7172",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "SFX(NA_SE_VO_Z0_SIGH_0) \"What are those floppy things\\n\"\n\"on your head?\\n\"\n\"Ears? That mask makes you look\\n\"\n\"like you have four ears!\"",
+    "el_msg": "SFX(NA_SE_VO_Z0_SIGH_0) \"Τί ἐστι τὰ χαλαρὰ ταῦτα\\n\" \"ἐπὶ τῆς κεφαλῆς σου;\\n\" \"Ὦτα; Ἔοικας δὴ τέτταρα\\n\" \"ὦτα ἔχειν διὰ τὸ προσωπεῖον!\""
+  },
+  {
+    "id": "0x7173",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "SFX(NA_SE_VO_Z0_HURRY) \"It must be exciting to sneak\\n\"\n\"past the guards while wearing\\n\"\n\"that mask!\"",
+    "el_msg": "SFX(NA_SE_VO_Z0_HURRY) \"Θαυμαστὸν δήπου λαθεῖν\\n\" \"τοὺς φύλακας τὸ τοιοῦτον\\n\" \"προσωπεῖον φοροῦντα!\""
+  },
+  {
+    "id": "0x7174",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Hi, fairy boy!\\n\"\n\"What?\\n\"\n\"You think you're in disguise?\\n\"\n\"But it's so obvious who you are!\"",
+    "el_msg": "\"Χαῖρε, ὦ νυμφόπαι!\\n\" \"Τί δή;\\n\" \"Μῶν μετημφιέσθαι οἴει;\\n\" \"Ἀλλὰ πάνυ δῆλος εἶ ὅστις εἶ!\""
+  },
+  {
+    "id": "0x7175",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Wow!\\n\"\n\"What big eyes you have!\\n\"\n\"Gorons are so cute, aren't they!\"",
+    "el_msg": "\"Βαβαί!\\n\" \"Ὡς μεγάλους ὀφθαλμοὺς ἔχεις!\\n\" \"Οἱ Γόρωνες πάνυ χαρίεντες,\\n\" \"ἆρ' οὐχί;\""
+  },
+  {
+    "id": "0x7176",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Oh, I know that character!\\n\"\n\"It's Keaton!\\n\"\n\"He's very hot in Hyrule Castle\\n\"\n\"Town right now!\"",
+    "el_msg": "\"Ὤ, γιγνώσκω τοῦτον!\\n\" \"Κίτων ἐστίν!\\n\" \"Περιβόητός ἐστι νῦν ἐν\\n\" \"τῇ Πόλει τοῦ Φρουρίου!\""
+  },
+  {
+    "id": "0x7177",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Oh, brother!\\n\"\n\"Boys will be boys!\"",
+    "el_msg": "\"Φεῦ δῆτα!\\n\" \"Οἱ παῖδες ἀεὶ παῖδές εἰσιν!\""
+  },
+  {
+    "id": "0x7178",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Wait...wait...\\n\"\n\"I know who ya are...\\n\"\n\"Yer... Kin-ton!\\n\"\n\"Ain't that right?!\"",
+    "el_msg": "\"Μένον... μένον...\\n\" \"Οἶδά σε ὅστις εἶ...\\n\" \"Σὺ εἶ... Κίν-των!\\n\" \"Ἆρ' οὐκ ὀρθῶς λέγω;!\""
+  },
+  {
+    "id": "0x7179",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"That's a scary one, ain't it?\\n\"\n\"Almost as scary as...Ingo!\"",
+    "el_msg": "\"Φοβερόν ἐστι, ἦ γάρ;\\n\" \"Σχεδὸν ὥσπερ φοβερὸς ὁ... Ἴγγων!\""
+  },
+  {
+    "id": "0x717A",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Hey, that reminds me of my wife...\\n\"\n\"On second thought, it doesn't...\\n\"\n\"It doesn't look like her at all!\"",
+    "el_msg": "\"Ἰδού, ὑπομιμνήσκει με τῆς γυναικός...\\n\" \"Ἀλλ' ἐπισκεψάμενος, οὔ...\\n\" \"Οὐδὲν γὰρ ἔοικεν αὐτῇ!\""
+  },
+  {
+    "id": "0x717B",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"YAAAWWN...\\n\"\n\"I'm kinda tired right now...\\n\"\n\"Show it to me later...\"",
+    "el_msg": "\"ΧΑΣΜΩΜΑΙ...\\n\" \"Κέκμηκά πως νῦν...\\n\" \"Δεῖξόν μοι ὕστερον...\""
+  },
+  {
+    "id": "0x717C",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Scram, kid!\\n\"\n\"Can't you see I'm busy?!\"",
+    "el_msg": "\"Ἄπελθε, ὦ παῖ!\\n\" \"Οὐχ ὁρᾷς ὅτι ἀσχολοῦμαι;!\""
+  },
+  {
+    "id": "0x717D",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Humph!\\n\"\n\"It's fine to play like that when \\n\"\n\"you're a kid, but just wait until\\n\"\n\"you grow up! Work, work, work!\"",
+    "el_msg": "\"Φεῦ!\\n\" \"Καλὸν μὲν οὕτω παίζειν παιδὶ ὄντι,\\n\" \"ἀλλὰ μένε ἕως ἂν ἀνὴρ γένῃ!\\n\" \"Ἔργον, ἔργον, ἔργον μόνον!\""
+  },
+  {
+    "id": "0x717E",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"YEOW!\\n\"\n\"Humph. It's just a mask...\\n\"\n\"Scram, kid! Get out of here!\"",
+    "el_msg": "\"Οὐαί!\\n\" \"Φεῦ. Προσωπεῖον μόνον ἐστίν...\\n\" \"Ἄπελθε, ὦ παῖ! Ἔκποδων γενοῦ!\""
+  },
+  {
+    "id": "0x717F",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Heh heh heh...\\n\"\n\"Well, that cheered me up a little,\\n\"\n\"kid.\\n\"\n\"Thanks!\"",
+    "el_msg": "\"Ἁ ἅ ἅ...\\n\" \"Εὐθυμότερον μέντοι ἐποίησάς\\n\" \"με μικρόν, ὦ παῖ.\\n\" \"Χάριν οἶδα!\""
+  },
+  {
+    "id": "0x7180",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Hmmm... Let's see...\\n\"\n\"Yes, I'm quite sure of it...\\n\"\n\"That was manufactured from a \\n\"\n\"plank from a coffin. Yes, it was!\"",
+    "el_msg": "\"Μμ... ἰδῶμεν...\\n\" \"Ναί, πάνυ πέπεισμαι...\\n\" \"Ἐκ σανίδος σοροῦ τοῦτο\\n\" \"κατεσκευάσθη. Ναί, ἀληθῶς!\""
+  },
+  {
+    "id": "0x7181",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Ahhh...yes. Let's see...\\n\"\n\"Very fine craftsmanship.\\n\"\n\"But I don't think it would make\\n\"\n\"a good ingredient for my medicine.\"",
+    "el_msg": "\"Ἆ... ναί. Ἰδῶμεν...\\n\" \"Τέχνη μὲν καλλίστη.\\n\" \"Ἀλλ' οὐκ ἂν οἶμαι χρηστὸν\\n\" \"εἶναι εἰς τὸ ἐμὸν φάρμακον.\""
+  },
+  {
+    "id": "0x7182",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Very interesting! A Goron!\\n\"\n\"Speaking of Gorons, I wonder\\n\"\n\"how my old friend, Biggoron of\\n\"\n\"Death Mountain, is doing?\"",
+    "el_msg": "\"Πάνυ ἀξιόλογον! Γόρων!\\n\" \"Περὶ δὲ Γορώνων, θαυμάζω\\n\" \"πῶς ἔχει ὁ παλαιὸς ἑταῖρος,\\n\" \"ὁ Μεγαλογόρων τοῦ Ὄρους!\""
+  },
+  {
+    "id": "0x7183",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Very unusual construction...\\n\"\n\"I don't think it's water soluble,\\n\"\n\"so it wouldn't make a good \\n\"\n\"ingredient for my medicines...\"",
+    "el_msg": "\"Κατασκευὴ κομιδῇ ἄτοπος...\\n\" \"Οὐκ οἶμαι διαλυτὸν εἶναι ὕδατι,\\n\" \"ὥστ' οὐκ ἂν ἁρμόττοι εἰς τὰ\\n\" \"ἐμὰ φάρμακα...\""
+  },
+  {
+    "id": "0x7184",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Chomp chomp chomp...\\n\"\n\"OK, OK, a mask.\\n\"\n\"Do you want to buy some beans?\"",
+    "el_msg": "\"Μασῶμαι, μασῶμαι...\\n\" \"Εἶεν, εἶεν, προσωπεῖον.\\n\" \"Βούλῃ κυάμους ἀγοράσαι;\""
+  },
+  {
+    "id": "0x7185",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Chomp chomp chomp...\\n\"\n\"Nope, I don't want to buy it.\"",
+    "el_msg": "\"Μασῶμαι, μασῶμαι...\\n\" \"Οὔ, οὐ βούλομαι ὠνεῖσθαι αὐτό.\""
+  },
+  {
+    "id": "0x7186",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Chomp chomp chomp...\\n\"\n\"Nope, it's not my style.\"",
+    "el_msg": "\"Μασῶμαι, μασῶμαι...\\n\" \"Οὔ, οὐκ ἔστι κατὰ τὸν ἐμὸν τρόπον.\""
+  },
+  {
+    "id": "0x7187",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Chomp chomp chomp...\\n\"\n\"Well...no, I don't think I \\n\"\n\"want it.\"",
+    "el_msg": "\"Μασῶμαι, μασῶμαι...\\n\" \"Ἀλλ'... οὔ, οὐκ οἶμαι\\n\" \"δέεσθαι αὐτοῦ.\""
+  },
+  {
+    "id": "0x7188",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"What do you want?\"",
+    "el_msg": "\"Τί βούλῃ;\""
+  },
+  {
+    "id": "0x7189",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"You don't look like you can\\n\"\n\"swim very well...\"",
+    "el_msg": "\"Οὐκ ἔοικας πάνυ εὖ\\n\" \"νήχεσθαι δύνασθαι...\""
+  },
+  {
+    "id": "0x718A",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Red hair...tan skin...\\n\"\n\"I've seen people like that before...\"",
+    "el_msg": "\"Πυρραὶ τρίχες... μέλαν δέρμα...\\n\" \"Ἑώρακα ἤδη τοιούτους ποτέ...\""
+  },
+  {
+    "id": "0x718B",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Yeah, right.\\n\"\n\"You look a little small for a\\n\"\n\"Zora...\"",
+    "el_msg": "\"Ναί, πάνυ γε.\\n\" \"Μικρότερος μέντοι φαίνῃ ἢ\\n\" \"κατὰ Ζῶρα...\""
+  },
+  {
+    "id": "0x718C",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Ho ho ho!\\n\"\n\"You Hylians...you are such silly\\n\"\n\"creatures!\"",
+    "el_msg": "\"Ὦ ὦ ὤ!\\n\" \"Ὑμεῖς οἱ Ὑλῖται... ὡς μῶρα\\n\" \"ζῷά ἐστε!\""
+  },
+  {
+    "id": "0x718D",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"That face...it gives me the chills...\"",
+    "el_msg": "\"Τὸ πρόσωπον ἐκεῖνο... ῥῖγός μοι\\n\" \"ἐμποιεῖ...\""
+  },
+  {
+    "id": "0x718E",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Talk about a nostalgia trip!\\n\"\n\"That reminds me of my childhood\\n\"\n\"friend, Biggoron!\"",
+    "el_msg": "\"Ὡς ἡδὺ μνημονεύειν!\\n\" \"Ὑπομιμνήσκει με τοῦ παιδικοῦ\\n\" \"ἑταίρου, τοῦ Μεγαλογόρωνος!\""
+  },
+  {
+    "id": "0x718F",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"I don't think that's funny at all.\\n\"\n\"Are you mocking me?\"",
+    "el_msg": "\"Οὐδαμῶς οἶμαι τοῦτό γε\\n\" \"γελοῖον εἶναι.\\n\" \"Ἆρα χλευάζεις με;\""
+  },
+  {
+    "id": "0x7190",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"You're a funny guy!\"",
+    "el_msg": "\"Ἀνὴρ γελοῖος εἶ!\""
+  },
+  {
+    "id": "0x7191",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Your head--it's gigantic!\"",
+    "el_msg": "\"Ἡ κεφαλή σου--γιγαντιαία ἐστίν!\""
+  },
+  {
+    "id": "0x7192",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Don't do that...\\n\"\n\"It's embarrassing me!\"",
+    "el_msg": "\"Μὴ ποιήσῃς τοῦτο...\\n\" \"Αἰσχύνην γάρ μοι παρέχει!\""
+  },
+  {
+    "id": "0x7193",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"All right! You actually decided\\n\"\n\"to become a Zora!\\n\"\n\"Are you actually ready to marry\\n\"\n\"me now?\"",
+    "el_msg": "\"Εἶεν! Ἀληθῶς ἔγνως\\n\" \"Ζῶρα γενέσθαι!\\n\" \"Ἆρ' ἤδη ἕτοιμος εἶ\\n\" \"γαμεῖν με νῦν;\""
+  },
+  {
+    "id": "0x7194",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"WHOA!\\n\"\n\"My heart...started to beat \\n\"\n\"so fast!\"",
+    "el_msg": "\"ΒΑΒΑΙ!\\n\" \"Ἡ καρδία μου... ἤρξατο\\n\" \"πάλλεσθαι οὕτω ταχέως!\""
+  },
+  {
+    "id": "0x7195",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"That's an unpleasant mask...\\n\"\n\"Good-bye.\"",
+    "el_msg": "\"Ἀηδὲς τὸ προσωπεῖον...\\n\" \"Ἔρρωσο.\""
+  },
+  {
+    "id": "0x7196",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Hrrrrm...\\n\"\n\"I don't know what to say.\"",
+    "el_msg": "\"Γρρρ...\\n\" \"Οὐκ οἶδα τί ἂν εἴποιμι.\""
+  },
+  {
+    "id": "0x7197",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"You shouldn't be so picky about\\n\"\n\"what you eat! Do you eat all your\\n\"\n\"green rocks? If you don't, you \\n\"\n\"won't grow up big and strong!\"",
+    "el_msg": "\"Οὐ προσήκει δυσάρεστον εἶναι\\n\" \"περὶ τὰ σιτία! Ἆρα κατεσθίεις\\n\" \"πάντας τοὺς χλωροὺς λίθους;\\n\" \"Εἰ μή, οὐκ ἔσῃ μέγας καὶ ἰσχυρός!\""
+  },
+  {
+    "id": "0x7198",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Leave me alone!\"",
+    "el_msg": "\"Ἔα με μόνον!\""
+  },
+  {
+    "id": "0x7199",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Are you trying to make me laugh?\\n\"\n\"Well, that's not that funny...\"",
+    "el_msg": "\"Ἆρα πειρᾷ γέλωτά μοι παρέχειν;\\n\" \"Ἀλλ' οὐ πάνυ γελοῖόν ἐστι...\""
+  },
+  {
+    "id": "0x719A",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"You're making me mad!\"",
+    "el_msg": "\"Εἰς ὀργήν με καθίστης!\""
+  },
+  {
+    "id": "0x719B",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"I hate Gerudos!!\"",
+    "el_msg": "\"Στυγῶ τὰς Γερούδας!!\""
+  },
+  {
+    "id": "0x719C",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Quit pestering me!\\n\"\n\"Go away!\"",
+    "el_msg": "\"Παῦσαι ἐνοχλῶν μοι!\\n\" \"Ἄπελθε!\""
+  },
+  {
+    "id": "0x719D",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Wah hah hah!\\n\"\n\"Do you think you're in disguise?\\n\"\n\"How funny!\"",
+    "el_msg": "\"Οὐὰ ἅ ἅ!\\n\" \"Μῶν μετημφιέσθαι οἴει;\\n\" \"Ὡς γελοῖον!\""
+  },
+  {
+    "id": "0x719E",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Out of my way!\\n\"\n\"Get out of here!\\n\"\n\"You're asking for it, aren't you?\"",
+    "el_msg": "\"Ἐκποδὼν γενοῦ!\\n\" \"Ἄπελθε ἐνθένδε!\\n\" \"Κακὸν ζητεῖς σεαυτῷ, ἦ γάρ;\""
+  },
+  {
+    "id": "0x719F",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Hey, kid, you've got guts coming\\n\"\n\"around here wearing that!\\n\"\n\"Still, you can't fool us that\\n\"\n\"easily!\"",
+    "el_msg": "\"Ὦ παῖ, θρασὺς εἶ ἐνθάδε φοιτῶν\\n\" \"τοῦτο φορῶν!\\n\" \"Ἀλλ' οὐχ οὕτω ῥᾳδίως\\n\" \"ἐξαπατήσεις ἡμᾶς!\""
+  },
+  {
+    "id": "0x71A0",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"What is that?\\n\"\n\"What does it have to do with\\n\"\n\"us?\"",
+    "el_msg": "\"Τί τοῦτό ἐστιν;\\n\" \"Τί δὲ προσήκει ἡμῖν;\""
+  },
+  {
+    "id": "0x71A1",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Ha ha hah!\\n\"\n\"You've got guts to spare, don't\\n\"\n\"you kid? \\n\"\n\"I like you!\"",
+    "el_msg": "\"Ἁ ἅ ἅ!\\n\" \"Θάρσους γέμεις, ὦ παῖ,\\n\" \"ἆρ' οὐχί; \\n\" \"Ἀρέσκεις μοι!\""
+  },
+  {
+    "id": "0x71A2",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"C'mon! It's time to get serious!\"",
+    "el_msg": "\"Ἄγε δή! Ὥρα ἐστὶ σπουδάζειν!\""
+  },
+  {
+    "id": "0x71A3",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"That's odd...it kind of looks like\\n\"\n\"me...\\n\"\n\"No...not really.  Not at all,\\n\"\n\"if you look at it closely.\"",
+    "el_msg": "\"Ἄτοπον μέντοι... ἔοικέ πως\\n\" \"ἐμοί...\\n\" \"Ἀλλ' οὔ... οὐδαμῶς,\\n\" \"ἐὰν ἀκριβῶς προσβλέψῃς.\""
+  },
+  {
+    "id": "0x71A4",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Hmm. No, no, no!\\n\"\n\"The ears aren't right at all!\\n\"\n\"They should be, you know, longer!\"",
+    "el_msg": "\"Μμ. Οὔ, οὔ, οὔ!\\n\" \"Τὰ ὦτα οὐδαμῶς ὀρθῶς ἔχει!\\n\" \"Δεῖ γὰρ αὐτά, οἶσθα,\\n\" \"μακρότερα εἶναι!\""
+  },
+  {
+    "id": "0x71A5",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Aren't you kind of scared, \\n\"\n\"walking around in the middle of\\n\"\n\"the night looking like that?\"",
+    "el_msg": "\"Ἆρ' οὐ φοβῇ πως, περιπατῶν\\n\" \"ἐν μέσῃ τῇ νυκτὶ\\n\" \"τοιοῦτος φαινόμενος;\""
+  },
+  {
+    "id": "0x71A6",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Ha ha hah!\\n\"\n\"You really like those things,\\n\"\n\"don't you?!\"",
+    "el_msg": "\"Ἁ ἅ ἅ!\\n\" \"Πάνυ φιλεῖς τὰ τοιαῦτα,\\n\" \"ἆρ' οὐχί;!\""
+  },
+  {
+    "id": "0x71A7",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"I think I've seen a stone that\\n\"\n\"looks like that somewhere...\\n\"\n\"Now where was that?\\n\"\n\"Hmmmm....\"",
+    "el_msg": "\"Οἶμαι ἑωρακέναι λίθον\\n\" \"ὅμοιον τούτῳ πού ποτε...\\n\" \"Ποῦ δὴ ἦν ἐκεῖνο;\\n\" \"Μμμμ....\""
+  },
+  {
+    "id": "0x71A8",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Hurry up, \" NAME \"!\\n\"\n\"Any second now, the tower is \\n\"\n\"going to collapse!!\"",
+    "el_msg": "\"Σπεῦδε, ὦ \" NAME \"!\\n\" \"Ὅσον οὐδέπω γὰρ ὁ πύργος\\n\" \"συμπεσεῖται!!\""
+  },
+  {
+    "id": "0x71A9",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Watch out for falling rubble!\"",
+    "el_msg": "\"Φυλάττου τὰ πίπτοντα ἐρείπια!\""
+  },
+  {
+    "id": "0x71AA",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "NAME \"!\\n\"\n\"Help me!\"",
+    "el_msg": "NAME \"!\\n\" \"Βοήθει μοι!\""
+  },
+  {
+    "id": "0x71AB",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "NAME \"!\\n\"\n\"The exit is just over there!\"",
+    "el_msg": "NAME \"!\\n\" \"Ἡ ἔξοδος ἐκεῖσε μόνον ἐστίν!\""
+  },
+  {
+    "id": "0x71AC",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"Thank you, \" NAME \".\\n\"\n\"Now, let's hurry!\"",
+    "el_msg": "\"Χάριν σοι οἶδα, ὦ \" NAME \".\\n\" \"Νῦν δὲ σπεύδωμεν!\""
+  },
+  {
+    "id": "0x71AD",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Too bad!\"\nBOX_BREAK\n\n\"Practice hard and come back!\" EVENT",
+    "el_msg": "\"Οὐαί, ὡς ἄθλιον!\" BOX_BREAK \"Ἆθλησον εὖ καὶ ἐπάνελθε!\" EVENT"
+  },
+  {
+    "id": "0x71AE",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Almost!!\"\nBOX_BREAK\n\n\"Well...all right!\\n\"\n\"I'll let you try one more time for\\n\"\n\"free...\\n\"\n\"This time, you gotta do it!\" EVENT",
+    "el_msg": "\"Σχεδόν!!\" BOX_BREAK \"Εἶεν... καλῶς ἔχει!\\n\" \"Ἐάσω σε πάλιν ἅπαξ πειρᾶσθαι\\n\" \"ἀμισθί...\\n\" \"Νῦν δέ σε δεῖ κατορθῶσαι!\" EVENT"
+  },
+  {
+    "id": "0x71AF",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Wonderful!!!\\n\"\n\"Bravo!!!\\n\"\n\"Perfect!!!\"\nBOX_BREAK\n\n\"Here's a fantastic present!\" EVENT",
+    "el_msg": "\"Θαυμάσιον!!!\\n\" \"Εὖ γε!!!\\n\" \"Τέλειον!!!\" BOX_BREAK \"Ἰδοὺ δῶρον ἐξαίσιον!\" EVENT"
+  },
+  {
+    "id": "0x71B0",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_MIDDLE",
+    "en_msg": "QUICKTEXT_ENABLE COLOR(LIGHTBLUE) \"Oh, no! \" COLOR(RED) \"Time's up!\\n\"\nCOLOR(LIGHTBLUE) \"The thing you were going to \\n\"\n\"deliver has spoiled!\\n\"\n\"Let's try again!\" COLOR(DEFAULT) QUICKTEXT_DISABLE EVENT",
+    "el_msg": "QUICKTEXT_ENABLE COLOR(LIGHTBLUE) \"Οἴμοι! \" COLOR(RED) \"Ὁ χρόνος ἐξέλιπεν!\\n\" COLOR(LIGHTBLUE) \"Τὸ πρᾶγμα ὃ ἤμελλες\\n\" \"κομίζειν ἐφθάρη!\\n\" \"Πειρασώμεθα πάλιν!\" COLOR(DEFAULT) QUICKTEXT_DISABLE EVENT"
+  },
+  {
+    "id": "0x71B1",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_MIDDLE",
+    "en_msg": "QUICKTEXT_ENABLE \"BOINNG! BOINNG!\\n\"\n\"The current time is: \" TIME \"!\" QUICKTEXT_DISABLE FADE(40)",
+    "el_msg": "QUICKTEXT_ENABLE \"ΒΟΙΓΓ! ΒΟΙΓΓ!\\n\" \"Ὁ νῦν χρόνος ἐστίν: \" TIME \"!\" QUICKTEXT_DISABLE FADE(40)"
+  },
+  {
+    "id": "0x71B2",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"You heard about us from the\\n\"\n\"guard at Death Mountain gate?\\n\"\n\"Well, I have to give\\n\"\n\"you a good deal then!\"",
+    "el_msg": "\"Ἤκουσας περὶ ἡμῶν παρὰ τοῦ\\n\" \"φύλακος ἐν ταῖς πύλαις τοῦ\\n\" \"Ὄρους τοῦ Θανάτου;\\n\" \"Εἶεν, καλὴν δή σοι τιμὴν δώσω!\""
+  }
+]

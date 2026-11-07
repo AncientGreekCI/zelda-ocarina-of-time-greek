@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ROM binaries (DO NOT DISTRIBUTE COPYRIGHTED ROMS)
+*.z64
+*.v64
+*.n64
+*.bin
+*.rom
+
+# Decompilation repository & external archives
+oot/
+z64font/
+*.zip
+
+# Temporary inspection & scratch directories
+scratch_inspect/
+scratch/
+test_*.png
+preview_*.png
+current_*.png
+im_*.png
+
+# Build artifacts and logs
+*.o
+*.log
+*.bak
+
+# OS metadata
+Thumbs.db
+ehthumbs.db
+desktop.ini
+.DS_Store

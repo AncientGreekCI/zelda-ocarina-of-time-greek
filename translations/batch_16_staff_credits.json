@@ -1,0 +1,338 @@
+[
+  {
+    "id": "0x0500",
+    "box_type": "TEXTBOX_TYPE_CREDITS",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(18) \"Producer/Supervisor\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"SHIGERU MIYAMOTO\" QUICKTEXT_DISABLE FADE2(60)",
+    "el_msg": "QUICKTEXT_ENABLE \"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(18) \"Χορηγὸς / Ἐπόπτης\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΣΙΓΕΡΟΥ ΜΙΓΙΑΜΟΤΟ\" QUICKTEXT_DISABLE FADE2(60)"
+  },
+  {
+    "id": "0x0501",
+    "box_type": "TEXTBOX_TYPE_CREDITS",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(72) \"Directors\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(48) \"Script Director\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(72) \"TORU OSAWA\" QUICKTEXT_DISABLE FADE2(60)",
+    "el_msg": "QUICKTEXT_ENABLE \"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(72) \"Ἐπιστάται\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(48) \"Ἐπιστάτης τοῦ Μύθου\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(72) \"ΤΟΡΟΥ ΟΣΑΒΑ\" QUICKTEXT_DISABLE FADE2(60)"
+  },
+  {
+    "id": "0x0502",
+    "box_type": "TEXTBOX_TYPE_CREDITS",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(18) \"Game System Directors\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"YOICHI YAMADA\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"EIJI ONOZUKA\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) \"3D System Director/Character Design\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"YOSHIAKI KOIZUMI\" QUICKTEXT_DISABLE FADE2(120)",
+    "el_msg": "QUICKTEXT_ENABLE \"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(18) \"Ἐπιστάται τοῦ Παιγνίου\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΓΙΟΙΤΣΙ ΓΙΑΜΑΔΑ\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΕΙΤΖΙ ΟΝΟΖΟΥΚΑ\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) \"Ἐπιστάτης 3Δ / Σχεδιασμὸς Χαρακτήρων\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΓΙΟΣΙΑΚΙ ΚΟΙΖΟΥΜΙ\" QUICKTEXT_DISABLE FADE2(120)"
+  },
+  {
+    "id": "0x0503",
+    "box_type": "TEXTBOX_TYPE_CREDITS",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"Program Director\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(60) \"TOSHIO IWAWAKI\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"Music Composer\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(60) \"KOJI KONDO\" QUICKTEXT_DISABLE FADE2(80)",
+    "el_msg": "QUICKTEXT_ENABLE \"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"Ἐπιστάτης Προγράμματος\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(60) \"ΤΟΣΙΟ ΙΒΑΒΑΚΙ\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"Μελοποιός\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(60) \"ΚΟΤΖΙ ΚΟΝΤΟ\" QUICKTEXT_DISABLE FADE2(80)"
+  },
+  {
+    "id": "0x0504",
+    "box_type": "TEXTBOX_TYPE_CREDITS",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"Cinema Scene Directors\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(60) \"TAKUMI KAWAGOE\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(60) \"NAOKI MORI\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"Map Data Manager\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(60) \"SHIGEO KIMURA\" QUICKTEXT_DISABLE FADE2(120)",
+    "el_msg": "QUICKTEXT_ENABLE \"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"Ἐπιστάται Σκηνῶν\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(60) \"ΤΑΚΟΥΜΙ ΚΑΒΑΓΟΕ\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(60) \"ΝΑΟΚΙ ΜΟΡΙ\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"Ἐπιμελητὴς Χαρτῶν\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(60) \"ΣΙΓΕΟ ΚΙΜΟΥΡΑ\" QUICKTEXT_DISABLE FADE2(120)"
+  },
+  {
+    "id": "0x0505",
+    "box_type": "TEXTBOX_TYPE_CREDITS",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE SHIFT(36) SHIFT(54) \"Programmers\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"Main System\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(60) \"KENZO HAYAKAWA\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"Display System\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(60) \"YASUNARI SOEJIMA\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"Boss Enemy Program\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(60) \"KAZUAKI MORITA\" QUICKTEXT_DISABLE FADE2(120)",
+    "el_msg": "QUICKTEXT_ENABLE SHIFT(36) SHIFT(54) \"Προγραμματισταί\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"Κύριον Σύστημα\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(60) \"ΚΕΝΖΟ ΧΑΓΙΑΚΑΒΑ\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"Σύστημα Ἐμφανίσεως\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(60) \"ΓΙΑΣΟΥΝΑΡΙ ΣΟΕΤΖΙΜΑ\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"Πρόγραμμα Ἀρχιεχθρῶν\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(60) \"ΚΑΖΟΥΑΚΙ ΜΟΡΙΤΑ\" QUICKTEXT_DISABLE FADE2(120)"
+  },
+  {
+    "id": "0x0506",
+    "box_type": "TEXTBOX_TYPE_CREDITS",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"Enemy Program\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"MASUMI TARUKADO\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"HIROSHI UMEMIYA\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"MASARO SAKAKIBARA\" QUICKTEXT_DISABLE FADE2(120)",
+    "el_msg": "QUICKTEXT_ENABLE \"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"Πρόγραμμα Ἐχθρῶν\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΜΑΣΟΥΜΙ ΤΑΡΟΥΚΑΔΟ\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΧΙΡΟΣΙ ΟΥΜΕΜΙΓΙΑ\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΜΑΣΑΡΟ ΣΑΚΑΚΙΜΠΑΡΑ\" QUICKTEXT_DISABLE FADE2(120)"
+  },
+  {
+    "id": "0x0507",
+    "box_type": "TEXTBOX_TYPE_CREDITS",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"Program\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"SHIGEKI YOSHIDA \\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"TAKAMITSU KUZUHARA\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"SATORU TAKAHATA\" QUICKTEXT_DISABLE FADE2(120)",
+    "el_msg": "QUICKTEXT_ENABLE \"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"Πρόγραμμα\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΣΙΓΕΚΙ ΓΙΟΣΙΔΑ \\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΤΑΚΑΜΙΤΣΟΥ ΚΟΥΖΟΥΧΑΡΑ\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΣΑΤΟΡΟΥ ΤΑΚΑΧΑΤΑ\" QUICKTEXT_DISABLE FADE2(120)"
+  },
+  {
+    "id": "0x0508",
+    "box_type": "TEXTBOX_TYPE_CREDITS",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"Program\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"NOBUO OKAJIMA\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"NOBUHIRO SUMIYOSHI\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ATSUSHI NISHIWAKI\" QUICKTEXT_DISABLE FADE2(120)",
+    "el_msg": "QUICKTEXT_ENABLE \"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"Πρόγραμμα\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΝΟΜΠΟΥΟ ΟΚΑΤΖΙΜΑ\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΝΟΜΠΟΥΧΙΡΟ ΣΟΥΜΙΓΙΟΣΙ\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΑΤΣΟΥΣΙ ΝΙΣΙΒΑΚΙ\" QUICKTEXT_DISABLE FADE2(120)"
+  },
+  {
+    "id": "0x0509",
+    "box_type": "TEXTBOX_TYPE_CREDITS",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"Technical Program\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"KENJI MATSUTANI\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"Tool Program\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"YUICHI YAMAMOTO\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"Camera Program\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"MASATOSHI OGAWA\" QUICKTEXT_DISABLE FADE2(120)",
+    "el_msg": "QUICKTEXT_ENABLE \"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"Τεχνικὸν Πρόγραμμα\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΚΕΝΤΖΙ ΜΑΤΣΟΥΤΑΝΙ\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"Πρόγραμμα Ἐργαλείων\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΓΙΟΥΙΤΣΙ ΓΙΑΜΑΜΟΤΟ\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"Πρόγραμμα Ὄψεως\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΜΑΣΑΤΟΣΙ ΟΓΑΒΑ\" QUICKTEXT_DISABLE FADE2(120)"
+  },
+  {
+    "id": "0x050A",
+    "box_type": "TEXTBOX_TYPE_CREDITS",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"Cinema Scene Program\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"MAKOTO SASAKI\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"KUNIHIRO KOMATSU\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"Sound Effects Program\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"YOJI INAGAKI\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"TAKUYA MAEKAWA\" QUICKTEXT_DISABLE FADE2(160)",
+    "el_msg": "QUICKTEXT_ENABLE \"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"Πρόγραμμα Σκηνῶν\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΜΑΚΟΤΟ ΣΑΣΑΚΙ\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΚΟΥΝΙΧΙΡΟ ΚΟΜΑΤΣΟΥ\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"Πρόγραμμα Ἤχων\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΓΙΟΤΖΙ ΙΝΑΓΑΚΙ\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΤΑΚΟΥΓΙΑ ΜΑΕΚΑΒΑ\" QUICKTEXT_DISABLE FADE2(160)"
+  },
+  {
+    "id": "0x050B",
+    "box_type": "TEXTBOX_TYPE_CREDITS",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(66) \"Designers\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"Character Design\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"YOSHIKI HARUHANA\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"SATORU TAKIZAWA\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"JIN IKEDA\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"SATOMI MAEKAWA\" QUICKTEXT_DISABLE FADE2(160)",
+    "el_msg": "QUICKTEXT_ENABLE \"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(66) \"Σχεδιασταί\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"Σχεδιασμὸς Χαρακτήρων\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΓΙΟΣΙΚΙ ΧΑΡΟΥΧΑΝΑ\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΣΑΤΟΡΟΥ ΤΑΚΙΖΑΒΑ\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΤΖΙΝ ΙΚΕΔΑ\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΣΑΤΟΜΙ ΜΑΕΚΑΒΑ\" QUICKTEXT_DISABLE FADE2(160)"
+  },
+  {
+    "id": "0x050C",
+    "box_type": "TEXTBOX_TYPE_CREDITS",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"Field Design\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"MAKOTO MIYANAGA\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"HIROMASA SHIKATA\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"HIROMU TAKEMURA\" QUICKTEXT_DISABLE FADE2(120)",
+    "el_msg": "QUICKTEXT_ENABLE \"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"Σχεδιασμὸς Πεδίου\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΜΑΚΟΤΟ ΜΙΓΙΑΝΑΓΑ\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΧΙΡΟΜΑΣΑ ΣΙΚΑΤΑ\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΧΙΡΟΜΟΥ ΤΑΚΕΜΟΥΡΑ\" QUICKTEXT_DISABLE FADE2(120)"
+  },
+  {
+    "id": "0x050D",
+    "box_type": "TEXTBOX_TYPE_CREDITS",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"Dungeon Design\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"KENTA USUI\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"SHINICHI IKEMATSU\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"TAKESHI HOSONO\" QUICKTEXT_DISABLE FADE2(120)",
+    "el_msg": "QUICKTEXT_ENABLE \"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"Σχεδιασμὸς Δεσμωτηρίων\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΚΕΝΤΑ ΟΥΣΟΥΙ\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΣΙΝΙΤΣΙ ΙΚΕΜΑΤΣΟΥ\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΤΑΚΕΣΙ ΧΟΣΟΝΟ\" QUICKTEXT_DISABLE FADE2(120)"
+  },
+  {
+    "id": "0x050E",
+    "box_type": "TEXTBOX_TYPE_CREDITS",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"Effects Design\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"TOMOAKI KUROUME\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"Prerendered Background Design\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"SHIGEKI YOSHIDA\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"Item Design\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"REN UEHARA\" QUICKTEXT_DISABLE FADE2(120)",
+    "el_msg": "QUICKTEXT_ENABLE \"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"Σχεδιασμὸς Φασμάτων\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΤΟΜΟΑΚΙ ΚΟΥΡΟΥΜΕ\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"Σχεδιασμὸς Ὑποβάθρων\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΣΙΓΕΚΙ ΓΙΟΣΙΔΑ\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"Σχεδιασμὸς Σκευῶν\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΡΕΝ ΟΥΕΧΑΡΑ\" QUICKTEXT_DISABLE FADE2(120)"
+  },
+  {
+    "id": "0x050F",
+    "box_type": "TEXTBOX_TYPE_CREDITS",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"Cinema Scene Unit\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"Assistant Director\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"DAIKI IWAMOTO\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"Cinema Scene Animators\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"HIROSHI MATSUNAGA\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"DAISUKE KAGEYAMA\" QUICKTEXT_DISABLE FADE2(120)",
+    "el_msg": "QUICKTEXT_ENABLE \"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"Τμῆμα Σκηνῶν\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"Ὑποεπιστάτης\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΔΑΙΚΙ ΙΒΑΜΟΤΟ\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"Ἐμψυχωταὶ Σκηνῶν\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΧΙΡΟΣΙ ΜΑΤΣΟΥΝΑΓΑ\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΔΑΙΣΟΥΚΕ ΚΑΓΕΓΙΑΜΑ\" QUICKTEXT_DISABLE FADE2(120)"
+  },
+  {
+    "id": "0x0510",
+    "box_type": "TEXTBOX_TYPE_CREDITS",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"MOCAP System Directors\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"SHINYA TAKAHASHI\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"TSUYOSHI WATANABE\" QUICKTEXT_DISABLE FADE2(80)",
+    "el_msg": "QUICKTEXT_ENABLE \"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"Ἐπιστάται Κινήσεως\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΣΙΝΓΙΑ ΤΑΚΑΧΑΣΙ\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΤΣΟΥΓΙΟΣΙ ΒΑΤΑΝΑΜΠΕ\" QUICKTEXT_DISABLE FADE2(80)"
+  },
+  {
+    "id": "0x0511",
+    "box_type": "TEXTBOX_TYPE_CREDITS",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"\\n\"\nSHIFT(36) SHIFT(72) \"Actor Unit\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"Character Voices\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"FUJIKO TAKIMOTO\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"NOBUYUKI HIYAMA\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"JUN MIZUSAWA\" QUICKTEXT_DISABLE FADE2(120)",
+    "el_msg": "QUICKTEXT_ENABLE \"\\n\"\nSHIFT(36) SHIFT(72) \"Τμῆμα Ὑποκριτῶν\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"Φωναὶ Χαρακτήρων\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΦΟΥΤΖΙΚΟ ΤΑΚΙΜΟΤΟ\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΝΟΜΠΟΥΓΙΟΥΚΙ ΧΙΓΙΑΜΑ\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΤΖΟΥΝ ΜΙΖΟΥΣΑΒΑ\" QUICKTEXT_DISABLE FADE2(120)"
+  },
+  {
+    "id": "0x0512",
+    "box_type": "TEXTBOX_TYPE_CREDITS",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"Character Voices\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"TAKASHI NAGASAKO\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"YAYOI JINGUJI\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"KAORI MIZUHASHI\" QUICKTEXT_DISABLE FADE2(120)",
+    "el_msg": "QUICKTEXT_ENABLE \"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"Φωναὶ Χαρακτήρων\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΤΑΚΑΣΙ ΝΑΓΑΣΑΚΟ\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΓΙΑΓΙΟΙ ΤΖΙΝΓΚΟΥΤΖΙ\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΚΑΟΡΙ ΜΙΖΟΥΧΑΣΙ\" QUICKTEXT_DISABLE FADE2(120)"
+  },
+  {
+    "id": "0x0513",
+    "box_type": "TEXTBOX_TYPE_CREDITS",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) \"  Motion Capture Actor\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(36) \"YOSHINORI TSUJIMOTO (JAC)\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) \"  Action Coordinator\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(36) \"YUTA MOROKAJI (JAC)\" QUICKTEXT_DISABLE FADE2(80)",
+    "el_msg": "QUICKTEXT_ENABLE \"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) \"  Ὑποκριτὴς Κινήσεως\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(36) \"ΓΙΟΣΙΝΟΡΙ ΤΣΟΥΤΖΙΜΟΤΟ (ΙΑC)\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) \"  Συντονιστὴς Δράσεως\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(36) \"ΓΙΟΥΤΑ ΜΟΡΟΚΑΤΖΙ (ΙΑC)\" QUICKTEXT_DISABLE FADE2(80)"
+  },
+  {
+    "id": "0x0514",
+    "box_type": "TEXTBOX_TYPE_CREDITS",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"\\n\"\nSHIFT(36) SHIFT(54) \"Art Work Unit\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(18) \"Character Illustration\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"YUSUKE NAKANO\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(18) \"Illustration Support\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"WATARU YAMAGUCHI\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"MINORU MAEDA\" QUICKTEXT_DISABLE FADE2(120)",
+    "el_msg": "QUICKTEXT_ENABLE \"\\n\"\nSHIFT(36) SHIFT(54) \"Τμῆμα Τέχνης\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(18) \"Εἰκονογραφία Χαρακτήρων\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΓΙΟΥΣΟΥΚΕ ΝΑΚΑΝΟ\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(18) \"Βοήθεια Εἰκονογραφίας\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΒΑΤΑΡΟΥ ΓΙΑΜΑΓΚΟΥΤΣΙ\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΜΙΝΟΡΟΥ ΜΑΕΔΑ\" QUICKTEXT_DISABLE FADE2(120)"
+  },
+  {
+    "id": "0x0515",
+    "box_type": "TEXTBOX_TYPE_CREDITS",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"Manual Editors\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"YUSHI OZEKI\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"YASUHIRO SAKAI\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"JIM WORNELL\" QUICKTEXT_DISABLE FADE2(120)",
+    "el_msg": "QUICKTEXT_ENABLE \"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"Συντάκται Ἐγχειριδίου\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΓΙΟΥΣΙ ΟΖΕΚΙ\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΓΙΑΣΟΥΧΙΡΟ ΣΑΚΑΙ\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΤΖΙΜ ΒΟΡΝΕΛ\" QUICKTEXT_DISABLE FADE2(120)"
+  },
+  {
+    "id": "0x0516",
+    "box_type": "TEXTBOX_TYPE_CREDITS",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE SHIFT(36) SHIFT(60) \"Support Unit\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(18) \"Supervisors\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"TAKASHI TEZUKA\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"TOSHIHIKO NAKAGO\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(18) \"Schedule Management\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"YOSHITAKA NISHIKAWA\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(18) \"Coordinator\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"MITSUHIRO TAKANO\" QUICKTEXT_DISABLE FADE2(120)",
+    "el_msg": "QUICKTEXT_ENABLE SHIFT(36) SHIFT(60) \"Τμῆμα Ὑποστηρίξεως\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(18) \"Ἐπόπται\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΤΑΚΑΣΙ ΤΕΖΟΥΚΑ\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΤΟΣΙΧΙΚΟ ΝΑΚΑΓΟ\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(18) \"Ἐπιμέλεια Χρόνου\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΓΙΟΣΙΤΑΚΑ ΝΙΣΙΚΑΒΑ\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(18) \"Συντονιστής\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΜΙΤΣΟΥΧΙΡΟ ΤΑΚΑΝΟ\" QUICKTEXT_DISABLE FADE2(120)"
+  },
+  {
+    "id": "0x0517",
+    "box_type": "TEXTBOX_TYPE_CREDITS",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"Script Support\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(60) \"KENSUKE TANABE\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"English Text Writer\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(60) \"DAN OWSEN\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"English Text Translation\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(60) \"HIRO YAMADA\" QUICKTEXT_DISABLE FADE2(120)",
+    "el_msg": "QUICKTEXT_ENABLE \"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"Ὑποστήριξις Μύθου\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(60) \"ΚΕΝΣΟΥΚΕ ΤΑΝΑΜΠΕ\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"Συγγραφεὺς Ἀγγλικῶν\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(60) \"ΝΤΑΝ ΩΣΕΝ\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"Μετάφρασις Ἀγγλικῶν\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(60) \"ΧΙΡΟ ΓΙΑΜΑΔΑ\" QUICKTEXT_DISABLE FADE2(120)"
+  },
+  {
+    "id": "0x0518",
+    "box_type": "TEXTBOX_TYPE_CREDITS",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(18) \"Technical Support\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"HIRONOBU KAKUI\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"HIROHITO YOSHIMOTO\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"YOSHINORI TANIMOTO\" QUICKTEXT_DISABLE FADE2(80)",
+    "el_msg": "QUICKTEXT_ENABLE \"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(18) \"Τεχνικὴ Ὑποστήριξις\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΧΙΡΟΝΟΜΠΟΥ ΚΑΚΟΥΙ\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΧΙΡΟΧΙΤΟ ΓΙΟΣΙΜΟΤΟ\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΓΙΟΣΙΝΟΡΙ ΤΑΝΙΜΟΤΟ\" QUICKTEXT_DISABLE FADE2(80)"
+  },
+  {
+    "id": "0x0519",
+    "box_type": "TEXTBOX_TYPE_CREDITS",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(18) \"Technical Support\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"HIDEAKI SHIMIZU\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"SHIN HASEGAWA\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"YASUKI TAWARAISHI\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"SHINGO OKAMOTO\" QUICKTEXT_DISABLE FADE2(120)",
+    "el_msg": "QUICKTEXT_ENABLE \"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(18) \"Τεχνικὴ Ὑποστήριξις\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΧΙΔΕΑΚΙ ΣΙΜΙΖΟΥ\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΣΙΝ ΧΑΣΕΓΑΒΑ\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΓΙΑΣΟΥΚΙ ΤΑΒΑΡΑΙΣΙ\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΣΙΝΓΚΟ ΟΚΑΜΟΤΟ\" QUICKTEXT_DISABLE FADE2(120)"
+  },
+  {
+    "id": "0x051A",
+    "box_type": "TEXTBOX_TYPE_CREDITS",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(18) \"Motion Editors\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"HIROSHI MOMOSE\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"RUI SHIMAMURA\" QUICKTEXT_DISABLE FADE2(80)",
+    "el_msg": "QUICKTEXT_ENABLE \"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(18) \"Διορθωταὶ Κινήσεως\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΧΙΡΟΣΙ ΜΟΜΟΣΕ\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΡΟΥΙ ΣΙΜΑΜΟΥΡΑ\" QUICKTEXT_DISABLE FADE2(80)"
+  },
+  {
+    "id": "0x051B",
+    "box_type": "TEXTBOX_TYPE_CREDITS",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(18) \"NOA Support\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"MIKE FUKUDA\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"GAIL TILDEN\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"YOSHIO TSUBOIKE\" QUICKTEXT_DISABLE FADE2(120)",
+    "el_msg": "QUICKTEXT_ENABLE \"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(18) \"Ὑποστήριξις ΝΟΑ\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΜΑΙΚ ΦΟΥΚΟΥΔΑ\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΓΚΕΙΛ ΤΙΛΝΤΕΝ\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΓΙΟΣΙΟ ΤΣΟΥΜΠΟΙΚΕ\" QUICKTEXT_DISABLE FADE2(120)"
+  },
+  {
+    "id": "0x051C",
+    "box_type": "TEXTBOX_TYPE_CREDITS",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"Progress Management\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(60) \"KIMIYOSHI FUKUI\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(60) \"KEIZO KATO\" QUICKTEXT_DISABLE FADE2(80)",
+    "el_msg": "QUICKTEXT_ENABLE \"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"Ἐπιμέλεια Προόδου\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(60) \"ΚΙΜΙΓΙΟΣΙ ΦΟΥΚΟΥΙ\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(60) \"ΚΕΙΖΟ ΚΑΤΟ\" QUICKTEXT_DISABLE FADE2(80)"
+  },
+  {
+    "id": "0x051D",
+    "box_type": "TEXTBOX_TYPE_CREDITS",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(18) \"Special Thanks to\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(48) \"MITSUHIRO HIKINO\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(48) \"YOSHITAKA TAKESHITA\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(48) \"GENTARO TAKAGI\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(48) \"ATSUSHI SAKAGUCHI\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(48) \"HAJIME KITAGAWA\" QUICKTEXT_DISABLE FADE2(200)",
+    "el_msg": "QUICKTEXT_ENABLE \"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(18) \"Ἰδιαίτεραι Εὐχαριστίαι\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(48) \"ΜΙΤΣΟΥΧΙΡΟ ΧΙΚΙΝΟ\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(48) \"ΓΙΟΣΙΤΑΚΑ ΤΑΚΕΣΙΤΑ\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(48) \"ΓΚΕΝΤΑΡΟ ΤΑΚΑΓΙ\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(48) \"ΑΤΣΟΥΣΙ ΣΑΚΑΓΚΟΥΤΣΙ\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(48) \"ΧΑΤΖΙΜΕ ΚΙΤΑΓΑΒΑ\" QUICKTEXT_DISABLE FADE2(200)"
+  },
+  {
+    "id": "0x051E",
+    "box_type": "TEXTBOX_TYPE_CREDITS",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"Special Thanks to\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(42) \"NINTENDO E.A.D\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(42) \"SUPER MARIO CLUB\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(42) \"NINTENDO OF AMERICA INC.\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(48) \"DEBUGGING STAFF\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(42) \"JAPAN ACTION CLUB\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(42) \"ARTS VISION\" QUICKTEXT_DISABLE FADE2(80)",
+    "el_msg": "QUICKTEXT_ENABLE \"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"Ἰδιαίτεραι Εὐχαριστίαι\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(42) \"ΝΙΝΤΕΝΤΟ Ε.Α.Δ.\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(42) \"ΣΟΥΠΕΡ ΜΑΡΙΟ ΚΛΑΜΠ\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(42) \"ΝΙΝΤΕΝΤΟ ΑΜΕΡΙΚΗΣ Α.Ε.\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(48) \"ΣΥΝΕΡΓΑΤΑΙ ΔΙΟΡΘΩΣΕΩΣ\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(42) \"ΙΑΠΑΝ ΑΚΤΙΟΝ ΚΛΑΜΠ\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(42) \"ΑΡΤΣ ΒΙΖΙΟΝ\" QUICKTEXT_DISABLE FADE2(80)"
+  },
+  {
+    "id": "0x051F",
+    "box_type": "TEXTBOX_TYPE_CREDITS",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(18) \"Executive Producer\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"HIROSHI YAMAUCHI\" QUICKTEXT_DISABLE FADE2(80)",
+    "el_msg": "QUICKTEXT_ENABLE \"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(18) \"Γενικὸς Χορηγός\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΧΙΡΟΣΙ ΓΙΑΜΑΟΥΤΣΙ\" QUICKTEXT_DISABLE FADE2(80)"
+  },
+  {
+    "id": "0x0520",
+    "box_type": "TEXTBOX_TYPE_CREDITS",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(18) \"Special Thanks to\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(42) \"NINTENDO E.A.D.\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(42) \"SUPER MARIO CLUB\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(42) \"NINTENDO OF AMERICA INC.\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(48) \"DEBUGGING STAFF\" QUICKTEXT_DISABLE FADE2(80)",
+    "el_msg": "QUICKTEXT_ENABLE \"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(18) \"Ἰδιαίτεραι Εὐχαριστίαι\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(42) \"ΝΙΝΤΕΝΤΟ Ε.Α.Δ.\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(42) \"ΣΟΥΠΕΡ ΜΑΡΙΟ ΚΛΑΜΠ\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(42) \"ΝΙΝΤΕΝΤΟ ΑΜΕΡΙΚΗΣ Α.Ε.\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(48) \"ΣΥΝΕΡΓΑΤΑΙ ΔΙΟΡΘΩΣΕΩΣ\" QUICKTEXT_DISABLE FADE2(80)"
+  },
+  {
+    "id": "0x0521",
+    "box_type": "TEXTBOX_TYPE_CREDITS",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"Special Thanks to\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"JAPAN ACTION CLUB\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ARTS VISION\" QUICKTEXT_DISABLE FADE2(80)",
+    "el_msg": "QUICKTEXT_ENABLE \"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(24) \"Ἰδιαίτεραι Εὐχαριστίαι\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΙΑΠΑΝ ΑΚΤΙΟΝ ΚΛΑΜΠ\\n\"\n\"\\n\"\n\"\\n\"\nSHIFT(36) SHIFT(54) \"ΑΡΤΣ ΒΙΖΙΟΝ\" QUICKTEXT_DISABLE FADE2(80)"
+  },
+  {
+    "id": "0x0522",
+    "box_type": "TEXTBOX_TYPE_CREDITS",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"22\" QUICKTEXT_DISABLE FADE2(80)",
+    "el_msg": "QUICKTEXT_ENABLE \"22\" QUICKTEXT_DISABLE FADE2(80)"
+  },
+  {
+    "id": "0x0523",
+    "box_type": "TEXTBOX_TYPE_CREDITS",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"23\" QUICKTEXT_DISABLE FADE2(80)",
+    "el_msg": "QUICKTEXT_ENABLE \"23\" QUICKTEXT_DISABLE FADE2(80)"
+  },
+  {
+    "id": "0x0524",
+    "box_type": "TEXTBOX_TYPE_CREDITS",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"24\" QUICKTEXT_DISABLE FADE2(80)",
+    "el_msg": "QUICKTEXT_ENABLE \"24\" QUICKTEXT_DISABLE FADE2(80)"
+  },
+  {
+    "id": "0x0525",
+    "box_type": "TEXTBOX_TYPE_CREDITS",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"25\" QUICKTEXT_DISABLE FADE2(80)",
+    "el_msg": "QUICKTEXT_ENABLE \"25\" QUICKTEXT_DISABLE FADE2(80)"
+  },
+  {
+    "id": "0x0526",
+    "box_type": "TEXTBOX_TYPE_CREDITS",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"26\" QUICKTEXT_DISABLE FADE2(80)",
+    "el_msg": "QUICKTEXT_ENABLE \"26\" QUICKTEXT_DISABLE FADE2(80)"
+  },
+  {
+    "id": "0x0527",
+    "box_type": "TEXTBOX_TYPE_CREDITS",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"27\" QUICKTEXT_DISABLE FADE2(80)",
+    "el_msg": "QUICKTEXT_ENABLE \"27\" QUICKTEXT_DISABLE FADE2(80)"
+  },
+  {
+    "id": "0x0528",
+    "box_type": "TEXTBOX_TYPE_CREDITS",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"28\" QUICKTEXT_DISABLE FADE2(80)",
+    "el_msg": "QUICKTEXT_ENABLE \"28\" QUICKTEXT_DISABLE FADE2(80)"
+  },
+  {
+    "id": "0x0529",
+    "box_type": "TEXTBOX_TYPE_CREDITS",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"29\" QUICKTEXT_DISABLE FADE2(80)",
+    "el_msg": "QUICKTEXT_ENABLE \"29\" QUICKTEXT_DISABLE FADE2(80)"
+  },
+  {
+    "id": "0x052A",
+    "box_type": "TEXTBOX_TYPE_CREDITS",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"2A\" QUICKTEXT_DISABLE FADE2(80)",
+    "el_msg": "QUICKTEXT_ENABLE \"2A\" QUICKTEXT_DISABLE FADE2(80)"
+  },
+  {
+    "id": "0x052B",
+    "box_type": "TEXTBOX_TYPE_CREDITS",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"2B\" QUICKTEXT_DISABLE FADE2(80)",
+    "el_msg": "QUICKTEXT_ENABLE \"2B\" QUICKTEXT_DISABLE FADE2(80)"
+  },
+  {
+    "id": "0x052C",
+    "box_type": "TEXTBOX_TYPE_CREDITS",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"2C\" QUICKTEXT_DISABLE FADE2(80)",
+    "el_msg": "QUICKTEXT_ENABLE \"2C\" QUICKTEXT_DISABLE FADE2(80)"
+  },
+  {
+    "id": "0x052D",
+    "box_type": "TEXTBOX_TYPE_CREDITS",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"2D\" QUICKTEXT_DISABLE FADE2(80)",
+    "el_msg": "QUICKTEXT_ENABLE \"2D\" QUICKTEXT_DISABLE FADE2(80)"
+  },
+  {
+    "id": "0x052E",
+    "box_type": "TEXTBOX_TYPE_CREDITS",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"2E\" QUICKTEXT_DISABLE FADE2(80)",
+    "el_msg": "QUICKTEXT_ENABLE \"2E\" QUICKTEXT_DISABLE FADE2(80)"
+  },
+  {
+    "id": "0x052F",
+    "box_type": "TEXTBOX_TYPE_CREDITS",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"2F\" QUICKTEXT_DISABLE FADE2(80)",
+    "el_msg": "QUICKTEXT_ENABLE \"2F\" QUICKTEXT_DISABLE FADE2(80)"
+  }
+]

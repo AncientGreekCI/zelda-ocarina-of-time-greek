@@ -1,0 +1,1024 @@
+[
+  {
+    "id": "0x2000",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "UNSKIPPABLE \"Thank you very much for the \\n\"\n\"other day... I haven't even asked\\n\"\n\"you your name yet...\"\nBOX_BREAK\n\nUNSKIPPABLE TEXT_SPEED(2) \"........\" TEXT_SPEED(0)\nBOX_BREAK\n\nUNSKIPPABLE \"Really?\\n\"\nNAME \"!\"\nBOX_BREAK\n\nUNSKIPPABLE QUICKTEXT_ENABLE \"That's what I thought!\" QUICKTEXT_DISABLE \"\\n\"\n\"You're the fairy boy from the\\n\"\n\"forest! That was years ago!\\n\"\n\"Do you remember me?\"\nBOX_BREAK\n\nUNSKIPPABLE \"You do? I was sure it was you\\n\"\n\"because Epona remembered you!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Oh, I have to tell you about\\n\"\nCOLOR(RED) \"Mr. Ingo\" COLOR(DEFAULT) \"...\"\nBOX_BREAK\n\nUNSKIPPABLE \"He was afraid that the Evil King\\n\"\n\"might find out that Epona had\\n\"\n\"been taken away...It really upset\\n\"\n\"him!\"\nBOX_BREAK\n\nUNSKIPPABLE \"But one day, all of a sudden, he\\n\"\n\"went back to being a normal, \" COLOR(RED) \"nice\\n\"\n\"person\" COLOR(DEFAULT) \"!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Now my dad is coming back...I\\n\"\n\"can't believe it, but peace is\\n\"\n\"returning to this ranch!\"\nBOX_BREAK\n\nUNSKIPPABLE \"It's all because of you! I\\n\"\n\"owe you so much!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Thank you! Thank you,\\n\"\nNAME \"!\"",
+    "el_msg": "UNSKIPPABLE \"Χάριν ἔχω σοι μεγίστην περὶ\\n\"\n\"τῶν πρώην... οὐδέπω γὰρ\\n\"\n\"ἠρώτησά σε τοὔνομα...\"\nBOX_BREAK\n\nUNSKIPPABLE TEXT_SPEED(2) \"........\" TEXT_SPEED(0)\nBOX_BREAK\n\nUNSKIPPABLE \"Ἆρ' ἀληθῶς;\\n\"\nNAME \"!\"\nBOX_BREAK\n\nUNSKIPPABLE QUICKTEXT_ENABLE \"Οὕτως ἐδόκουν δή!\" QUICKTEXT_DISABLE \"\\n\"\n\"Σὺ εἶ τὸ νυμφοπαίδιον ἐκ\\n\"\n\"τοῦ δρυμοῦ! Πρὸ ἐτῶν γὰρ ἦν!\\n\"\n\"Ἆρα μέμνησαί μου;\"\nBOX_BREAK\n\nUNSKIPPABLE \"Μέμνησαι; ᾔδη γὰρ ὅτι σὺ\\n\"\n\"εἶ, Ἐπώνα γάρ σε ἐπέγνω!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ἀλλὰ δεῖ με εἰπεῖν σοι περὶ\\n\"\nCOLOR(RED) \"τοῦ Ἴγγωνος\" COLOR(DEFAULT) \"...\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ἐφοβεῖτο γὰρ μὴ ὁ Πονηρὸς\\n\"\n\"Βασιλεὺς γνοίη τὴν Ἐπώναν\\n\"\n\"ἀπηγμένην... καὶ σφόδρα\\n\"\n\"ἐταράχθη!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ἀλλ' ἐξαίφνης ἡμέρᾳ τινὶ\\n\"\n\"πάλιν ἐγένετο \" COLOR(RED) \"χρηστὸς καὶ\\n\"\n\"ἐπιεικής\" COLOR(DEFAULT) \"!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Καὶ νῦν ὁ πατήρ μου ἐπάνεισι...\\n\"\n\"καὶ θαυμάζω, ἀλλ' εἰρήνη\\n\"\n\"ἐπανέρχεται τῇ ἐπαύλει!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Πάντα γὰρ διὰ σὲ γέγονεν!\\n\"\n\"Χάριν σοι μεγίστην ὀφείλω!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Χάρις σοι! Χάρις σοι,\\n\"\nNAME \"!\""
+  },
+  {
+    "id": "0x2001",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"How is \" COLOR(RED) \"Epona \" COLOR(DEFAULT) \"doing?\"\nBOX_BREAK\n\n\"If you play \" COLOR(RED) \"Epona's Song \" COLOR(DEFAULT) \"with\\n\"\n\"your Ocarina, she will surely\\n\"\n\"come to you.\"\nBOX_BREAK\n\n\"Please come back to the ranch\\n\"\n\"whenever you want to \" COLOR(RED) \"train \\n\"\nCOLOR(DEFAULT) \"Epona!\"",
+    "el_msg": "\"Πῶς διάκειται ἡ \" COLOR(RED) \"Ἐπώνα\" COLOR(DEFAULT) \";\"\nBOX_BREAK\n\n\"Ἐὰν μέλπῃς τὴν \" COLOR(RED) \"ᾠδὴν τῆς\\n\"\n\"Ἐπώνας\" COLOR(DEFAULT) \" τῇ πλαγιαύλῳ,\\n\"\n\"πάντως ἥξει πρὸς σέ.\"\nBOX_BREAK\n\n\"Ἐπανελθὲ δὲ εἰς τὴν ἔπαυλιν\\n\"\n\"ὁσάκις ἂν θέλῃς \" COLOR(RED) \"γυμνάσαι\\n\"\nCOLOR(DEFAULT) \"τὴν Ἐπώναν!\""
+  },
+  {
+    "id": "0x2002",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "UNSKIPPABLE \"Epona\" COLOR(RED) \" \" COLOR(DEFAULT) \"looks great!\\n\"\n\"It looks like you were able\\n\"\n\"to tame her, too!\" TEXTID(0x2003)",
+    "el_msg": "UNSKIPPABLE \"Ἡ \" COLOR(RED) \"Ἐπώνα\" COLOR(DEFAULT) \" καλλίστη φαίνεται!\\n\"\n\"Ἔοικας δὲ καὶ δαμάσαι\\n\"\n\"αὐτήν!\" TEXTID(0x2003)"
+  },
+  {
+    "id": "0x2003",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"How about trying your skill with\\n\"\n\"Epona on an \" COLOR(RED) \"obstacle course\" COLOR(DEFAULT) \"?\"\nBOX_BREAK\n\n\"I'll time you for \" COLOR(RED) \"two laps\" COLOR(DEFAULT) \".\\n\"\n\"It's pretty challenging. If you\\n\"\n\"miss jumping a fence in the \\n\"\n\"proper order, you'll fail.\"\nBOX_BREAK\n\n\"How about it?\\n\"\n\"Do you want to try? \\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Let's go\\n\"\n    \"Don't do it\" COLOR(DEFAULT)",
+    "el_msg": "\"Βούλει πειράζειν τὴν τέχνην\\n\"\n\"μετὰ τῆς Ἐπώνας ἐν \" COLOR(RED) \"δρόμῳ\\n\"\n\"μετ' ἐμποδίων\" COLOR(DEFAULT) \";\"\nBOX_BREAK\n\n\"Μετρήσω δὲ τὸν χρόνον \" COLOR(RED) \"δύο\\n\"\n\"περιδρόμων\" COLOR(DEFAULT) \". Χαλεπὸν δ' ἐστίν·\\n\"\n\"εἰ γὰρ μὴ κατὰ τάξιν ὑπερθορεῖ\\n\"\n\"τοὺς δρυφάκτους, ἀποτυγχάνεις.\"\nBOX_BREAK\n\n\"Τί λέγεις;\\n\"\n\"Βούλει πειρᾶσθαι;\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Ἄγωμεν\\n\"\n    \"Μή\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x2004",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Well, your time was \" COLOR(RED) RACE_TIME COLOR(DEFAULT) \".\\n\"\n\"You have to train harder!\"\nBOX_BREAK\n\n\"Remember, you don't need to \\n\"\n\"accelerate to jump over low \\n\"\n\"fences, but you do need to go\\n\"\n\"fast to jump the high fences!\"",
+    "el_msg": "\"Ὁ μὲν χρόνος σου ἦν \" COLOR(RED) RACE_TIME COLOR(DEFAULT) \".\\n\"\n\"Δεῖ σε μᾶλλον ἀσκεῖν!\"\nBOX_BREAK\n\n\"Μέμνησο, οὐ δεῖ σπεύδειν\\n\"\n\"ὑπερθορεῖν τοὺς ταπεινοὺς\\n\"\n\"δρυφάκτους, ἀλλὰ ταχέως ἰέναι\\n\"\n\"ὑπὲρ τοὺς ὑψηλούς!\""
+  },
+  {
+    "id": "0x2005",
+    "box_type": "TEXTBOX_TYPE_NONE_NO_SHADOW",
+    "box_pos": "TEXTBOX_POS_MIDDLE",
+    "en_msg": "NAME \"...can you hear me?\\n\"\n\"It's me, Zelda...\" FADE(60)",
+    "el_msg": "NAME \"...ἆρ' ἀκούεις μου;\\n\"\n\"Ἐγώ εἰμι, ἡ Ζέλδα...\" FADE(60)"
+  },
+  {
+    "id": "0x2006",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "SFX(NA_SE_EV_COW_CRY) \"Moooooooooo!\"\nBOX_BREAK\n\n\"What a nice song...\\n\"\n\"It reminds me of the pasture...\"\nBOX_BREAK\n\n\"That song makes me feel so good,\\n\"\n\"I can produce a lot of milk!\" EVENT",
+    "el_msg": "SFX(NA_SE_EV_COW_CRY) \"Μῦῦῦῦῦῦῦῦῦ!\"\nBOX_BREAK\n\n\"Ὡς καλὴ ἡ ᾠδή...\\n\"\n\"ἀναμιμνήσκει με τῆς νομῆς...\"\nBOX_BREAK\n\n\"Ἥδομαι δὲ τῇ ᾠδῇ ταύτῃ,\\n\"\n\"ὥστε πλεῖστον γάλα παρέχειν!\" EVENT"
+  },
+  {
+    "id": "0x2007",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Have some of my refreshing and \\n\"\n\"nutritious milk!\" EVENT",
+    "el_msg": "\"Λάβε τοῦ δροσεροῦ καὶ\\n\"\n\"θρεπτικοῦ γάλακτός μου!\" EVENT"
+  },
+  {
+    "id": "0x2008",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "NAME \", when you hold\\n\"\n\"this Ocarina in your hand...\"\nBOX_BREAK_DELAYED(60)\n\n\"I won't be around anymore...\"\nBOX_BREAK_DELAYED(60)\n\n\"I wanted to wait for you, but I\\n\"\n\"couldn't delay any longer...\"\nBOX_BREAK_DELAYED(60)\n\n\"At least I could leave you the \\n\"\n\"Ocarina and \" COLOR(LIGHTBLUE) \"this melody\" COLOR(DEFAULT) \"...\" FADE(60)",
+    "el_msg": "NAME \", ὅταν ταύτην\\n\"\n\"τὴν πλαγίαυλον ἐν χερσὶν ἔχῃς...\"\nBOX_BREAK_DELAYED(60)\n\n\"οὐκέτι ἐνταῦθα ἔσομαι...\"\nBOX_BREAK_DELAYED(60)\n\n\"Ἐβουλόμην μὲν περιμεῖναί σε,\\n\"\n\"ἀλλ' οὐκέτι οἵα τ' ἦν μένειν...\"\nBOX_BREAK_DELAYED(60)\n\n\"Ἀλλὰ κατέλιπόν σοι τήν τε\\n\"\n\"πλαγίαυλον καὶ \" COLOR(LIGHTBLUE) \"τήνδε τὴν\\n\"\n\"μελῳδίαν\" COLOR(DEFAULT) \"...\" FADE(60)"
+  },
+  {
+    "id": "0x2009",
+    "box_type": "TEXTBOX_TYPE_NONE_NO_SHADOW",
+    "box_pos": "TEXTBOX_POS_MIDDLE",
+    "en_msg": "UNSKIPPABLE \"Now, \" NAME \".\\n\"\n\"Play this melody in front of the\\n\"\n\"altar in the Temple of Time.\\n\"\n\"You must protect the Triforce!\"",
+    "el_msg": "UNSKIPPABLE \"Καὶ νῦν, \" NAME \".\\n\"\n\"Μέλψον τήνδε τὴν μελῳδίαν\\n\"\n\"πρὸ τοῦ βωμοῦ ἐν τῷ Ναῷ τοῦ\\n\"\n\"Χρόνου. Φύλαττε τὴν Τριδύναμιν!\""
+  },
+  {
+    "id": "0x200A",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "UNSKIPPABLE \"Wha-ha-ha-hah! Do you think \\n\"\n\"you're in disguise, Mr. Hero?\"\nBOX_BREAK\n\nUNSKIPPABLE SHIFT(87) \"Oh?\"\nBOX_BREAK\n\nUNSKIPPABLE \"Is that a \\\"Kee...something...\\\"\\n\"\n\"character mask? I heard he's \\n\"\n\"very popular recently?\"\nBOX_BREAK\n\nUNSKIPPABLE \"He's my boy's favorite. That\\n\"\n\"\\\"Kee...something...\\\" mask...\\n\"\n\"If you don't mind...\" TEXTID(0x200B)",
+    "el_msg": "UNSKIPPABLE \"Οὐὰ χα χα χά! Ἆρα νομίζεις\\n\"\n\"μετημφιέσθαι, ὦ Ἥρως;\"\nBOX_BREAK\n\nUNSKIPPABLE SHIFT(87) \"Ἆρα;\"\nBOX_BREAK\n\nUNSKIPPABLE \"Μῶν τοῦτο τὸ προσωπεῖον\\n\"\n\"τοῦ «Κη... τινος»; Ἤκουσα γὰρ\\n\"\n\"ὅτι νῦν πάνυ εὐδοκιμεῖ;\"\nBOX_BREAK\n\nUNSKIPPABLE \"Τῷ γὰρ παιδίῳ μου μάλιστα\\n\"\n\"ἀρέσκει. Τὸ τοῦ «Κη...»...\\n\"\n\"Εἰ μή τί σοι διαφέρει...\" TEXTID(0x200B)"
+  },
+  {
+    "id": "0x200B",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Will you sell it to me?\\n\"\n\"\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Yes\\n\"\n    \"No way\" COLOR(DEFAULT)",
+    "el_msg": "\"Ἆρ' ἀποδώσῃ μοι αὐτό;\\n\"\n\"\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Ναί\\n\"\n    \"Οὐδαμῶς\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x200C",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"I won't give up! I have plenty of\\n\"\n\"patience. I have to for this \\n\"\n\"job!  Hah hah hah!\" EVENT",
+    "el_msg": "\"Οὐκ ἀποστήσομαι! Πολλὴν\\n\"\n\"γὰρ ἔχω ὑπομονήν. Ἀνάγκη γὰρ\\n\"\n\"ἐν τῷ ἔργῳ τούτῳ! Ἁ ἃ ἅ!\" EVENT"
+  },
+  {
+    "id": "0x200D",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE \"Mmmm...mumble...mumble...\\n\"\n\"Huh? Yeah, I'm awake!\"\nBOX_BREAK\n\nUNSKIPPABLE \"What?\"\nBOX_BREAK\n\nUNSKIPPABLE \"Hey, it's you! Welcome!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Awww... That was rough!\\n\"\n\"Malon yelled at me for a long\\n\"\n\"time!\"\nBOX_BREAK\n\nUNSKIPPABLE \"You took care of us, so I'm proud \\n\"\n\"to give you this \" COLOR(RED) \"milk\" COLOR(DEFAULT) \"! You can \\n\"\n\"keep the bottle for yourself.\"",
+    "el_msg": "UNSKIPPABLE \"Μμμ... τονθορύζω...\\n\"\n\"Ἆρα; Ναί, ἐγρήγορα!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Τί ἐστιν;\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ὦ χαῖρε, σύ γε! Εὖ ἥκεις!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Οἴμοι... χαλεπὸν γὰρ ἦν!\\n\"\n\"Ἡ γὰρ Μάλων ἐπὶ πολὺν\\n\"\n\"χρόνον κατεβόα μου!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ἐπεὶ δὲ ἐπεμελήθης ἡμῶν,\\n\"\n\"ἄσμενος δίδωμί σοι τόδε\\n\"\n\"τὸ \" COLOR(RED) \"γάλα\" COLOR(DEFAULT) \"! Ἔξεστι δέ σοι τὴν\\n\"\n\"λήκυθον ἔχειν.\""
+  },
+  {
+    "id": "0x200E",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"The \" COLOR(RED) \"road is closed \" COLOR(DEFAULT) \"beyond this\\n\"\n\"point!\\n\"\n\"Can't you read the sign over \\n\"\n\"there?\"\nBOX_BREAK\n\n\"Eh? Oh, I see. You're just a kid,\\n\"\n\"and you can't read yet. \\n\"\n\"Ha ha hah!\"",
+    "el_msg": "\"Ἡ \" COLOR(RED) \"ὁδὸς κέκλεισται\" COLOR(DEFAULT) \" πέραν τοῦδε!\\n\"\n\"Οὐ δύνασαι ἀναγνῶναι τὸ\\n\"\n\"ἐκεῖ σῆμα;\"\nBOX_BREAK\n\n\"Ἆρα; ὢ γιγνώσκω. Παιδάριον γὰρ\\n\"\n\"εἶ, καὶ οὔπω γράμματα οἶδας.\\n\"\n\"Ἁ ἃ ἅ!\""
+  },
+  {
+    "id": "0x200F",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"I don't want that!\"",
+    "el_msg": "\"Τοῦτο οὐ βούλομαι!\""
+  },
+  {
+    "id": "0x2010",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "UNSKIPPABLE \"Oh, this is...\\n\"\n\"This is surely Princess Zelda's \\n\"\n\"handwriting! Well, let's see...\\n\"\n\"Hmmm... OK...\"\nBOX_BREAK\n\nUNSKIPPABLE SHIFT(6) \"\\\"\" COLOR(PURPLE) \"This is \" NAME \"...\\n\"\nCOLOR(DEFAULT) SHIFT(6) COLOR(PURPLE) \"He is under my orders to save\\n\"\nCOLOR(DEFAULT) SHIFT(6) COLOR(PURPLE) \"Hyrule.\" COLOR(DEFAULT) \"\\\"\"\nBOX_BREAK\n\nUNSKIPPABLE \"Wah ha ha ha hah!\\n\"\n\"What kind of funny game has our\\n\"\n\"Princess come up with now?!\"\nBOX_BREAK\n\nUNSKIPPABLE \"OK, OK, all right.  You can go \\n\"\n\"now... Just be careful, Mr. Hero!\\n\"\nTEXT_SPEED(1) QUICKTEXT_ENABLE \"Wah\" QUICKTEXT_DISABLE \" \" QUICKTEXT_ENABLE \"hah\" QUICKTEXT_DISABLE \" \" QUICKTEXT_ENABLE \"ha\" QUICKTEXT_DISABLE \" \" QUICKTEXT_ENABLE \"ha\" QUICKTEXT_DISABLE \" \" QUICKTEXT_ENABLE \"hah!\" QUICKTEXT_DISABLE TEXT_SPEED(0) EVENT",
+    "el_msg": "UNSKIPPABLE \"Ὠ, τοῦτό γε...\\n\"\n\"ταῦτα σαφῶς τὰ τῆς βασιλίδος\\n\"\n\"Ζέλδας γράμματά ἐστιν!\\n\"\n\"Φέρε ἴδωμεν... μμμ... εἶεν...\"\nBOX_BREAK\n\nUNSKIPPABLE SHIFT(6) \"\\\"\\\"\" COLOR(PURPLE) \"Οὗτός ἐστιν \" NAME \"...\\n\"\nCOLOR(DEFAULT) SHIFT(6) COLOR(PURPLE) \"ὑπ' ἐμοῦ τεταγμένος σῷσαι\\n\"\nCOLOR(DEFAULT) SHIFT(6) COLOR(PURPLE) \"τὴν Ὑρούλην.\" COLOR(DEFAULT) \"\\\"\\\"\"\nBOX_BREAK\n\nUNSKIPPABLE \"Οὐὰ χα χα χα χά!\\n\"\n\"Ποίαν δὴ γελοίαν παιδιὰν\\n\"\n\"ἡ βασιλὶς ἐξεῦρεν ἄρτι;\"\nBOX_BREAK\n\nUNSKIPPABLE \"Εἶεν, εἶεν, ἔξεστί σοι ἰέναι\\n\"\n\"νῦν... Φυλάττου μόνον, ὦ Ἥρως!\\n\"\nTEXT_SPEED(1) QUICKTEXT_ENABLE \"Οὐὰ\" QUICKTEXT_DISABLE \" \" QUICKTEXT_ENABLE \"χα\" QUICKTEXT_DISABLE \" \" QUICKTEXT_ENABLE \"χα\" QUICKTEXT_DISABLE \" \" QUICKTEXT_ENABLE \"χα\" QUICKTEXT_DISABLE \" \" QUICKTEXT_ENABLE \"χά!\" QUICKTEXT_DISABLE TEXT_SPEED(0) EVENT"
+  },
+  {
+    "id": "0x2011",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Oh, Mr. Hero!\\n\"\n\"Thanks for all your hard work!\\n\"\nTEXT_SPEED(1) QUICKTEXT_ENABLE \"Wah\" QUICKTEXT_DISABLE \" \" QUICKTEXT_ENABLE \"ha\" QUICKTEXT_DISABLE \" \" QUICKTEXT_ENABLE \"ha\" QUICKTEXT_DISABLE \" \" QUICKTEXT_ENABLE \"hah\" QUICKTEXT_DISABLE TEXT_SPEED(0) \"!!\"",
+    "el_msg": "\"Ὦ Ἥρως!\\n\"\n\"Χάρις σοι τοῦ πολλοῦ κόπου!\\n\"\nTEXT_SPEED(1) QUICKTEXT_ENABLE \"Οὐὰ\" QUICKTEXT_DISABLE \" \" QUICKTEXT_ENABLE \"χα\" QUICKTEXT_DISABLE \" \" QUICKTEXT_ENABLE \"χα\" QUICKTEXT_DISABLE \" \" QUICKTEXT_ENABLE \"χά\" QUICKTEXT_DISABLE TEXT_SPEED(0) \"!!\""
+  },
+  {
+    "id": "0x2012",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Wow! Great!\\n\"\n\"Your time was \" COLOR(RED) RACE_TIME COLOR(DEFAULT) \"!\\n\"\n\"You and Epona are a great\\n\"\n\"team!\"",
+    "el_msg": "\"Βαβαί! Ἄριστα!\\n\"\n\"Ὁ μὲν χρόνος ἦν \" COLOR(RED) RACE_TIME COLOR(DEFAULT) \"!\\n\"\n\"Σὺ καὶ ἡ Ἐπώνα θαυμαστὴ\\n\"\n\"συνωρίς ἐστε!\""
+  },
+  {
+    "id": "0x2013",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Oh, that's too bad.\\n\"\n\"If you had something to put it in,\\n\"\n\"I could give some to you...\" EVENT",
+    "el_msg": "\"Φεῦ, λυπηρὸν τοῦτό γε.\\n\"\n\"Εἰ γὰρ ἀγγεῖόν τι εἶχες, ἔδωκα\\n\"\n\"ἄν σοι αὐτοῦ...\" EVENT"
+  },
+  {
+    "id": "0x2014",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"I am \" COLOR(RED) \"Ingo\" COLOR(DEFAULT) \"--Mr. Ingo to you.\\n\"\n\"I take care of these horses.\\n\"\n\"You're in my way, so scram,\\n\"\n\"kid!\"",
+    "el_msg": "\"Ἐγώ εἰμι \" COLOR(RED) \"Ἴγγων\" COLOR(DEFAULT) \"-ὁ κύριος\\n\"\n\"Ἴγγων σοί γε. Ἐπιμελοῦμαι\\n\"\n\"τῶνδε τῶν ἵππων. Ἐμποδὼν δ' εἶ,\\n\"\n\"ἄπελθε, ὦ παῖ!\""
+  },
+  {
+    "id": "0x2015",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "UNSKIPPABLE \"By the way, Mr. Hero...\"\nBOX_BREAK\n\nUNSKIPPABLE \"If you're going to climb \\n\"\n\"Death Mountain, you should equip\\n\"\n\"a \" COLOR(LIGHTBLUE) \"proper shield\" COLOR(DEFAULT) \"! It is an active\\n\"\n\"volcano, after all!\"\nBOX_BREAK\n\nUNSKIPPABLE \"If you go back to Hyrule Castle\\n\"\n\"Town Market, you should check\\n\"\n\"out the Bazaar. They sell the\\n\"\n\"shield you need there.\"\nBOX_BREAK\n\nUNSKIPPABLE \"Tell 'em I sent you and they\\n\"\n\"should give you a special \\n\"\n\"discount!\"\nBOX_BREAK\n\nUNSKIPPABLE \"If you think you're good to go\\n\"\n\"already, don't worry about it.\"\nBOX_BREAK\n\nUNSKIPPABLE \"Now, I'd like to ask a favor of \\n\"\n\"you. No, I don't expect you to do\\n\"\n\"it just because of the great tip I\\n\"\n\"just gave you! I'm just asking!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Have you been to the \" COLOR(RED) \"Happy\\n\"\n\"Mask Shop\" COLOR(DEFAULT) \" that just opened in\\n\"\n\"the Hyrule Castle Town Market?\\n\"\n\"Everyone is talking about it!\"\nBOX_BREAK\n\nUNSKIPPABLE \"My little boy pesters me for a \\n\"\n\"popular mask, but I don't have\\n\"\n\"time to go there...\"\nBOX_BREAK\n\nUNSKIPPABLE \"So, could you go and get the\\n\"\n\"mask for me next time you are in\\n\"\n\"the Market? If you don't feel like\\n\"\n\"it, that's OK, but...\"\nBOX_BREAK\n\nUNSKIPPABLE \"Well, I have no choice, this is my \\n\"\n\"job...\"\nBOX_BREAK\n\nUNSKIPPABLE SHIFT(75) \"...sigh...\" EVENT",
+    "el_msg": "UNSKIPPABLE \"Πρὸς δὲ τούτοις, ὦ Ἥρως...\"\nBOX_BREAK\n\nUNSKIPPABLE \"Εἰ ἀναβήσῃ εἰς τὸ Ὄρος\\n\"\n\"τοῦ Θανάτου, δεῖ σε ἁρμόσαι\\n\"\nCOLOR(LIGHTBLUE) \"ἐπιτήδειον θυρεόν\" COLOR(DEFAULT) \"! Ἡφαιστογενὲς\\n\"\n\"γάρ ἐστι τὸ ὄρος!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Εἰ δὲ ἐπανέλθοις εἰς τὴν\\n\"\n\"Ἀγορὰν τοῦ Φρουρίου, ἴθι εἰς\\n\"\n\"τὸ Παντοπωλεῖον. Πωλοῦσι γὰρ\\n\"\n\"τὸν θυρεὸν ὃν δεῖ σε λαβεῖν.\"\nBOX_BREAK\n\nUNSKIPPABLE \"Εἰπὲ δ' αὐτοῖς ὅτι ἐγὼ\\n\"\n\"ἔπεμψά σε, καὶ τιμὴν ἐλάττω\\n\"\n\"τάξουσί σοι!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Εἰ δ' ἤδη ἕτοιμος εἶ,\\n\"\n\"μηδὲν φρόντιζε.\"\nBOX_BREAK\n\nUNSKIPPABLE \"Νῦν δέ τι δέομαί σου. Οὐ\\n\"\n\"μὴν ἀξιῶ σε ποιεῖν διὰ τὴν\\n\"\n\"συμβουλήν! Ἐρωτῶ δὲ μόνον!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ἆρ' ἦλθες εἰς τὸ \" COLOR(RED) \"Ἐργαστήριον\\n\"\n\"Ἱλαρῶν Προσωπείων\" COLOR(DEFAULT) \" τὸ ἄρτι\\n\"\n\"ἀνεῳγμένον ἐν τῇ Ἀγορᾷ;\\n\"\n\"Πάντες γὰρ περὶ αὐτοῦ λέγουσιν!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Τὸ δὲ παιδίον μου ἐνοχλεῖ μοι\\n\"\n\"αἰτοῦν τι εὐδόκιμον προσωπεῖον,\\n\"\n\"ἐγὼ δὲ σχολὴν οὐκ ἔχω...\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ἆρ' οὖν κομίσαις ἄν μοι\\n\"\n\"τὸ προσωπεῖον ὅταν εἰς τὴν\\n\"\n\"Ἀγορὰν ἔλθῃς; Εἰ δὲ μὴ\\n\"\n\"βούλει, οὐδὲν πρᾶγμα, ἀλλά...\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ἀλλ' οὐκ ἔχω ἄλλως ποιεῖν,\\n\"\n\"τοῦτο γὰρ τὸ ἔργον μου...\"\nBOX_BREAK\n\nUNSKIPPABLE SHIFT(75) \"...φεῦ...\" EVENT"
+  },
+  {
+    "id": "0x2016",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"I wish I could go to the \" COLOR(RED) \"mask\\n\"\n\"shop \" COLOR(DEFAULT) \"in town to buy a present for\\n\"\n\"my kid...\"\nBOX_BREAK\n\nSHIFT(75) \"...sigh...\"",
+    "el_msg": "\"Εἴθε μοι ἐξῆν εἰς τὸ \" COLOR(RED) \"ἐργαστήριον\\n\"\n\"τῶν προσωπείων\" COLOR(DEFAULT) \" ἐλθεῖν ὠνεῖσθαι\\n\"\n\"δῶρον τῷ ἐμῷ παιδίῳ...\"\nBOX_BREAK\n\nSHIFT(75) \"...φεῦ...\""
+  },
+  {
+    "id": "0x2017",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Oh no... He's not breathing...\"",
+    "el_msg": "\"Οἴμοι... οὐκέτι ἐμπνεῖ...\""
+  },
+  {
+    "id": "0x2018",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "NAME \"!?\"",
+    "el_msg": "NAME \";!\""
+  },
+  {
+    "id": "0x2019",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE QUICKTEXT_ENABLE SHIFT(41) \"Arrrrgh!\" QUICKTEXT_DISABLE \" I lost her!\"",
+    "el_msg": "UNSKIPPABLE QUICKTEXT_ENABLE SHIFT(41) \"Οἴμοι!\" QUICKTEXT_DISABLE \" Ἀπέφυγέ με!\""
+  },
+  {
+    "id": "0x201A",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE SHIFT(50) \"You, over there! \\n\"\nSHIFT(60) QUICKTEXT_ENABLE \"Little kid!\" QUICKTEXT_DISABLE",
+    "el_msg": "UNSKIPPABLE SHIFT(50) \"Σύ, ὁ ἐκεῖ! \\n\"\nSHIFT(60) QUICKTEXT_ENABLE \"Ὦ παιδάριον!\" QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x201B",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE SHIFT(58) TEXT_SPEED(10) QUICKTEXT_ENABLE \"Heh\" QUICKTEXT_DISABLE \" \" QUICKTEXT_ENABLE \"heh\" QUICKTEXT_DISABLE \" \" QUICKTEXT_ENABLE \"heh\" QUICKTEXT_DISABLE \"...\" TEXT_SPEED(0) \"\\n\"\nSHIFT(28) \"You want a piece of me?!\\n\"\nSHIFT(62) \"Very funny!\\n\"\nSHIFT(42) \"I like your attitude!\"",
+    "el_msg": "UNSKIPPABLE SHIFT(58) TEXT_SPEED(10) QUICKTEXT_ENABLE \"Ἑ\" QUICKTEXT_DISABLE \" \" QUICKTEXT_ENABLE \"ἓ\" QUICKTEXT_DISABLE \" \" QUICKTEXT_ENABLE \"ἕ\" QUICKTEXT_DISABLE \"...\" TEXT_SPEED(0) \"\\n\"\nSHIFT(28) \"Μῶν ἐμοὶ μάχεσθαι τολμᾷς;!\\n\"\nSHIFT(62) \"Γελοῖον πάνυ!\\n\"\nSHIFT(42) \"Ἀρέσκει μοι τὸ θράσος σου!\""
+  },
+  {
+    "id": "0x201C",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE QUICKTEXT_ENABLE SHIFT(43) \"Pathetic little fool!\" QUICKTEXT_DISABLE \"\\n\"\nSHIFT(20) \"Do you realize who you are\\n\"\nSHIFT(57) \"dealing with?!\"",
+    "el_msg": "UNSKIPPABLE QUICKTEXT_ENABLE SHIFT(43) \"Ὦ δείλαιε καὶ ἄφρων!\" QUICKTEXT_DISABLE \"\\n\"\nSHIFT(20) \"Ἆρ' οἶδας μεθ' οἵου ἀνδρὸς\\n\"\nSHIFT(57) \"πράττεις;!\""
+  },
+  {
+    "id": "0x201D",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE SHIFT(52) \"I am \" COLOR(RED) \"Ganondorf\" COLOR(DEFAULT) \"!\\n\"\nQUICKTEXT_ENABLE SHIFT(10) \"And soon, I will rule the world!\" QUICKTEXT_DISABLE",
+    "el_msg": "UNSKIPPABLE SHIFT(52) \"Ἐγώ εἰμι \" COLOR(RED) \"Γανωνδόρφ\" COLOR(DEFAULT) \"!\\n\"\nQUICKTEXT_ENABLE SHIFT(10) \"Καὶ τάχα τοῦ κόσμου ἄρξω!\" QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x201E",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE SHIFT(13) \"You must have seen the white\\n\"\nSHIFT(18) \"horse gallop past just now...\\n\"\nSHIFT(35) \"Which way did it go?!\\n\"\nSHIFT(61) QUICKTEXT_ENABLE \"Answer me!!\" QUICKTEXT_DISABLE",
+    "el_msg": "UNSKIPPABLE SHIFT(13) \"Πάντως εἶδες τὸν λευκὸν\\n\"\nSHIFT(18) \"ἵππον παρελάσαντα ἄρτι...\\n\"\nSHIFT(35) \"Ποῖ ἔδραμεν;!\\n\"\nSHIFT(61) QUICKTEXT_ENABLE \"Ἀπόκριναί μοι!!\" QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x201F",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Tsk tsk...When your time is\\n\"\n\"up, I'll kick you out of here.\"",
+    "el_msg": "\"Ττ... Ὅταν ὁ χρόνος\\n\"\n\"ἐξέλθῃ, ἐξελῶ σε ἐνθένδε.\""
+  },
+  {
+    "id": "0x2020",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"My boy will be very happy with \\n\"\n\"this! You really are Mr. Hero!\\n\"\n\"Wha ha ha hah!\" EVENT",
+    "el_msg": "\"Τὸ παιδίον μου περιχαρὲς\\n\"\n\"ἔσται τούτῳ! Ἀληθῶς Ἥρως εἶ!\\n\"\n\"Οὐὰ χα χα χά!\" EVENT"
+  },
+  {
+    "id": "0x2021",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE SFX(NA_SE_SY_TRE_BOX_APPEAR) \"You sold the 10-Rupee mask for \\n\"\nCOLOR(RED) \"15 Rupees\" COLOR(DEFAULT) \". You earned a little\\n\"\n\"profit.\"\nBOX_BREAK\n\nUNSKIPPABLE \"Let's go to the Mask Shop and\\n\"\n\"pay back the mask price of \\n\"\nCOLOR(RED) \"10 Rupees\" COLOR(DEFAULT) \".\" EVENT",
+    "el_msg": "UNSKIPPABLE SFX(NA_SE_SY_TRE_BOX_APPEAR) \"Ἀπέδου τὸ δεκαρούπιον\\n\"\n\"προσωπεῖον ἀντὶ \" COLOR(RED) \"15 Ῥουπίων\" COLOR(DEFAULT) \".\\n\"\n\"Μικρὸν οὖν κέρδος ἔλαβες.\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ἄγωμεν εἰς τὸ Ἐργαστήριον\\n\"\n\"ἀποδώσοντες μόνον τὰ \" COLOR(RED) \"10\\n\"\n\"Ῥούπια\" COLOR(DEFAULT) \".\" EVENT"
+  },
+  {
+    "id": "0x2022",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Little kids can't go on the \\n\"\n\"\\\"\" COLOR(RED) \"Heart-Pounding Gravedigging\\n\"\n\"Tour\" COLOR(DEFAULT) \"\\\" described on the sign.\"\nBOX_BREAK\n\n\"Since I can't do that, I'm just \\n\"\n\"imitating Dampé the gravekeeper \\n\"\n\"all day.\"\nBOX_BREAK\n\n\"But with my cute face, I'm not\\n\"\n\"heart-pounding at all, am I?\"",
+    "el_msg": "\"Τὰ παιδία οὐ μετέχει τῆς\\n\"\n\"«\" COLOR(RED) \"Καρδιοκτύπου Ἐξορμήσεως\\n\"\n\"Ταφωρυχίας\" COLOR(DEFAULT) \"» τῆς ἐν τῷ σήματι.\"\nBOX_BREAK\n\n\"Ἐπεὶ δὲ τοῦτο οὐκ ἔξεστί μοι,\\n\"\n\"μιμοῦμαι Δαμπὲ τὸν ταφωρύχον\\n\"\n\"δι' ὅλης τῆς ἡμέρας.\"\nBOX_BREAK\n\n\"Ἀλλὰ τῷ χαρίεντι προσώπῳ μου\\n\"\n\"οὐδαμῶς φοβερός εἰμι, ἦ γάρ;\""
+  },
+  {
+    "id": "0x2023",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE \"Gyaah!\" QUICKTEXT_DISABLE \" It's Dampé the \\n\"\n\"gravekeeper!\"\nBOX_BREAK\n\nSHIFT(87) \"???\"\nBOX_BREAK\n\n\"Oh, it's just a mask. I get a \\n\"\n\"different kind of fright from that\\n\"\n\"mask than I get from Dampé...\"\nBOX_BREAK\n\n\"Will you give that mask to me?\\n\"\n\"\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Yes\\n\"\n    \"No way\" COLOR(DEFAULT)",
+    "el_msg": "QUICKTEXT_ENABLE \"Ὀᾶ!\" QUICKTEXT_DISABLE \" Δαμπὲ ὁ ταφωρύχος\\n\"\n\"ἐστίν!\"\nBOX_BREAK\n\nSHIFT(87) \";;;\"\nBOX_BREAK\n\n\"Ἀλλὰ προσωπεῖον μόνον ἐστίν.\\n\"\n\"Ἕτερον δὲ φόβον παρέχει μοι\\n\"\n\"ἢ ὅσον ὁ Δαμπέ...\"\nBOX_BREAK\n\n\"Ἆρα δώσεις μοι τὸ προσωπεῖον;\\n\"\n\"\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Ναί\\n\"\n    \"Οὐδαμῶς\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x2024",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"I really do have some money, you\\n\"\n\"know.\"",
+    "el_msg": "\"Ἔχω γὰρ ἀργύριον ἀληθῶς,\\n\"\n\"εὖ ἴσθι.\""
+  },
+  {
+    "id": "0x2026",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"With this mask, I'll be just like \\n\"\n\"Dampé! \\n\"\n\"Here's my money!\"",
+    "el_msg": "\"Τούτῳ τῷ προσωπείῳ ὅμοιος\\n\"\n\"ἔσομαι τῷ Δαμπέ!\\n\"\n\"Ἰδοὺ τὸ ἀργύριον!\""
+  },
+  {
+    "id": "0x2027",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE SFX(NA_SE_SY_TRE_BOX_APPEAR) \"You sold the 30-Rupee mask to a\\n\"\n\"kid for full price?! \\n\"\n\"And he didn't mind paying at all!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Let's go back to the mask shop to\\n\"\n\"pay \" COLOR(RED) \"30 Rupees \" COLOR(DEFAULT) \"for the mask. \\n\"\n\"You can get the new mask \\n\"\n\"model, too.\"",
+    "el_msg": "UNSKIPPABLE SFX(NA_SE_SY_TRE_BOX_APPEAR) \"Ἀπέδου τὸ τριακονταρούπιον\\n\"\n\"προσωπεῖον παιδίῳ πάσης τῆς\\n\"\n\"τιμῆς;! Καὶ οὐδὲν ὤκνησεν!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ἐπανέλθωμεν οὖν εἰς τὸ\\n\"\n\"ἐργαστήριον ἀποδόντες \" COLOR(RED) \"30 Ῥούπια\" COLOR(DEFAULT) \".\\n\"\n\"Καινοῦ δὲ προσωπείου τύπον\\n\"\n\"λήψῃ.\""
+  },
+  {
+    "id": "0x2028",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"I'm gonna dig and dig! \\n\"\n\"Just like Dampé!!\"",
+    "el_msg": "\"Σκάψω καὶ σκάψω!\\n\"\n\"Ὥσπερ ὁ Δαμπέ!!\""
+  },
+  {
+    "id": "0x2029",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"In old times, I heard there were \\n\"\n\"many wild rabbits in the land \\n\"\n\"of Hyrule. Not anymore, though, \\n\"\n\"because of excessive hunting.\"\nBOX_BREAK\n\n\"I want to become a rabbit...\\n\"\n\"Listen to the wind with \\n\"\n\"those ears, hop across the ground\\n\"\n\"with those legs...\"\nBOX_BREAK\n\n\"Even if I can only pretend.\"",
+    "el_msg": "\"Τὸ πάλαι ἤκουσα πολλοὺς\\n\"\n\"ἀγρίους λαγὼς εἶναι ἐν τῇ γῇ\\n\"\n\"τῆς Ὑρούλης. Νῦν δ' οὐκέτι, διὰ\\n\"\n\"τὴν ἄγαν θήραν.\"\nBOX_BREAK\n\n\"Βούλομαι λαγὼς γενέσθαι...\\n\"\n\"τοῖς μὲν ὠσὶν ἀκούειν τοῦ\\n\"\n\"ἀνέμου, τοῖς δὲ ποσὶ πηδᾶν\\n\"\n\"διὰ τῆς γῆς...\"\nBOX_BREAK\n\n\"κἂν μόνον προσποιῶμαι.\""
+  },
+  {
+    "id": "0x202A",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"I bet with those long ears you \\n\"\n\"can hear the voices... \\n\"\n\"Oh, these are genuine rabbit\\n\"\n\"ears from the animal of legend!\" TEXTID(0x202B)",
+    "el_msg": "\"Οἶμαι τοῖς μακροῖς ὠσὶν\\n\"\n\"ἀκούειν σε τῶν φωνῶν...\\n\"\n\"Ὠ, ἀληθῆ λαγῷα ὦτά ἐστιν ἐκ\\n\"\n\"τοῦ μυθικοῦ θηρίου!\" TEXTID(0x202B)"
+  },
+  {
+    "id": "0x202B",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"I don't care how expensive it is!\\n\"\n\"Please sell it to me!\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Yes\\n\"\n    \"No way\" COLOR(DEFAULT)",
+    "el_msg": "\"Οὐδέν μοι μέλει ὅσου ἂν ᾖ!\\n\"\n\"Ἀπόδου μοι, δέομαί σου!\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Ναί\\n\"\n    \"Οὐδαμῶς\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x202C",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"That's not the answer I wanted to \\n\"\n\"hear!\"",
+    "el_msg": "\"Οὐ ταύτην τὴν ἀπόκρισιν\\n\"\n\"ἤθελον ἀκοῦσαι!\""
+  },
+  {
+    "id": "0x202D",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"My long time dream! Returning to\\n\"\n\"the wild life! Finally, the actor, \\n\"\n\"stage and prop have been united!\" EVENT",
+    "el_msg": "\"Τὸ πάλαι ὄνειρόν μου! Ἐπάνοδος\\n\"\n\"εἰς τὸν ἄγριον βίον! Τέλος ὁ\\n\"\n\"ὑποκριτής, ἡ σκηνὴ καὶ ἡ\\n\"\n\"σκευὴ συνῆλθον!\" EVENT"
+  },
+  {
+    "id": "0x202E",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE SFX(NA_SE_SY_TRE_BOX_APPEAR) \"It's a 50-Rupee mask, but he paid\\n\"\n\"you a crazy amount of money for\\n\"\n\"it--more money than you can \\n\"\n\"count!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Go back to the Mask Shop and \\n\"\n\"pay back just \" COLOR(RED) \"50 Rupees \" COLOR(DEFAULT) \"of this\\n\"\n\"money.\"",
+    "el_msg": "UNSKIPPABLE SFX(NA_SE_SY_TRE_BOX_APPEAR) \"Πεντηκονταρούπιον μὲν ἦν,\\n\"\n\"ἀπέδωκε δέ σοι ἄπλετον\\n\"\n\"ἀργύριον-πλεῖον ἢ ὅσον\\n\"\n\"ἀριθμῆσαι δύνασαι!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ἐπανελθὲ οὖν εἰς τὸ\\n\"\n\"Ἐργαστήριον καὶ ἀπόδος μόνον\\n\"\nCOLOR(RED) \"50 Ῥούπια\" COLOR(DEFAULT) \" ἐκ τούτων.\""
+  },
+  {
+    "id": "0x202F",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE SHIFT(14) \"So, you think you can protect\\n\"\nSHIFT(54) \"them from me...\\n\"\nSHIFT(40) \"You've got guts, kid.\"",
+    "el_msg": "UNSKIPPABLE SHIFT(14) \"Ἆρ' οἴει δύνασθαι σῴζειν\\n\"\nSHIFT(54) \"αὐτοὺς ἀπ' ἐμοῦ...\\n\"\nSHIFT(40) \"Εὔψυχος εἶ, ὦ παῖ.\""
+  },
+  {
+    "id": "0x2030",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "UNSKIPPABLE \"There are some people in Kakariko\\n\"\n\"spreading rumors that I cheated\\n\"\n\"Talon out of the ranch, but...\"\nBOX_BREAK\n\nUNSKIPPABLE SHIFT(45) \"Don't be \" QUICKTEXT_ENABLE \"ridiculous!\" QUICKTEXT_DISABLE\nBOX_BREAK\n\nUNSKIPPABLE \"That guy Talon was weak!\\n\"\n\"I, the hard-working \" COLOR(RED) \"Ingo\" COLOR(DEFAULT) \", poured \\n\"\n\"so much energy into this place!\"\nBOX_BREAK\n\nUNSKIPPABLE \"I don't want any strangers like\\n\"\n\"you saying anything bad about me!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Listen. The \" COLOR(RED) \"great Ganondorf\\n\"\nCOLOR(DEFAULT) \"recognized my obvious talents and\\n\"\n\"gave the ranch to me!\"\nBOX_BREAK\n\nUNSKIPPABLE \"I will raise a fine horse and\\n\"\n\"win recognition from the great \\n\"\n\"Ganondorf!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Say, young man, do you want\\n\"\n\"to ride one of my fine horses?\" TEXTID(0x2031)",
+    "el_msg": "UNSKIPPABLE \"Εἰσὶ δέ τινες ἐν Κακαρικὸ\\n\"\n\"λογοποιοῦντες ὡς δόλῳ τὴν\\n\"\n\"ἔπαυλιν ἀφειλόμην Τάλωνα...\"\nBOX_BREAK\n\nUNSKIPPABLE SHIFT(45) \"Μὴ \" QUICKTEXT_ENABLE \"ληρεῖτε!\" QUICKTEXT_DISABLE\nBOX_BREAK\n\nUNSKIPPABLE \"Ἀσθενὴς γὰρ ἦν ἐκεῖνος!\\n\"\n\"Ἐγὼ δὲ ὁ φιλόπονος \" COLOR(RED) \"Ἴγγων\" COLOR(DEFAULT) \"\\n\"\n\"τοσοῦτον κόπον κατέβαλον!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Οὐ βούλομαι δὲ ξένους ὥσπερ\\n\"\n\"σὲ κακηγορεῖν με!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ἄκουε. Ὁ γὰρ \" COLOR(RED) \"μέγας Γανωνδόρφ\\n\"\nCOLOR(DEFAULT) \"γνοὺς τὴν ἐμὴν ἀρετὴν παρέδωκέ\\n\"\n\"μοι τὴν ἔπαυλιν!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ἐκθρέψω οὖν ἵππον γενναῖον\\n\"\n\"καὶ τιμηθήσομαι ὑπὸ τοῦ μεγάλου\\n\"\n\"Γανωνδόρφ!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Εἰπὲ δή, ὦ νεανία, βούλει\\n\"\n\"ἐπιβαίνειν τῶν ἐμῶν ἵππων;\" TEXTID(0x2031)"
+  },
+  {
+    "id": "0x2031",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Pay me \" COLOR(RED) \"10 Rupees \" COLOR(DEFAULT) \"and you can \\n\"\n\"ride.\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Ride\\n\"\n    \"Don't ride\" COLOR(DEFAULT)",
+    "el_msg": "\"Δὸς δή μοι \" COLOR(RED) \"10 Ῥούπια\" COLOR(DEFAULT) \" καὶ ἔξεστί\\n\"\n\"σοι ἐπιβαίνειν.\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Ἐπιβαίνειν\\n\"\n    \"Μὴ ἐπιβαίνειν\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x2032",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"All right then, scram \\n\"\n\"ya little punk!\"",
+    "el_msg": "\"Εἶεν δή, ἄπελθε,\\n\"\n\"ὦ μιαρὸν παιδάριον!\""
+  },
+  {
+    "id": "0x2033",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"You don't have enough!\\n\"\n\"Save your change and \\n\"\n\"come back again!\"",
+    "el_msg": "\"Οὐχ ἱκανὰ ἔχεις!\\n\"\n\"Φείδου τοῦ ἀργυρίου καὶ\\n\"\n\"πάλιν ἐλθέ!\""
+  },
+  {
+    "id": "0x2034",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Do you want to hear how to ride?\\n\"\n\"\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Listen\\n\"\n    \"Don't listen\" COLOR(DEFAULT)",
+    "el_msg": "\"Βούλει ἀκοῦσαι πῶς δεῖ\\n\"\n\"ἱππεύειν;\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Ἀκοῦσαι\\n\"\n    \"Μὴ ἀκοῦσαι\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x2035",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Approach the horse quietly and \\n\"\n\"stand by its side. Press \" COLOR(BLUE) \"[A]\" COLOR(DEFAULT) \" to \\n\"\n\"mount up.\"\nBOX_BREAK\n\n\"Use the \" COLOR(LIGHTBLUE) \"[Control-Pad] \" COLOR(DEFAULT) \"to make it run. \\n\"\n\"Once it starts running, press\\n\"\nCOLOR(BLUE) \"[A]\" COLOR(DEFAULT) \" to tap it with the whip. \\n\"\n\"It will speed up!\"\nBOX_BREAK\n\n\"When you want to jump over a\\n\"\n\"fence, accelerate and hit it\\n\"\n\"head on!\"\nBOX_BREAK\n\n\"If you try to jump over a fence \\n\"\n\"at an angle, the horse won't like\\n\"\n\"it, and it won't jump.\"\nBOX_BREAK\n\n\"After the horse comes to a \\n\"\n\"complete stop, press \" COLOR(BLUE) \"[A]\" COLOR(DEFAULT) \" to \\n\"\n\"dismount. Now, have fun!\" EVENT",
+    "el_msg": "\"Πρόσελθε ἡσυχῇ τῷ ἵππῳ καὶ\\n\"\n\"στῆθι παραπλεύρως. Πίεσον\\n\"\n\"τὸ \" COLOR(BLUE) \"[A]\" COLOR(DEFAULT) \" ἀναβῆναι.\"\nBOX_BREAK\n\n\"Χρῶ δὲ τῷ \" COLOR(LIGHTBLUE) \"[Control-Pad] \" COLOR(DEFAULT) \"εἰς τὸ\\n\"\n\"τρέχειν. Ὅταν δὲ τρέχῃ, πίεσον\\n\"\nCOLOR(BLUE) \"[A]\" COLOR(DEFAULT) \" τῇ μάστιγι πλήττων.\\n\"\n\"Καὶ θᾶσσον δραμεῖται!\"\nBOX_BREAK\n\n\"Ὅταν δὲ βούλῃ ὑπερθορεῖν\\n\"\n\"δρύφακτον, τάχυνον καὶ κατ'\\n\"\n\"ὀρθὸν ἔλαυνε!\"\nBOX_BREAK\n\n\"Εἰ γὰρ πλαγίως ἐλάσῃς πρὸς\\n\"\n\"τὸν δρύφακτον, δυσχερανεῖ ὁ\\n\"\n\"ἵππος καὶ οὐχ ὑπερθορεῖται.\"\nBOX_BREAK\n\n\"Στάντος δὲ παντελῶς τοῦ\\n\"\n\"ἵππου, πίεσον τὸ \" COLOR(BLUE) \"[A]\" COLOR(DEFAULT) \" καταβῆναι.\\n\"\n\"Καὶ νῦν εὐφραίνου!\" EVENT"
+  },
+  {
+    "id": "0x2036",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"If you use \" COLOR(LIGHTBLUE) \"[Z] Targeting\" COLOR(DEFAULT) \", you can \\n\"\n\"talk to me from horseback.\"\nBOX_BREAK\n\n\"Are you ready to go home so \\n\"\n\"soon?\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"No, I want to ride.\\n\"\n    \"Yes, I'm done.\" COLOR(DEFAULT)",
+    "el_msg": "\"Εἰ χρῇ τῇ \" COLOR(LIGHTBLUE) \"[Z]-σκοπεύσει\" COLOR(DEFAULT) \", ἔξεστί\\n\"\n\"σοι διαλέγεσθαί μοι ἀφ' ἵππου.\"\nBOX_BREAK\n\n\"Ἤδη βούλει οἴκαδε ἀπιέναι;\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Οὔ, ἱππεύειν ἔτι θέλω.\\n\"\n    \"Ναί, ἅλις ἔχω.\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x2037",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"When you want to dismount, stop \\n\"\n\"and press \" COLOR(BLUE) \"[A]\" COLOR(DEFAULT) \".\"\nBOX_BREAK\n\n\"Hey young man!\\n\"\n\"Do I know you? I just felt as \\n\"\n\"though I've seen you\\n\"\n\"somewhere before...\" TEXTID(0x2036)",
+    "el_msg": "\"Ὅταν βούλῃ καταβῆναι, στῆθι\\n\"\n\"καὶ πίεσον τὸ \" COLOR(BLUE) \"[A]\" COLOR(DEFAULT) \".\"\nBOX_BREAK\n\n\"Ὦ νεανία!\\n\"\n\"Ἆρ' οἶδά σε; Ἔδοξα γὰρ δή\\n\"\n\"πού σε ἑωρακέναι πρότερον...\" TEXTID(0x2036)"
+  },
+  {
+    "id": "0x2038",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"You're getting better!\\n\"\n\"How about a little race with me?\\n\"\n\"One lap around the corral with\\n\"\n\"that horse.\"\nBOX_BREAK\n\n\"Let's make a little wager, say\\n\"\nCOLOR(RED) \"50 Rupees\" COLOR(DEFAULT) \"?\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Do it\\n\"\n    \"Don't do it\" COLOR(DEFAULT)",
+    "el_msg": "\"Βελτίων γίγνῃ!\\n\"\n\"Βούλει ἁμιλλᾶσθαί μοι;\\n\"\n\"Ἕνα περίδρομον περὶ τὴν\\n\"\n\"μάνδραν μετὰ τοῦ ἵππου.\"\nBOX_BREAK\n\n\"Θῶμεν δὲ μικρὸν στοίχημα,\\n\"\n\"οἷον \" COLOR(RED) \"50 Ῥούπια\" COLOR(DEFAULT) \";\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Ἁμιλλᾶσθαι\\n\"\n    \"Μὴ ἁμιλλᾶσθαι\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x2039",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Hey hey... What's the matter?\\n\"\n\"Don't you have even 50 Rupees?!\\n\"\n\"I don't want to race with someone\\n\"\n\"so poor!\"",
+    "el_msg": "\"Οὗτος... τί πάσχεις;\\n\"\n\"Οὐδὲ 50 Ῥούπια ἔχεις;!\\n\"\n\"Οὐ βούλομαι ἁμιλλᾶσθαι μετὰ\\n\"\n\"τοσούτου πένητος!\""
+  },
+  {
+    "id": "0x203A",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "UNSKIPPABLE SHIFT(57) \"Sh-\" QUICKTEXT_ENABLE \"shoooot!\" QUICKTEXT_DISABLE\nBOX_BREAK\n\nUNSKIPPABLE \"If the great Ganondorf found out\\n\"\n\"about this humiliation...\\n\"\n\"Hey, you!!  How about another\\n\"\n\"race!  If you win...\"\nBOX_BREAK\n\nUNSKIPPABLE \"You can keep...the horse!!\" EVENT",
+    "el_msg": "UNSKIPPABLE SHIFT(57) \"Φεῦ \" QUICKTEXT_ENABLE \"φεῦ!\" QUICKTEXT_DISABLE\nBOX_BREAK\n\nUNSKIPPABLE \"Εἰ γὰρ ὁ μέγας Γανωνδόρφ\\n\"\n\"γνοίη ταύτην τὴν αἰσχύνην...\\n\"\n\"Οὗτος!! Ἆρ' ἄλλην ἅμιλλαν;\\n\"\n\"Ἐὰν δὲ νικήσῃς...\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ἔξεστί σοι ἔχειν... τὸν ἵππον!!\" EVENT"
+  },
+  {
+    "id": "0x203B",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE \"What's up with that horse?!\\n\"\n\"Is that \" COLOR(RED) \"Epona\" COLOR(DEFAULT) \"?\"\nBOX_BREAK\n\nUNSKIPPABLE \"How did you tame that wild horse\\n\"\n\"right under my nose?!\"\nBOX_BREAK\n\nUNSKIPPABLE \"I was going to present that horse\\n\"\n\"to the great Ganondorf... But I bet\\n\"\n\"it on the race and lost! Shooot!\" EVENT",
+    "el_msg": "UNSKIPPABLE \"Τί τοῦτο περὶ τὸν ἵππον;!\\n\"\n\"Μῶν αὕτη ἐστὶν ἡ \" COLOR(RED) \"Ἐπώνα\" COLOR(DEFAULT) \";\"\nBOX_BREAK\n\nUNSKIPPABLE \"Πῶς ἐδάμασας τὸν ἄγριον\\n\"\n\"ἵππον κατ' ὀφθαλμούς μου;!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ἔμελλον γὰρ προσενεγκεῖν\\n\"\n\"αὐτὴν τῷ μεγάλῳ Γανωνδόρφ...\\n\"\n\"ἀλλ' ἀπεστοιχημάτισα καὶ\\n\"\n\"ἀπώλεσα! Οἴμοι!\" EVENT"
+  },
+  {
+    "id": "0x203C",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE SHIFT(54) \"Hah ha hah!\"\nBOX_BREAK\n\nUNSKIPPABLE \"As I promised, I'll give the \\n\"\n\"horse to you...\"\nBOX_BREAK\n\nUNSKIPPABLE SHIFT(10) \"However...\"\nBOX_BREAK\n\nUNSKIPPABLE \"I'll never let you leave this ranch!\" EVENT",
+    "el_msg": "UNSKIPPABLE SHIFT(54) \"Ἁ ἃ ἅ!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ὥσπερ ὑπεσχόμην, δώσω σοι\\n\"\n\"τὸν ἵππον...\"\nBOX_BREAK\n\nUNSKIPPABLE SHIFT(10) \"Πλὴν ὅμως...\"\nBOX_BREAK\n\nUNSKIPPABLE \"οὔποτε ἐάσω σε ἐξελθεῖν ἐκ\\n\"\n\"τῆσδε τῆς ἐπαύλεως!\" EVENT"
+  },
+  {
+    "id": "0x203D",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Hee hee hee... Too bad for you!\\n\"\n\"I get your 50 Rupees.\" EVENT",
+    "el_msg": "\"Ἑ ἓ ἕ... κακῶς σοι ἔχει!\\n\"\n\"Λαμβάνω γὰρ τὰ σὰ 50 Ῥούπια.\" EVENT"
+  },
+  {
+    "id": "0x203E",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Wah ha hah!\\n\"\n\"You're just a kid, after all!\\n\"\n\"Well, come back any time and we'll\\n\"\n\"have some more fun...\"",
+    "el_msg": "\"Οὐὰ χα χά!\\n\"\n\"Παιδάριον μόνον εἶ ἄρα!\\n\"\n\"Ἔρχου δὲ πάλιν ὁπόταν θέλῃς\\n\"\n\"παιγνίου μετέχειν...\""
+  },
+  {
+    "id": "0x203F",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "UNSKIPPABLE \"What?  What are you doing \\n\"\n\"hanging around here?\\n\"\n\"You little weirdo!\"\nBOX_BREAK\n\nUNSKIPPABLE \"I am \" COLOR(RED) \"Ingo \" COLOR(DEFAULT) \"and I mind the ranch.\"\nBOX_BREAK\n\nUNSKIPPABLE \"I've been working at this ranch \\n\"\n\"for a long time for that lazy\\n\"\n\"bum, Talon.\"\nBOX_BREAK\n\nUNSKIPPABLE \"Today, for example, he's gone\\n\"\n\"somewhere for a delivery and he \\n\"\n\"hasn't come back yet!\"\nBOX_BREAK\n\nUNSKIPPABLE \"So, I'm doing all the work around\\n\"\n\"here.\" TEXTID(0x2040)",
+    "el_msg": "UNSKIPPABLE \"Τί ἐστιν; Τί ἐνταῦθα\\n\"\n\"περιπλανᾷ,\\n\"\n\"ὦ ἄτοπον παιδάριον;\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ἐγώ εἰμι \" COLOR(RED) \"Ἴγγων \" COLOR(DEFAULT) \"καὶ\\n\"\n\"ἐπιμελοῦμαι τῆς ἐπαύλεως.\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ἐργάζομαι δὲ ἐνταῦθα πολὺν\\n\"\n\"χρόνον ὑπὲρ τοῦ ὀκνηροῦ\\n\"\n\"ἐκείνου Τάλωνος.\"\nBOX_BREAK\n\nUNSKIPPABLE \"Τήμερον γοῦν ἀπῆλθέ ποι\\n\"\n\"κομίζων γάλα καὶ οὔπω\\n\"\n\"ἐπανῆλθεν!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ἐγὼ οὖν πάντα τὰ ἐνταῦθα\\n\"\n\"ἔργα ποιῶ.\" TEXTID(0x2040)"
+  },
+  {
+    "id": "0x2040",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Oh well...It's tough to be a\\n\"\n\"working man.\"",
+    "el_msg": "\"Ἀλλὰ φεῦ... χαλεπόν ἐστιν\\n\"\n\"ἐργατικὸν ἄνδρα εἶναι.\""
+  },
+  {
+    "id": "0x2041",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "UNSKIPPABLE \"Hey, your clothes! They're...\\n\"\n\"different...\\n\"\n\"You're not from around here, \\n\"\n\"are you?\"\nBOX_BREAK\n\nUNSKIPPABLE TEXT_SPEED(2) \".........\" TEXT_SPEED(0) \"........\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ohh... You're a fairy boy from \\n\"\n\"the forest! My name is \" COLOR(RED) \"Malon\" COLOR(DEFAULT) \"!\\n\"\n\"My dad owns Lon Lon Ranch!\" TEXTID(0x2042)",
+    "el_msg": "UNSKIPPABLE \"Ἰδού, ἡ ἐσθής σου! Ἀλλοία\\n\"\n\"γάρ ἐστιν...\\n\"\n\"Οὐκ ἐντεῦθεν εἶ,\\n\"\n\"ἦ γάρ;\"\nBOX_BREAK\n\nUNSKIPPABLE TEXT_SPEED(2) \".........\" TEXT_SPEED(0) \"........\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ὠ... σὺ εἶ τὸ νυμφοπαίδιον\\n\"\n\"ἐκ τοῦ δρυμοῦ! Ὄνομα δέ μοί\\n\"\n\"ἐστι \" COLOR(RED) \"Μάλων\" COLOR(DEFAULT) \"! Ὁ δὲ πατήρ μου\\n\"\n\"κύριός ἐστι τῆς Ἐπαύλεως Λὸν Λόν!\" TEXTID(0x2042)"
+  },
+  {
+    "id": "0x2042",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Dad went to the castle to deliver\\n\"\n\"some milk, and he hasn't come\\n\"\n\"back yet...\"",
+    "el_msg": "\"Ὁ δὲ πατὴρ ἀπῆλθεν εἰς τὸ\\n\"\n\"φρούριον κομίζων γάλα, καὶ\\n\"\n\"οὔπω ἐπανῆλθεν...\""
+  },
+  {
+    "id": "0x2043",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "UNSKIPPABLE \"Are you going to the castle,\\n\"\n\"fairy boy?\\n\"\n\"Would you mind finding my \" COLOR(RED) \"dad\" COLOR(DEFAULT) \"?\"\nBOX_BREAK\n\nUNSKIPPABLE SFX(NA_SE_VO_Z0_SMILE_0) \"He must have fallen asleep \\n\"\n\"somewhere around the castle. \\n\"\n\"What a thing for an adult to do!\\n\"\n\"Tee hee!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Oh yeah, if you'll look for him, I'll \\n\"\n\"give this to you.\"\nBOX_BREAK\n\nUNSKIPPABLE \"I've been incubating this\\n\"\n\"egg very carefully...\\n\"\n\"Tee hee!\" EVENT",
+    "el_msg": "UNSKIPPABLE \"Ἆρ' εἶ εἰς τὸ φρούριον, ὦ\\n\"\n\"νυμφοπαῖ; Εὕροις ἄν μοι τὸν\\n\"\nCOLOR(RED) \"πατέρα\" COLOR(DEFAULT) \";\"\nBOX_BREAK\n\nUNSKIPPABLE SFX(NA_SE_VO_Z0_SMILE_0) \"Καθεύδει δή που περὶ τὸ\\n\"\n\"φρούριον. Οἷον δὴ ποιεῖ ἀνὴρ\\n\"\n\"τέλειος ὤν! Κικικί!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Καὶ ἐὰν ζητήσῃς αὐτόν,\\n\"\n\"δώσω σοι τόδε.\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ἐπιμελῶς γὰρ ἐθάλπω τόδε\\n\"\n\"τὸ ᾠόν... Κικικί!\" EVENT"
+  },
+  {
+    "id": "0x2044",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Set the egg to \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \" to incubate it.\\n\"\n\"Hee hee!\"\nBOX_BREAK\n\n\"My dad is really troublesome,\\n\"\n\"for an adult, isn't he?!\\n\"\n\"Hee hee!\"",
+    "el_msg": "\"Ἅρμοσον τὸ ᾠὸν τῷ \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \" ἵνα\\n\"\n\"θάλπηται. Κικικί!\"\nBOX_BREAK\n\n\"Ὁ δὲ πατήρ μου πάνυ πράγματα\\n\"\n\"παρέχει, καίπερ τέλειος ὤν!\\n\"\n\"Κικικί!\""
+  },
+  {
+    "id": "0x2045",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "UNSKIPPABLE \"I can't believe that I, the great\\n\"\nCOLOR(RED) \"Ingo\" COLOR(DEFAULT) \", am working on this dump of\\n\"\n\"a ranch!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Because the owner is so lazy, I\\n\"\n\"always have to do all the work \\n\"\n\"around here!\" TEXTID(0x2046)",
+    "el_msg": "UNSKIPPABLE \"Οὐ πιστεύω ὅτι ἐγώ, ὁ μέγας\\n\"\nCOLOR(RED) \"Ἴγγων\" COLOR(DEFAULT) \", ἐν τοιαύτῃ ῥυπαρᾷ\\n\"\n\"ἐπαύλει ἐργάζομαι!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Διὰ γὰρ τὴν τοῦ δεσπότου\\n\"\n\"ῥᾳθυμίαν, ἀεὶ δεῖ με πάντα τὰ\\n\"\n\"ἐνταῦθα ἔργα ποιεῖν!\" TEXTID(0x2046)"
+  },
+  {
+    "id": "0x2046",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"I, the hard-working \" COLOR(RED) \"Ingo\" COLOR(DEFAULT) \", should be \\n\"\n\"in charge, not that lazy bum, \\n\"\n\"Talon!\"",
+    "el_msg": "\"Ἐμὲ τὸν φιλόπονον \" COLOR(RED) \"Ἴγγωνα\" COLOR(DEFAULT) \"\\n\"\n\"προσήκει ἄρχειν, οὐ τὸν\\n\"\n\"ἀργὸν ἐκεῖνον Τάλωνα!\""
+  },
+  {
+    "id": "0x2047",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "UNSKIPPABLE \"Oh, it's the fairy boy again!\"\nBOX_BREAK\n\nUNSKIPPABLE \"I heard that you found my dad!\\n\"\n\"How did you like the castle? Did\\n\"\n\"you see the Princess? Hee hee!\"\nBOX_BREAK\n\nUNSKIPPABLE SFX(NA_SE_VO_Z0_SMILE_0) \"Dad came home in a hurry after\\n\"\n\"you found him. Hee hee!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Oh yeah, I have to introduce you\\n\"\n\"to my friend, fairy boy!\"\nBOX_BREAK\n\nUNSKIPPABLE \"She's this horse. Her name is\\n\"\nCOLOR(RED) \"Epona\" COLOR(DEFAULT) \". Isn't she cute?\"",
+    "el_msg": "UNSKIPPABLE \"Ὠ, πάλιν τὸ νυμφοπαίδιον!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ἤκουσα ὅτι ηὗρες τὸν πατέρα!\\n\"\n\"Πῶς σοι ἔδοξε τὸ φρούριον; Ἆρα\\n\"\n\"εἶδες τὴν βασιλίδα; Κικικί!\"\nBOX_BREAK\n\nUNSKIPPABLE SFX(NA_SE_VO_Z0_SMILE_0) \"Ὁ δὲ πατὴρ σπουδῇ ἐπανῆλθεν\\n\"\n\"ἐπεὶ ηὗρες αὐτόν. Κικικί!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Καὶ δεῖ δή με συστῆσαί σοι\\n\"\n\"τὴν ἐμὴν φίλην, ὦ νυμφοπαῖ!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ἥδε γάρ ἐστιν ἡ ἵππος.\\n\"\n\"Ὄνομα δ' αὐτῇ ἐστιν \" COLOR(RED) \"Ἐπώνα\" COLOR(DEFAULT) \".\\n\"\n\"Οὐχὶ χαρίεσσά ἐστιν;\""
+  },
+  {
+    "id": "0x2048",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"It seems like Epona is afraid of \\n\"\n\"you, fairy boy...\"",
+    "el_msg": "\"Ἔοικεν ἡ Ἐπώνα φοβεῖσθαί σε,\\n\"\n\"ὦ νυμφοπαῖ...\""
+  },
+  {
+    "id": "0x2049",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"My mother composed this song.  \\n\"\n\"Isn't it nice?  Let's sing together.\"",
+    "el_msg": "\"Ἡ μήτηρ μου ἐποίησε τήνδε τὴν\\n\"\n\"ᾠδήν. Ἆρ' οὐ καλή; ᾄσωμεν ἅμα.\""
+  },
+  {
+    "id": "0x204A",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Oh, Epona!  She's grown fond of\\n\"\n\"you, fairy boy.\"",
+    "el_msg": "\"Ὠ Ἐπώνα! Φιλεῖ δή σε ἄρα,\\n\"\n\"ὦ νυμφοπαῖ.\""
+  },
+  {
+    "id": "0x204B",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "TEXT_SPEED(2) \"Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z\" TEXT_SPEED(0) \"...\"",
+    "el_msg": "TEXT_SPEED(2) \"Ζ Ζ Ζ Ζ Ζ Ζ Ζ Ζ Ζ Ζ Ζ Ζ Ζ Ζ Ζ\" TEXT_SPEED(0) \"...\""
+  },
+  {
+    "id": "0x204C",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Oh...a visitor!\\n\"\n\"It's been a long time since we've\\n\"\n\"had a visitor here...\\n\"\n\"Where did you come from?\"\nBOX_BREAK\n\n\"Since Ganondorf came, people in\\n\"\n\"the Castle Town have gone, places\\n\"\n\"have been ruined, and monsters\\n\"\n\"are wandering everywhere.\"\nBOX_BREAK\n\n\"Mr. Ingo is just using the ranch\\n\"\n\"to gain Ganondorf's favor...\"\nBOX_BREAK\n\n\"Everyone seems to be turning evil...\"\nBOX_BREAK\n\n\"But Dad...\\n\"\n\"He was kicked out of the ranch\\n\"\n\"by Mr. Ingo...\"\nBOX_BREAK\n\n\"If I disobey Mr. Ingo, he will treat\\n\"\n\"the horses so badly...\"\nBOX_BREAK\n\n\"So...\\n\"\n\"There's nothing I can do...\"",
+    "el_msg": "\"Ὠ... ξένος τις!\\n\"\n\"Πολὺς χρόνος ἐξ οὗ ξένον\\n\"\n\"ἐνθάδε ἑωράκαμεν...\\n\"\n\"Πόθεν ἥκεις;\"\nBOX_BREAK\n\n\"Ἀφ' οὗ γὰρ ἦλθε Γανωνδόρφ,\\n\"\n\"οἱ ἐν τῇ Πόλει ᾤχοντο, πάντα\\n\"\n\"ἠρείπωται, καὶ τέρατα πανταχοῦ\\n\"\n\"πλανᾶται.\"\nBOX_BREAK\n\n\"Ὁ δὲ Ἴγγων χρῆται τῇ ἐπαύλει\\n\"\n\"πρὸς τὴν τοῦ Γανωνδόρφ χάριν...\"\nBOX_BREAK\n\n\"Πάντες δὲ πονηροὶ γίγνεσθαι\\n\"\n\"ἐοίκασιν...\"\nBOX_BREAK\n\n\"Ὁ δὲ πατήρ μου...\\n\"\n\"ἐξεβλήθη ἐκ τῆς ἐπαύλεως\\n\"\n\"ὑπὸ τοῦ Ἴγγωνος...\"\nBOX_BREAK\n\n\"Εἰ δὲ ἀπειθήσω τῷ Ἴγγωνι,\\n\"\n\"κακῶς χρήσεται τοῖς ἵπποις...\"\nBOX_BREAK\n\n\"Ὥστε...\\n\"\n\"οὐδὲν ἔχω ποιῆσαι...\""
+  },
+  {
+    "id": "0x204D",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"I bet nobody is faster than I am \\n\"\n\"now! But, I don't know if I \\n\"\n\"should be happy or sad....\"",
+    "el_msg": "\"Οἶμαι οὐδένα νῦν ἐμοῦ θάττονα\\n\"\n\"εἶναι! Ἀλλ' οὐκ οἶδα πότερον\\n\"\n\"χαίρειν με δεῖ ἢ λυπεῖσθαι...\""
+  },
+  {
+    "id": "0x204E",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "TEXT_SPEED(2) \"Z Z Z Z Z Z Z Z Z Z Z Z Z\" TEXT_SPEED(0) \"...\\n\"\n\"S-stop that song...I...I...\\n\"\n\"Mumble... mumble...\"",
+    "el_msg": "TEXT_SPEED(2) \"Ζ Ζ Ζ Ζ Ζ Ζ Ζ Ζ Ζ Ζ Ζ Ζ Ζ\" TEXT_SPEED(0) \"...\\n\"\n\"Παῦ-παῦσαι τῆς ᾠδῆς... ἐγώ...\\n\"\n\"Τονθορύζω... τονθορύζω...\""
+  },
+  {
+    "id": "0x204F",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE \"Take a good look at that \\n\"\n\"mountain. That is \" COLOR(RED) \"Death Mountain\" COLOR(DEFAULT) \",\\n\"\n\"home of the Gorons. They hold\\n\"\n\"the Spiritual Stone of Fire.\"",
+    "el_msg": "UNSKIPPABLE \"Βλέψον εἰς ἐκεῖνο τὸ ὄρος.\\n\"\n\"Τοῦτό ἐστι τὸ \" COLOR(RED) \"Ὄρος τοῦ Θανάτου\" COLOR(DEFAULT) \",\\n\"\n\"οἶκος τῶν Γορώνων. Ἔχουσι τὸν\\n\"\n\"Πνευματικὸν Λίθον τοῦ Πυρός.\""
+  },
+  {
+    "id": "0x2050",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Please keep it secret from \\n\"\n\"Mr. Ingo that I sing this song...\"",
+    "el_msg": "\"Σίγησον, δέομαι, πρὸς τὸν\\n\"\n\"Ἴγγωνα ὅτι τήνδε τὴν ᾠδὴν\\n\"\n\"ᾄδω...\""
+  },
+  {
+    "id": "0x2051",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "UNSKIPPABLE \"You...\\n\"\n\"Do you know my \" COLOR(RED) \"mother's song\" COLOR(DEFAULT) \"?\"\nBOX_BREAK\n\nUNSKIPPABLE \"Everyone really liked that song...\\n\"\n\"My dad... Even Mr. Ingo...\"\nBOX_BREAK\n\nUNSKIPPABLE \"But...since Ganondorf appeared,\\n\"\n\"Mr. Ingo has changed completely.\"\nBOX_BREAK\n\nUNSKIPPABLE \"I can remember the good old days\\n\"\n\"only while I sing the song. Also...\" TEXTID(0x2052)",
+    "el_msg": "UNSKIPPABLE \"Σύ...\\n\"\n\"ἆρ' οἶσθα τὴν \" COLOR(RED) \"ᾠδὴν τῆς\\n\"\n\"μητρός μου\" COLOR(DEFAULT) \";\"\nBOX_BREAK\n\nUNSKIPPABLE \"Πάντες γὰρ ἔστεργον τὴν ᾠδήν...\\n\"\n\"ὁ πατήρ... καὶ ὁ Ἴγγων αὐτός...\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ἀφ' οὗ δὲ Γανωνδόρφ ὤφθη,\\n\"\n\"ὁ Ἴγγων παντελῶς ἠλλοίωται.\"\nBOX_BREAK\n\nUNSKIPPABLE \"Μόνως δὲ τῶν πάλαι ἀγαθῶν\\n\"\n\"μιμνήσκομαι ᾄδουσα τὴν ᾠδήν.\\n\"\n\"Καὶ ἔτι...\" TEXTID(0x2052)"
+  },
+  {
+    "id": "0x2052",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "COLOR(RED) \"Epona\" COLOR(DEFAULT) \" really liked that song...\\n\"\n\"Only I could tame that horse...\\n\"\n\"Even Mr. Ingo had a hard time...\"\nBOX_BREAK\n\n\"Hee hee hee!\"",
+    "el_msg": "COLOR(RED) \"Ἐπώνα\" COLOR(DEFAULT) \" πάνυ ἠγάπα τὴν ᾠδήν...\\n\"\n\"Μόνη γὰρ ἐγὼ ἐδάμασα αὐτήν...\\n\"\n\"Καὶ ὁ Ἴγγων πάνυ ἐδυσχέραινεν...\\n\"\nBOX_BREAK\n\n\"Κικικί!\""
+  },
+  {
+    "id": "0x2053",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"This statue's one-eyed gaze \\n\"\n\"pierces into your mind...\"",
+    "el_msg": "\"Τὸ ἑτερόφθαλμον ὄμμα τοῦδε\\n\"\n\"τοῦ ἀνδριάντος διαπερᾷ σου\\n\"\n\"τὴν διάνοιαν...\""
+  },
+  {
+    "id": "0x2054",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Responding to your mask, this \\n\"\n\"strange stone statue talks to \\n\"\n\"you...\"\nBOX_BREAK\n\n\"I overheard this...\"",
+    "el_msg": "\"Ὑπακούων τῷ σῷ προσωπείῳ,\\n\"\n\"ὁ παράδοξος λίθινος ἀνδριὰς\\n\"\n\"διαλέγεταί σοι...\\n\"\nBOX_BREAK\n\n\"Παρήκουσα τάδε...\""
+  },
+  {
+    "id": "0x2055",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"I'm gonna turn over a new leaf \\n\"\n\"and work real hard from now on.\"",
+    "el_msg": "\"Εἰς ἄλλον βίον μεταβαλοῦμαι\\n\"\n\"καὶ φιλοπόνως ἐργάσομαι τοῦ\\n\"\n\"λοιποῦ.\""
+  },
+  {
+    "id": "0x2056",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Mr. Ingo... He must have been \\n\"\n\"tempted by evil powers.\\n\"\n\"He's not really a bad person \\n\"\n\"at all...\"",
+    "el_msg": "\"Ὁ Ἴγγων... ὑπὸ πονηρᾶς δυνάμεως\\n\"\n\"ἐπειράσθη δή που. Οὐ γὰρ\\n\"\n\"φύσει κακὸς ἄνθρωπός ἐστιν...\""
+  },
+  {
+    "id": "0x2057",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Z Z Z Z Z Z Z Z...\\n\"\n\"Mumble... It's not easy to\\n\"\n\"be a working man...\"",
+    "el_msg": "\"Ζ Ζ Ζ Ζ Ζ Ζ Ζ Ζ...\\n\"\n\"Τονθορύζω... Οὐ ῥᾴδιόν ἐστιν\\n\"\n\"ἐργατικὸν ἄνδρα εἶναι...\""
+  },
+  {
+    "id": "0x2058",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"It's been a while...\\n\"\n\"Do you want to race?\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Yes\\n\"\n    \"No\" COLOR(DEFAULT)",
+    "el_msg": "\"Χρόνος πολὺς ἐξ οὗ...\\n\"\n\"Βούλει ἁμιλλᾶσθαι;\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Ναί\\n\"\n    \"Οὔ\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x2059",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"If you change your mind,\\n\"\n\"come back anytime!\"",
+    "el_msg": "\"Ἐὰν δὲ μεταγνῷς,\\n\"\n\"πάλιν ἧκε ὁπόταν θέλῃς!\""
+  },
+  {
+    "id": "0x205A",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"All right then! Scram,\\n\"\n\"ya little punk!\" EVENT",
+    "el_msg": "\"Εἶεν δή! Ἄπελθε,\\n\"\n\"ὦ μιαρὸν παιδάριον!\" EVENT"
+  },
+  {
+    "id": "0x205B",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Heh heh... Are you mad because \\n\"\n\"you lost? If you're that upset,\\n\"\n\"how about another race?\"\nBOX_BREAK\n\n\"Bet \" COLOR(RED) \"50 Rupees \" COLOR(DEFAULT) \"and race again?\\n\"\n\"\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Race\\n\"\n    \"Don't race\" COLOR(DEFAULT)",
+    "el_msg": "\"Ἑ ἓ... ἆρα χαλεπαίνεις ὅτι\\n\"\n\"ἡττήθης; Εἰ οὕτως ἀγανακτεῖς,\\n\"\n\"ἆρ' ἄλλην ἅμιλλαν;\"\nBOX_BREAK\n\n\"Στοιχημάτισον \" COLOR(RED) \"50 Ῥούπια\" COLOR(DEFAULT) \" καὶ\\n\"\n\"πάλιν ἁμιλλῶ;\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Ἁμιλλᾶσθαι\\n\"\n    \"Μὴ ἁμιλλᾶσθαι\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x205C",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Thank you so much. Heh heh!\" EVENT",
+    "el_msg": "\"Χάριν ἔχω σοι μεγίστην. Ἑ ἕ!\" EVENT"
+  },
+  {
+    "id": "0x205D",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"If I give ya more free of charge,\\n\"\n\"Ingo will get mad at me. So I'd\\n\"\n\"better sell it to you for the\\n\"\n\"normal price.\"",
+    "el_msg": "\"Εἰ πλεῖον προῖκα δώσω σοι,\\n\"\n\"χαλεπανεῖ μοι ὁ Ἴγγων. Ἄμεινον\\n\"\n\"οὖν πωλεῖν σοι κατὰ τὴν\\n\"\n\"συνήθη τιμήν.\""
+  },
+  {
+    "id": "0x205E",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Wanna buy milk for \" COLOR(RED) \"30 Rupees\" COLOR(DEFAULT) \"?\\n\"\n\"\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Buy\\n\"\n    \"Don't buy\" COLOR(DEFAULT)",
+    "el_msg": "\"Βούλει γάλα ὠνεῖσθαι ἀντὶ\\n\"\nCOLOR(RED) \"30 Ῥουπίων\" COLOR(DEFAULT) \";\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Ὠνεῖσθαι\\n\"\n    \"Μὴ ὠνεῖσθαι\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x205F",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Hi there, how are you?\\n\"\n\"I am Ingo. I feel so honored\\n\"\n\"to be allowed to work here.\"",
+    "el_msg": "\"Χαῖρε, πῶς ἔχεις;\\n\"\n\"Ἐγώ εἰμι Ἴγγων. Τιμὴν μεγίστην\\n\"\n\"ἡγοῦμαι τὸ ἐξεῖναί μοι ἐνταῦθα\\n\"\n\"ἐργάζεσθαι.\""
+  },
+  {
+    "id": "0x2060",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_TOP",
+    "en_msg": "UNSKIPPABLE \"You brave lad...\\n\"\n\"We must protect this beautiful\\n\"\n\"land of Hyrule!\"",
+    "el_msg": "UNSKIPPABLE \"Ὦ ἀνδρεῖε νεανία...\\n\"\n\"Δεῖ ἡμᾶς σῴζειν τήνδε τὴν καλὴν\\n\"\n\"γῆν τῆς Ὑρούλης!\""
+  },
+  {
+    "id": "0x2061",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE \"Oh, cute ocarina!\\n\"\n\"Are you going to play this song\\n\"\n\"with that ocarina?\"",
+    "el_msg": "UNSKIPPABLE \"Ὠ, χαρίεσσα πλαγίαυλος!\\n\"\n\"Ἆρα μέλψεις τήνδε τὴν ᾠδὴν\\n\"\n\"ταύτῃ τῇ πλαγιαύλῳ;\""
+  },
+  {
+    "id": "0x2062",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE \"At the foot of Death Mountain\\n\"\n\"you will find my village, \" COLOR(RED) \"Kakariko\" COLOR(DEFAULT) \".\\n\"\n\"That is where I was born and \\n\"\n\"raised.\"\nBOX_BREAK\n\nUNSKIPPABLE \"You should talk to some of the\\n\"\n\"villagers there before you go up\\n\"\n\"Death Mountain.\"",
+    "el_msg": "UNSKIPPABLE \"Πρὸς τοῖς ποσὶ τοῦ Ὄρους\\n\"\n\"τοῦ Θανάτου εὑρήσεις τὴν ἐμὴν\\n\"\n\"κώμην, τὸ \" COLOR(RED) \"Κακαρικό\" COLOR(DEFAULT) \". Ἐκεῖ γὰρ\\n\"\n\"ἐγεννήθην καὶ ἐτράφην.\"\nBOX_BREAK\n\nUNSKIPPABLE \"Διαλέχθητι δὲ τοῖς κωμήταις\\n\"\n\"πρὶν ἀναβῆναι εἰς τὸ Ὄρος\\n\"\n\"τοῦ Θανάτου.\""
+  },
+  {
+    "id": "0x2063",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE \"The song I just taught you has\\n\"\n\"some mysterious power. Only \\n\"\n\"Royal Family members are allowed\\n\"\n\"to learn this song.\"\nBOX_BREAK\n\nUNSKIPPABLE \"Remember, it will help to prove\\n\"\n\"your connection with the Royal \\n\"\n\"Family.\"\nBOX_BREAK\n\nUNSKIPPABLE \"The Princess is waiting for you to \\n\"\n\"return to the castle with the\\n\"\n\"stones. All right. We're counting\\n\"\n\"on you!\"",
+    "el_msg": "UNSKIPPABLE \"Ἡ ᾠδὴ ἣν ἄρτι ἐδίδαξά σε\\n\"\n\"μυστικήν τινα ἔχει δύναμιν.\\n\"\n\"Μόνοις γὰρ τοῖς τοῦ Βασιλικοῦ\\n\"\n\"Γένους ἔξεστι μανθάνειν αὐτήν.\"\nBOX_BREAK\n\nUNSKIPPABLE \"Μέμνησο, τοῦτο μαρτυρήσει\\n\"\n\"τὴν πρὸς τὸν Βασιλικὸν Οἶκον\\n\"\n\"οἰκειότητά σου.\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ἡ δὲ Βασιλὶς προσδέχεται σε\\n\"\n\"ἐπανελθεῖν εἰς τὸ φρούριον\\n\"\n\"μετὰ τῶν λίθων. Εἶεν δή.\\n\"\n\"Πάντα ἐπὶ σοὶ κεῖται!\""
+  },
+  {
+    "id": "0x2064",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE QUICKTEXT_ENABLE \"Hoo hoot!\" QUICKTEXT_DISABLE \"\\n\"\nNAME \"...\\n\"\n\"Look up here!\"\nBOX_BREAK_DELAYED(40)\n\nUNSKIPPABLE \"It appears that the time has \\n\"\n\"finally come for you to start your \\n\"\n\"adventure!\"\nBOX_BREAK\n\nUNSKIPPABLE \"You will encounter many hardships\\n\"\n\"ahead... That is your fate. Don't \\n\"\n\"feel discouraged, even during the\\n\"\n\"toughest times!\" TEXTID(0x2065)",
+    "el_msg": "UNSKIPPABLE QUICKTEXT_ENABLE \"Ὠ οὔ!\" QUICKTEXT_DISABLE \"\\n\"\nNAME \"...\\n\"\n\"Ἄνω βλέψον δεῦρο!\"\nBOX_BREAK_DELAYED(40)\n\nUNSKIPPABLE \"Ἔοικεν ἤδη ὁ καιρὸς ἥκειν\\n\"\n\"τῆς σῆς ὁδοιπορίας!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Πολλάκις δὲ χαλεποῖς\\n\"\n\"ἐντεύξῃ... Τοῦτο γὰρ τὸ\\n\"\n\"πεπρωμένον. Μὴ ἀθυμήσῃς,\\n\"\n\"κἂν τὰ μέγιστα πάσχῃς!\" TEXTID(0x2065)"
+  },
+  {
+    "id": "0x2065",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"Go straight this way and you will\\n\"\n\"see \" COLOR(RED) \"Hyrule Castle\" COLOR(DEFAULT) \".\"\nBOX_BREAK\n\n\"You will meet a \" COLOR(RED) \"princess \" COLOR(DEFAULT) \"there...\"\nBOX_BREAK\n\n\"If you are lost and don't know \\n\"\n\"which way to go, look at the \\n\"\nCOLOR(RED) \"Map\" COLOR(DEFAULT) \".\"\nBOX_BREAK\n\n\"The areas you have explored will \\n\"\n\"be shown on the Map. Press \\n\"\nCOLOR(RED) \"START \" COLOR(DEFAULT) \"to enter the Subscreens\\n\"\n\"and \" COLOR(LIGHTBLUE) \"[Z]\" COLOR(DEFAULT) \" or \" COLOR(LIGHTBLUE) \"[R]\" COLOR(DEFAULT) \" to find the Map.\"\nBOX_BREAK\n\n\"On the \" COLOR(RED) \"Map Subscreen\" COLOR(DEFAULT) \", you will\\n\"\n\"also see a \" COLOR(RED) \"flashing dot\" COLOR(DEFAULT) \" showing\\n\"\n\"you which way you should go next.\" TEXTID(0x2066)",
+    "el_msg": "\"Ἴθι κατ' εὐθεῖαν καὶ ὄψει τὸ\\n\"\nCOLOR(RED) \"Φρούριον τῆς Ὑρούλης\" COLOR(DEFAULT) \".\"\nBOX_BREAK\n\n\"Ἐντεύξῃ δὲ ἐκεῖ \" COLOR(RED) \"βασιλίδι\" COLOR(DEFAULT) \" τινί...\"\nBOX_BREAK\n\n\"Εἰ δὲ πλανᾷ καὶ ἀπορεῖς\\n\"\n\"ὅποι τράπῃ, βλέψον εἰς\\n\"\n\"τὸν \" COLOR(RED) \"Χάρτην\" COLOR(DEFAULT) \".\"\nBOX_BREAK\n\n\"Αἱ δὲ γαῖαι ἃς ἐπεσκέψω\\n\"\n\"φανήσονται. Πίεσον \" COLOR(RED) \"START \" COLOR(DEFAULT) \"\\n\"\n\"καὶ \" COLOR(LIGHTBLUE) \"[Z]\" COLOR(DEFAULT) \" ἢ \" COLOR(LIGHTBLUE) \"[R]\" COLOR(DEFAULT) \" εὑρεῖν τὸν Χάρτην.\"\nBOX_BREAK\n\n\"Ἐν δὲ τῇ \" COLOR(RED) \"Δέλτῳ τοῦ Χάρτου\" COLOR(DEFAULT) \" ὄψει\\n\"\n\"καὶ \" COLOR(RED) \"στιγμὴν στίλβουσαν\" COLOR(DEFAULT) \" δηλοῦσαν\\n\"\n\"ὅποι δεῖ σε ἰέναι.\" TEXTID(0x2066)"
+  },
+  {
+    "id": "0x2066",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"Did you get all that?\\n\"\n\"\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"No\\n\"\n    \"Yes\" COLOR(DEFAULT)",
+    "el_msg": "\"Ἆρα πάντα συνῆκας;\\n\"\n\"\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Οὔ\\n\"\n    \"Ναί\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x2067",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE \"All right then, I'll see you around!\\n\"\n\"Hoot hoot hoot ho!\"",
+    "el_msg": "UNSKIPPABLE \"Εἶεν δή, πάλιν ὀψόμεθά σε!\\n\"\n\"Ὠ οὐ οὐ οὔ!\""
+  },
+  {
+    "id": "0x2068",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE \"Hey, \" NAME \"! This way!\"\nBOX_BREAK_DELAYED(40)\n\nUNSKIPPABLE \"The princess is inside the castle \\n\"\n\"just ahead. Be careful not to get \\n\"\n\"caught by the guards!\\n\"\n\"Ho ho ho hoot!\" EVENT",
+    "el_msg": "UNSKIPPABLE \"Ὦ \" NAME \"! Δεῦρο!\"\nBOX_BREAK_DELAYED(40)\n\nUNSKIPPABLE \"Ἡ βασιλὶς ἔνδον ἐστὶ τοῦ\\n\"\n\"πρόσθεν φρουρίου. Φυλάττου\\n\"\n\"μὴ ληφθῇς ὑπὸ τῶν φυλάκων!\\n\"\n\"Ὠ Ὠ Ὠ οὔ!\" EVENT"
+  },
+  {
+    "id": "0x2069",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"On this ground, time flows \\n\"\n\"normally.\"\nBOX_BREAK\n\n\"But time stands still while you\\n\"\n\"are in Lon Lon Ranch or in a town.\"\nBOX_BREAK\n\n\"If you want time to pass normally,\\n\"\n\"you'll need to leave town.\"\nBOX_BREAK\n\n\"Well, well, which way are you \\n\"\n\"going to go now?\\n\"\n\"Hoo hoo hoot!\" EVENT",
+    "el_msg": "\"Ἐν τῷδε τῷ πεδίῳ ὁ χρόνος\\n\"\n\"κατὰ φύσιν ῥεῖ.\"\nBOX_BREAK\n\n\"Ἀλλὰ μένει ὁ χρόνος ὅταν ᾖς\\n\"\n\"ἐν τῇ Ἐπαύλει Λὸν Λὸν ἢ πόλει.\"\nBOX_BREAK\n\n\"Εἰ δὲ βούλει τὸν χρόνον ῥεῖν,\\n\"\n\"δεῖ σε ἐξελθεῖν τῆς πόλεως.\"\nBOX_BREAK\n\n\"Εἶεν, ποῖ δὴ νῦν πορεύσῃ;\\n\"\n\"Ὠ ὢ οὔ!\" EVENT"
+  },
+  {
+    "id": "0x206A",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"Do you want to hear what I said \\n\"\n\"again?\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Yes\\n\"\n    \"No\" COLOR(DEFAULT)",
+    "el_msg": "\"Βούλει ἀκοῦσαι ἃ εἶπον\\n\"\n\"πάλιν;\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Ναί\\n\"\n    \"Οὔ\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x206B",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE \"Hoooo. You're a smart kid.\\n\"\n\"Good luck, then. Hoo hoo.\"",
+    "el_msg": "UNSKIPPABLE \"Ὠ οὔ. Συνετὸς εἶ, ὦ παῖ.\\n\"\n\"Εὐτύχει δή. Ὠ οὔ.\""
+  },
+  {
+    "id": "0x206C",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"Hey, \" NAME \"! \\n\"\n\"Wait a second, friend!\"\nBOX_BREAK\n\n\"Beyond this point you'll find \\n\"\nCOLOR(RED) \"Kakariko Village\" COLOR(DEFAULT) \". Have you seen \\n\"\n\"the Princess of Hyrule? If not, \\n\"\n\"I suggest you go to the castle.\" EVENT",
+    "el_msg": "\"Ὦ \" NAME \"!\\n\"\n\"Ἐπίσχες βραχύ, ὦ φίλε!\"\nBOX_BREAK\n\n\"Πέραν τοῦδε εὑρήσεις τὴν\\n\"\nCOLOR(RED) \"κώμην Κακαρικό\" COLOR(DEFAULT) \". Ἆρα εἶδες\\n\"\n\"τὴν Βασιλίδα τῆς Ὑρούλης;\\n\"\n\"Εἰ δὲ μή, ἴθι εἰς τὸ φρούριον.\" EVENT"
+  },
+  {
+    "id": "0x206D",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"Hey, \" NAME \"! \\n\"\n\"Look over here!\"\nBOX_BREAK_DELAYED(40)\n\nUNSKIPPABLE \"Beyond this point you'll find\\n\"\nCOLOR(RED) \"Kakariko Village\" COLOR(DEFAULT) \". Watch your step!\\n\"\n\"Hoot hoo!\" EVENT",
+    "el_msg": "\"Ὦ \" NAME \"!\\n\"\n\"Δεῦρο βλέψον!\"\nBOX_BREAK_DELAYED(40)\n\nUNSKIPPABLE \"Πέραν τοῦδε εὑρήσεις τὴν\\n\"\nCOLOR(RED) \"κώμην Κακαρικό\" COLOR(DEFAULT) \". Φυλάττου\\n\"\n\"τοὺς πόδας! Ὠ οὔ!\" EVENT"
+  },
+  {
+    "id": "0x206E",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE NAME \", you're the only\\n\"\n\"one who can complete the quest\\n\"\n\"ahead!\\n\"\n\"You must do your best! Hoo!\"",
+    "el_msg": "UNSKIPPABLE NAME \", σὺ μόνος εἶ\\n\"\n\"ὁ δυνάμενος τελέσαι τὸν\\n\"\n\"προκείμενον ἀγῶνα!\\n\"\n\"Παντὶ σθένει πρᾶττε! Ὠ οὔ!\""
+  },
+  {
+    "id": "0x206F",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "NAME \"! Wait up, buddy!\\n\"\n\"Hoo hoo!\"\nBOX_BREAK_DELAYED(40)\n\n\"Head south from here to reach\\n\"\nCOLOR(RED) \"Lake Hylia's \" COLOR(DEFAULT) \"full, rich waters.\"\nBOX_BREAK\n\n\"If you go west, you'll find \\n\"\nCOLOR(RED) \"Gerudo Valley\" COLOR(DEFAULT) \". There's a hideout\\n\"\n\"of a gang of thieves on the other\\n\"\n\"side of the valley.\"\nBOX_BREAK\n\n\"Well, you're free to go anywhere\\n\"\n\"you want!\\n\"\n\"Ho ho ho...hooo!\" EVENT",
+    "el_msg": "NAME \"! Ἐπίσχες, ὦ φίλε!\\n\"\n\"Ὠ οὔ!\"\nBOX_BREAK_DELAYED(40)\n\n\"Πορεύου νότονδε ἵνα ἥκῃς εἰς\\n\"\n\"τὰ βαθέα καὶ ἄφθονα ὕδατα\\n\"\n\"τῆς \" COLOR(RED) \"Λίμνης Ὑλίας\" COLOR(DEFAULT) \".\"\nBOX_BREAK\n\n\"Εἰ δὲ δυσμὰς τραπῇς, εὑρήσεις\\n\"\n\"τὴν \" COLOR(RED) \"Φάραγγα τῶν Γερούδων\" COLOR(DEFAULT) \".\\n\"\n\"Ἐκεῖ γάρ ἐστι λῃστῶν κρησφύγετον\\n\"\n\"πέραν τῆς φάραγγος.\"\nBOX_BREAK\n\n\"Ἔξεστι δέ σοι ἰέναι ὅποι\\n\"\n\"ἂν βούλῃ!\\n\"\n\"Ὠ ὢ ὤ... οὔ!\" EVENT"
+  },
+  {
+    "id": "0x2070",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE \"No matter how hard it is, just\\n\"\n\"don't get discouraged. Ho Ho Hoo!\"",
+    "el_msg": "UNSKIPPABLE \"Κἂν ᾖ χαλεπώτατον, μηδαμῶς\\n\"\n\"ἀθυμήσῃς. Ὠ ὢ οὔ!\""
+  },
+  {
+    "id": "0x2071",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"Beyond this point lies Lake Hylia.\\n\"\n\"It is full of deep, pure water.\"\nBOX_BREAK_DELAYED(40)\n\n\"The \" COLOR(BLUE) \"Zoras\" COLOR(DEFAULT) \", who live all the \\n\"\n\"way upstream, guard the sunken\\n\"\n\"temple at the lake's bottom, as \\n\"\n\"well as Zora's Fountain.\"\nBOX_BREAK\n\n\"If you want to confirm its location \\n\"\n\"on the map, press \" COLOR(RED) \"START \" COLOR(DEFAULT) \"to \\n\"\n\"switch to the Subscreens and \" COLOR(LIGHTBLUE) \"[Z]\" COLOR(DEFAULT) \" \\n\"\n\"or \" COLOR(LIGHTBLUE) \"[R]\" COLOR(DEFAULT) \" to find the Map.\"\nBOX_BREAK\n\n\"All the places you have visited \\n\"\n\"will be shown on the map. \\n\"\n\"Ho hoo hoot!\" EVENT",
+    "el_msg": "\"Πέραν τοῦδε ἡ Λίμνη Ὑλία\\n\"\n\"κεῖται, μεστὴ οὖσα βαθέος καὶ\\n\"\n\"καθαροῦ ὕδατος.\"\nBOX_BREAK_DELAYED(40)\n\n\"Οἱ δὲ \" COLOR(BLUE) \"Ζῶρα\" COLOR(DEFAULT) \", οἱ ἄνω τοῦ\\n\"\n\"ποταμοῦ οἰκοῦντες, φυλάττουσι\\n\"\n\"τόν τε ὕφαλον ναὸν ἐν τῷ πυθμένι\\n\"\n\"καὶ τὴν Πηγὴν τῶν Ζῶρα.\"\nBOX_BREAK\n\n\"Εἰ δὲ βούλει ἰδεῖν τὸν τόπον,\\n\"\n\"πίεσον \" COLOR(RED) \"START \" COLOR(DEFAULT) \"εἰς τὰς Δέλτους,\\n\"\n\"καὶ \" COLOR(LIGHTBLUE) \"[Z]\" COLOR(DEFAULT) \" ἢ \" COLOR(LIGHTBLUE) \"[R]\" COLOR(DEFAULT) \" εὑρεῖν τὸν Χάρτην.\"\nBOX_BREAK\n\n\"Πάντες γὰρ οἱ τόποι οὺς\\n\"\n\"ἐπεσκέψω ἐν τῷ χάρτῃ ἔσονται.\\n\"\n\"Ὠ ὢ οὔ!\" EVENT"
+  },
+  {
+    "id": "0x2072",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE \"OK, be careful and go!\"",
+    "el_msg": "UNSKIPPABLE \"Εἶεν, εὐλαβῶς πορεύου!\""
+  },
+  {
+    "id": "0x2073",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE \"What is your name?\" EVENT",
+    "el_msg": "UNSKIPPABLE \"Τί ἐστί σοι ὄνομα;\" EVENT"
+  },
+  {
+    "id": "0x2074",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE TEXT_SPEED(1) \".....\" TEXT_SPEED(0)\nBOX_BREAK\n\nUNSKIPPABLE COLOR(ADJUSTABLE) NAME COLOR(DEFAULT) \"...\"\nBOX_BREAK\n\nUNSKIPPABLE \"Strange...it sounds somehow... \\n\"\n\"familiar.\" EVENT",
+    "el_msg": "UNSKIPPABLE TEXT_SPEED(1) \".....\" TEXT_SPEED(0)\nBOX_BREAK\n\nUNSKIPPABLE COLOR(ADJUSTABLE) NAME COLOR(DEFAULT) \"...\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ἄτοπον... ἔοικε γάρ πως... \\n\"\n\"γνώριμον εἶναι.\" EVENT"
+  },
+  {
+    "id": "0x2075",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE \"OK then, \" NAME \"...\"\nBOX_BREAK\n\nUNSKIPPABLE \"I'm going to tell you the secret of\\n\"\n\"the Sacred Realm that has been\\n\"\n\"passed down by the Royal Family\\n\"\n\"of Hyrule.\" EVENT",
+    "el_msg": "UNSKIPPABLE \"Εἶεν δή, \" NAME \"...\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ἐρῶ σοι τὸ μυστήριον τοῦ\\n\"\n\"Ἱεροῦ Πεδίου, ὃ παραδέδοται\\n\"\n\"ὑπὸ τοῦ Βασιλικοῦ Γένους\\n\"\n\"τῆς Ὑρούλης.\" EVENT"
+  },
+  {
+    "id": "0x2076",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "SHIFT(38) \"The Ocarina of Time!\" EVENT",
+    "el_msg": "SHIFT(38) \"Ἡ Πλαγίαυλος τοῦ Χρόνου!\" EVENT"
+  },
+  {
+    "id": "0x2077",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"Did you understand well the story\\n\"\n\"I just told you?\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Yes\\n\"\n    \"No\" COLOR(DEFAULT)",
+    "el_msg": "\"Ἆρ' εὖ συνῆκας τὸν λόγον\\n\"\n\"ὃν ἄρτι διεξῆλθον;\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Ναί\\n\"\n    \"Οὔ\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x2078",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_TOP",
+    "en_msg": "UNSKIPPABLE \"I was spying through this window\\n\"\n\"just now...\"\nBOX_BREAK\n\nUNSKIPPABLE \"The other element from my\\n\"\n\"dream...the \" COLOR(BLUE) \"dark clouds\" COLOR(DEFAULT) \"...\\n\"\n\"I believe they symbolize...\\n\"\n\"that man in there!\"\nBOX_BREAK\n\n\"Will you look through the window\\n\"\n\"at him?\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Yes\\n\"\n    \"No\" COLOR(DEFAULT)",
+    "el_msg": "UNSKIPPABLE \"Ἄρτι γὰρ διὰ τῆσδε τῆς\\n\"\n\"θυρίδος κατεσκόπουν...\"\nBOX_BREAK\n\nUNSKIPPABLE \"Τὸ δ' ἕτερον τοῦ ἐνυπνίου...\\n\"\n\"τὰ \" COLOR(BLUE) \"μέλανα νέφη\" COLOR(DEFAULT) \"... οἶμαι\\n\"\n\"αἰνίττεσθαι... ἐκεῖνον τὸν\\n\"\n\"ἔνδον ἄνδρα!\"\nBOX_BREAK\n\n\"Βούλει διὰ τῆς θυρίδος\\n\"\n\"βλέψαι εἰς αὐτόν;\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Ναί\\n\"\n    \"Οὔ\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x2079",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE TEXT_SPEED(1) \"........\" TEXT_SPEED(0) \"Yes.\"\nBOX_BREAK\n\nUNSKIPPABLE \"I told my father about my dream...\"\nBOX_BREAK\n\nUNSKIPPABLE \"However, he didn't believe it was\\n\"\n\"a prophecy...\"\nBOX_BREAK\n\nUNSKIPPABLE \"But...I can sense that man's evil\\n\"\n\"intentions!\" EVENT",
+    "el_msg": "UNSKIPPABLE TEXT_SPEED(1) \"........\" TEXT_SPEED(0) \"Ναί.\"\nBOX_BREAK\n\nUNSKIPPABLE \"Διεξῆλθον τῷ πατρὶ τὸ\\n\"\n\"ἐνύπνιον...\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ἀλλ' οὐκ ἐπίστευσεν αὐτὸ\\n\"\n\"προφητείαν εἶναι...\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ἐγὼ δὲ... αἰσθάνομαι τῆς\\n\"\n\"πονηρίας ἐκείνου τοῦ ἀνδρός!\" EVENT"
+  },
+  {
+    "id": "0x207A",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE \"What Ganondorf is after must be \\n\"\n\"nothing less than the \" COLOR(RED) \"Triforce \\n\"\nCOLOR(DEFAULT) \"of the Sacred Realm.\"\nBOX_BREAK\n\nUNSKIPPABLE \"He must have come to Hyrule to\\n\"\n\"obtain it!\"\nBOX_BREAK\n\nUNSKIPPABLE \"And, he wants to conquer Hyrule...\\n\"\n\"no, the entire world!\" EVENT",
+    "el_msg": "UNSKIPPABLE \"Ὁ γὰρ ἐπιθυμεῖ ὁ Γανωνδόρφ\\n\"\n\"οὐδὲν ἄλλο ἐστὶν ἢ ἡ \" COLOR(RED) \"Τριδύναμις\\n\"\nCOLOR(DEFAULT) \"τοῦ Ἱεροῦ Πεδίου.\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ἡκε δὲ εἰς Ὑρούλην ἵνα\\n\"\n\"κτήσηται αὐτήν!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Καὶ βούλεται καταστρέψασθαι\\n\"\n\"τὴν Ὑρούλην... μᾶλλον δὲ\\n\"\n\"πᾶσαν τὴν οἰκουμένην!\" EVENT"
+  },
+  {
+    "id": "0x207B",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE NAME \"...now, we are the \\n\"\n\"only ones who can protect Hyrule!\" EVENT",
+    "el_msg": "UNSKIPPABLE NAME \"... νῦν ἡμεῖς ἐσμεν\\n\"\n\"οἱ μόνοι οἱ δυνάμενοι σῷσαι\\n\"\n\"τὴν Ὑρούλην!\" EVENT"
+  },
+  {
+    "id": "0x207C",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_TOP",
+    "en_msg": "UNSKIPPABLE \"We must not let Ganondorf get\\n\"\n\"the Triforce!\"\nBOX_BREAK\n\nUNSKIPPABLE \"I will protect the \" COLOR(LIGHTBLUE) \"Ocarina of Time\\n\"\nCOLOR(DEFAULT) \"with all my power! \\n\"\n\"He shall not have it!\"\nBOX_BREAK\n\nUNSKIPPABLE \"You go find the other \" COLOR(RED) \"two\\n\"\n\"Spiritual Stones\" COLOR(DEFAULT) \"!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Let's get the Triforce before\\n\"\n\"Ganondorf does, and then defeat \\n\"\n\"him!\" EVENT",
+    "el_msg": "UNSKIPPABLE \"Οὐκ ἐατέον τὸν Γανωνδόρφ\\n\"\n\"λαβεῖν τὴν Τριδύναμιν!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ἐγὼ δὲ παντὶ σθένει φυλάξω\\n\"\n\"τὴν \" COLOR(LIGHTBLUE) \"Πλαγίαυλον τοῦ Χρόνου\" COLOR(DEFAULT) \"!\\n\"\n\"Οὐ γὰρ λήψεται αὐτήν!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Σὺ δὲ ἴθι ζητήσων τοὺς ἄλλους\\n\"\nCOLOR(RED) \"δύο Πνευματικοὺς Λίθους\" COLOR(DEFAULT) \"!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Φθάσωμεν δὲ λαβόντες τὴν\\n\"\n\"Τριδύναμιν πρὶν Γανωνδόρφ,\\n\"\n\"καὶ καταπολεμήσωμεν αὐτόν!\" EVENT"
+  },
+  {
+    "id": "0x207D",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_TOP",
+    "en_msg": "UNSKIPPABLE \"One more thing...\\n\"\n\"Take this \" COLOR(RED) \"letter\" COLOR(DEFAULT) \"...\\n\"\n\"I'm sure it will be helpful to you.\" EVENT",
+    "el_msg": "UNSKIPPABLE \"Καὶ ἔτι ἕν...\\n\"\n\"Λάβε τήνδε τὴν \" COLOR(RED) \"ἐπιστολήν\" COLOR(DEFAULT) \"...\\n\"\n\"Πέποιθα γὰρ ὅτι χρήσιμος\\n\"\n\"ἔσται σοι.\" EVENT"
+  },
+  {
+    "id": "0x207E",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "UNSKIPPABLE \"Mumble...mumble...\\n\"\n\"Huh? I'm awake already!\"\nBOX_BREAK\n\nUNSKIPPABLE \"What?\"\nBOX_BREAK\n\nUNSKIPPABLE \"Well I'll be! If it ain't the forest\\n\"\n\"kid from the other day!\\n\"\n\"By the way, thanks a lot for\\n\"\n\"waking me up!\"\nBOX_BREAK\n\nUNSKIPPABLE \"It took some doing, but I finally \\n\"\n\"got Malon back in a good mood.\"\nBOX_BREAK\n\nUNSKIPPABLE \"So, what are you up to today?\\n\"\n\"Got some free time on your hands\\n\"\n\"you say?\\n\"\n\"Well how about a little game?\"\nBOX_BREAK\n\nUNSKIPPABLE \"These three Cuccos I have here\\n\"\n\"are special \" COLOR(RED) \"Super Cuccos\" COLOR(DEFAULT) \"!\"\nBOX_BREAK\n\nUNSKIPPABLE \"I'm going to throw these Cuccos\\n\"\n\"into that there gaggle of normal\\n\"\n\"Cuccos.\"\nBOX_BREAK\n\nUNSKIPPABLE \"If you can pick out these three \\n\"\n\"special birds from among the\\n\"\n\"normal Cuccos within the time \\n\"\n\"limit, I'll give you \" COLOR(RED) \"something good\" COLOR(DEFAULT) \".\"\nBOX_BREAK\n\n\"If you can't find them, I win.\\n\"\n\"It'll be 10 Rupees... Want to play?\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Yes\\n\"\n    \"No\" COLOR(DEFAULT)",
+    "el_msg": "UNSKIPPABLE \"Μμμ... τονθορύζω...\\n\"\n\"Ἆρα; Ἐγρήγορα ἤδη!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Τί ἐστιν;\"\nBOX_BREAK\n\nUNSKIPPABLE \"Βαβαί! Μῶν τὸ ἐκ τοῦ δρυμοῦ\\n\"\n\"παιδάριον τὸ πρώην!\\n\"\n\"Χάριν δ' ἔχω σοι ὅτι ἐξήγειράς με!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Μόλις μέν, ἀλλὰ τέλος ἔπεισα\\n\"\n\"τὴν Μάλων εὐμενῆ πάλιν εἶναι.\"\nBOX_BREAK\n\nUNSKIPPABLE \"Τί οὖν πράττεις τήμερον;\\n\"\n\"Σχολάζεις, φής;\\n\"\n\"Τί δ' εἰ παιγνίου τινὸς μετέχοις;\"\nBOX_BREAK\n\nUNSKIPPABLE \"Οἵδε γὰρ οἱ τρεῖς Κουκκὼ\\n\"\n\"ἐξαίρετοι \" COLOR(RED) \"Ὑπερκουκκώ\" COLOR(DEFAULT) \" εἰσιν!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ῥίψω δ' αὐτοὺς εἰς τὴν ἀγέλην\\n\"\n\"τῶν συνήθων Κουκκώ.\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ἐὰν δὲ διαγνῷς τοὺς τρεῖς\\n\"\n\"τούτους ἐκ τῶν συνήθων ἐντὸς\\n\"\n\"τοῦ χρόνου, δώσω σοι \" COLOR(RED) \"ἀγαθόν τι\" COLOR(DEFAULT) \".\"\nBOX_BREAK\n\n\"Εἰ δὲ μή, ἐγὼ νικῶ. Τιμὴ δὲ 10\\n\"\n\"Ῥούπια... Βούλει παίζειν;\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Ναί\\n\"\n    \"Οὔ\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x207F",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Mumble...mumble...\\n\"\n\"I'm up! I'm up!\"\nBOX_BREAK\n\n\"What?\"\nBOX_BREAK\n\n\"Hey, forest kid!\\n\"\n\"Got some free time?\\n\"\n\"Then c'mon and play!\"\nBOX_BREAK\n\n\"I'm going to throw these three\\n\"\nCOLOR(RED) \"Super Cuccos \" COLOR(DEFAULT) \"into that gaggle of\\n\"\n\"normal Cuccos.\"\nBOX_BREAK\n\n\"If you can pick out these three \\n\"\n\"special birds from among the\\n\"\n\"normal Cuccos within the time \\n\"\n\"limit, I'll give you \" COLOR(RED) \"something good\" COLOR(DEFAULT) \".\"\nBOX_BREAK\n\n\"If you can't find them, I win.\\n\"\n\"It'll be 10 Rupees... Want to play?\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Yes\\n\"\n    \"No\" COLOR(DEFAULT)",
+    "el_msg": "\"Μμμ... τονθορύζω...\\n\"\n\"Ἐγρήγορα! Ἐγρήγορα!\"\nBOX_BREAK\n\n\"Τί ἐστιν;\"\nBOX_BREAK\n\n\"Ὦ παῖ τοῦ δρυμοῦ!\\n\"\n\"Σχολὴν ἄγεις;\\n\"\n\"Ἴθι δὴ καὶ παῖζε!\"\nBOX_BREAK\n\n\"Ῥίψω τοὺς τρεῖς \" COLOR(RED) \"Ὑπερκουκκὼ\\n\"\nCOLOR(DEFAULT) \"εἰς τὴν ἀγέλην τῶν συνήθων\\n\"\n\"Κουκκώ.\"\nBOX_BREAK\n\n\"Ἐὰν δὲ διαγνῷς τοὺς τρεῖς\\n\"\n\"τούτους ἐκ τῶν συνήθων ἐντὸς\\n\"\n\"τοῦ χρόνου, δώσω σοι \" COLOR(RED) \"ἀγαθόν τι\" COLOR(DEFAULT) \".\"\nBOX_BREAK\n\n\"Εἰ δὲ μή, ἐγὼ νικῶ. Τιμὴ δὲ 10\\n\"\n\"Ῥούπια... Βούλει παίζειν;\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Ναί\\n\"\n    \"Οὔ\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x2080",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"You have 30 seconds!\\n\"\n\"All righty then, get ready.\\n\"\n\"Here go the Super Cuccos!\"\nBOX_BREAK\n\nSHIFT(48) \"START LOOKIN'!!\" EVENT",
+    "el_msg": "\"Τριάκοντα δευτερόλεπτα ἔχεις!\\n\"\n\"Εἶεν δή, παρασκευάζου.\\n\"\n\"Ἰδοὺ οἱ Ὑπερκουκκώ!\"\nBOX_BREAK\n\nSHIFT(48) \"ΑΡΞΑΙ ΖΗΤΕΙΝ!!\" EVENT"
+  },
+  {
+    "id": "0x2081",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_TOP",
+    "en_msg": "\"Time's up!\\n\"\n\"Too baaaaad!!\"\nBOX_BREAK\n\n\"These are some great Cuccos\\n\"\n\"aren't they!\\n\"\n\"They're raking in money for me!\"\nBOX_BREAK\n\n\"Come back to me, my babies!\" EVENT",
+    "el_msg": "\"Ὁ χρόνος ἐξῆλθεν!\\n\"\n\"Οἴμοι, κακῶς σοι ἔχει!!\"\nBOX_BREAK\n\n\"Ἆρ' οὐ θαυμαστοὶ οἱ Κουκκώ;\\n\"\n\"Πλεῖστον γὰρ ἀργύριον\\n\"\n\"συλλέγουσί μοι!\"\nBOX_BREAK\n\n\"Ἐπανέλθετε δεῦρο, ὦ τέκνα μου!\" EVENT"
+  },
+  {
+    "id": "0x2082",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"That's one of 'em!\\n\"\n\"Keep it up! Keep it up!\\n\"\nCOLOR(RED) \"Two more\" COLOR(DEFAULT) \" to find!\" EVENT",
+    "el_msg": "\"Οὗτος εἷς ἐξ αὐτῶν!\\n\"\n\"Ἔχε οὕτως! Ἔχε οὕτως!\\n\"\nCOLOR(RED) \"Ἔτι δύο\" COLOR(DEFAULT) \" δεῖ σε εὑρεῖν!\" EVENT"
+  },
+  {
+    "id": "0x2083",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"There's another!\\n\"\n\"All right, now, the moment of\\n\"\n\"truth! \" COLOR(RED) \"One more\" COLOR(DEFAULT) \" to find!\" EVENT",
+    "el_msg": "\"Ἰδοὺ ἕτερος!\\n\"\n\"Εἶεν δή, νῦν ὁ μέγας ἀγών!\\n\"\nCOLOR(RED) \"Ἔτι ἕνα\" COLOR(DEFAULT) \" δεῖ σε εὑρεῖν!\" EVENT"
+  },
+  {
+    "id": "0x2084",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Golly! I'll be darned!\\n\"\n\"It's plum incredible!\"\nBOX_BREAK\n\n\"That's the last one!\\n\"\n\"You've found them all!\\n\"\n\"Come on over here!\" EVENT",
+    "el_msg": "\"Βαβαί! Ἡράκλεις!\\n\"\n\"Ἄπιστον δή ἐστιν!\"\nBOX_BREAK\n\n\"Οὗτος ὁ τελευταῖος!\\n\"\n\"Πάντας γὰρ ηὗρες!\\n\"\n\"Ἴθι δεῦρο πρὸς ἐμέ!\" EVENT"
+  },
+  {
+    "id": "0x2085",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Want to try again?\"\nBOX_BREAK\n\n\"A young man like you must have\\n\"\n\"a real fire in your belly!\\n\"\n\"Find three of them within\\n\"\n\"30 seconds.\"\nBOX_BREAK\n\n\"Try again for 5 Rupees?\\n\"\n\"\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Yes\\n\"\n    \"No\" COLOR(DEFAULT)",
+    "el_msg": "\"Βούλει πάλιν πειρᾶσθαι;\"\nBOX_BREAK\n\n\"Νεανίας γὰρ ὢν θερμόψυχος\\n\"\n\"δή που εἶ!\\n\"\n\"Εὕρισκε τοὺς τρεῖς ἐντὸς\\n\"\n\"30 δευτερολέπτων.\"\nBOX_BREAK\n\n\"Πάλιν πειρᾶσθαι ἀντὶ 5 Ῥουπίων;\\n\"\n\"\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Ναί\\n\"\n    \"Οὔ\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x2086",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Hey, you!\\n\"\n\"You've got the talent to be one of\\n\"\n\"the world's best cowboys!\"\nBOX_BREAK\n\n\"How'd you like to marry Malon?\\n\"\n\"Huh?\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Yes\\n\"\n    \"No\" COLOR(DEFAULT)",
+    "el_msg": "\"Οὗτος!\\n\"\n\"Εὐφυὴς γὰρ εἶ ὥστε ἄριστος\\n\"\n\"βουκόλος γενέσθαι!\"\nBOX_BREAK\n\n\"Βούλει γῆμαι τὴν Μάλων;\\n\"\n\"Ἦ γάρ;\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Ναί\\n\"\n    \"Οὔ\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x2087",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "UNSKIPPABLE \"Haw haw! I was just kidding! \\n\"\n\"Just kidding! I think you're a little\\n\"\n\"young for that, aren't you?\\n\"\n\"Haw haw haw!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Oh...! I'm proud to present to\\n\"\n\"you a sample of our very own \" COLOR(RED) \"Lon\\n\"\n\"Lon Milk\" COLOR(DEFAULT) \". You'll be energized\\n\"\n\"the moment you drink it!\"\nBOX_BREAK\n\nUNSKIPPABLE \"After you drink it, you can \\n\"\n\"bring back the \" COLOR(RED) \"bottle \" COLOR(DEFAULT) \"and buy a\\n\"\n\"refill, anytime you want!\" EVENT",
+    "el_msg": "UNSKIPPABLE \"Ἁ ἅ! Παίζων ἔλεγον!\\n\"\n\"Παίζων μόνον! Νεώτερος γὰρ\\n\"\n\"εἶ ἢ ὥστε γαμεῖν, ἦ γάρ;\\n\"\n\"Ἁ ἃ ἅ!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ὠ...! Ἄσμενος δίδωμί σοι\\n\"\n\"γεῦμα τοῦ ἡμετέρου \" COLOR(RED) \"Γάλακτος\\n\"\n\"Λὸν Λόν\" COLOR(DEFAULT) \". Εὐθὺς γὰρ ῥωσθήσῃ\\n\"\n\"ὅταν πίῃς αὐτό!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Πιὼν δέ, ἔξεστί σοι κομίζειν\\n\"\n\"πάλιν τὴν \" COLOR(RED) \"λήκυθον\" COLOR(DEFAULT) \" καὶ πληροῦν\\n\"\n\"αὐτὴν ὁπόταν θέλῃς!\" EVENT"
+  },
+  {
+    "id": "0x2088",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Hey pardner, you have an honest \\n\"\n\"face!\"\nBOX_BREAK\n\n\"When you grow up, why don't you\\n\"\n\"come to work here, on this \\n\"\n\"ranch? That's a standing offer!\\n\"\n\"I'll be waiting for you.\" EVENT",
+    "el_msg": "\"Ὦ ἑταῖρε, ἀδόλωτον πρόσωπον\\n\"\n\"ἔχεις!\"\nBOX_BREAK\n\n\"Ἀνδρωθεὶς δέ, τί οὐ δεῦρο\\n\"\n\"ἔρχῃ ἐργασόμενος ἐν τῇ ἐπαύλει;\\n\"\n\"Ἀεὶ γὰρ ἕτοιμον τὸ ἔργον!\\n\"\n\"Περιμενῶ σε δή.\" EVENT"
+  },
+  {
+    "id": "0x2089",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Here you go! Take this super\\n\"\n\"fresh \" COLOR(RED) \"Lon Lon Milk\" COLOR(DEFAULT) \"!\" EVENT",
+    "el_msg": "\"Ἰδού! Λάβε τόδε τὸ πάνυ\\n\"\n\"πρόσφατον \" COLOR(RED) \"Γάλα Λὸν Λόν\" COLOR(DEFAULT) \"!\" EVENT"
+  },
+  {
+    "id": "0x208A",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Here you are! Take some super\\n\"\n\"fresh milk...\"\nBOX_BREAK\n\n\"Oh? Too baaaaad!!\\n\"\n\"You don't have an empty bottle,\\n\"\n\"do you?\"",
+    "el_msg": "\"Ἰδού! Λάβε τοῦ πάνυ προσφάτου\\n\"\n\"γάλακτος...\"\nBOX_BREAK\n\n\"Ἆρα; Οἴμοι, κακῶς ἔχει!!\\n\"\n\"Κενὴν γὰρ λήκυθον οὐκ ἔχεις,\\n\"\n\"ἦ γάρ;\""
+  },
+  {
+    "id": "0x208B",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Mumble...mumble...\\n\"\n\"I'm awake!\"\nBOX_BREAK\n\n\"What?\"\nBOX_BREAK\n\n\"Hey, \" NAME \"!\\n\"\n\"If you're lookin' for Malon,\\n\"\n\"she's right outside. Did you \\n\"\n\"come here to play?\"\nBOX_BREAK\n\n\"Well then, how about playing the\\n\"\nCOLOR(RED) \"Super Cucco-findin' game \" COLOR(DEFAULT) \"with me?\\n\"\n\"Or, do you want to buy some\\n\"\nCOLOR(RED) \"Lon Lon Milk\" COLOR(DEFAULT) \"?\"\nBOX_BREAK\n\n\"What'll it be?\\n\"\nTHREE_CHOICE\n    COLOR(ADJUSTABLE) \"Lon Lon Milk - 30 Rupees\\n\"\n    \"Cucco-findin' game - 10 Rupees\\n\"\n    \"Quit\" COLOR(DEFAULT)",
+    "el_msg": "\"Μμμ... τονθορύζω...\\n\"\n\"Ἐγρήγορα!\"\nBOX_BREAK\n\n\"Τί ἐστιν;\"\nBOX_BREAK\n\n\"Ὦ \" NAME \"!\\n\"\n\"Εἰ ζητεῖς τὴν Μάλων, ἔξω\\n\"\n\"ἐστίν. Ἆρα ἦλθες παίξων;\"\nBOX_BREAK\n\n\"Τί δ' οὐ παίζεις μετ' ἐμοῦ τὸ\\n\"\n\"τῶν \" COLOR(RED) \"Ὑπερκουκκὼ παιγνίδιον\" COLOR(DEFAULT) \";\\n\"\n\"ἢ βούλει ὠνεῖσθαι\\n\"\nCOLOR(RED) \"Γάλα Λὸν Λόν\" COLOR(DEFAULT) \";\"\nBOX_BREAK\n\n\"Τί βούλει;\\n\"\nTHREE_CHOICE\n    COLOR(ADJUSTABLE) \"Γάλα Λὸν Λόν - 30 Ῥούπια\\n\"\n    \"Παιγνίδιον Κουκκώ - 10 Ῥούπια\\n\"\n    \"Ἐξελθεῖν\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x208C",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_TOP",
+    "en_msg": "QUICKTEXT_ENABLE COLOR(RED) \"You failed!\" COLOR(DEFAULT) \"\\n\"\n\"You have to jump over all the\\n\"\n\"fences!\" QUICKTEXT_DISABLE FADE(60)",
+    "el_msg": "QUICKTEXT_ENABLE COLOR(RED) \"Ἀπέτυχες!\" COLOR(DEFAULT) \"\\n\"\n\"Δεῖ γὰρ πάντας τοὺς δρυφάκτους\\n\"\n\"ὑπερθορεῖν!\" QUICKTEXT_DISABLE FADE(60)"
+  },
+  {
+    "id": "0x208D",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_TOP",
+    "en_msg": "QUICKTEXT_ENABLE COLOR(RED) \"One more lap!\" COLOR(DEFAULT) QUICKTEXT_DISABLE FADE(20)",
+    "el_msg": "QUICKTEXT_ENABLE COLOR(RED) \"Ἔτι εἷς περίδρομος!\" COLOR(DEFAULT) QUICKTEXT_DISABLE FADE(20)"
+  },
+  {
+    "id": "0x208E",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Are you making sure to approach\\n\"\n\"the fences head on? If you \\n\"\n\"approach at an angle, the horse\\n\"\n\"won't jump!\"\nBOX_BREAK\n\n\"If you want to try again, mount\\n\"\n\"Epona and get ready!\"",
+    "el_msg": "\"Ἆρα κατ' ὀρθὸν ἐλαύνεις πρὸς\\n\"\n\"τοὺς δρυφάκτους; Εἰ γὰρ\\n\"\n\"πλαγίως προσέλθῃς, οὐχ\\n\"\n\"ὑπερθορεῖται ὁ ἵππος!\"\nBOX_BREAK\n\n\"Εἰ δὲ πάλιν πειρᾶσθαι θέλεις,\\n\"\n\"ἐπίβηθι τῆς Ἐπώνας καὶ ἕτοιμος\\n\"\n\"γίγνου!\""
+  },
+  {
+    "id": "0x208F",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "UNSKIPPABLE \"You did it!\\n\"\nCOLOR(RED) RACE_TIME COLOR(DEFAULT) \" is the new course record!\"\nBOX_BREAK\n\nUNSKIPPABLE \"I have to give you a present to\\n\"\n\"commemorate your new record!\"\nBOX_BREAK\n\nUNSKIPPABLE \"The present is a little too heavy\\n\"\n\"to give to you here, so I'll have it\\n\"\n\"delivered to your house. Bet you\\n\"\n\"can't wait to see it! Hee hee!\"",
+    "el_msg": "UNSKIPPABLE \"Κατώρθωσας!\\n\"\nCOLOR(RED) RACE_TIME COLOR(DEFAULT) \" καινὸν μέτρον τοῦ δρόμου!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Δεῖ δή με δῶρόν σοι δοῦναι\\n\"\n\"εἰς μνήμην τοῦ καινοῦ μέτρου!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Τὸ δὲ δῶρον βαρύτερόν ἐστιν\\n\"\n\"ἢ ὥστε ἐνθάδε δοῦναι, ὥστε\\n\"\n\"πεμφθήσεται εἰς τὸν οἶκόν σου.\\n\"\n\"Πάντως ἰδεῖν ποθεῖς! Κικικί!\""
+  },
+  {
+    "id": "0x2090",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"The record so far is \" COLOR(RED) \"50 seconds\" COLOR(DEFAULT) \".\\n\"\n\"Your best time is \" COLOR(RED) HIGHSCORE(HS_HORSE_RACE) COLOR(DEFAULT) \".\"\nBOX_BREAK\n\n\"If you can beat the record, I'll\\n\"\n\"give you a present.\\n\"\n\"Give it your best shot, OK?\"\nBOX_BREAK\n\n\"Let's get going!\" EVENT",
+    "el_msg": "\"Τὸ μέχρι νῦν μέτρον ἐστὶ \" COLOR(RED) \"50\\n\"\n\"δευτερόλεπτα\" COLOR(DEFAULT) \". Ὁ δὲ σὸς ἄριστος\\n\"\n\"χρόνος \" COLOR(RED) HIGHSCORE(HS_HORSE_RACE) COLOR(DEFAULT) \".\"\nBOX_BREAK\n\n\"Ἐὰν δὲ νικήσῃς τὸ μέτρον,\\n\"\n\"δώσω σοι δῶρον.\\n\"\n\"Παντὶ σθένει ἀγωνίζου, εἶεν;\"\nBOX_BREAK\n\n\"Ἄγωμεν δή!\" EVENT"
+  },
+  {
+    "id": "0x2091",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Your best time is \" COLOR(RED) HIGHSCORE(HS_HORSE_RACE) COLOR(DEFAULT) \"!\\n\"\n\"How fast can you go?!\\n\"\n\"C'mon, let's get started!\" EVENT",
+    "el_msg": "\"Ὁ σὸς ἄριστος χρόνος \" COLOR(RED) HIGHSCORE(HS_HORSE_RACE) COLOR(DEFAULT) \"!\\n\"\n\"Πόσον ταχέως δύνασαι δραμεῖν;!\\n\"\n\"Ἴθι, ἀρξώμεθα δή!\" EVENT"
+  },
+  {
+    "id": "0x2092",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"The current record is \" COLOR(RED) \"50 seconds\" COLOR(DEFAULT) \".\\n\"\n\"First, try to beat this record!\"\nBOX_BREAK\n\n\"If you can beat the record, I'll\\n\"\n\"give you a present!\\n\"\n\"Give it your best shot, OK?\"\nBOX_BREAK\n\n\"All right, let's get started!\" EVENT",
+    "el_msg": "\"Τὸ νῦν μέτρον ἐστὶ \" COLOR(RED) \"50\\n\"\n\"δευτερόλεπτα\" COLOR(DEFAULT) \".\\n\"\n\"Πρῶτον πειρῶ νικᾶν τοῦτο!\"\nBOX_BREAK\n\n\"Ἐὰν δὲ νικήσῃς τὸ μέτρον,\\n\"\n\"δώσω σοι δῶρον!\\n\"\n\"Παντὶ σθένει ἀγωνίζου, εἶεν;\"\nBOX_BREAK\n\n\"Εἶεν δή, ἀρξώμεθα!\" EVENT"
+  }
+]

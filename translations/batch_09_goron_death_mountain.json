@@ -1,0 +1,800 @@
+[
+  {
+    "id": "0x3000",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE \"You don't know what he means by\\n\"\n\"\\\"Sworn Brothers,\\\" but you've \\n\"\n\"collected two Spiritual Stones!\\n\"\n\"You have one more to find!\"",
+    "el_msg": "UNSKIPPABLE \"Οὐκ οἶδας μὲν τί σημαίνει\\n\"\n\"τὸ «Ἔνορκοι Ἀδελφοί», συνείλοχας\\n\"\n\"δὲ δύο Πνευματικοὺς Λίθους!\\n\"\n\"Λοιπὸν ἔτι ἕνα εὑρεῖν!\""
+  },
+  {
+    "id": "0x3001",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE \"You don't know what he means by\\n\"\n\"\\\"Sworn Brothers,\\\" but you've \\n\"\n\"finally collected all three Stones!\\n\"\n\"Go back to see Princess Zelda!\"",
+    "el_msg": "UNSKIPPABLE \"Οὐκ οἶδας μὲν τί σημαίνει\\n\"\n\"τὸ «Ἔνορκοι Ἀδελφοί», πάντας\\n\"\n\"δὲ τοὺς τρεῖς Λίθους ἔχεις!\\n\"\n\"Ἔπανελθε πρὸς βασιλίδα Ζέλδαν!\""
+  },
+  {
+    "id": "0x3002",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"I maaaade thissss...\\n\"\n\"Trrrrade for \" COLOR(RED) \"claimmm checkkk\" COLOR(DEFAULT) \"...\"",
+    "el_msg": "\"Ἐποίηηησα τοῦτοοο...\\n\"\n\"Ἀντάλλαξον ἀντὶ \" COLOR(RED) \"συμβόόόλου\" COLOR(DEFAULT) \"...\""
+  },
+  {
+    "id": "0x3003",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"I giiiive thissss to yoooou forrr\\n\"\n\"a souvenirrrrr.\"",
+    "el_msg": "\"Δίίίδωμι τοῦτοοο σοὶ\\n\"\n\"εἰς μνημόόόσυνοννν.\""
+  },
+  {
+    "id": "0x3004",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE \"Kid, I like you!\"\nBOX_BREAK\n\nUNSKIPPABLE \"How's about you and I become\\n\"\n\"Sworn Brothers?!\"\nBOX_BREAK\n\nUNSKIPPABLE \"No, there's no big ceremony\\n\"\n\"involved! Just take this as a\\n\"\n\"token of our friendship!\"",
+    "el_msg": "UNSKIPPABLE \"Ὦ παῖ, φιλῶ σε!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Τί λέγεις; Βούλει γενέσθαι\\n\"\n\"ἔνορκοι ἀδελφοί;!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Οὐδεμιᾶς δεῖ τελετῆς!\\n\"\n\"Λαβὲ μόνον τοῦτο εἰς σημεῖον\\n\"\n\"τῆς ἡμετέρας φιλίας!\""
+  },
+  {
+    "id": "0x3005",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "SHIFT(48) \"You did great!\" FADE(30)",
+    "el_msg": "SHIFT(48) \"Εὖ γε ἐποίησας!\" FADE(30)"
+  },
+  {
+    "id": "0x3006",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"How 'bout a big Goron hug, \\n\"\n\"Brother?!\" FADE(30)",
+    "el_msg": "\"Δῶμεν δή, ὦ ἀδελφέ,\\n\"\n\"περιπλοκὴν Γορωνικήν;!\" FADE(30)"
+  },
+  {
+    "id": "0x3007",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "SHIFT(80) \"Oh!\"\nBOX_BREAK_DELAYED(30)\n\nSHIFT(75) \"Oh-oh!\"\nBOX_BREAK_DELAYED(40)\n\nSHIFT(75) QUICKTEXT_ENABLE \"C'mon!\" QUICKTEXT_DISABLE\nBOX_BREAK_DELAYED(30)\n\nSHIFT(20) \"Come on! Come on! \" QUICKTEXT_ENABLE \"Come on!\" QUICKTEXT_DISABLE\nBOX_BREAK_DELAYED(40)\n\nSHIFT(80) QUICKTEXT_ENABLE \"HOT!!\" QUICKTEXT_DISABLE\nBOX_BREAK_DELAYED(30)\n\nSHIFT(40) \"What a hot beat!\"\nBOX_BREAK_DELAYED(40)\n\nSHIFT(50) \"WHOOOOAH!\"\nBOX_BREAK_DELAYED(40)\n\nSHIFT(60) QUICKTEXT_ENABLE \"YEEEEAH!\" QUICKTEXT_DISABLE\nBOX_BREAK_DELAYED(40)\n\nSHIFT(60) QUICKTEXT_ENABLE \"YAHOOO!!\" QUICKTEXT_DISABLE",
+    "el_msg": "SHIFT(80) \"Ὠ!\"\nBOX_BREAK_DELAYED(30)\n\nSHIFT(75) \"Ὠ-ὤ!\"\nBOX_BREAK_DELAYED(40)\n\nSHIFT(75) QUICKTEXT_ENABLE \"Ἄγε!\" QUICKTEXT_DISABLE\nBOX_BREAK_DELAYED(30)\n\nSHIFT(20) \"Ἄγε δή! Ἄγε δή! \" QUICKTEXT_ENABLE \"Ἄγε δή!\" QUICKTEXT_DISABLE\nBOX_BREAK_DELAYED(40)\n\nSHIFT(80) QUICKTEXT_ENABLE \"ΖΕΕΙ!!\" QUICKTEXT_DISABLE\nBOX_BREAK_DELAYED(30)\n\nSHIFT(40) \"Οἷος ῥυθμὸς θερμός!\"\nBOX_BREAK_DELAYED(40)\n\nSHIFT(50) \"Οὐαααί!\"\nBOX_BREAK_DELAYED(40)\n\nSHIFT(60) QUICKTEXT_ENABLE \"Εὖγεεε!\" QUICKTEXT_DISABLE\nBOX_BREAK_DELAYED(40)\n\nSHIFT(60) QUICKTEXT_ENABLE \"Ἰαχοῖ!!\" QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x3008",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "UNSKIPPABLE \"I am one of the \" COLOR(RED) \"Gorons\" COLOR(DEFAULT) \",\\n\"\n\"the stone-eating people who live\\n\"\n\"on Death Mountain.\"\nBOX_BREAK\n\nUNSKIPPABLE \"Look at that huge boulder over\\n\"\n\"there!\"\nBOX_BREAK\n\nUNSKIPPABLE \"It blocks the entrance to the\\n\"\nCOLOR(RED) \"Dodongo's Cavern\" COLOR(DEFAULT) \", which was once\\n\"\n\"a very important place for us\\n\"\n\"Gorons...\"\nBOX_BREAK\n\nUNSKIPPABLE \"But one day, many Dodongos\\n\"\n\"suddenly appeared inside the \\n\"\n\"cavern. It became a very \\n\"\n\"dangerous place!\"\nBOX_BREAK\n\nUNSKIPPABLE \"On top of that, a \" COLOR(RED) \"Gerudo in black\\n\"\n\"armor \" COLOR(DEFAULT) \"used his magic to seal the\\n\"\n\"entrance with that boulder!\" TEXTID(0x302A)",
+    "el_msg": "UNSKIPPABLE \"Εἷς εἰμι τῶν \" COLOR(RED) \"Γορώνων\" COLOR(DEFAULT) \",\\n\"\n\"τοῦ λιθοφάγου γένους τοῦ\\n\"\n\"ἐν τῷ Ὄρει τοῦ Θανάτου.\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ἰδοὺ τὸν μέγαν ἐκεῖνον\\n\"\n\"βράχον ἐκεῖσε!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ἀποκλείει τὴν εἴσοδον τοῦ\\n\"\nCOLOR(RED) \"Σπηλαίου τῶν Δοδόνγων\" COLOR(DEFAULT) \", ὃ\\n\"\n\"πρίν ποτ' ἦν τόπος μέγιστος\\n\"\n\"ἡμῖν τοῖς Γόρωσιν...\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ἀλλ' ἡμέρᾳ τινί, πολλοὶ\\n\"\n\"Δοδόνγοι ἄφνω ἐφάνησαν ἔνδον.\\n\"\n\"Καὶ πάνυ ἐπικίνδυνος ἐγένετο!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Πρὸς δὲ τούτοις, \" COLOR(RED) \"Γερούδη τις ἐν\\n\"\n\"μέλανι θώρακι\" COLOR(DEFAULT) \" μαγείᾳ ἔκλεισε\\n\"\n\"τὴν εἴσοδον τῷ βράχῳ ἐκείνῳ!\" TEXTID(0x302A)"
+  },
+  {
+    "id": "0x3009",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"I wish I could roll down the \\n\"\n\"mountain like a rock, with a\\n\"\nCOLOR(RED) \"Bomb Flower \" COLOR(DEFAULT) \"and...\"\nBOX_BREAK\n\nQUICKTEXT_ENABLE SHIFT(60) COLOR(RED) \"BOOOOOOM!\" COLOR(DEFAULT) QUICKTEXT_DISABLE\nBOX_BREAK\n\n\"If I could do that with a Bomb \\n\"\n\"Flower, I could become a real man.\"",
+    "el_msg": "\"Εἴθε κυλίνδεσθαι κατὰ τοῦ\\n\"\n\"ὄρους ὡς πέτρος μετὰ \" COLOR(RED) \"Ἀνθέως\\n\"\n\"Βόμβης\" COLOR(DEFAULT) \" καὶ εἶτα...\"\nBOX_BREAK\n\nQUICKTEXT_ENABLE SHIFT(60) COLOR(RED) \"ΜΠΑΑΑΜ!\" COLOR(DEFAULT) QUICKTEXT_DISABLE\nBOX_BREAK\n\n\"Εἰ γὰρ τοῦτ' ἐποίουν μετὰ τοῦ\\n\"\n\"Ἀνθέως Βόμβης, ἀνὴρ τέλειος\\n\"\n\"ἂν ἐγενόμην.\""
+  },
+  {
+    "id": "0x300A",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"I'm standing here to shade the\\n\"\nCOLOR(RED) \"Bomb Flowers \" COLOR(DEFAULT) \"from the sun.\"\nBOX_BREAK\n\n\"Do you have a question for me?\\n\"\n\"\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Ask about Bomb Flowers\\n\"\n    \"Ask about Dodongo's Cavern\" COLOR(DEFAULT)",
+    "el_msg": "\"Ἕστηκα ἐνθάδε σκιὰν παρέχων\\n\"\n\"τοῖς \" COLOR(RED) \"Ἄνθεσι Βόμβης\" COLOR(DEFAULT) \" ἀπὸ ἡλίου.\"\nBOX_BREAK\n\n\"Ἔχεις δή τι ἐρωτῆσαί με;\\n\"\n\"\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Περὶ τῶν Ἀνθέων Βόμβης\\n\"\n    \"Περὶ Σπηλαίου τῶν Δοδόνγων\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x300B",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Those plants growing over there \\n\"\n\"are \" COLOR(RED) \"Bomb Flowers\" COLOR(DEFAULT) \". They are\\n\"\n\"\\\"mining plants\\\" that grow only on\\n\"\n\"this mountain.\"\nBOX_BREAK\n\n\"The flower's fruit is the raw \\n\"\n\"material for bombs.\"\nBOX_BREAK\n\n\"But a non-Goron amateur should \\n\"\n\"never pick the Bomb Flowers' \\n\"\n\"fruit!\"\nBOX_BREAK\n\n\"They usually grow only in dark \\n\"\n\"places, so Bomb Flowers that grow\\n\"\n\"in a place like this are extremely\\n\"\n\"rare.\"",
+    "el_msg": "\"Τὰ ἐκεῖ φυόμενα φυτά ἐστι\\n\"\nCOLOR(RED) \"Ἄνθη Βόμβης\" COLOR(DEFAULT) \". «Μεταλλικὰ γάρ\\n\"\n\"ἐστι φυτά», μόνον ἐν τῷδε\\n\"\n\"τῷ ὄρει φυόμενα.\"\nBOX_BREAK\n\n\"Ὁ δὲ καρπὸς αὐτῶν ἐστιν\\n\"\n\"ἡ ὕλη τῶν βομβῶν.\"\nBOX_BREAK\n\n\"Ἀλλ' ἰδιώτης μὴ Γόρων ὢν\\n\"\n\"μηδαμῶς τιλλέτω τὸν καρπὸν\\n\"\n\"τοῦ Ἀνθέως Βόμβης!\"\nBOX_BREAK\n\n\"Φύεται γὰρ ἐν σκοτεινοῖς,\\n\"\n\"ὥστε τὰ ἐν τοιούτῳ τόπῳ\\n\"\n\"φυόμενα σπανιώτατά ἐστιν.\""
+  },
+  {
+    "id": "0x300C",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Those plants growing over there \\n\"\n\"are \" COLOR(RED) \"Bomb Flowers\" COLOR(DEFAULT) \". They are\\n\"\n\"\\\"mining plants\\\" that grow only on\\n\"\n\"this mountain.\"\nBOX_BREAK\n\n\"They usually grow only in dark \\n\"\n\"places, like caves, so Bomb \\n\"\n\"Flowers that grow in a place like\\n\"\n\"this are extremely rare.\"\nBOX_BREAK\n\n\"If you have the \" COLOR(RED) \"Goron's Bracelet\" COLOR(DEFAULT) \",\\n\"\n\"even a little kid like you could\\n\"\n\"easily pick it with \" COLOR(BLUE) \"[A]\" COLOR(DEFAULT) \".\"",
+    "el_msg": "\"Τὰ ἐκεῖ φυόμενα φυτά ἐστι\\n\"\nCOLOR(RED) \"Ἄνθη Βόμβης\" COLOR(DEFAULT) \". «Μεταλλικὰ γάρ\\n\"\n\"ἐστι φυτά», μόνον ἐν τῷδε\\n\"\n\"τῷ ὄρει φυόμενα.\"\nBOX_BREAK\n\n\"Φύεται γὰρ ἐν σπηλαίοις καὶ\\n\"\n\"σκοτεινοῖς τόποις, ὥστε τὰ\\n\"\n\"ἐνθάδε σπανιώτατά ἐστιν.\"\nBOX_BREAK\n\n\"Εἰ δὲ τὸ \" COLOR(RED) \"Ψέλιον τῶν Γορώνων\" COLOR(DEFAULT) \"\\n\"\n\"ἔχεις, καὶ παῖς ὢν ῥᾳδίως ἂν\\n\"\n\"τίλαις αὐτὸ διὰ τοῦ \" COLOR(BLUE) \"[A]\" COLOR(DEFAULT) \".\""
+  },
+  {
+    "id": "0x300D",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Did you see the cavern on your \\n\"\n\"way here? That is the \" COLOR(RED) \"Dodongo's \\n\"\n\"Cavern\" COLOR(DEFAULT) \".\"\nBOX_BREAK\n\n\"Because the light inside is very \\n\"\n\"dim, the \" COLOR(RED) \"Bomb Flowers\" COLOR(DEFAULT) \", a plant \\n\"\n\"unique to this mountain, grow like\\n\"\n\"crazy in there!\"",
+    "el_msg": "\"Ἆρ' εἶδες τὸ σπήλαιον ἐν τῇ\\n\"\n\"ὁδῷ; Τοῦτό ἐστι τὸ \" COLOR(RED) \"Σπήλαιον\\n\"\n\"τῶν Δοδόνγων\" COLOR(DEFAULT) \".\"\nBOX_BREAK\n\n\"Ἐπειδὴ δὲ τὸ φῶς ἀμαυρόν ἐστιν\\n\"\n\"ἔνδον, τὰ \" COLOR(RED) \"Ἄνθη Βόμβης\" COLOR(DEFAULT) \",\\n\"\n\"ἴδια ὄντα τῷδε τῷ ὄρει,\\n\"\n\"ἀφθόνως ἐκεῖ φύεται!\""
+  },
+  {
+    "id": "0x300E",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "UNSKIPPABLE \"Oh?\"\nBOX_BREAK\n\nUNSKIPPABLE \"We don't get many visitors way\\n\"\n\"up here. Where are you from?\"\nBOX_BREAK\n\nUNSKIPPABLE \"The forest?\"\nBOX_BREAK\n\nUNSKIPPABLE \"What's a \\\"forest\\\"?\"\nBOX_BREAK\n\nUNSKIPPABLE \"Eh?\"\nBOX_BREAK\n\nUNSKIPPABLE \"It's where a lot of \\\"trees\\\" and \\n\"\n\"\\\"plants\\\" grow?\"\nBOX_BREAK\n\nUNSKIPPABLE \"Now I'm even more confused! \\n\"\n\"Nothing grows around here besides\\n\"\n\"the \" COLOR(RED) \"Bomb Flowers\" COLOR(DEFAULT) \"...\"\nBOX_BREAK\n\nUNSKIPPABLE \"We don't have \\\"seeds\\\" or \\\"nuts\\\"\\n\"\n\"around here either.\"\nBOX_BREAK\n\nUNSKIPPABLE \"Even Deku Sticks are very scarce\\n\"\n\"around here!\" TEXTID(0x3022)",
+    "el_msg": "UNSKIPPABLE \"Ἆρα;\"\nBOX_BREAK\n\nUNSKIPPABLE \"Σπάνιοι οἱ ξένοι ἐνταῦθα\\n\"\n\"ἀνιόντες. Πόθεν ἥκεις;\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ἐκ τοῦ δρυμοῦ;\"\nBOX_BREAK\n\nUNSKIPPABLE \"Τί δέ ἐστι «δρυμός»;\"\nBOX_BREAK\n\nUNSKIPPABLE \"Πῶς;\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ὅπου πολλὰ «δένδρα» τε\\n\"\n\"καὶ «φυτὰ» φύεται;\"\nBOX_BREAK\n\nUNSKIPPABLE \"Νῦν δὴ μᾶλλον ἀπορῶ! Οὐδὲν\\n\"\n\"γὰρ φύεται ἐνθάδε πλὴν τῶν\\n\"\nCOLOR(RED) \"Ἀνθέων Βόμβης\" COLOR(DEFAULT) \"...\"\nBOX_BREAK\n\nUNSKIPPABLE \"Οὔτε «σπέρματα» οὔτε «κάρυα»\\n\"\n\"ἔχομεν ἐνθάδε.\"\nBOX_BREAK\n\nUNSKIPPABLE \"Καὶ αἱ Ῥάβδοι Δέκου πάνυ\\n\"\n\"σπάνιαί εἰσιν ἐνταῦθα!\" TEXTID(0x3022)"
+  },
+  {
+    "id": "0x300F",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"I sealed the entrance because I\\n\"\n\"don't have much merchandise to\\n\"\n\"sell. But you're quite a persistent\\n\"\n\"customer, aren't you.\" EVENT",
+    "el_msg": "\"Ἔκλεισα τὴν εἴσοδον ἐπειδὴ\\n\"\n\"ὀλίγα ἔχω πρὸς πώλησιν.\\n\"\n\"Σὺ δ' ὅμως πάνυ λιπαρὴς\\n\"\n\"εἶ ὠνητής, ἦ γάρ;\" EVENT"
+  },
+  {
+    "id": "0x3010",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"I'm sorry...\\n\"\n\"That Bomb is just for display. \\n\"\n\"I'm \" COLOR(RED) \"sold out \" COLOR(DEFAULT) \"of real ones.\" EVENT",
+    "el_msg": "\"Σύγγνωθί μοι...\\n\"\n\"Αὕτη γὰρ ἡ βόμβα δείγματός\\n\"\n\"ἐστιν ἕνεκα. Τὰς δ' ἀληθεῖς\\n\"\nCOLOR(RED) \"πάσας ἀπέδομαι\" COLOR(DEFAULT) \".\" EVENT"
+  },
+  {
+    "id": "0x3011",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Why did you stop me?\\n\"\n\"Don't stop me here!\"\nBOX_BREAK\n\n\"You can't stop my wild rolling!\"\nBOX_BREAK\n\n\"This wild rolling is the only way\\n\"\n\"to relieve my stress!\"\nBOX_BREAK\n\n\"Now stand in awe of my wild, wild\\n\"\n\"rolling!!\"",
+    "el_msg": "\"Διὰ τί ἔστησάς με;\\n\"\n\"Μή με ἵστη ἐνθάδε!\"\nBOX_BREAK\n\n\"Οὐ δύνασαι παῦσαί με\\n\"\n\"ἀγρίως κυλινδούμενον!\"\nBOX_BREAK\n\n\"Αὕτη γὰρ ἡ κύλισις μόνη\\n\"\n\"κουφίζει τὴν ἀγωνίαν μου!\"\nBOX_BREAK\n\n\"Θαύμασον οὖν τὴν ἀγρίαν,\\n\"\n\"παντοίαν κύλισίν μου!!\""
+  },
+  {
+    "id": "0x3012",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "UNSKIPPABLE \"All right! I'll give you this\\n\"\n\"in praise of your courage!\" EVENT",
+    "el_msg": "UNSKIPPABLE \"Εἶεν! Δίδωμι δή σοι τοῦτο\\n\"\n\"ἐπαινῶν τὴν ἀνδρείαν σου!\" EVENT"
+  },
+  {
+    "id": "0x3013",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Thank you! Let me express my joy\\n\"\n\"with more wild rolling!\"",
+    "el_msg": "\"Χάριν οἶδά σοι! Δηλώσω δὲ\\n\"\n\"τὴν χαρὰν ἔτι πλείονι\\n\"\n\"κυλίσει!\""
+  },
+  {
+    "id": "0x3014",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "UNSKIPPABLE SHIFT(33) \"Oh...I'm so hungry...\"\nBOX_BREAK\n\nUNSKIPPABLE \"Everyone feels faint from hunger\\n\"\n\"because of the food shortage in \\n\"\n\"this town. We are in danger of \\n\"\n\"extinction!\"\nBOX_BREAK\n\nUNSKIPPABLE \"It's all because we can't enter\\n\"\n\"our quarry, the \" COLOR(RED) \"Dodongo's Cavern\" COLOR(DEFAULT) \".\"\nBOX_BREAK\n\nUNSKIPPABLE \"We Gorons live on a diet of \\n\"\n\"rocks...\"\nBOX_BREAK\n\nUNSKIPPABLE \"And the most delicious and \\n\"\n\"nutritious rocks around are found \\n\"\n\"in the Dodongo's Cavern! But that \\n\"\n\"seems like ancient history now...\"\nBOX_BREAK\n\nUNSKIPPABLE \"We've become such gourmets that \\n\"\n\"we can't stand to eat rocks from\\n\"\n\"anywhere else!\" TEXTID(0x3015)",
+    "el_msg": "UNSKIPPABLE SHIFT(33) \"Οἴμοι... πάνυ πεινῶ...\"\nBOX_BREAK\n\nUNSKIPPABLE \"Πάντες λιμώττουσιν ἐν τῇ\\n\"\n\"πόλει διὰ σπάνιν τροφῆς.\\n\"\n\"Κινδυνεύομεν δ' ἀπολέσθαι!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Τοῦτο δὲ συνέβη ὅτι οὐκ ἔστιν\\n\"\n\"εἰσελθεῖν εἰς τὸ λατομεῖον,\\n\"\nCOLOR(RED) \"τὸ Σπήλαιον τῶν Δοδόνγων\" COLOR(DEFAULT) \".\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ἡμεῖς γὰρ οἱ Γόρωνες\\n\"\n\"πέτραις τρεφόμεθα...\"\nBOX_BREAK\n\nUNSKIPPABLE \"Αἱ δὲ γλυκύταται καὶ χρησταὶ\\n\"\n\"πέτραι ἐν ἐκείνῳ τῷ σπηλαίῳ\\n\"\n\"εὑρίσκονται! Νῦν δ' ἔοικε\\n\"\n\"παλαιῷ μύθῳ...\"\nBOX_BREAK\n\nUNSKIPPABLE \"Γευστικοὶ γὰρ οὕτως ἐσμέν,\\n\"\n\"ὥστε οὐχ ὑπομένομεν ἄλλοθί\\n\"\n\"που πέτρας ἐσθίειν!\" TEXTID(0x3015)"
+  },
+  {
+    "id": "0x3015",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Sigh... I want to eat the top\\n\"\n\"sirloin rocks from the \" COLOR(RED) \"Dodongo's \\n\"\n\"Cavern\" COLOR(DEFAULT) \"!\"",
+    "el_msg": "\"Φεῦ... Ἐπιθυμῶ τῶν καλλίστων\\n\"\n\"πετρῶν ἐκ τοῦ \" COLOR(RED) \"Σπηλαίου\\n\"\n\"τῶν Δοδόνγων\" COLOR(DEFAULT) \"!\""
+  },
+  {
+    "id": "0x3016",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "UNSKIPPABLE \"Hey!\"\nBOX_BREAK\n\nUNSKIPPABLE \"It's dangerous for a little kid like\\n\"\n\"you to come out here. You might \\n\"\n\"fall down!\"\nBOX_BREAK\n\nUNSKIPPABLE \"If I'm not mistaken, you came out\\n\"\n\"here to eat the \" COLOR(RED) \"red stone\" COLOR(DEFAULT) \"!\\n\"\n\"Well, too bad! It's not here!\"\nBOX_BREAK\n\nUNSKIPPABLE \"What? That's not why you're\\n\"\n\"here?\"\nBOX_BREAK\n\nUNSKIPPABLE \"You're looking for a \\\"Spiritual\\n\"\n\"Stone?\\\" You must mean that \\n\"\n\"delicious-looking red stone\\n\"\n\"that was once displayed here!\"\nBOX_BREAK\n\nUNSKIPPABLE \"I was so hungry that I thought\\n\"\n\"it would be OK to just give it one\\n\"\n\"tiny little lick...so I snuck out\\n\"\n\"here. But, it was already gone!\"\nBOX_BREAK\n\nUNSKIPPABLE \"I think Big Brother took it away.\"\nBOX_BREAK\n\nUNSKIPPABLE \"He always says that everyone\\n\"\n\"is after that red stone!\" TEXTID(0x3017)",
+    "el_msg": "UNSKIPPABLE \"Οὗτος!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Σφαλερόν ἐστι παιδίῳ οἵῳ\\n\"\n\"σοὶ ἐνταῦθα ἐλθεῖν. Μὴ γὰρ\\n\"\n\"καταπέσῃς κάτω!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Εἰ μὴ σφάλλομαι, ἦλθες ἵνα\\n\"\n\"φάγῃς τὸν \" COLOR(RED) \"ἐρυθρὸν λίθον\" COLOR(DEFAULT) \"!\\n\"\n\"Ἀλλ' οὐκ ἔστιν ὧδε!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Τί; Οὐ διὰ τοῦτο ἥκεις;\"\nBOX_BREAK\n\nUNSKIPPABLE \"«Πνευματικὸν Λίθον» ζητεῖς;\\n\"\n\"Λέγεις δὴ ἐκεῖνον τὸν ἥδιστον\\n\"\n\"ἐρυθρὸν λίθον ὅς ποτε ἐνθάδε\\n\"\n\"ἐκείμενος ἦν!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Οὕτω δ' ἐπείνων ὥστ' ᾠήθην\\n\"\n\"ἄξιον εἶναι μόνον περιλείξαι\\n\"\n\"αὐτόν... καὶ ἦλθον λάθρᾳ.\\n\"\n\"Ἀλλ' ἤδη ἀπῆλθεν!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Οἶμαι τὸν Μέγαν Ἀδελφὸν ἆραι αὐτόν.\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ἀεὶ γὰρ λέγει ὅτι πάντες\\n\"\n\"ἐπιβουλεύουσι τῷ ἐρυθρῷ\\n\"\n\"λίθῳ ἐκείνῳ!\" TEXTID(0x3017)"
+  },
+  {
+    "id": "0x3017",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Big Brother has shut himself up in\\n\"\n\"his room saying,\\n\"\n\"\\\"\" COLOR(RED) \"I will wait in here for the \\n\"\n\"Royal Family's messenger!\" COLOR(DEFAULT) \"\\\"\"",
+    "el_msg": "\"Ὁ Μέγας Ἀδελφὸς κατέκλεισεν\\n\"\n\"ἑαυτὸν ἐν τῷ οἴκῳ λέγων·\\n\"\n\"«\" COLOR(RED) \"Μενῶ ἐνθάδε προσδεχόμενος\\n\"\n\"τὸν τῆς Βασιλείας ἄγγελον!\" COLOR(DEFAULT) \"»\""
+  },
+  {
+    "id": "0x3018",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "UNSKIPPABLE \"I'm so hungry that I can't think\\n\"\n\"about anything but food!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ask Big Brother about complicated\\n\"\n\"things.\"\nBOX_BREAK\n\nUNSKIPPABLE \"If he's in a bad mood, he'll \\n\"\n\"probably get mad at you...it\\n\"\n\"can be pretty scary. But...\"\nBOX_BREAK\n\nUNSKIPPABLE \"I know his SECRET.\"\nBOX_BREAK\n\nUNSKIPPABLE \"He may not look like the type,\\n\"\n\"but Big Brother loves to dance!\\n\"\n\"If he gets in a rhythm, he'll surely...\" TEXTID(0x3019)",
+    "el_msg": "UNSKIPPABLE \"Οὕτως πεινῶ ὥστε οὐδὲν ἄλλο\\n\"\n\"δύναμαι φρονεῖν πλὴν τροφῆς!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ἐρώτησον τὸν Μέγαν Ἀδελφὸν\\n\"\n\"περὶ τῶν χαλεπωτέρων.\"\nBOX_BREAK\n\nUNSKIPPABLE \"Εἰ δὲ δύσθυμός ἐστι, τάχ' ἂν\\n\"\n\"χαλεπήνῃ σοι... καὶ φοβερός\\n\"\n\"ἐστιν. Ἀλλὰ μήν...\"\nBOX_BREAK\n\nUNSKIPPABLE \"Οἶδα τὸ ΑΠΟΡΡΗΤΟΝ αὐτοῦ.\"\nBOX_BREAK\n\nUNSKIPPABLE \"Καίπερ οὐ δοκῶν τοιοῦτος,\\n\"\n\"ὁ Μέγας Ἀδελφὸς φιλορχηστής\\n\"\n\"ἐστιν! Εἰ δὲ ῥυθμοῦ τύχοι,\\n\"\n\"πάντως...\" TEXTID(0x3019)"
+  },
+  {
+    "id": "0x3019",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"I remember Big Brother used to\\n\"\n\"always listen to the \" COLOR(ADJUSTABLE) \"music that\\n\"\n\"comes from the forest\" COLOR(DEFAULT) \"...\"\nBOX_BREAK\n\n\"Ah yes, the good old days...\\n\"\n\"That music makes me feel\\n\"\n\"nostalgic, too...\" TEXTID(0x302C)",
+    "el_msg": "\"Μέμνημαι ὅτι ὁ Μέγας Ἀδελφὸς\\n\"\n\"ἀεὶ ἤκουε τῆς \" COLOR(ADJUSTABLE) \"μουσικῆς τῆς\\n\"\n\"ἐκ τοῦ δρυμοῦ\" COLOR(DEFAULT) \"...\"\nBOX_BREAK\n\n\"Φεῦ, οἷοι οἱ πάλαι χρόνοι...\\n\"\n\"Ἐκείνη γὰρ ἡ μουσικὴ καὶ\\n\"\n\"ἐμοὶ ποθεινή ἐστιν...\" TEXTID(0x302C)"
+  },
+  {
+    "id": "0x301A",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "UNSKIPPABLE \"What the heck! Who are you?!\"\nBOX_BREAK\n\nUNSKIPPABLE \"When I heard the \" COLOR(BLUE) \"song of the\\n\"\n\"Royal Family\" COLOR(DEFAULT) \", I expected their \\n\"\n\"messenger had arrived, but...\\n\"\n\"you're just a little kid!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Has \" COLOR(RED) \"Darunia\" COLOR(DEFAULT) \", the big boss of\\n\"\n\"the Gorons, really lost so much\\n\"\n\"status to be treated like this\\n\"\n\"by his Sworn Brother, the King?\"\nBOX_BREAK\n\nUNSKIPPABLE \"Now, I'm REALLY angry!\\n\"\n\"Get out of my face, now!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Are you asking why I'm in such a\\n\"\n\"bad mood right now?\"\nBOX_BREAK\n\nUNSKIPPABLE QUICKTEXT_ENABLE \"Ancient creatures have \\n\"\n\"infested the Dodongo's Cavern!\" QUICKTEXT_DISABLE\nBOX_BREAK\n\nUNSKIPPABLE QUICKTEXT_ENABLE \"We've had a poor harvest of our\\n\"\n\"special crop, Bomb Flowers!\" QUICKTEXT_DISABLE\nBOX_BREAK\n\nUNSKIPPABLE QUICKTEXT_ENABLE \"Starvation and hunger because\\n\"\n\"of the rock shortage!\" QUICKTEXT_DISABLE\nBOX_BREAK\n\nUNSKIPPABLE SHIFT(72) \"But...\" TEXTID(0x301B)",
+    "el_msg": "UNSKIPPABLE \"Τί τοῦτο; Τίς εἶ σύ;!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ἀκούσας τὴν \" COLOR(BLUE) \"ᾠδὴν τῆς\\n\"\n\"Βασιλικῆς Οἰκίας\" COLOR(DEFAULT) \", προσεδόκων\\n\"\n\"ἄγγελον ἥκειν, ἀλλά...\\n\"\n\"παιδάριον μόνον εἶ!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ἆρ' ὁ \" COLOR(RED) \"Δαρούνιος\" COLOR(DEFAULT) \", ὁ μέγας ἄρχων\\n\"\n\"τῶν Γορώνων, τοσοῦτον ἠτίμωται\\n\"\n\"ὥστε ὧδε ὑβρίζεσθαι ὑπὸ τοῦ\\n\"\n\"ἐνόρκου ἀδελφοῦ, τοῦ βασιλέως;\"\nBOX_BREAK\n\nUNSKIPPABLE \"Νῦν δὴ ΣΦΟΔΡΑ ὀργίζομαι!\\n\"\n\"Ἄπιθι ἐκποδὼν ἤδη!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ἐρωτᾷς διὰ τί οὕτω χαλεπῶς\\n\"\n\"διάκειμαι νῦν;\"\nBOX_BREAK\n\nUNSKIPPABLE QUICKTEXT_ENABLE \"Ἀρχαῖα θηρία κατέλαβον\\n\"\n\"τὸ Σπήλαιον τῶν Δοδόνγων!\" QUICKTEXT_DISABLE\nBOX_BREAK\n\nUNSKIPPABLE QUICKTEXT_ENABLE \"Σπάνις ἐγένετο τοῦ ἰδίου\\n\"\n\"καρποῦ, τῶν Ἀνθέων Βόμβης!\" QUICKTEXT_DISABLE\nBOX_BREAK\n\nUNSKIPPABLE QUICKTEXT_ENABLE \"Λιμὸς καὶ πεῖνα διὰ τὴν\\n\"\n\"σπάνιν τῶν πετρῶν!\" QUICKTEXT_DISABLE\nBOX_BREAK\n\nUNSKIPPABLE SHIFT(72) \"Ἀλλά...\" TEXTID(0x301B)"
+  },
+  {
+    "id": "0x301B",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE SHIFT(25) \"This is a Goron problem!\" QUICKTEXT_DISABLE\nBOX_BREAK\n\nQUICKTEXT_ENABLE SHIFT(17) \"We don't need any help from\\n\"\nSHIFT(70) \"strangers!\" QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE SHIFT(25) \"Γορώνων ἐστὶ τοῦτο πάθος!\" QUICKTEXT_DISABLE\nBOX_BREAK\n\nQUICKTEXT_ENABLE SHIFT(17) \"Οὐδεμιᾶς χρῄζομεν βοηθείας\\n\"\nSHIFT(70) \"παρὰ ξένων!\" QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x301C",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE QUICKTEXT_ENABLE SHIFT(21) \"Heeey!! What a nice tune!\" QUICKTEXT_DISABLE\nBOX_BREAK\n\nUNSKIPPABLE \"Just like that, my depression is\\n\"\n\"all gone! Something just came \\n\"\n\"over me! I suddenly wanted to\\n\"\n\"dance like crazy!\"\nBOX_BREAK\n\nUNSKIPPABLE SHIFT(60) \"I am \" COLOR(RED) \"Darunia\" COLOR(DEFAULT) \"!\"\nBOX_BREAK\n\nUNSKIPPABLE \"I'm the big boss of the Gorons!\\n\"\n\"Was there something you wanted \\n\"\n\"to ask me about?\"\nBOX_BREAK\n\nUNSKIPPABLE SHIFT(80) \"What?\"\nBOX_BREAK\n\nUNSKIPPABLE \"You want the \" COLOR(RED) \"Spiritual Stone of\\n\"\n\"Fire\" COLOR(DEFAULT) \", too?\"\nBOX_BREAK\n\nUNSKIPPABLE \"The Spiritual Stone of Fire, also\\n\"\n\"known as the Goron's Ruby, is our\\n\"\n\"race's hidden treasure....\"\nBOX_BREAK\n\nUNSKIPPABLE \"But hold on--I'm not going to give\\n\"\n\"it to you that easily.\\n\"\n\"If you want it so badly...\"\nBOX_BREAK\n\nUNSKIPPABLE \"Why don't you go destroy the \\n\"\n\"monsters inside of the Dodongo's \\n\"\n\"Cavern and prove you're a real man?\"\nBOX_BREAK\n\nUNSKIPPABLE \"That way, everybody will be \\n\"\n\"happy again! If you do it, I \\n\"\n\"will give you anything you want,\\n\"\n\"even the Spiritual Stone!\"\nBOX_BREAK\n\nUNSKIPPABLE \"I have something for you. I'm not\\n\"\n\"really giving you this in\\n\"\n\"return for anything, but take it\\n\"\n\"anyway.\"\nBOX_BREAK\n\nUNSKIPPABLE \"If you wear this, even a little \\n\"\n\"fella like you can pick a \" COLOR(RED) \"Bomb \\n\"\n\"Flower \" COLOR(DEFAULT) \"using \" COLOR(BLUE) \"[A]\" COLOR(DEFAULT) \".\"",
+    "el_msg": "UNSKIPPABLE QUICKTEXT_ENABLE SHIFT(21) \"Ἰαῦ!! Οἵα καλὴ ᾠδή!\" QUICKTEXT_DISABLE\nBOX_BREAK\n\nUNSKIPPABLE \"Εὐθὺς ἡ δυσθυμία μου οἴχεται!\\n\"\n\"Πάθος γάρ τι ἐνέπεσέ μοι!\\n\"\n\"Ἐπεθύμησα δ' ἐξαίφνης\\n\"\n\"μανικῶς ὀρχήσασθαι!\"\nBOX_BREAK\n\nUNSKIPPABLE SHIFT(60) \"Ἐγώ εἰμι \" COLOR(RED) \"Δαρούνιος\" COLOR(DEFAULT) \"!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ὁ μέγας ἄρχων τῶν Γορώνων!\\n\"\n\"Ἦν ἄρα τι ὃ ἐβούλου\\n\"\n\"ἐρωτῆσαί με;\"\nBOX_BREAK\n\nUNSKIPPABLE SHIFT(80) \"Τί;\"\nBOX_BREAK\n\nUNSKIPPABLE \"Καὶ σὺ ἐπιθυμεῖς τοῦ\\n\"\nCOLOR(RED) \"Πνευματικοῦ Λίθου τοῦ Πυρός\" COLOR(DEFAULT) \";\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ὁ Πνευματικὸς Λίθος τοῦ Πυρός,\\n\"\n\"ὃς καλεῖται καὶ Ῥουβίνιον τῶν\\n\"\n\"Γορώνων, κειμήλιόν ἐστι\\n\"\n\"τοῦ ἡμετέρου γένους...\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ἐπίσχες δέ· οὐ γὰρ ῥᾳδίως\\n\"\n\"δώσω αὐτό σοι.\\n\"\n\"Εἰ δὲ σφόδρα ἐπιθυμεῖς...\"\nBOX_BREAK\n\nUNSKIPPABLE \"Διὰ τί οὐκ ἀπόλλυς τὰ θηρία\\n\"\n\"ἐν τῷ Σπηλαίῳ τῶν Δοδόνγων,\\n\"\n\"δείκνυς δ' ὅτι τέλειος ἀνήρ εἶ;\"\nBOX_BREAK\n\nUNSKIPPABLE \"Οὕτω γὰρ πάντες εὐθυμήσουσιν!\\n\"\n\"Εἰ δὲ ποιήσεις τοῦτο, δώσω σοι\\n\"\n\"ὅ,τι ἂν θέλῃς, καὶ αὐτὸν τὸν\\n\"\n\"Πνευματικὸν Λίθον!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ἔστι δέ τί μοι σοὶ δοῦναι.\\n\"\n\"Οὐ μὴν ἀντ' οὐδενὸς δίδωμι,\\n\"\n\"ἀλλ' ὅμως λάβε.\"\nBOX_BREAK\n\nUNSKIPPABLE \"Εἰ γὰρ τοῦτο φορεῖς, καὶ παῖς\\n\"\n\"ὢν τίλλειν δυνήσῃ \" COLOR(RED) \"Ἄνθος\\n\"\n\"Βόμβης\" COLOR(DEFAULT) \" διὰ τοῦ \" COLOR(BLUE) \"[A]\" COLOR(DEFAULT) \".\""
+  },
+  {
+    "id": "0x301D",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Destroy the monsters in the\\n\"\nCOLOR(RED) \"Dodongo's Cavern \" COLOR(DEFAULT) \"and become a \\n\"\n\"real man! Then, we can talk about\\n\"\n\"the Spiritual Stone!\"",
+    "el_msg": "\"Ἀπόλεσον τὰ θηρία ἐν τῷ\\n\"\nCOLOR(RED) \"Σπηλαίῳ τῶν Δοδόνγων\" COLOR(DEFAULT) \" καὶ\\n\"\n\"γενοῦ τέλειος ἀνήρ! Τότε γὰρ\\n\"\n\"λαλήσομεν περὶ τοῦ Λίθου!\""
+  },
+  {
+    "id": "0x301E",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Hey, Brother, play that tune\\n\"\n\"again sometime soon!\"",
+    "el_msg": "\"Ὦ ἀδελφέ, ᾆσον πάλιν\\n\"\n\"ἐκείνην τὴν ᾠδὴν ταχέως!\""
+  },
+  {
+    "id": "0x301F",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"No matter how many times I hear \\n\"\n\"that song, it doesn't get old!\"",
+    "el_msg": "\"Ὁποσάκις ἂν ἀκούσω τῆς\\n\"\n\"ᾠδῆς ταύτης, οὐδέποτε\\n\"\n\"παλαιοῦται!\""
+  },
+  {
+    "id": "0x3020",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"Well, that's not quite what I \\n\"\n\"was looking for...\"\nBOX_BREAK\n\n\"I wanted to hear...a tune...\\n\"\n\"something...um...from outside \\n\"\n\"the mountains...something...\\n\"\n\"green...natural...\"\nBOX_BREAK\n\n\"That's the kind of music I want \\n\"\n\"to hear...\"",
+    "el_msg": "\"Οὐχ οὗτός ἐστιν ὃν\\n\"\n\"ἐπεζήτουν...\"\nBOX_BREAK\n\n\"Ἐβουλόμην ἀκοῦσαι... μέλος τι...\\n\"\n\"ἔξωθεν τῶν ὀρέων...\\n\"\n\"χλωρόν τι... φυσικόν...\"\nBOX_BREAK\n\n\"Τοιαύτης μουσικῆς ἐπιθυμῶ\\n\"\n\"ἀκοῦσαι...\""
+  },
+  {
+    "id": "0x3021",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Oh, now we can enter the cavern.\\n\"\n\"You're so smart!\"",
+    "el_msg": "\"Ὠ, νῦν ἔξεστιν εἰσιέναι εἰς\\n\"\n\"τὸ σπήλαιον. Σοφώτατος εἶ!\""
+  },
+  {
+    "id": "0x3022",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"I know a trick to conserve sticks!\\n\"\n\"If you light a stick on fire, it will \\n\"\n\"burn to ashes. Press \" COLOR(BLUE) \"[A]\" COLOR(DEFAULT) \" to put it\\n\"\n\"away before it completely burns!\"\nBOX_BREAK\n\n\"By the way, I hid a stick\\n\"\n\"somewhere...\\n\"\n\"Hehehee...\"",
+    "el_msg": "\"Οἶδα τέχνην ὥστε σῴζειν ῥάβδους!\\n\"\n\"Ἐὰν γὰρ ἅψῃς ῥάβδον, τέφρα\\n\"\n\"γενήσεται. Πίεσον \" COLOR(BLUE) \"[A]\" COLOR(DEFAULT) \" ἵνα ἀποθῇς\\n\"\n\"αὐτὴν πρὶν τελέως κατακαῆναι!\"\nBOX_BREAK\n\n\"Ἔκρυψα δέ που ῥάβδον\\n\"\n\"λάθρᾳ...\\n\"\n\"Χὰ χὰ χά...\""
+  },
+  {
+    "id": "0x3023",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE \"It's me, \" COLOR(RED) \"Darunia\" COLOR(DEFAULT) \"!\\n\"\n\"Well done!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Thanks to you, we can once again\\n\"\n\"eat the delicious rocks from the\\n\"\n\"Dodongo's Cavern until our \\n\"\n\"stomachs burst!\"",
+    "el_msg": "UNSKIPPABLE \"Ἐγώ εἰμι, ὁ \" COLOR(RED) \"Δαρούνιος\" COLOR(DEFAULT) \"!\\n\"\n\"Εὖ γε ἐποίησας!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Διὰ σὲ γὰρ πάλιν ἐξέσται\\n\"\n\"ἡμῖν ἐσθίειν τὰς ἡδείας πέτρας\\n\"\n\"ἐκ τοῦ Σπηλαίου τῶν Δοδόνγων\\n\"\n\"ἕως ἂν ῥαγῇ ἡ γαστήρ!\""
+  },
+  {
+    "id": "0x3024",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "UNSKIPPABLE \"I'm so hungry that I can't think\\n\"\n\"about anything but food!\"\nBOX_BREAK\n\nUNSKIPPABLE \"\\\"Spiritual Stone?\\\"\\n\"\n\"That \" COLOR(RED) \"red stone\" COLOR(DEFAULT) \" that was lighting\\n\"\n\"up our city?\"\nBOX_BREAK\n\nUNSKIPPABLE \"Big Brother \" COLOR(RED) \"Darunia\" COLOR(DEFAULT) \" took it\\n\"\n\"away. Then, he shut himself up in\\n\"\n\"his room and won't come out.\"\nBOX_BREAK\n\nUNSKIPPABLE \"Since then, it feels like all\\n\"\n\"the lights in the city have gone \\n\"\n\"out... Everyone seems so...\\n\"\n\"depressed...\" TEXTID(0x3025)",
+    "el_msg": "UNSKIPPABLE \"Οὕτως πεινῶ ὥστε οὐδὲν ἄλλο\\n\"\n\"δύναμαι φρονεῖν πλὴν τροφῆς!\"\nBOX_BREAK\n\nUNSKIPPABLE \"«Πνευματικὸς Λίθος;»\\n\"\n\"Ὁ \" COLOR(RED) \"ἐρυθρὸς λίθος\" COLOR(DEFAULT) \" ἐκεῖνος\\n\"\n\"ὁ φωτίζων τὴν πόλιν ἡμῶν;\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ὁ Μέγας Ἀδελφὸς \" COLOR(RED) \"Δαρούνιος\" COLOR(DEFAULT) \"\\n\"\n\"ἦρεν αὐτόν. Εἶτα κατέκλεισεν\\n\"\n\"ἑαυτὸν καὶ οὐκ ἐξέρχεται.\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ἐξ ἐκείνου δὲ πάντα τὰ φῶτα\\n\"\n\"ἔοικεν ἀπεσβηκέναι... Πάντες δὲ\\n\"\n\"πάνυ δύσθυμοι δοκοῦσιν...\" TEXTID(0x3025)"
+  },
+  {
+    "id": "0x3025",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"I want you to bring \" COLOR(RED) \"fire\" COLOR(DEFAULT) \" from Big\\n\"\n\"Brother's room back here.\"",
+    "el_msg": "\"Βούλομαί σε κομίσαι \" COLOR(RED) \"πῦρ\" COLOR(DEFAULT) \" ἐκ\\n\"\n\"τοῦ τοῦ Μεγάλου Ἀδελφοῦ οἴκου\\n\"\n\"δεῦρο πάλιν.\""
+  },
+  {
+    "id": "0x3026",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Oh, I see...\\n\"\n\"We should have thrown the \\n\"\n\"Bomb from the cliff...\"",
+    "el_msg": "\"Ὠ, μανθάνω...\\n\"\n\"Ἔδει ἄρα ῥῖψαι τὴν\\n\"\n\"βόμβαν ἀπὸ τοῦ κρημνοῦ...\""
+  },
+  {
+    "id": "0x3027",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"You are incredible, destroying \\n\"\n\"the Dodongos! Do you mind if I \\n\"\n\"call you Big Brother?\"",
+    "el_msg": "\"Θαυμάσιος εἶ ἀπολέσας τοὺς\\n\"\n\"Δοδόνγους! Ἔξεστί μοι καλεῖν\\n\"\n\"σε Μέγαν Ἀδελφόν;\""
+  },
+  {
+    "id": "0x3028",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"Thanks to you, we're all OK!\\n\"\n\"Why don't you buy some Bombs \\n\"\n\"now?\" EVENT",
+    "el_msg": "\"Χάρις σοί, πάντες σῳζόμεθα!\\n\"\n\"Διὰ τί οὐκ ἀγοράζεις βόμβας\\n\"\n\"νῦν δή;\" EVENT"
+  },
+  {
+    "id": "0x3029",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"You know, I'm so grateful to you.\\n\"\n\"When I have a kid, I will name it\\n\"\n\"after you!\"",
+    "el_msg": "\"Πολλήν σοι χάριν ἔχω.\\n\"\n\"Ὅταν δὲ γένηταί μοι τέκνον,\\n\"\n\"ὀνομάσω αὐτὸ ἐπὶ τῷ σῷ ὀνόματι!\""
+  },
+  {
+    "id": "0x302A",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"If you want to hear more Goron\\n\"\n\"gossip, head up to our city!\"\nBOX_BREAK\n\nCOLOR(RED) \"Goron City\" COLOR(DEFAULT) \" is just a little\\n\"\n\"way up the trail. It won't take\\n\"\n\"much longer to get there, even\\n\"\n\"on foot.\"",
+    "el_msg": "\"Εἰ δὲ πλείω βούλει ἀκοῦσαι\\n\"\n\"Γορωνικὰ διηγήματα, ἴθι\\n\"\n\"ἄνω εἰς τὴν πόλιν ἡμῶν!\"\nBOX_BREAK\n\n\"Ἡ δὲ \" COLOR(RED) \"Πόλις τῶν Γορώνων\" COLOR(DEFAULT) \" ὀλίγον\\n\"\n\"ἀνωτέρω ἐστὶ κατὰ τὴν ἀτραπόν.\\n\"\n\"Ταχέως δ' ἀφίξῃ ἐκεῖσε,\\n\"\n\"καὶ πεζῇ βαδίζων.\""
+  },
+  {
+    "id": "0x302B",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"You pick the Bomb Flowers with \\n\"\nCOLOR(BLUE) \"[A]\" COLOR(DEFAULT) \". Press \" COLOR(BLUE) \"[A] \" COLOR(DEFAULT) \"again to set it.\"",
+    "el_msg": "\"Τίλλεις τὰ Ἄνθη Βόμβης διὰ τοῦ\\n\"\nCOLOR(BLUE) \"[A]\" COLOR(DEFAULT) \". Πίεσον δὲ \" COLOR(BLUE) \"[A] \" COLOR(DEFAULT) \"πάλιν\\n\"\n\"ἵνα καταθῇς αὐτό.\""
+  },
+  {
+    "id": "0x302C",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"When all the \" COLOR(RED) \"torches\" COLOR(DEFAULT) \" on this floor\\n\"\n\"are lit, Goron City is really lively!\"",
+    "el_msg": "\"Ὅταν αἱ \" COLOR(RED) \"λαμπάδες\" COLOR(DEFAULT) \" ἐν τῷδε τῷ\\n\"\n\"ἐπέδῳ πᾶσαι ἁφθῶσιν, ἡ Πόλις\\n\"\n\"τῶν Γορώνων πάνυ ἀγάλλεται!\""
+  },
+  {
+    "id": "0x302D",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"Are you going to clear out the \\n\"\n\"Dodongos? It's a Goron problem,\\n\"\n\"though. You're a nosey little kid,\\n\"\n\"aren't you?!\"\nBOX_BREAK\n\n\"Well, of course we'll be happy if \\n\"\n\"you fix it so we can get all the\\n\"\n\"Bombs we want, like we used to...\"\nBOX_BREAK\n\n\"Just let me warn you, though...\\n\"\n\"Dodongos are scary creatures! \\n\"\n\"They'll eat ANYTHING!!\"\nBOX_BREAK\n\n\"So watch yourself, and don't \\n\"\n\"get eaten!\" EVENT",
+    "el_msg": "\"Μέλλοις ἂν ἐκδιῶξαι τοὺς\\n\"\n\"Δοδόνγους; Γορώνων μέντοι τοῦτ'\\n\"\n\"ἔστι πάθος. Πολυπράγμων παῖς\\n\"\n\"εἶ, ἦ γάρ;!\"\nBOX_BREAK\n\n\"Χαιρήσομεν μέντοι εἴ πως\\n\"\n\"ποιήσεις ὥστε λαμβάνειν\\n\"\n\"βόμβας ὅσας βουλόμεθα,\\n\"\n\"ὥσπερ τὸ πρίν...\"\nBOX_BREAK\n\n\"Προλέγω δέ σοι μόνον...\\n\"\n\"Οἱ Δοδόνγοι φοβερά ἐστι θηρία!\\n\"\n\"Κατεσθίουσι γὰρ ΠΑΝΤΑ!!\"\nBOX_BREAK\n\n\"Φύλαξαι οὖν σαυτόν,\\n\"\n\"καὶ μὴ καταβρωθῇς!\" EVENT"
+  },
+  {
+    "id": "0x302E",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"I already told you!\\n\"\n\"We're out of Bombs!\\n\"\n\"Ohhh... I'm so hungry!\" PERSISTENT",
+    "el_msg": "\"Ἤδη εἶπόν σοι!\\n\"\n\"Οὐκέτι βόμβας ἔχομεν!\\n\"\n\"Οἴμοι... πάνυ πεινῶ!\" PERSISTENT"
+  },
+  {
+    "id": "0x302F",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"How was Big Brother?\\n\"\n\"I see...\"\nBOX_BREAK\n\n\"By the way, do you know the\\n\"\n\"music coming from deep inside of\\n\"\n\"this tunnel? We all like this music!\"",
+    "el_msg": "\"Πῶς διάκειται ὁ Μέγας Ἀδελφός;\\n\"\n\"Μανθάνω...\"\nBOX_BREAK\n\n\"Ἆρ' οἶδας τὸ μέλος τὸ ἐκ τοῦ\\n\"\n\"μυχοῦ τῆς σήραγγος ἧκον;\\n\"\n\"Πᾶσι γὰρ ἡμῖν ἀρέσκει τοῦτο!\""
+  },
+  {
+    "id": "0x3030",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"I won't let you get me! \\n\"\n\"You probably work for Ganondorf!\"",
+    "el_msg": "\"Οὐ μή με συλλάβῃς!\\n\"\n\"Δοῦλος γὰρ εἶ τοῦ Γανωνδόρφ!\""
+  },
+  {
+    "id": "0x3031",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "UNSKIPPABLE \"How could you do this to me?\\n\"\n\"You, you're Ganondorf's servant!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Hear my name and tremble!\"\nBOX_BREAK\n\nUNSKIPPABLE \"I am \" COLOR(RED) NAME COLOR(DEFAULT) \"! \\n\"\n\"Hero of the Gorons!\"",
+    "el_msg": "UNSKIPPABLE \"Πῶς ἐτόλμησας ταῦτά μοι ποιῆσαι;\\n\"\n\"Σύ, σύ, διάκονος εἶ τοῦ Γανωνδόρφ!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ἄκουε τοὔνομα καὶ τρόμαζε!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ἐγώ εἰμι \" COLOR(RED) NAME COLOR(DEFAULT) \"!\\n\"\n\"Ὁ τῶν Γορώνων Ἥρως!\""
+  },
+  {
+    "id": "0x3032",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "UNSKIPPABLE \"What?\"\nBOX_BREAK\n\nUNSKIPPABLE \"Your name is also\\n\"\nNAME \"?\"\nBOX_BREAK\n\nUNSKIPPABLE \"Then you must be the legendary\\n\"\n\"Dodongo Buster and Hero, \\n\"\nNAME \"!\"\nBOX_BREAK\n\nUNSKIPPABLE \"My dad is \" COLOR(RED) \"Darunia\" COLOR(DEFAULT) \"...\\n\"\n\"Do you remember him?\"\nBOX_BREAK\n\nUNSKIPPABLE \"Dad named me \" NAME \"\\n\"\n\"after you, because you're so \\n\"\n\"brave!\"\nBOX_BREAK\n\nUNSKIPPABLE \"It's a cool name!\\n\"\n\"I really like it!\"\nBOX_BREAK\n\nUNSKIPPABLE NAME \", you're a hero to \\n\"\n\"us Gorons! \\n\"\n\"I'm so glad to meet you!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Please give me your autograph!\\n\"\n\"Sign it:\\n\"\nSHIFT(5) \"\\\"To my friend, \\n\"\nSHIFT(5) NAME \" of the Gorons\\\"\"\nBOX_BREAK\n\nUNSKIPPABLE \"Oh...\"\nBOX_BREAK\n\nUNSKIPPABLE \"I guess it's not a good time\\n\"\n\"to ask you for this...\\n\"\n\"Please help everyone!\"\nBOX_BREAK\n\nUNSKIPPABLE \"My dad, Darunia, went to the \" COLOR(RED) \"Fire\\n\"\n\"Temple\" COLOR(DEFAULT) \". A dragon is inside!\"\nBOX_BREAK\n\nUNSKIPPABLE \"If we don't hurry up, even my dad\\n\"\n\"will be eaten by the dragon!!\" TEXTID(0x3033)",
+    "el_msg": "UNSKIPPABLE \"Τί;\"\nBOX_BREAK\n\nUNSKIPPABLE \"Καὶ σοὶ ὄνομά ἐστι\\n\"\nNAME \";\"\nBOX_BREAK\n\nUNSKIPPABLE \"Σὺ ἄρα εἶ ὁ μυθικὸς\\n\"\n\"Δοδονγοκτόνος καὶ Ἥρως,\\n\"\nNAME \"!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ὁ πατήρ μου ἐστὶ \" COLOR(RED) \"Δαρούνιος\" COLOR(DEFAULT) \"...\\n\"\n\"Μέμνησαι αὐτοῦ;\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ὁ πατὴρ ἐκάλεσέ με \" NAME \"\\n\"\n\"ἐπὶ τῷ σῷ ὀνόματι, διότι\\n\"\n\"πάνυ ἀνδρεῖος εἶ!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Καλὸν δή ἐστι τοὔνομα!\\n\"\n\"Σφόδρα γὰρ φιλῶ αὐτό!\"\nBOX_BREAK\n\nUNSKIPPABLE NAME \", σὺ ἥρως εἶ\\n\"\n\"ἡμῖν τοῖς Γόρωσιν!\\n\"\n\"Πάνυ χαίρω ἐντυχών σοι!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Δός μοι τὴν ὑπογραφήν σου!\\n\"\n\"Γράψον δέ·\\n\"\nSHIFT(5) \"«Τῷ ἐμῷ φίλῳ,\\n\"\nSHIFT(5) NAME \" τῷ τῶν Γορώνων»\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ὠ...\"\nBOX_BREAK\n\nUNSKIPPABLE \"Οἶμαι οὐ καλὸς καιρός ἐστι\\n\"\n\"ταῦτ' αἰτεῖν σε...\\n\"\n\"Βοήθησον δὴ πᾶσιν!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ὁ πατήρ μου, Δαρούνιος, εἰς τὸν\\n\"\nCOLOR(RED) \"Ναὸν τοῦ Πυρὸς\" COLOR(DEFAULT) \" ἀπῆλθεν.\\n\"\n\"Δράκων γάρ ἐστιν ἔνδον!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ἐὰν μὴ σπεύσωμεν, καὶ ὁ πατὴρ\\n\"\n\"καταβρωθήσεται ὑπὸ τοῦ δράκοντος!!\" TEXTID(0x3033)"
+  },
+  {
+    "id": "0x3033",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"B-b-b-boooo hooooo!\" EVENT",
+    "el_msg": "\"Οὐ-οὐ-οὐ-αααί!\" EVENT"
+  },
+  {
+    "id": "0x3034",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"You'd better try to calm him down\\n\"\n\"if you can...\\n\"\n\"Maybe he will calm down if you \\n\"\n\"talk to him?\"\nBOX_BREAK\n\n\"What do you want to ask him?\\n\"\n\"\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"About the dragon\\n\"\n    \"About the Gorons\" COLOR(DEFAULT)",
+    "el_msg": "\"Ἄμεινον ἂν εἴη πραΰνειν αὐτὸν\\n\"\n\"εἴ πως δύναιο...\\n\"\n\"Ἆρ' ἂν παύσαιτο εἰ διαλέγοιο αὐτῷ;\"\nBOX_BREAK\n\n\"Τί βούλει ἐρωτῆσαι αὐτόν;\\n\"\n\"\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Περὶ τοῦ δράκοντος\\n\"\n    \"Περὶ τῶν Γορώνων\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x3035",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "UNSKIPPABLE \"A long time ago there was an\\n\"\n\"evil dragon named \" COLOR(RED) \"Volvagia \" COLOR(DEFAULT) \"living \\n\"\n\"in this mountain.\"\nBOX_BREAK\n\nUNSKIPPABLE \"That dragon was very scary!\\n\"\n\"He ate Gorons!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Using a huge hammer, the hero of\\n\"\n\"the Gorons... BOOOM!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Destroyed it just like that. This is \\n\"\n\"a myth from long ago, but it's \\n\"\n\"true!\"\nBOX_BREAK\n\nUNSKIPPABLE \"I know, because my dad is a\\n\"\n\"descendant of the hero!\" TEXTID(0x3033)",
+    "el_msg": "UNSKIPPABLE \"Πάλαι ποτέ, πονηρὸς δράκων\\n\"\n\"ὀνόματι \" COLOR(RED) \"Βολβαγία\" COLOR(DEFAULT) \" ᾤκει\\n\"\n\"ἐν τῷδε τῷ ὄρει.\"\nBOX_BREAK\n\nUNSKIPPABLE \"Φοβερώτατος δ' ἦν ἐκεῖνος!\\n\"\n\"Κατήσθιε γὰρ Γόρωνας!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Χρώμενος δὲ μεγάλῃ σφύρᾳ,\\n\"\n\"ὁ τῶν Γορώνων ἥρως... ΜΠΑΑΑΜ!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Οὕτως ἀπώλεσεν αὐτόν.\\n\"\n\"Μῦθος μέν ἐστιν ἀρχαῖος,\\n\"\n\"ἀληθὴς δέ!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Οἶδα γάρ, ὅτι ὁ πατήρ μου\\n\"\n\"ἀπόγονός ἐστι τοῦ ἥρωος!\" TEXTID(0x3033)"
+  },
+  {
+    "id": "0x3036",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "UNSKIPPABLE \"Everybody was taken to the \\n\"\nCOLOR(RED) \"Fire Temple\" COLOR(DEFAULT) \"...\"\nBOX_BREAK\n\nUNSKIPPABLE \"While my dad was out...\\n\"\n\"Ganondorf's followers\" COLOR(RED) \" \" COLOR(DEFAULT) \"came and\\n\"\n\"took them all away!\"\nBOX_BREAK\n\nUNSKIPPABLE \"All of them will be eaten by\\n\"\nCOLOR(RED) \"Volvagia\" COLOR(DEFAULT) \"!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Dad said that Ganondorf has\\n\"\n\"revived Volvagia...\"\nBOX_BREAK\n\nUNSKIPPABLE \"As a warning to those who might\\n\"\n\"oppose him, Ganondorf is going to\\n\"\n\"feed them all to Volvagia!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Dad went to the Fire Temple all\\n\"\n\"by himself to try to save \\n\"\n\"everyone...\"\nBOX_BREAK\n\nUNSKIPPABLE \"Please help, \" NAME \"!\\n\"\n\"I'll give you this \" COLOR(RED) \"heat-resistant\\n\"\n\"tunic\" COLOR(DEFAULT) \"!\"",
+    "el_msg": "UNSKIPPABLE \"Πάντες ἀπήχθησαν εἰς τὸν\\n\"\nCOLOR(RED) \"Ναὸν τοῦ Πυρός\" COLOR(DEFAULT) \"...\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ἀπόντος δὲ τοῦ πατρός μου...\\n\"\n\"οἱ τοῦ Γανωνδόρφ\" COLOR(RED) \" \" COLOR(DEFAULT) \"ὀπαδοὶ\\n\"\n\"ἐλθόντες πάντας ἀπήγαγον!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Πάντες γὰρ καταβρωθήσονται\\n\"\n\"ὑπὸ τῆς \" COLOR(RED) \"Βολβαγίας\" COLOR(DEFAULT) \"!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ὁ γὰρ πατὴρ ἔφη τὸν Γανωνδόρφ\\n\"\n\"ἀνεγεῖραι τὴν Βολβαγίαν...\"\nBOX_BREAK\n\nUNSKIPPABLE \"Εἰς παράδειγμα δὲ τοῖς\\n\"\n\"ἀντιτεταγμένοις, πάντας\\n\"\n\"βορώσει τῇ Βολβαγίᾳ!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ὁ δὲ πατὴρ μόνος ἀπῆλθεν\\n\"\n\"εἰς τὸν Ναὸν τοῦ Πυρός,\\n\"\n\"ἵνα σώσῃ πάντας...\"\nBOX_BREAK\n\nUNSKIPPABLE \"Βοήθησον, ὦ \" NAME \"!\\n\"\n\"Δίδωμι δή σοι τόνδε τὸν \" COLOR(RED) \"Γορώνιον\\n\"\n\"χιτῶνα\" COLOR(DEFAULT) \"!\""
+  },
+  {
+    "id": "0x3037",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "UNSKIPPABLE \"Dad told me not to let anybody \\n\"\n\"follow him to the temple, but...\"\nBOX_BREAK\n\nUNSKIPPABLE \"Only you, \" NAME \", can\\n\"\n\"save everyone!\"\nBOX_BREAK\n\nUNSKIPPABLE \"I'm sure that the shop owner, who\\n\"\n\"is hiding somewhere right now, will\\n\"\n\"also help you!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Now, I'll tell you about the secret\\n\"\n\"passage to the Fire Temple!\" TEXTID(0x3038)",
+    "el_msg": "UNSKIPPABLE \"Ὁ πατὴρ ἐπέταξέ μοι μηδένα\\n\"\n\"ἐᾶν ἀκολουθεῖν αὐτῷ εἰς τὸν\\n\"\n\"ναόν, ἀλλά...\"\nBOX_BREAK\n\nUNSKIPPABLE \"Μόνος σύ, ὦ \" NAME \", δύνασαι\\n\"\n\"σῴζειν πάντας!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Εὖ οἶδα ὅτι ὁ κάπηλος, ὃς νῦν\\n\"\n\"κέκρυπταί που, καὶ αὐτὸς\\n\"\n\"βοηθήσει σοι!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Νῦν δὴ φράσω σοι τὴν κρυπτὴν\\n\"\n\"ὁδὸν πρὸς τὸν Ναὸν τοῦ Πυρός!\" TEXTID(0x3038)"
+  },
+  {
+    "id": "0x3038",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Try to move the \" COLOR(RED) \"statue \" COLOR(DEFAULT) \"inside\\n\"\n\"Dad's room!\"",
+    "el_msg": "\"Κίνησον τὸν \" COLOR(RED) \"ἀνδριάντα\" COLOR(DEFAULT) \" ἔνδον\\n\"\n\"τοῦ τοῦ πατρὸς οἴκου!\""
+  },
+  {
+    "id": "0x3039",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "UNSKIPPABLE \"Who's there?  Is that you,\\n\"\nNAME \"...?\"\nBOX_BREAK\n\nUNSKIPPABLE \"Oh, it really is \" NAME \"!\"\nBOX_BREAK\n\nUNSKIPPABLE \"You've grown so big since I last\\n\"\n\"saw you!\"\nBOX_BREAK\n\nUNSKIPPABLE \"I want to have a man-to-man talk\\n\"\n\"with you, but now's not the time.\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ganondorf is causing trouble on\\n\"\n\"Death Mountain again!\\n\"\n\"He has revived the evil, ancient\\n\"\n\"dragon Volvagia!\"\nBOX_BREAK\n\nUNSKIPPABLE \"On top of that, he is going to\\n\"\n\"feed my people to that evil dragon\\n\"\n\"as a warning to other races that\\n\"\n\"might resist him...\"\nBOX_BREAK\n\nUNSKIPPABLE \"If that fire-breathing dragon\\n\"\n\"escapes from the mountain, all of\\n\"\n\"Hyrule will become a burning\\n\"\n\"wasteland!\"\nBOX_BREAK\n\nUNSKIPPABLE \"I will go on ahead to try to seal\\n\"\n\"up the evil dragon...\"\nBOX_BREAK\n\nUNSKIPPABLE \"I'm concerned, though, because I\\n\"\n\"don't have the legendary hammer...\\n\"\n\"But I have no choice.\"\nBOX_BREAK\n\nUNSKIPPABLE NAME \"...I'm asking you to\\n\"\n\"do this as my Sworn Brother...\"\nBOX_BREAK\n\nUNSKIPPABLE \"While I'm trying to deal with the\\n\"\n\"dragon, please save my people!\"\nBOX_BREAK\n\nUNSKIPPABLE \"The prisoners' cells are in the\\n\"\n\"opposite direction.\\n\"\n\"I'm counting on you, \\n\"\nNAME \"!\"",
+    "el_msg": "UNSKIPPABLE \"Τίς ἐστιν ἐνταῦθα; Ἆρα σύ, ὦ\\n\"\nNAME \"...;\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ὠ, ἀληθῶς \" NAME \" εἶ!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Πηλίκος ἐγένου ἐξ οὗ ποτε\\n\"\n\"εἶδόν σε!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ἐβουλόμην μὲν ἀνδριστὶ\\n\"\n\"διαλέγεσθαί σοι, ἀλλ' οὐ νῦν\\n\"\n\"ὁ καιρός.\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ὁ γὰρ Γανωνδόρφ πάλιν ταράσσει\\n\"\n\"τὸ Ὄρος τοῦ Θανάτου!\\n\"\n\"Ἀνήγειρε γὰρ τὸν πονηρόν, ἀρχαῖον\\n\"\n\"δράκοντα Βολβαγίαν!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Πρὸς δὲ τούτοις, παραδώσει τοὺς\\n\"\n\"ἐμοὺς βορωθῆναι αὐτῷ, εἰς\\n\"\n\"παράδειγμα τοῖς ἄλλοις γένεσιν\\n\"\n\"ὅσοι ἂν ἀνθιστῶνται αὐτῷ...\"\nBOX_BREAK\n\nUNSKIPPABLE \"Εἰ γὰρ ὁ πυρίπνους δράκων\\n\"\n\"ἐκφύγοι ἐκ τοῦ ὄρους, πᾶσα ἡ\\n\"\n\"Ὑρούλη κατακεκαυμένη ἔρημος\\n\"\n\"γενήσεται!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Πρόειμι οὖν ἐγὼ πειρώμενος\\n\"\n\"κατακλεῖσαι τὸν δράκοντα...\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ἀγωνιῶ μέντοι, ὅτι οὐκ ἔχω\\n\"\n\"τὴν μυθικὴν σφῦραν...\\n\"\n\"Ἀλλ' οὐκ ἔστιν ἄλλως ποιεῖν.\"\nBOX_BREAK\n\nUNSKIPPABLE NAME \"... αἰτοῦμαί σε τοῦτο\\n\"\n\"ὡς ἔνορκος ἀδελφός...\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ἕως ἂν διαγωνίζωμαι πρὸς τὸν\\n\"\n\"δράκοντα, σῶσον τοὺς ἐμούς!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Τὰ γὰρ δεσμωτήρια εἰς τὴν\\n\"\n\"ἐναντίαν ἐστὶν ὁδόν.\\n\"\n\"Σοὶ πέποιθα, ὦ\\n\"\nNAME \"!\""
+  },
+  {
+    "id": "0x303A",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"I'm saved!\\n\"\n\"Thank you!\\n\"\n\"Here, take this!\"",
+    "el_msg": "\"Ἐσώθην!\\n\"\n\"Χάριν ἔχω σοι!\\n\"\n\"Ἰδού, λαβὲ τοῦτο!\""
+  },
+  {
+    "id": "0x303B",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "UNSKIPPABLE NAME \"...Can't hold... \\n\"\n\"anymore...I can't hold\\n\"\n\"it any longer...\"\nBOX_BREAK\n\nUNSKIPPABLE \"Get out of here!!\"",
+    "el_msg": "UNSKIPPABLE NAME \"... Οὐκέτι δύναμαι...\\n\"\n\"κατέχειν... οὐκέτι οἷός\\n\"\n\"τ' εἰμὶ κατέχειν...\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ἔξελθε ἐντεῦθεν!!\""
+  },
+  {
+    "id": "0x303C",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE \"Thank you, Brother!\\n\"\n\"I really appreciate what you\\n\"\n\"did. I thank you on behalf of\\n\"\n\"the entire Goron race!\"\nBOX_BREAK\n\nUNSKIPPABLE \"You turned out to be a real man,\\n\"\n\"just as I thought you would!\"",
+    "el_msg": "UNSKIPPABLE \"Χάριν ἔχω σοι, ὦ ἀδελφέ!\\n\"\n\"Πάνυ ἐπαινῶ ὃ ἐποίησας.\\n\"\n\"Χαρίζομαι δέ σοι ἐκ μέρους\\n\"\n\"παντὸς τοῦ τῶν Γορώνων γένους!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Τέλειος ἀνὴρ ἐγένου,\\n\"\n\"ὥσπερ ᾠόμην σε γενήσεσθαι!\""
+  },
+  {
+    "id": "0x303D",
+    "box_type": "TEXTBOX_TYPE_NONE_NO_SHADOW",
+    "box_pos": "TEXTBOX_POS_MIDDLE",
+    "en_msg": "SHIFT(54) \"Don't forget...\\n\"\nSHIFT(3) \"Now you and I are true Brothers!\" FADE(80)",
+    "el_msg": "SHIFT(54) \"Μὴ ἐπιλάθῃ...\\n\"\nSHIFT(3) \"Νῦν δὴ ἀληθεῖς ἐσμεν ἀδελφοί!\" FADE(80)"
+  },
+  {
+    "id": "0x303E",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE \"It is something that grows over\\n\"\n\"time... a true friendship.\\n\"\n\"A feeling in the heart that \\n\"\n\"becomes even stronger over time...\"\nBOX_BREAK\n\nUNSKIPPABLE \"The passion of friendship will \\n\"\n\"soon blossom into a righteous\\n\"\n\"power and through it, you will\\n\"\n\"know which way to go...\"\nBOX_BREAK\n\nUNSKIPPABLE \"This song is dedicated to the \\n\"\n\"power of the heart...\\n\"\n\"Listen to the \" COLOR(RED) \"Bolero of Fire\" COLOR(DEFAULT) \"...\"",
+    "el_msg": "UNSKIPPABLE \"Αὔξεται γὰρ τῷ χρόνῳ...\\n\"\n\"ἡ ἀληθὴς φιλία.\\n\"\n\"Πάθος καρδίας ὃ τῷ χρόνῳ\\n\"\n\"κραταιότερον γίγνεται...\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ὁ δὲ τῆς φιλίας ζῆλος\\n\"\n\"ταχέως ἐξανθήσει εἰς δικαίαν\\n\"\n\"δύναμιν, δι' ἧς γνώσῃ\\n\"\n\"ποίαν ὁδὸν πορευτέον...\"\nBOX_BREAK\n\nUNSKIPPABLE \"Αὕτη ἡ ᾠδὴ ἀνάκειται τῇ\\n\"\n\"δυνάμει τῆς καρδίας...\\n\"\n\"Ἄκουε τοῦ \" COLOR(RED) \"Μπολερὸ τοῦ Πυρός\" COLOR(DEFAULT) \"...\""
+  },
+  {
+    "id": "0x303F",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE NAME \"...See you again...\"",
+    "el_msg": "UNSKIPPABLE NAME \"... Εἰς αὖθις...\""
+  },
+  {
+    "id": "0x3040",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "QUICKTEXT_ENABLE COLOR(LIGHTBLUE) NAME \", it's so hot in \\n\"\n\"here! We can't stay here for\\n\"\n\"long!\" COLOR(DEFAULT) QUICKTEXT_DISABLE FADE(60)",
+    "el_msg": "QUICKTEXT_ENABLE COLOR(LIGHTBLUE) NAME \", λίαν καῦμά ἐστιν\\n\"\n\"ἐνθάδε! Οὐ δυνάμεθα μένειν\\n\"\n\"ἐπὶ πολύ!\" COLOR(DEFAULT) QUICKTEXT_DISABLE FADE(60)"
+  },
+  {
+    "id": "0x3041",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "UNSKIPPABLE \"Brother \" NAME \"!\\n\"\n\"Everybody has come back!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Dad and you destroyed the dragon\\n\"\n\"together, didn't you!\" TEXTID(0x3042)",
+    "el_msg": "UNSKIPPABLE \"Ὦ ἀδελφὲ \" NAME \"!\\n\"\n\"Πάντες ἐπανῆλθον!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Σύ τε καὶ ὁ πατὴρ ἅμα τὸν\\n\"\n\"δράκοντα ἀπωλέσατε, ἦ γάρ!\" TEXTID(0x3042)"
+  },
+  {
+    "id": "0x3042",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"When I grow up, I want to be a\\n\"\n\"strong man like you, \\n\"\nNAME \"!\"",
+    "el_msg": "\"Ὅταν ἀνὴρ γένωμαι, βούλομαι\\n\"\n\"ἰσχυρὸς γενέσθαι ὡς σύ, ὦ\\n\"\nNAME \"!\""
+  },
+  {
+    "id": "0x3043",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Thank you, \" NAME \"!!\"",
+    "el_msg": "\"Χάριν οἶδά σοι, ὦ \" NAME \"!!\""
+  },
+  {
+    "id": "0x3044",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"Thank you very much for\\n\"\n\"saving us!\" PERSISTENT",
+    "el_msg": "\"Μεγίστην σοι χάριν ἔχομεν\\n\"\n\"ὅτι ἔσωσας ἡμᾶς!\" PERSISTENT"
+  },
+  {
+    "id": "0x3045",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE \"By the way, I, the wild Darunia,\\n\"\n\"turned out to be the great \\n\"\nCOLOR(RED) \"Sage of Fire\" COLOR(DEFAULT) \"...\"\nBOX_BREAK\n\nUNSKIPPABLE \"Isn't that funny, Brother?\\n\"\n\"Well, this must be what they call\\n\"\n\"destiny.\"\nBOX_BREAK\n\nUNSKIPPABLE \"Nothing has made me happier\\n\"\n\"than helping you seal the evil\\n\"\n\"here!\"",
+    "el_msg": "UNSKIPPABLE \"Καὶ μήν, ἐγὼ ὁ ἄγριος Δαρούνιος,\\n\"\n\"ὁ μέγας \" COLOR(RED) \"Σοφὸς τοῦ Πυρὸς\" COLOR(DEFAULT) \"\\n\"\n\"ἀνεφάνην ὤν...\"\nBOX_BREAK\n\nUNSKIPPABLE \"Οὐ γελοῖόν ἐστιν, ὦ ἀδελφέ;\\n\"\n\"Τοῦτο γὰρ δήπου ἐστὶν ὃ\\n\"\n\"πεπρωμένην καλοῦσιν.\"\nBOX_BREAK\n\nUNSKIPPABLE \"Οὐδὲν δὲ μᾶλλον ηὔφρανέ με ἢ\\n\"\n\"τὸ συνεπικουρῆσαί σοι κατακλεῖσαι\\n\"\n\"τὸ κακὸν ἐνθάδε!\""
+  },
+  {
+    "id": "0x3046",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE \"Hey, Brother, take this!\\n\"\n\"This is a \" COLOR(RED) \"Medallion \" COLOR(DEFAULT) \"that contains\\n\"\n\"the power of the fire spirits--and\\n\"\n\"my friendship.\"",
+    "el_msg": "UNSKIPPABLE \"Ὦ ἀδελφέ, λαβὲ τοῦτο!\\n\"\n\"Τοῦτο γάρ ἐστι \" COLOR(RED) \"Μετάλλιον\" COLOR(DEFAULT) \" ἔχον\\n\"\n\"τὴν τῶν πνευμάτων τοῦ πυρὸς\\n\"\n\"δύναμιν--καὶ τὴν ἐμὴν φιλίαν.\""
+  },
+  {
+    "id": "0x3047",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"Big problem!\\n\"\n\"Everybody is gone!\\n\"\n\"But I'll keep my business open!\" PERSISTENT",
+    "el_msg": "\"Μέγα κακόν!\\n\"\n\"Πάντες οἴχονται!\\n\"\n\"Ἀλλὰ τὸ καπηλεῖον ἀνεῳγμένον\\n\"\n\"φυλάξω!\" PERSISTENT"
+  },
+  {
+    "id": "0x3048",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE \"What a wild adventure! It will\\n\"\n\"make an incredible story...\"\nBOX_BREAK\n\nUNSKIPPABLE \"I can't believe that the Dodongos\\n\"\n\"suddenly appeared in such great \\n\"\n\"numbers!\"\nBOX_BREAK\n\nUNSKIPPABLE \"And that big rock blocking the \\n\"\n\"cave...\"\nBOX_BREAK\n\nUNSKIPPABLE \"All this trouble must have been\\n\"\n\"caused by that Gerudo thief, \\n\"\nCOLOR(RED) \"Ganondorf\" COLOR(DEFAULT) \"!\"\nBOX_BREAK\n\nUNSKIPPABLE \"He said, \\n\"\n\"\\\"\" COLOR(LIGHTBLUE) \"Give me the Spiritual Stone!\\n\"\n\"Only then will I open the cave \\n\"\n\"for you!\" COLOR(DEFAULT) \"\\\"\"\nBOX_BREAK\n\nUNSKIPPABLE \"You, on the other hand, risked \\n\"\n\"your life for us...\"",
+    "el_msg": "UNSKIPPABLE \"Οἵα δεινὴ περιπέτεια!\\n\"\n\"Θαυμαστὴ διήγησις ἔσται...\"\nBOX_BREAK\n\nUNSKIPPABLE \"Οὐ πιστεύω ὅτι τοσοῦτοι\\n\"\n\"Δοδόνγοι ἄφνω ἐφάνησαν!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Καὶ ὁ μέγας βράχος ὁ\\n\"\n\"ἀποκλείων τὸ σπήλαιον...\"\nBOX_BREAK\n\nUNSKIPPABLE \"Πάντα ταῦτα τὰ κακὰ εἰργάσατο\\n\"\n\"ὁ Γερούδειος λῃστής, ὁ \" COLOR(RED) \"Γανωνδόρφ\" COLOR(DEFAULT) \"!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ἔφη γάρ·\\n\"\n\"«\" COLOR(LIGHTBLUE) \"Δότε μοι τὸν Πνευματικὸν\\n\"\n\"Λίθον! Τότε μόνον ἀνοίξω ὑμῖν\\n\"\n\"τὸ σπήλαιον!\" COLOR(DEFAULT) \"»\"\nBOX_BREAK\n\nUNSKIPPABLE \"Σὺ δέ, τοὐναντίον, ὑπὲρ ἡμῶν\\n\"\n\"τὴν ψυχὴν παρέβαλες...\""
+  },
+  {
+    "id": "0x3049",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "SHIFT(75) \"Tight fit...\"",
+    "el_msg": "SHIFT(75) \"Στενόν ἐστιν...\""
+  },
+  {
+    "id": "0x304A",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"I'm working on something really \\n\"\n\"cool right now! But I think it's\\n\"\n\"going to take a while...\" TEXTID(0x304B)",
+    "el_msg": "\"Ἔργον πάνυ θαυμαστὸν ἐργάζομαι\\n\"\n\"νῦν δή! Ἀλλ' οἶμαι πολλοῦ\\n\"\n\"δεήσειν χρόνου...\" TEXTID(0x304B)"
+  },
+  {
+    "id": "0x304B",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"If you can wait five or six years,\\n\"\n\"it should be ready. OK?\"",
+    "el_msg": "\"Ἐὰν δ' ἀναμεῖναι δύνῃ πέντε\\n\"\n\"ἢ ἓξ ἔτη, ἕτοιμον ἔσται.\\n\"\n\"Καλῶς ἔχει;\""
+  },
+  {
+    "id": "0x304C",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"I just completed a small weapon.\\n\"\n\"How about it...\" TEXTID(0x304F)",
+    "el_msg": "\"Ἀρτίως ἐπετέλεσα ὅπλον τι.\\n\"\n\"Τί σοι δοκεῖ;...\" TEXTID(0x304F)"
+  },
+  {
+    "id": "0x304D",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"How do you like the feel of it?\"",
+    "el_msg": "\"Πῶς σοι δοκεῖ ἡ ἁφή;\""
+  },
+  {
+    "id": "0x304E",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"It looks like there is a problem \\n\"\n\"with its durability...\\n\"\n\"But still...\" TEXTID(0x304F)",
+    "el_msg": "\"Ἔοικε μέντοι πρόβλημά τι\\n\"\n\"εἶναι περὶ τὴν καρτερίαν...\\n\"\n\"Ἀλλ' ὅμως...\" TEXTID(0x304F)"
+  },
+  {
+    "id": "0x304F",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"How about buying this knife for \\n\"\n\"200 Rupees?\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Buy\\n\"\n    \"Don't buy\" COLOR(DEFAULT)",
+    "el_msg": "\"Βούλει ὠνεῖσθαι τὴν μάχαιραν\\n\"\n\"τοῦ Γίγαντος 200 Ῥουπίων;\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Ἀγοράσαι\\n\"\n    \"Μὴ ἀγοράσαι\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x3050",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"All right. Come back again.\"",
+    "el_msg": "\"Εἶεν. Ἐλθὲ πάλιν ποτέ.\""
+  },
+  {
+    "id": "0x3051",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Please...Don't...Eat me...\\n\"\n\"If you eat something like me,\\n\"\n\"you'll get a stomach ache!\"\nBOX_BREAK\n\n\"You'll be sorry!!\"",
+    "el_msg": "\"Μὴ δή... μὴ... φάγῃς με...\\n\"\n\"Εἰ γὰρ ἐσθίεις οἷόν με,\\n\"\n\"στροφηθήσεται ἡ γαστήρ σου!\"\nBOX_BREAK\n\n\"Μεταμελήσει γάρ σοι!!\""
+  },
+  {
+    "id": "0x3052",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Oh, I see. Big Brother Darunia\\n\"\n\"asked you to rescue me.\\n\"\n\"I owe you big time!\"\nBOX_BREAK\n\n\"Please help Big Brother!\"",
+    "el_msg": "\"Ὠ, μανθάνω. Ὁ Μέγας Ἀδελφὸς\\n\"\n\"Δαρούνιος ἐκέλευσέ σε σῶσαί με.\\n\"\n\"Μεγίστην σοι ὀφείλω χάριν!\"\nBOX_BREAK\n\n\"Βοήθησον δὴ τῷ Μεγάλῳ Ἀδελφῷ!\""
+  },
+  {
+    "id": "0x3053",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"My Brotherrrr...\\n\"\n\"Opened a new storrrre...\\n\"\n\"It's Medigoron's Blade\\n\"\n\"Storrrrrrrre...\"\nBOX_BREAK\n\n\"Howeverrrrr... \\n\"\n\"I am betterrrrrr at making\\n\"\n\"bladessssss.\"\nBOX_BREAK\n\n\"Hylian carpenterrrrrs praise\\n\"\n\"me forrrrrr my skillssssss.\\n\"\n\"I'm not lyinnnnng...\"",
+    "el_msg": "\"Ὁ Ἀδελφόόός μου...\\n\"\n\"Ἤνοιξε νέον καπηλεῖῖῖον...\\n\"\n\"Τὸ τοῦ Μεσογόρωνος\\n\"\n\"Ξιφοπωλεῖῖῖον...\"\nBOX_BREAK\n\n\"Ἀλλ' ὅμωωως...\\n\"\n\"ἐγὼ κρείττων εἰμὶ\\n\"\n\"ξιφοποιόόός.\"\nBOX_BREAK\n\n\"Οἱ Ὑλῖται τέκτονεςςς\\n\"\n\"ἐπαινοῦσι τὴν τέχνηννν μου.\\n\"\n\"Οὐ ψεύύύδομαι...\""
+  },
+  {
+    "id": "0x3054",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE \"That broken knife is surely my \\n\"\n\"worrrrrrrrrrk...\\n\"\n\"I really want to repairrrrr it, but...\"\nBOX_BREAK\n\nUNSKIPPABLE \"But because of yesterrrrrday's\\n\"\n\"errrrruption, my eyes are \\n\"\n\"irrrrrrrritated...\"\nBOX_BREAK\n\nUNSKIPPABLE \"There are fine eyedrops in Zora's\\n\"\n\"Domain... You will find them if you\\n\"\n\"go to see \" COLOR(RED) \"Kinnnnnng Zorrrrrra\" COLOR(DEFAULT) \"...\" TEXTID(0x3055)",
+    "el_msg": "UNSKIPPABLE \"Τὸ κατεαγὸς ξιφίδιον πάντως\\n\"\n\"ἐμὸν ἔργοννν ἐστίν...\\n\"\n\"Πάνυ βούλομαι ἐπισκευάάάσαι,\\n\"\n\"ἀλλά...\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ἀλλὰ διὰ τὴν χθεσινὴν\\n\"\n\"ἔκρηξιννν, οἱ ὀφθαλμοίίί μου\\n\"\n\"ὀδυνῶσιννν...\"\nBOX_BREAK\n\nUNSKIPPABLE \"Κολλύριον δ' ἔστιν ἐν τῇ\\n\"\n\"Ἐπικρατείᾳ τῶν Ζῶρα... Εὑρήσεις\\n\"\n\"δ' ἐλθὼν πρὸς τὸν \" COLOR(RED) \"Βασιλέααα\\n\"\n\"τῶν Ζῶῶῶρα\" COLOR(DEFAULT) \"...\" TEXTID(0x3055)"
+  },
+  {
+    "id": "0x3055",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"Please go get the eyedrrrrrrops...\\n\"\n\"\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Yes\\n\"\n    \"No\" COLOR(DEFAULT)",
+    "el_msg": "\"Κόμισον δή μοι τὸ κολλύύύριον...\\n\"\n\"\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Ναί\\n\"\n    \"Οὔ\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x3056",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"Awww nooooo... I'm finished...\\n\"\n\"My eyes arrrrrre so itchy...\\n\"\n\"Owwwwww...\"",
+    "el_msg": "\"Οἴμοιιι... ἀπόλωλααα...\\n\"\n\"Οἱ ὀφθαλμοίίί μου κνήθουσιν...\\n\"\n\"Αἰαῖῖῖ...\""
+  },
+  {
+    "id": "0x3057",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"Oh, no! Everybody's gone!\\n\"\n\"Only I was left behind!\" EVENT",
+    "el_msg": "\"Οἴμοι! Πάντες οἴχονται!\\n\"\n\"Μόνος ἐγὼ κατελείφθην!\" EVENT"
+  },
+  {
+    "id": "0x3058",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"I've been waiting forrrrr you,\\n\"\n\"with tearrrrrrs in my eyes...\\n\"\n\"Please say hello to Kinnng Zorrra!\"",
+    "el_msg": "\"Προσέμενοννν σε μετὰ\\n\"\n\"δακρύύύων ἐν ὀφθαλμοῖς...\\n\"\n\"Χαίρειν λέγε τῷ Βασιλεῖ τῶν Ζῶρα!\""
+  },
+  {
+    "id": "0x3059",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE \"Rrrrreally? You brrrrought the eye\\n\"\n\"drops? I'm so rrrrrelieved!  I'm\\n\"\n\"going to use them rrrrrright now!\" EVENT",
+    "el_msg": "UNSKIPPABLE \"Ἀληθῶῶῶς; Ἐκόμισας τὸ κολλύριον;\\n\"\n\"Πάνυ χαίρωωω! Χρήσομαι αὐτῷ\\n\"\n\"παραχρῆῆῆμα!\" EVENT"
+  },
+  {
+    "id": "0x305A",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE COLOR(RED) \"Wowwwwwwwwwwwwww!!\" COLOR(DEFAULT)\nBOX_BREAK\n\nUNSKIPPABLE \"This is stimulating! It's\\n\"\n\"worrrrrking grrrrreat!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Now I can get back to my blade\\n\"\n\"business! My worrrrrk is not \\n\"\n\"verrrry consistent, so I'll give this \\n\"\n\"to you so you won't forrrrrget.\" TEXTID(0x305C)",
+    "el_msg": "UNSKIPPABLE COLOR(RED) \"Βαβαίίίίίίίίίί!!\" COLOR(DEFAULT)\nBOX_BREAK\n\nUNSKIPPABLE \"Δριμὺ μέν, ὠφελεῖ δὲ\\n\"\n\"σφόόόδρα!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Νῦν δ' ἐπανέρχομαι εἰς τὴν\\n\"\n\"ξιφοποιίαν! Ἐπεὶ δ' οὐκ ἀεὶ\\n\"\n\"ταχύς εἰμι, δίδωμι τοῦτο\\n\"\n\"ἵνα μὴ ἐπιλάάάθῃ.\" TEXTID(0x305C)"
+  },
+  {
+    "id": "0x305B",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"Everybody has come back!\\n\"\n\"It's business as usual!\" EVENT",
+    "el_msg": "\"Πάντες ἐπανῆλθον!\\n\"\n\"Πάλιν δὲ καπηλεύομεν ὡς εἰκός!\" EVENT"
+  },
+  {
+    "id": "0x305C",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"Afterrrr a few days...\\n\"\n\"Please returrrrrrn...\\n\"\n\"Wait, just wait patiently...\"",
+    "el_msg": "\"Μετὰ δ' ἡμέρας τινάςςς...\\n\"\n\"Ἐπάνελθεεε...\\n\"\n\"Ὑπόμεινον δὴ πρᾴωςςς...\""
+  },
+  {
+    "id": "0x305D",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"Not yet...\\n\"\n\"Hey you...\\n\"\n\"You arrrre impatient...\"",
+    "el_msg": "\"Οὔπωωω...\\n\"\n\"Ὦ οὗτοςςς...\\n\"\n\"Ἀνυπόμονος εἶῖῖ...\""
+  },
+  {
+    "id": "0x305E",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"That sworrrrd is my finest \\n\"\n\"worrrrk!\"",
+    "el_msg": "\"Τὸ ξίφος ἐκεῖνο κράτιστον\\n\"\n\"ἔργοννν ἐμόν!\""
+  },
+  {
+    "id": "0x305F",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "QUICKTEXT_ENABLE COLOR(LIGHTBLUE) \"Your \" COLOR(DEFAULT) \"shield \" COLOR(LIGHTBLUE) \"is gone!\" COLOR(DEFAULT) QUICKTEXT_DISABLE FADE(60)",
+    "el_msg": "QUICKTEXT_ENABLE COLOR(LIGHTBLUE) \"Ὁ \" COLOR(DEFAULT) \"θυρεός \" COLOR(LIGHTBLUE) \"σου ἀπώλετο!\" COLOR(DEFAULT) QUICKTEXT_DISABLE FADE(60)"
+  },
+  {
+    "id": "0x3060",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "QUICKTEXT_ENABLE COLOR(LIGHTBLUE) \"The \" COLOR(DEFAULT) \"tunic \" COLOR(LIGHTBLUE) \"you were wearing is \\n\"\n\"gone!\" COLOR(DEFAULT) QUICKTEXT_DISABLE FADE(60)",
+    "el_msg": "QUICKTEXT_ENABLE COLOR(LIGHTBLUE) \"Ὁ \" COLOR(DEFAULT) \"χιτὼν \" COLOR(LIGHTBLUE) \"ὃν ἐφόρεις\\n\"\n\"ἀπώλετο!\" COLOR(DEFAULT) QUICKTEXT_DISABLE FADE(60)"
+  },
+  {
+    "id": "0x3061",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "QUICKTEXT_ENABLE COLOR(LIGHTBLUE) \"Your \" COLOR(DEFAULT) \"shield \" COLOR(LIGHTBLUE) \"is gone!\\n\"\n\"The \" COLOR(DEFAULT) \"tunic \" COLOR(LIGHTBLUE) \"you were wearing has\\n\"\n\"also been taken!\" COLOR(DEFAULT) QUICKTEXT_DISABLE FADE(60)",
+    "el_msg": "QUICKTEXT_ENABLE COLOR(LIGHTBLUE) \"Ὁ \" COLOR(DEFAULT) \"θυρεός \" COLOR(LIGHTBLUE) \"σου ἀπώλετο!\\n\"\n\"Ὁ δὲ \" COLOR(DEFAULT) \"χιτὼν \" COLOR(LIGHTBLUE) \"ὃν ἐφόρεις καὶ\\n\"\n\"αὐτὸς ἀφῃρέθη!\" COLOR(DEFAULT) QUICKTEXT_DISABLE FADE(60)"
+  },
+  {
+    "id": "0x3062",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "UNSKIPPABLE \"You've done well to come all the\\n\"\n\"way up here, \" NAME \". \\n\"\n\"This is the summit of the sacred\\n\"\n\"Death Mountain! Hoot!\"\nBOX_BREAK\n\nUNSKIPPABLE \"It is said that the clouds \\n\"\n\"surrounding this peak reflect the\\n\"\n\"condition of Death Mountain. When\\n\"\n\"they look normal, it is at peace.\"\nBOX_BREAK\n\nUNSKIPPABLE \"Climbing all the way up here\\n\"\n\"just proves how smart you are!\\n\"\n\"Now I want to see you make\\n\"\n\"another smart move...\"\nBOX_BREAK\n\nUNSKIPPABLE \"The \" COLOR(RED) \"Great Fairy\" COLOR(DEFAULT) \" lives on this\\n\"\n\"mountaintop, and she will give\\n\"\n\"you a new skill! She is the leader\\n\"\n\"of the fairies, you know. Hoo!\"\nBOX_BREAK\n\nUNSKIPPABLE \"I will perch here and wait for you.\\n\"\n\"When you're ready to go back\\n\"\n\"down, I can help you! \\n\"\n\"Now, get going!\"",
+    "el_msg": "UNSKIPPABLE \"Εὖ γε ἀνέβης μέχρις\\n\"\n\"ἐνταῦθα, ὦ \" NAME \".\\n\"\n\"Αὕτη γάρ ἐστιν ἡ κορυφὴ τοῦ\\n\"\n\"ἱεροῦ Ὄρους τοῦ Θανάτου! Οὔ!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Λέγεται δὲ τὰς νεφέλας τὰς\\n\"\n\"περὶ τὴν κορυφὴν δηλοῦν τὴν τοῦ\\n\"\n\"Ὄρους κατάστασιν. Εἰ γὰρ ἥσυχοί\\n\"\n\"εἰσιν, εἰρήνη ἐστίν.\"\nBOX_BREAK\n\nUNSKIPPABLE \"Τὸ δ' ἀναβῆναι δεῦρο δηλοῖ\\n\"\n\"ὅτι συνετὸς εἶ!\\n\"\n\"Βούλομαι δὲ νῦν ἰδεῖν ἄλλο τι\\n\"\n\"συνετὸν ἔργον σου...\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ἡ γὰρ \" COLOR(RED) \"Μεγάλη Νύμφη\" COLOR(DEFAULT) \" οἰκεῖ ἐν τῇδε\\n\"\n\"τῇ κορυφῇ, καὶ δώσει σοι νέαν\\n\"\n\"δύναμιν! Ἡγεμὼν γάρ ἐστι\\n\"\n\"τῶν νυμφῶν. Οὐ-ού!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Καθιῶ οὖν ἐνθάδε προσμένων σε.\\n\"\n\"Ὅταν δ' ἕτοιμος ᾖς καταβαίνειν,\\n\"\n\"βοηθήσω σοι!\\n\"\n\"Ἄγε οὖν, ὕπαγε!\""
+  },
+  {
+    "id": "0x3063",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Hoo hoot!\\n\"\n\"Well, it looks like you've grown\\n\"\n\"up a little from the Great Fairy's\\n\"\n\"power...\"\nBOX_BREAK\n\n\"But you still don't really look like\\n\"\n\"the hero who will save Hyrule. At\\n\"\n\"least not yet!\"\nBOX_BREAK\n\n\"If you are going back \" COLOR(RED) \"down the\\n\"\n\"mountain\" COLOR(DEFAULT) \", I can lend you a wing.\\n\"\n\"Come here and grab my talons!\\n\"\n\"And hold on tight! Hoo hooooooot!\"",
+    "el_msg": "\"Οὐ-ού!\\n\"\n\"Ἔοικας μέντοι μικρὸν ἠνδρῶσθαι\\n\"\n\"διὰ τὴν τῆς Μεγάλης Νύμφης\\n\"\n\"δύναμιν...\"\nBOX_BREAK\n\n\"Ἀλλ' οὔπω δοκεῖς ὁ ἥρως εἶναι\\n\"\n\"ὁ σώσων τὴν Ὑρούλην.\\n\"\n\"Οὔπω γε νῦν!\"\nBOX_BREAK\n\n\"Εἰ δὲ μέλλεις καταβαίνειν \" COLOR(RED) \"κατὰ\\n\"\n\"τοῦ ὄρους\" COLOR(DEFAULT) \", πτέρυγα παρέξω σοι.\\n\"\n\"Δεῦρο ἐλθὼν λαβοῦ τῶν ὀνύχων μου!\\n\"\n\"Καὶ ἔχου καρτερῶς! Οὐ-οὐ-ού!\""
+  },
+  {
+    "id": "0x3064",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"They say that a \" COLOR(RED) \"beautiful\" COLOR(DEFAULT) \" \" COLOR(RED) \"fairy\\n\"\nCOLOR(DEFAULT) \"lives on top of Death Mountain!\"\nBOX_BREAK\n\n\"Don't you want to see her?\"",
+    "el_msg": "\"Λέγουσι \" COLOR(RED) \"καλὴν\" COLOR(DEFAULT) \" \" COLOR(RED) \"νύμφην\" COLOR(DEFAULT) \"\\n\"\n\"οἰκεῖν ἐπὶ τῆς κορυφῆς τοῦ\\n\"\n\"Ὄρους τοῦ Θανάτου!\"\nBOX_BREAK\n\n\"Οὐ βούλει ἰδεῖν αὐτήν;\""
+  },
+  {
+    "id": "0x3065",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"They say that a \" COLOR(RED) \"fairy \" COLOR(DEFAULT) \"lives on top\\n\"\n\"of Death Mountain.\"\nBOX_BREAK\n\n\"If you want to make it to the top,\\n\"\n\"you'd better take a big \" COLOR(LIGHTBLUE) \"shield\" COLOR(DEFAULT) \"\\n\"\n\"with you...\"",
+    "el_msg": "\"Λέγουσιν ὅτι \" COLOR(RED) \"νύμφη\" COLOR(DEFAULT) \" οἰκεῖ ἐπὶ\\n\"\n\"τῆς κορυφῆς τοῦ Ὄρους τοῦ\\n\"\n\"Θανάτου.\"\nBOX_BREAK\n\n\"Εἰ δὲ βούλει ἀφικέσθαι ἄνω,\\n\"\n\"ἄμεινον ἂν εἴη μέγαν \" COLOR(LIGHTBLUE) \"θυρεὸν\" COLOR(DEFAULT) \"\\n\"\n\"κομίζειν μετὰ σοῦ...\""
+  },
+  {
+    "id": "0x3066",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "QUICKTEXT_ENABLE COLOR(LIGHTBLUE) \"Look! A \" COLOR(DEFAULT) \"chicken \" COLOR(LIGHTBLUE) \"hatched from\\n\"\n\"the \" COLOR(DEFAULT) \"egg \" COLOR(LIGHTBLUE) \"you were incubating!\\n\"\n\"It's the miracle of life!\" COLOR(DEFAULT) QUICKTEXT_DISABLE FADE(99)",
+    "el_msg": "QUICKTEXT_ENABLE COLOR(LIGHTBLUE) \"Ἰδού! \" COLOR(DEFAULT) \"Κουκκὼ \" COLOR(LIGHTBLUE) \"ἐξελέγχθη ἐκ\\n\"\n\"τοῦ \" COLOR(DEFAULT) \"ᾠοῦ \" COLOR(LIGHTBLUE) \"ὃ ἔθαλπες!\\n\"\n\"Θαῦμα τῆς ζωῆς!\" COLOR(DEFAULT) QUICKTEXT_DISABLE FADE(99)"
+  },
+  {
+    "id": "0x3067",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Did you get the red stone?\\n\"\n\"Let me get one little lick!\"\nBOX_BREAK\n\n\"No? Booooo!\"",
+    "el_msg": "\"Ἔλαβες τὸν ἐρυθρὸν λίθον;\\n\"\n\"Ἔασόν με περιλείξαι αὐτόν!\"\nBOX_BREAK\n\n\"Οὔ; Οἴμοι!\""
+  },
+  {
+    "id": "0x3068",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE \"Brother! You'll keep brushing up\\n\"\n\"on your skills as you travel,\\n\"\n\"won't you?\"\nBOX_BREAK\n\nUNSKIPPABLE \"You should go see the \" COLOR(RED) \"Great Fairy\" COLOR(DEFAULT) \"\\n\"\n\"on top of Death Mountain! She\\n\"\n\"will power you up!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Hey, everybody! Let's see off our\\n\"\n\"Brother!\"",
+    "el_msg": "UNSKIPPABLE \"Ὦ ἀδελφέ! Ἀσκήσεις δήπου τὴν\\n\"\n\"τέχνην σου ὁδοιπορῶν,\\n\"\n\"ἦ γάρ;\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ὕπαγε πρὸς τὴν \" COLOR(RED) \"Μεγάλην Νύμφην\" COLOR(DEFAULT) \"\\n\"\n\"ἐπὶ τῇ κορυφῇ τοῦ Ὄρους τοῦ\\n\"\n\"Θανάτου! Δώσει γάρ σοι\\n\"\n\"πλείω δύναμιν!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ὦ πάντες! Προπέμψωμεν τὸν\\n\"\n\"ἀδελφὸν ἡμῶν!\""
+  },
+  {
+    "id": "0x3069",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "UNSKIPPABLE \"I'll tell you a secret for\\n\"\n\"saving me!\"\nBOX_BREAK\n\nUNSKIPPABLE \"In this temple, there are \" COLOR(RED) \"doors\\n\"\n\"that fall down \" COLOR(DEFAULT) \"when you try to \\n\"\n\"open them. When one of these\\n\"\n\"doors starts to fall, move!\"\nBOX_BREAK\n\nUNSKIPPABLE \"If you use a sample of the\\n\"\n\"Goron \\\"special crop,\\\" you can\\n\"\n\"break it...\"",
+    "el_msg": "UNSKIPPABLE \"Φράσω σοι ἀπόρρητον ὅτι\\n\"\n\"ἔσωσάς με!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ἐν τῷδε τῷ ναῷ εἰσι \" COLOR(RED) \"θύραι\\n\"\n\"πίπτουσαι\" COLOR(DEFAULT) \" ὅταν πειρᾷ ἀνοῖξαι\\n\"\n\"αὐτάς. Ὅταν δὲ πίπτῃ τοιαύτη\\n\"\n\"θύρα, ἔκκλινον!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Εἰ δὲ χρήσῃ τῷ «ἰδίῳ\\n\"\n\"καρπῷ» τῶν Γορώνων,\\n\"\n\"συντρίψεις αὐτήν...\""
+  },
+  {
+    "id": "0x306A",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "UNSKIPPABLE \"Let me tell you a secret as\\n\"\n\"a reward for releasing me!\"\nBOX_BREAK\n\nUNSKIPPABLE \"When you are on fire, you can put\\n\"\n\"it out by swinging your sword, or\\n\"\n\"by rolling forward... Did you know\\n\"\n\"that?\"",
+    "el_msg": "UNSKIPPABLE \"Φράσω σοι ἀπόρρητον εἰς\\n\"\n\"ἀμοιβὴν τοῦ ἀπολῦσαί με!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ὅταν καίῃ, δύνασαι σβέσαι\\n\"\n\"τὸ πῦρ σείων τὸ ξίφος, ἢ\\n\"\n\"κυλινδούμενος εἰς τὸ ἔμπροσθεν...\\n\"\n\"Ἆρ' ᾔδεις τοῦτο;\""
+  },
+  {
+    "id": "0x306B",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "UNSKIPPABLE \"Here's a tip for rescuing me!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Somewhere in this temple, you're\\n\"\n\"sure to meet up with some \\n\"\n\"creatures that dance as they\\n\"\n\"attack. Arrows won't hurt them!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Looks like you might need some of\\n\"\n\"the Goron \\\"special crop!\\\" That's\\n\"\n\"all I have to tell you!\"",
+    "el_msg": "UNSKIPPABLE \"Συμβουλὴν δίδωμί σοι ὅτι\\n\"\n\"ἔσωσάς με!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Πού ποτε ἐν τῷδε τῷ ναῷ\\n\"\n\"ἐντεύξῃ θηρίοις ὀρχουμένοις\\n\"\n\"ἅμα καὶ ἐπιτιθεμένοις. Τὰ δὲ\\n\"\n\"βέλη οὐ βλάπτει αὐτά!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ἔοικας δὲ χρῄζειν τοῦ «ἰδίου\\n\"\n\"καρποῦ» τῶν Γορώνων!\\n\"\n\"Τοῦτο μόνον ἔχω λέγειν!\""
+  },
+  {
+    "id": "0x306C",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "UNSKIPPABLE \"I'll tell you a secret for\\n\"\n\"saving me!\"\nBOX_BREAK\n\nUNSKIPPABLE \"There are switches in this temple\\n\"\n\"that you have to cut to activate.\\n\"\n\"But, you can also use the Goron\\n\"\n\"\\\"special crop\\\" to do the job.\"",
+    "el_msg": "UNSKIPPABLE \"Φράσω σοι ἀπόρρητον ὅτι\\n\"\n\"ἔσωσάς με!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Εἰσὶ μοχλοὶ ἐν τῷδε τῷ ναῷ\\n\"\n\"οὺς δεῖ πλήσσειν ἵνα κινῶνται.\\n\"\n\"Ἀλλὰ καὶ δύνασαι χρῆσθαι τῷ\\n\"\n\"«ἰδίῳ καρπῷ» τῶν Γορώνων.\""
+  },
+  {
+    "id": "0x306D",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "UNSKIPPABLE \"I'll tell you a secret for\\n\"\n\"saving me!\"\nBOX_BREAK\n\nUNSKIPPABLE \"If you find a place that you can\\n\"\n\"see on the map, but can't reach,\\n\"\n\"try playing your Ocarina!\"",
+    "el_msg": "UNSKIPPABLE \"Φράσω σοι ἀπόρρητον ὅτι\\n\"\n\"ἔσωσάς με!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ἐὰν εὕρῃς τόπον ὃν βλέπεις μὲν\\n\"\n\"ἐν τῷ χάρτῃ, οὐ δύνασαι δὲ\\n\"\n\"ἐξικέσθαι, πείρασον αὐλεῖν\\n\"\n\"τῇ Πλαγιαύλῳ σου!\""
+  },
+  {
+    "id": "0x306E",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "UNSKIPPABLE \"I'll tell you a secret for\\n\"\n\"saving me!\"\nBOX_BREAK\n\nUNSKIPPABLE \"In order to get into the room\\n\"\n\"where Darunia went, you have to\\n\"\n\"do something about the pillar\\n\"\n\"stuck in the ceiling.\"\nBOX_BREAK\n\nUNSKIPPABLE \"Find a path that leads to a room\\n\"\n\"above the ceiling right away!\"",
+    "el_msg": "UNSKIPPABLE \"Φράσω σοι ἀπόρρητον ὅτι\\n\"\n\"ἔσωσάς με!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ἵνα δ' εἰσέλθῃς εἰς τὸν οἶκον\\n\"\n\"ὅπου ἀπῆλθε Δαρούνιος, δεῖ σε\\n\"\n\"ποιῆσαί τι περὶ τοῦ κίονος\\n\"\n\"τοῦ ἐν τῇ ὀροφῇ.\"\nBOX_BREAK\n\nUNSKIPPABLE \"Εὑρὲ οὖν ὁδὸν ἄγουσαν εἰς\\n\"\n\"τὸν ὑπερῷον οἶκον ἤδη!\""
+  },
+  {
+    "id": "0x306F",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "UNSKIPPABLE \"I'll tell you a secret for\\n\"\n\"saving me!\"\nBOX_BREAK\n\nUNSKIPPABLE \"A door is hidden inside the statue\\n\"\n\"at the entrance to this temple.\"\nBOX_BREAK\n\nUNSKIPPABLE \"But, the Goron \\\"special crop\\\" won't\\n\"\n\"work on it... Don't you have\\n\"\n\"anything stronger?\"",
+    "el_msg": "UNSKIPPABLE \"Φράσω σοι ἀπόρρητον ὅτι\\n\"\n\"ἔσωσάς με!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Θύρα κέκρυπται ἔνδον τοῦ\\n\"\n\"ἀνδριάντος τοῦ ἐπὶ τῇ εἰσόδῳ\\n\"\n\"τοῦδε τοῦ ναοῦ.\"\nBOX_BREAK\n\nUNSKIPPABLE \"Ἀλλ' ὁ «ἴδιος καρπὸς» τῶν\\n\"\n\"Γορώνων οὐκ ὠφελεῖ πρὸς αὐτήν...\\n\"\n\"Μή τι ἰσχυρότερον ἔχεις;\""
+  },
+  {
+    "id": "0x3070",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "UNSKIPPABLE \"Here's a secret for saving me!\"\nBOX_BREAK\n\nUNSKIPPABLE \"A wall that you can destroy with\\n\"\n\"the Goron's \\\"special crop\\\" will\\n\"\n\"sound different than a regular\\n\"\n\"wall if you hit it with your sword.\"",
+    "el_msg": "UNSKIPPABLE \"Ἀπόρρητον δίδωμί σοι ὅτι\\n\"\n\"ἔσωσάς με!\"\nBOX_BREAK\n\nUNSKIPPABLE \"Τοῖχος ὃν οἷός τ' εἶ διαρρῆξαι\\n\"\n\"τῷ «ἰδίῳ καρπῷ» τῶν Γορώνων,\\n\"\n\"ἀλλοῖον ἠχεῖ ἢ ὁ κοινὸς τοῖχος\\n\"\n\"ἐὰν πλήξῃς αὐτὸν τῷ ξίφει σου.\""
+  },
+  {
+    "id": "0x3071",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Are you releasing me?\\n\"\n\"Am I free to go?\" EVENT",
+    "el_msg": "\"Ἀπολύεις με;\\n\"\n\"Ἔξεστί μοι ἀπιέναι;\" EVENT"
+  }
+]

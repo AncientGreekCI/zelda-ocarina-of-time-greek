@@ -1,0 +1,884 @@
+[
+  {
+    "id": "0x0001",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE ITEM_ICON(ITEM_POCKET_EGG) QUICKTEXT_ENABLE \"You borrowed a \" COLOR(RED) \"Pocket Egg\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"A Pocket Cucco will hatch from\\n\"\n\"it overnight. Be sure to give it\\n\"\n\"back when you are done with it.\"",
+    "el_msg": "UNSKIPPABLE ITEM_ICON(ITEM_POCKET_EGG) QUICKTEXT_ENABLE \"Ἐδανείσω \" COLOR(RED) \"Ἐγκόλπιον Ὠόν\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Ἐξ αὐτοῦ νυκτὸς Ἐγκόλπιος\\n\"\n\"Κουκκὼ ἐκτεχθήσεται. Ἀπόδος\\n\"\n\"δὲ πάλιν ὅταν χρήσῃ αὐτῷ!\""
+  },
+  {
+    "id": "0x0002",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE ITEM_ICON(ITEM_COJIRO) QUICKTEXT_ENABLE \"You returned the Pocket Cucco\\n\"\n\"and got \" COLOR(RED) \"Cojiro\" COLOR(DEFAULT) \" in return!\" QUICKTEXT_DISABLE \"\\n\"\n\"Unlike other Cuccos, Cojiro\\n\"\n\"rarely crows.\"",
+    "el_msg": "UNSKIPPABLE ITEM_ICON(ITEM_COJIRO) QUICKTEXT_ENABLE \"Ἀποδοὺς τὸν Ἐγκόλπιον\\n\"\n\"Κουκκὼ ἔλαβες τὸν \" COLOR(RED) \"Κοτζίρο\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Ἀνόμοιος δ' ὢν ἄλλοις,\\n\"\n\"οὗτος σπανίως φωνεῖ.\""
+  },
+  {
+    "id": "0x0003",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE ITEM_ICON(ITEM_ODD_MUSHROOM) QUICKTEXT_ENABLE \"You got an \" COLOR(RED) \"Odd Mushroom\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"A fresh mushroom like this is\\n\"\n\"sure to spoil quickly! Take it to\\n\"\n\"the Kakariko Potion Shop, quickly!\"",
+    "el_msg": "UNSKIPPABLE ITEM_ICON(ITEM_ODD_MUSHROOM) QUICKTEXT_ENABLE \"Ἔλαβες \" COLOR(RED) \"Ἄτοπον Μύκητα\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Ταχέως δὴ οὗτος σήπεται!\\n\"\n\"Κόμισον οὖν τάχιστα εἰς τὸ\\n\"\n\"ἐν Κακαρικὸ Φαρμακεῖον!\""
+  },
+  {
+    "id": "0x0004",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE ITEM_ICON(ITEM_ODD_POTION) QUICKTEXT_ENABLE \"You received an \" COLOR(RED) \"Odd Potion\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"You don't know what's going on\\n\"\n\"between this lady and that guy,\\n\"\n\"but take it to the Lost Woods!\"",
+    "el_msg": "UNSKIPPABLE ITEM_ICON(ITEM_ODD_POTION) QUICKTEXT_ENABLE \"Ἔλαβες \" COLOR(RED) \"Ἄτοπον Φάρμακον\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Οὐκ οἶδας τί συμβαίνει\\n\"\n\"αὐτοῖς, κόμισον δὲ τοῦτο\\n\"\n\"εἰς τὸν Δρυμὸν τῆς Πλάνης!\""
+  },
+  {
+    "id": "0x0005",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE ITEM_ICON(ITEM_POACHERS_SAW) QUICKTEXT_ENABLE \"You returned the Odd Potion \\n\"\n\"and got the \" COLOR(RED) \"Poacher's Saw\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"The young punk guy must have\\n\"\n\"left this behind.\"",
+    "el_msg": "UNSKIPPABLE ITEM_ICON(ITEM_POACHERS_SAW) QUICKTEXT_ENABLE \"Ἀποδοὺς τὸ Ἄτοπον Φάρμακον\\n\"\n\"ἔλαβες \" COLOR(RED) \"Πρίονα Λαθροθήρα\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Ὁ νεανίας οὗτος δήπου\\n\"\n\"κατέλιπεν αὐτόν.\""
+  },
+  {
+    "id": "0x0006",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "QUICKTEXT_ENABLE \"Bombs   20 Pieces   80 Rupees\" QUICKTEXT_DISABLE \"\\n\"\n\"\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Buy\\n\"\n    \"Don't buy\" COLOR(DEFAULT)",
+    "el_msg": "QUICKTEXT_ENABLE \"Βόμβαι   20 Τεμάχια   80 Ῥούπια\" QUICKTEXT_DISABLE \"\\n\"\n\"\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Ἀγοράσαι\\n\"\n    \"Μὴ ἀγοράσαι\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x0007",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE ITEM_ICON(ITEM_BULLET_BAG_40) QUICKTEXT_ENABLE \"You got a \\n\"\nCOLOR(RED) \"Deku Seeds Bullet Bag\" COLOR(DEFAULT) \".\" QUICKTEXT_DISABLE \"\\n\"\n\"This bag can hold up to \" COLOR(YELLOW) \"40\" COLOR(DEFAULT) \"\\n\"\n\"slingshot bullets.\"",
+    "el_msg": "UNSKIPPABLE ITEM_ICON(ITEM_BULLET_BAG_40) QUICKTEXT_ENABLE \"Ἔλαβες τὸν \" COLOR(RED) \"Θύλακον\\n\"\n\"Σπερμάτων Δέκου\" COLOR(DEFAULT) \".\" QUICKTEXT_DISABLE \"\\n\"\n\"Χωρεῖ δὲ μέχρι \" COLOR(YELLOW) \"40\" COLOR(DEFAULT) \" σπέρματα\\n\"\n\"διὰ τὴν σφενδόνην.\""
+  },
+  {
+    "id": "0x0008",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE ITEM_ICON(ITEM_BROKEN_GORONS_SWORD) QUICKTEXT_ENABLE \"You traded the Poacher's Saw \\n\"\n\"for a \" COLOR(RED) \"Broken Goron's Sword\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Visit Biggoron to get it repaired!\"",
+    "el_msg": "UNSKIPPABLE ITEM_ICON(ITEM_BROKEN_GORONS_SWORD) QUICKTEXT_ENABLE \"Ἀντήλλαξας τὸν Πρίονα ἀντὶ\\n\"\nCOLOR(RED) \"Κατεαγότος Γορωνίου Ξίφους\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Ὕπαγε πρὸς τὸν Μεγαλογόρωνα\\n\"\n\"ἵνα ἐπισκευάσῃ αὐτό!\""
+  },
+  {
+    "id": "0x0009",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE ITEM_ICON(ITEM_PRESCRIPTION) QUICKTEXT_ENABLE \"You checked in the Broken \\n\"\n\"Goron's Sword and received a \\n\"\nCOLOR(RED) \"Prescription\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Go see King Zora!\"",
+    "el_msg": "UNSKIPPABLE ITEM_ICON(ITEM_PRESCRIPTION) QUICKTEXT_ENABLE \"Παραδοὺς τὸ Κατεαγὸς Ξίφος\\n\"\n\"ἔλαβες \" COLOR(RED) \"Συνταγήν\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Ὕπαγε πρὸς τὸν\\n\"\n\"Βασιλέα τῶν Ζῶρα!\""
+  },
+  {
+    "id": "0x000A",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE ITEM_ICON(ITEM_CLAIM_CHECK) QUICKTEXT_ENABLE \"The Biggoron's Sword...\" QUICKTEXT_DISABLE \"\\n\"\n\"You got a \" COLOR(RED) \"Claim Check \" COLOR(DEFAULT) \"for it!\\n\"\n\"You can't wait for the sword\\n\"\n\"to be completed!\"",
+    "el_msg": "UNSKIPPABLE ITEM_ICON(ITEM_CLAIM_CHECK) QUICKTEXT_ENABLE \"Τὸ τοῦ Μεγαλογόρωνος Ξίφος...\" QUICKTEXT_DISABLE \"\\n\"\n\"Ἔλαβες \" COLOR(RED) \"Σύμβολον Παραλαβῆς\" COLOR(DEFAULT) \"!\\n\"\n\"Ἀνυπομονεῖς ἕως ἂν\\n\"\n\"συντελεσθῇ τὸ ξίφος!\""
+  },
+  {
+    "id": "0x000B",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE ITEM_ICON(ITEM_SWORD_BIGGORON) QUICKTEXT_ENABLE \"You traded the Giant's Knife \\n\"\n\"for the \" COLOR(RED) \"Biggoron's Sword\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"This blade was forged by a \\n\"\n\"master smith and won't break!\"",
+    "el_msg": "UNSKIPPABLE ITEM_ICON(ITEM_SWORD_BIGGORON) QUICKTEXT_ENABLE \"Ἀντήλλαξας τὴν Μάχαιραν τοῦ\\n\"\n\"Γίγαντος ἀντὶ τοῦ \" COLOR(RED) \"Ξίφους τοῦ\\n\"\n\"Μεγαλογόρωνος\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Χαλκευθὲν ὑπ' ἀρίστου, οὐ ῥαγήσεται!\""
+  },
+  {
+    "id": "0x000C",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE ITEM_ICON(ITEM_SWORD_BIGGORON) QUICKTEXT_ENABLE \"You handed in the Claim Check\\n\"\n\"and got the \" COLOR(RED) \"Biggoron's Sword\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"This blade was forged by a \\n\"\n\"master smith and won't break!\"",
+    "el_msg": "UNSKIPPABLE ITEM_ICON(ITEM_SWORD_BIGGORON) QUICKTEXT_ENABLE \"Ἀποδοὺς τὸ Σύμβολον ἔλαβες\\n\"\n\"τὸ τοῦ \" COLOR(RED) \"Μεγαλογόρωνος Ξίφος\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Χαλκευθὲν ὑπ' ἀρίστου\\n\"\n\"χαλκέως, οὐδέποτε ῥαγήσεται!\""
+  },
+  {
+    "id": "0x000D",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE ITEM_ICON(ITEM_EYEBALL_FROG) QUICKTEXT_ENABLE \"You used the Prescription and\\n\"\n\"received an \" COLOR(RED) \"Eyeball Frog\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Be quick and deliver it to Lake \\n\"\n\"Hylia while it's cold!\"",
+    "el_msg": "UNSKIPPABLE ITEM_ICON(ITEM_EYEBALL_FROG) QUICKTEXT_ENABLE \"Χρησάμενος τῇ Συνταγῇ,\\n\"\n\"ἔλαβες \" COLOR(RED) \"Ὀφθαλμοβάτραχον\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Κόμισον αὐτὸν ταχέως εἰς τὴν\\n\"\n\"Λίμνην Ὑλίαν πρὶν χλιανθῇ!\""
+  },
+  {
+    "id": "0x000E",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE ITEM_ICON(ITEM_EYE_DROPS) QUICKTEXT_ENABLE \"You traded the Eyeball Frog \\n\"\n\"for the \" COLOR(RED) \"World's Finest Eye Drops\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Hurry! Take them to Biggoron\\n\"\n\"before they go bad!\"",
+    "el_msg": "UNSKIPPABLE ITEM_ICON(ITEM_EYE_DROPS) QUICKTEXT_ENABLE \"Ἀντήλλαξας τὸν βάτραχον ἀντὶ\\n\"\n\"τοῦ \" COLOR(RED) \"Ἀρίστου Κολλυρίου\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Σπεῦσον πρὸς τὸν Μεγαλογόρωνα\\n\"\n\"πρὶν ἢ φθαρῇ!\""
+  },
+  {
+    "id": "0x000F",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "SHIFT(65) COLOR(RED) \"WINNER!!\" COLOR(DEFAULT) EVENT",
+    "el_msg": "SHIFT(60) COLOR(RED) \"ΕΝΙΚΗΣΑΣ!!\" COLOR(DEFAULT) EVENT"
+  },
+  {
+    "id": "0x0010",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "ITEM_ICON(ITEM_MASK_SKULL) QUICKTEXT_ENABLE \"You borrowed a \" COLOR(RED) \"Skull Mask\" COLOR(DEFAULT) \".\" QUICKTEXT_DISABLE \"\\n\"\n\"Wear it with \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \" to show it off!\\n\"\n\"You feel like a monster while you\\n\"\n\"wear this mask !\"",
+    "el_msg": "ITEM_ICON(ITEM_MASK_SKULL) QUICKTEXT_ENABLE \"Ἐδανείσω \" COLOR(RED) \"Προσωπεῖον Κρανίου\" COLOR(DEFAULT) \".\" QUICKTEXT_DISABLE \"\\n\"\n\"Φόρει διὰ τοῦ \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \" ἐπιδεικνύς!\\n\"\n\"Φορῶν δὲ τοῦτο, ὅμοιος\\n\"\n\"εἶ θηρίῳ!\""
+  },
+  {
+    "id": "0x0011",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "ITEM_ICON(ITEM_MASK_SPOOKY) QUICKTEXT_ENABLE \"You borrowed a \" COLOR(RED) \"Spooky Mask\" COLOR(DEFAULT) \".\" QUICKTEXT_DISABLE \"\\n\"\n\"Wear it with \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \" to show it\\n\"\n\"off! You can scare many people\\n\"\n\"with this mask!\"",
+    "el_msg": "ITEM_ICON(ITEM_MASK_SPOOKY) QUICKTEXT_ENABLE \"Ἐδανείσω \" COLOR(RED) \"Φοβερὸν Προσωπεῖον\" COLOR(DEFAULT) \".\" QUICKTEXT_DISABLE \"\\n\"\n\"Φόρει διὰ τοῦ \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \" ἐπιδεικνύς!\\n\"\n\"Πολλοὺς γὰρ φοβήσεις\\n\"\n\"τούτῳ τῷ προσωπείῳ!\""
+  },
+  {
+    "id": "0x0012",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "ITEM_ICON(ITEM_MASK_KEATON) QUICKTEXT_ENABLE \"You borrowed a \" COLOR(RED) \"Keaton Mask\" COLOR(DEFAULT) \".\" QUICKTEXT_DISABLE \"\\n\"\n\"Wear it with \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \" to show it\\n\"\n\"off! You'll be a popular guy with\\n\"\n\"this mask on!\"",
+    "el_msg": "ITEM_ICON(ITEM_MASK_KEATON) QUICKTEXT_ENABLE \"Ἐδανείσω \" COLOR(RED) \"Προσωπεῖον τοῦ\\n\"\n\"Κήτωνος\" COLOR(DEFAULT) \".\" QUICKTEXT_DISABLE \" Φόρει διὰ τοῦ \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \"!\\n\"\n\"Προσφιλὴς γὰρ πᾶσιν ἔσῃ\\n\"\n\"φορῶν τοῦτο!\""
+  },
+  {
+    "id": "0x0013",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "ITEM_ICON(ITEM_MASK_BUNNY_HOOD) QUICKTEXT_ENABLE \"You borrowed a \" COLOR(RED) \"Bunny Hood\" COLOR(DEFAULT) \".\" QUICKTEXT_DISABLE \"\\n\"\n\"Wear it with \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \" to show it\\n\"\n\"off! The hood's long ears are so\\n\"\n\"cute!\"",
+    "el_msg": "ITEM_ICON(ITEM_MASK_BUNNY_HOOD) QUICKTEXT_ENABLE \"Ἐδανείσω \" COLOR(RED) \"Καλύπτραν Λαγοῦ\" COLOR(DEFAULT) \".\" QUICKTEXT_DISABLE \"\\n\"\n\"Φόρει αὐτὴν διὰ τοῦ \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \"!\\n\"\n\"Τὰ δὲ μακρὰ ὦτα ταύτης\\n\"\n\"μάλα χαρίεντά ἐστιν!\""
+  },
+  {
+    "id": "0x0014",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "ITEM_ICON(ITEM_MASK_GORON) QUICKTEXT_ENABLE \"You borrowed a \" COLOR(RED) \"Goron Mask\" COLOR(DEFAULT) \".\" QUICKTEXT_DISABLE \"\\n\"\n\"Wear it with \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \" to show it\\n\"\n\"off! It will make your head look\\n\"\n\"big, though.\"",
+    "el_msg": "ITEM_ICON(ITEM_MASK_GORON) QUICKTEXT_ENABLE \"Ἐδανείσω \" COLOR(RED) \"Γορώνιον\\n\"\n\"Προσωπεῖον\" COLOR(DEFAULT) \".\" QUICKTEXT_DISABLE \" Φόρει διὰ τοῦ \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \"!\\n\"\n\"Ἡ μέντοι κεφαλή σου\\n\"\n\"μεγάλη φανήσεται.\""
+  },
+  {
+    "id": "0x0015",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "ITEM_ICON(ITEM_MASK_ZORA) QUICKTEXT_ENABLE \"You borrowed a \" COLOR(RED) \"Zora Mask\" COLOR(DEFAULT) \".\" QUICKTEXT_DISABLE \"\\n\"\n\"Wear it with \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \" to show it\\n\"\n\"off! With this mask, you can\\n\"\n\"become one of the Zoras!\"",
+    "el_msg": "ITEM_ICON(ITEM_MASK_ZORA) QUICKTEXT_ENABLE \"Ἐδανείσω \" COLOR(RED) \"Ζώρειον\\n\"\n\"Προσωπεῖον\" COLOR(DEFAULT) \".\" QUICKTEXT_DISABLE \" Φόρει διὰ τοῦ \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \"!\\n\"\n\"Φορῶν δὲ τοῦτο, εἷς τῶν\\n\"\n\"Ζῶρα γενήσῃ!\""
+  },
+  {
+    "id": "0x0016",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "ITEM_ICON(ITEM_MASK_GERUDO) QUICKTEXT_ENABLE \"You borrowed a \" COLOR(RED) \"Gerudo Mask\" COLOR(DEFAULT) \".\" QUICKTEXT_DISABLE \"\\n\"\n\"Wear it with \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \" to show it off!\\n\"\n\"This mask will make you look\\n\"\n\"like...a girl?\"",
+    "el_msg": "ITEM_ICON(ITEM_MASK_GERUDO) QUICKTEXT_ENABLE \"Ἐδανείσω \" COLOR(RED) \"Προσωπεῖον τῶν\\n\"\n\"Γερούδων\" COLOR(DEFAULT) \".\" QUICKTEXT_DISABLE \" Φόρει διὰ τοῦ \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \"!\\n\"\n\"Φανήσῃ δὲ ὥσπερ...\\n\"\n\"κόρη τις;\""
+  },
+  {
+    "id": "0x0017",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "ITEM_ICON(ITEM_MASK_TRUTH) QUICKTEXT_ENABLE \"You borrowed a \" COLOR(RED) \"Mask of Truth\" COLOR(DEFAULT) \".\" QUICKTEXT_DISABLE \"\\n\"\n\"Wear it with \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \" to show it\\n\"\n\"off! Show it to many people!\"",
+    "el_msg": "ITEM_ICON(ITEM_MASK_TRUTH) QUICKTEXT_ENABLE \"Ἐδανείσω τὸ \" COLOR(RED) \"Προσωπεῖον\\n\"\n\"τῆς Ἀληθείας\" COLOR(DEFAULT) \".\" QUICKTEXT_DISABLE \"\\n\"\n\"Φόρει αὐτὸ διὰ τοῦ \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \"!\\n\"\n\"Δεῖξον δὲ πολλοῖς ἀνθρώποις!\""
+  },
+  {
+    "id": "0x0018",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Welcome to our cutting-edge \\n\"\n\"amusement center:\"\nBOX_BREAK\n\nSHIFT(21) COLOR(RED) \"The Bombchu Bowling Alley!\" COLOR(DEFAULT)\nBOX_BREAK\n\n\"Do you want to know what you \\n\"\n\"can win? Well, it's a \" TEXT_SPEED(3) \"secret.\" TEXT_SPEED(0) \"\\n\"\n\"I can't tell you until you've\\n\"\n\"paid to play.\"\nBOX_BREAK\n\n\"It's \" COLOR(RED) \"30 Rupees\" COLOR(DEFAULT) \" per game.\\n\"\n\"Do you want to play?\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Yes\\n\"\n    \"No\" COLOR(DEFAULT)",
+    "el_msg": "\"Χαῖρε ἐν τῷ καινοτάτῳ\\n\"\n\"παιγνιοτροφείῳ ἡμῶν:\"\nBOX_BREAK\n\nSHIFT(21) COLOR(RED) \"Τὸ Σφαιριστήριον Βομβομυῶν!\" COLOR(DEFAULT)\nBOX_BREAK\n\n\"Βούλει εἰδέναι τί νικήσεις;\\n\"\n\"Ἀλλὰ \" TEXT_SPEED(3) \"μυστήριόν\" TEXT_SPEED(0) \" ἐστιν.\\n\"\n\"Οὐκ ἐρῶ πρὶν ἂν τελέσῃς\\n\"\n\"τὸ ἀργύριον.\"\nBOX_BREAK\n\n\"Τιμὴ παιδιᾶς \" COLOR(RED) \"30 Ῥούπια\" COLOR(DEFAULT) \".\\n\"\n\"Ἆρα βούλει παῖξαι;\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Ναί\\n\"\n    \"Οὔ\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x0019",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "QUICKTEXT_ENABLE SHIFT(60) \"OKAY!!\" QUICKTEXT_DISABLE\nBOX_BREAK\n\n\"Aim for the hole in the center \\n\"\n\"and let \" COLOR(RED) \"Bombchu \" COLOR(DEFAULT) \"go!\\n\"\n\"You get \" COLOR(RED) \"ten tries\" COLOR(DEFAULT) \". Ready...\"\nBOX_BREAK\n\nQUICKTEXT_ENABLE SHIFT(66) COLOR(RED) \"LET'S BOWL!\" COLOR(DEFAULT) QUICKTEXT_DISABLE EVENT",
+    "el_msg": "QUICKTEXT_ENABLE SHIFT(60) \"ΕΥΓΕ!!\" QUICKTEXT_DISABLE\nBOX_BREAK\n\n\"Στόχευσον εἰς τὴν ὀπὴν καὶ\\n\"\n\"ἄφες τὸν \" COLOR(RED) \"Βομβόμυν\" COLOR(DEFAULT) \"!\\n\"\n\"Ἔχεις \" COLOR(RED) \"δέκα πείρας\" COLOR(DEFAULT) \". Ἕτοιμος...\"\nBOX_BREAK\n\nQUICKTEXT_ENABLE SHIFT(66) COLOR(RED) \"ΠΑΙΞΩΜΕΝ!\" COLOR(DEFAULT) QUICKTEXT_DISABLE EVENT"
+  },
+  {
+    "id": "0x001A",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Do you want to play again?\\n\"\n\"\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Yes\\n\"\n    \"No\" COLOR(DEFAULT)",
+    "el_msg": "\"Ἆρα βούλει παῖξαι πάλιν;\\n\"\n\"\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Ναί\\n\"\n    \"Οὔ\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x001B",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Oh, I almost forgot!\\n\"\n\"Here is what you can win!\" EVENT",
+    "el_msg": "\"Ὠ, μικροῦ ἐπελαθόμην!\\n\"\n\"Ἰδοὺ ὃ δύνασαι λαβεῖν!\" EVENT"
+  },
+  {
+    "id": "0x001C",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "QUICKTEXT_ENABLE COLOR(RED) \"Bombs   (20 pieces)   80 Rupees\\n\"\nCOLOR(DEFAULT) \"Take it out with \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \" and press \\n\"\nCOLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \" again to throw it. You can't\\n\"\n\"buy them without a bomb bag.\" QUICKTEXT_DISABLE PERSISTENT",
+    "el_msg": "QUICKTEXT_ENABLE COLOR(RED) \"Βόμβαι   (20 τεμάχια)   80 Ῥούπια\\n\"\nCOLOR(DEFAULT) \"Ἔξελε διὰ τοῦ \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \" καὶ πίεσον\\n\"\nCOLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \" ἵνα ῥίψῃς. Χρεία δ' ἐστὶ\\n\"\n\"βομβοφόρου θυλάκου.\" QUICKTEXT_DISABLE PERSISTENT"
+  },
+  {
+    "id": "0x001D",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "QUICKTEXT_ENABLE COLOR(RED) \"Bombs   (30 pieces)   120 Rupees\\n\"\nCOLOR(DEFAULT) \"Take it out with \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \" and press \\n\"\nCOLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \" again to throw it. You can't\\n\"\n\"buy them without a bomb bag.\" QUICKTEXT_DISABLE PERSISTENT",
+    "el_msg": "QUICKTEXT_ENABLE COLOR(RED) \"Βόμβαι   (30 τεμάχια)   120 Ῥούπια\\n\"\nCOLOR(DEFAULT) \"Ἔξελε διὰ τοῦ \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \" καὶ πίεσον\\n\"\nCOLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \" ἵνα ῥίψῃς. Χρεία δ' ἐστὶ\\n\"\n\"βομβοφόρου θυλάκου.\" QUICKTEXT_DISABLE PERSISTENT"
+  },
+  {
+    "id": "0x001E",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "QUICKTEXT_ENABLE \"Bombs   30 Pieces   120 Rupees\" QUICKTEXT_DISABLE \"\\n\"\n\"\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Buy\\n\"\n    \"Don't buy\" COLOR(DEFAULT)",
+    "el_msg": "QUICKTEXT_ENABLE \"Βόμβαι   30 Τεμάχια   120 Ῥούπια\" QUICKTEXT_DISABLE \"\\n\"\n\"\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Ἀγοράσαι\\n\"\n    \"Μὴ ἀγοράσαι\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x001F",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"I'm so happy everyone is \\n\"\n\"back to normal!\"",
+    "el_msg": "\"Χαίρω σφόδρα ὅτι πάντες\\n\"\n\"ἀποκατεστάθησαν!\""
+  },
+  {
+    "id": "0x0020",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Please save my other brothers\\n\"\n\"too! I'm sure they will give you\\n\"\n\"something a lot better!\"\nBOX_BREAK\n\n\"Will you do it?!\"",
+    "el_msg": "\"Σῶσον δὴ καὶ τοὺς ἄλλους\\n\"\n\"ἀδελφούς μου! Εὖ οἶδα ὅτι\\n\"\n\"δώσουσί σοι πολὺ κρεῖττον!\"\nBOX_BREAK\n\n\"Ἆρα ποιήσεις τοῦτο;!\""
+  },
+  {
+    "id": "0x0021",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "UNSKIPPABLE \"The curse has been broken!\\n\"\n\"Thank you!\\n\"\n\"Here's a reward for you!\" EVENT",
+    "el_msg": "UNSKIPPABLE \"Ἡ κατάρα λέλυται!\\n\"\n\"Χάριν ἔχω σοι!\\n\"\n\"Ἰδοὺ ὁ μισθός σου!\" EVENT"
+  },
+  {
+    "id": "0x0022",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Yeaaarrgh! I'm cursed!!\"",
+    "el_msg": "\"Οὐαί! Ἐπικατάρατός εἰμι!!\""
+  },
+  {
+    "id": "0x0023",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"We'll be careful not to get\\n\"\n\"cursed again!\"",
+    "el_msg": "\"Φυλαξόμεθα ἵνα μὴ πάλιν\\n\"\n\"καταραθῶμεν!\""
+  },
+  {
+    "id": "0x0024",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Since you've destroyed \" COLOR(RED) TOKENS COLOR(DEFAULT) \"\\n\"\n\"Spiders of the Curse, the curse\\n\"\n\"is starting to weaken!\"\nBOX_BREAK\n\n\"Did the kids who returned to\\n\"\n\"normal give you any rewards?\"\nBOX_BREAK\n\n\"You should know that the only\\n\"\n\"way to become \" COLOR(RED) \"very rich \" COLOR(DEFAULT) \"is to\\n\"\n\"destroy as many Spiders of the\\n\"\n\"Curse as possible!\"\nBOX_BREAK\n\n\"There are some tricks to finding\\n\"\n\"them all! First of all, you'll have\\n\"\n\"to hunt at night. Secondly, keep in\\n\"\n\"mind that they love soft soil...\"\nBOX_BREAK\n\n\"Pay close attention to your\\n\"\n\"surroundings!\\n\"\n\"Please, we're counting on you!\"",
+    "el_msg": "\"Ἐπεὶ ἀπώλεσας \" COLOR(RED) TOKENS COLOR(DEFAULT) \"\\n\"\n\"Ἀράχνας τῆς Κατάρας, ἡ κατάρα\\n\"\n\"ἤδη ἐξασθενεῖ!\"\nBOX_BREAK\n\n\"Ἆρα οἱ ἀποκατασταθέντες\\n\"\n\"παῖδες ἔδωκάν σοι μισθόν;\"\nBOX_BREAK\n\n\"Ἴσθι ὅτι ὁ μόνος τρόπος\\n\"\n\"τοῦ γενέσθαι \" COLOR(RED) \"σφόδρα πλούσιον\" COLOR(DEFAULT) \"\\n\"\n\"ἐστὶ τὸ ἀπολέσαι ὡς πλείστας\\n\"\n\"Ἀράχνας τῆς Κατάρας!\"\nBOX_BREAK\n\n\"Εἰσὶ δὲ τέχναι πρὸς τὴν εὕρεσιν!\\n\"\n\"Πρῶτον μέν, νυκτὸς θήρευε.\\n\"\n\"Ἔπειτα, φιλοῦσι γὰρ τὴν\\n\"\n\"μαλακὴν γῆν...\"\nBOX_BREAK\n\n\"Πρόσεχε οὖν ἀκριβῶς τοῖς\\n\"\n\"περὶ σέ! Ἐπὶ σοὶ γὰρ\\n\"\n\"πεποίθαμεν!\""
+  },
+  {
+    "id": "0x0025",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "UNSKIPPABLE \"We look like this because of \\n\"\n\"the spider's curse. But...\" TEXTID(0x0024)",
+    "el_msg": "UNSKIPPABLE \"Τοιοῦτοι ἐσμὲν διὰ τὴν\\n\"\n\"ἀραχναίαν κατάραν. Ἀλλά...\" TEXTID(0x0024)"
+  },
+  {
+    "id": "0x0026",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"We all look like this because of\\n\"\n\"the spider's curse.\"\nBOX_BREAK\n\n\"If every \" COLOR(RED) \"Spider of the Curse \" COLOR(DEFAULT) \"in\\n\"\n\"the entire world were destroyed,\\n\"\n\"the curse would be broken.\"\nBOX_BREAK\n\n\"When you destroy a Spider of the \\n\"\n\"Curse, a token will appear. Collect\\n\"\n\"it as proof of your achievement.\"\nBOX_BREAK\n\nITEM_ICON(ITEM_SKULL_TOKEN) \"The number next to this \" COLOR(YELLOW) \"icon\" COLOR(DEFAULT) \" on\\n\"\n\"the \" COLOR(LIGHTBLUE) \"Quest Status Subscreen\" COLOR(BLUE) \" \\n\"\nCOLOR(DEFAULT) \"indicates how many Spiders of the \\n\"\n\"Curse you have destroyed so far.\"\nBOX_BREAK\n\nITEM_ICON(ITEM_SKULL_TOKEN) \"When this \" COLOR(YELLOW) \"icon\" COLOR(DEFAULT) \" is displayed \\n\"\n\"next to the name of the area on\\n\"\n\"the \" COLOR(RED) \"Map Subscreen\" COLOR(DEFAULT) \", there are no\\n\"\n\"more Spiders in that area.\" TEXTID(0x00FE)",
+    "el_msg": "\"Πάντες τοιοῦτοι ἐσμὲν διὰ\\n\"\n\"τὴν ἀραχναίαν κατάραν.\"\nBOX_BREAK\n\n\"Εἰ πᾶσαι αἱ \" COLOR(RED) \"Ἀράχναι τῆς\\n\"\n\"Κατάρας\" COLOR(DEFAULT) \" ἐν τῷ κόσμῳ\\n\"\n\"ἀπόλοιντο, ἡ κατάρα λυθήσεται.\"\nBOX_BREAK\n\n\"Ἀπολέσαντι δὲ ἀράχνην,\\n\"\n\"σημεῖον φανήσεται. Λάβε\\n\"\n\"αὐτὸ εἰς μαρτύριον.\"\nBOX_BREAK\n\nITEM_ICON(ITEM_SKULL_TOKEN) \"Ὁ ἀριθμὸς παρὰ τῷ \" COLOR(YELLOW) \"εἰκονίῳ\" COLOR(DEFAULT) \"\\n\"\n\"ἐν τῇ \" COLOR(LIGHTBLUE) \"Ὀθόνῃ τοῦ Ἀγῶνος\" COLOR(BLUE) \" \\n\"\nCOLOR(DEFAULT) \"δεικνύει ὅσας ἀράχνας\\n\"\n\"ἀπώλεσας μέχρι νῦν.\"\nBOX_BREAK\n\nITEM_ICON(ITEM_SKULL_TOKEN) \"Ὅταν τοῦτο τὸ \" COLOR(YELLOW) \"εἰκόνιον\" COLOR(DEFAULT) \" ᾖ\\n\"\n\"παρὰ τῷ τόπῳ ἐν τῇ \" COLOR(RED) \"Ὀθόνῃ\\n\"\n\"τοῦ Χάρτου\" COLOR(DEFAULT) \", οὐκέτι εἰσὶν\\n\"\n\"ἀράχναι ἐκεῖ.\" TEXTID(0x00FE)"
+  },
+  {
+    "id": "0x0027",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"If you break the curse on my\\n\"\n\"family, we will make you \" COLOR(RED) \"very\\n\"\n\"rich\" COLOR(DEFAULT) \"...\"",
+    "el_msg": "\"Ἐὰν λύσῃς τὴν κατάραν τοῦ\\n\"\n\"οἴκου μου, ποιήσομέν σε\\n\"\nCOLOR(RED) \"σφόδρα πλούσιον\" COLOR(DEFAULT) \"...\""
+  },
+  {
+    "id": "0x0028",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "UNSKIPPABLE \"Since you've destroyed \" COLOR(RED) TOKENS COLOR(DEFAULT) \" Spiders\\n\"\n\"of the Curse, the curse on me \\n\"\n\"has been broken.\"\nBOX_BREAK\n\nUNSKIPPABLE \"Thank you! Here is a token of my\\n\"\n\"appreciation! Please take it.\" EVENT",
+    "el_msg": "UNSKIPPABLE \"Ἐπεὶ ἀπώλεσας \" COLOR(RED) TOKENS COLOR(DEFAULT) \" Ἀράχνας\\n\"\n\"τῆς Κατάρας, ἡ ἐπ' ἐμοὶ\\n\"\n\"κατάρα λέλυται.\"\nBOX_BREAK\n\nUNSKIPPABLE \"Χάριν ἔχω σοι! Ἰδοὺ σημεῖον\\n\"\n\"τῆς εὐχαριστίας μου! Λάβε δὴ\\n\"\n\"αὐτό!\" EVENT"
+  },
+  {
+    "id": "0x0029",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Thank you for saving my kids.\"\nBOX_BREAK\n\n\"What? Me? Oh, that's OK...\"\nBOX_BREAK\n\n\"You have already destroyed \" COLOR(RED) TOKENS COLOR(DEFAULT) \"\\n\"\n\"Spiders of the Curse so far, so...\\n\"\n\"that's fine...don't worry about me...\"",
+    "el_msg": "\"Χάριν ἔχω σοι σώσαντι\\n\"\n\"τὰ τέκνα μου.\"\nBOX_BREAK\n\n\"Τί; Ἐμέ; Ὠ, οὐδὲν τοῦτο...\"\nBOX_BREAK\n\n\"Ἤδη γὰρ ἀπώλεσας \" COLOR(RED) TOKENS COLOR(DEFAULT) \"\\n\"\n\"Ἀράχνας τῆς Κατάρας, ὥστε...\\n\"\n\"καλῶς ἔχει...μὴ μέλει σοι...\""
+  },
+  {
+    "id": "0x002A",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "QUICKTEXT_ENABLE \"Bombchu   20 Pieces   180 Rupees\" QUICKTEXT_DISABLE \"\\n\"\n\"\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Buy\\n\"\n    \"Don't buy\" COLOR(DEFAULT)",
+    "el_msg": "QUICKTEXT_ENABLE \"Βομβόμυες   20 Τεμάχια   180 Ῥούπια\" QUICKTEXT_DISABLE \"\\n\"\n\"\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Ἀγοράσαι\\n\"\n    \"Μὴ ἀγοράσαι\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x002B",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"Do you want to play a game?\\n\"\n\"It's \" COLOR(RED) \"20 Rupees \" COLOR(DEFAULT) \"per play.\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Yes\\n\"\n    \"Nope\" COLOR(DEFAULT)",
+    "el_msg": "\"Ἆρα βούλει παῖξαι παιδιάν;\\n\"\n\"Τιμὴ ἑκάστης \" COLOR(RED) \"20 Ῥούπια\" COLOR(DEFAULT) \".\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Ναί\\n\"\n    \"Οὔ\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x002C",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"You can't! You need a bow!\" EVENT",
+    "el_msg": "\"Οὐ δύνασαι! Δεῖ γάρ σοι τόξου!\" EVENT"
+  },
+  {
+    "id": "0x002D",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"All right. You don't have to play\\n\"\n\"if you don't want to.\" EVENT",
+    "el_msg": "\"Εἶεν. Οὐκ ἀνάγκη παίζειν\\n\"\n\"εἰ μὴ βούλει.\" EVENT"
+  },
+  {
+    "id": "0x002E",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "QUICKTEXT_ENABLE \"OKAY!!\" QUICKTEXT_DISABLE \"\\n\"\n\"This is a game for grownups!\\n\"\n\"Hyrule's famous \" COLOR(RED) \"Shooting Gallery\" COLOR(DEFAULT) \"!\"\nBOX_BREAK\n\n\"Take aim at the targets from that \\n\"\n\"platform over there! Can you hit\\n\"\nCOLOR(RED) \"ten targets\" COLOR(DEFAULT) \"? You get \" COLOR(RED) \"fifteen \\n\"\nCOLOR(DEFAULT) \"shots!\"\nBOX_BREAK\n\n\"Draw your weapon with \" COLOR(ADJUSTABLE) \"[B]\" COLOR(DEFAULT) \". \\n\"\n\"Are you ready?\\n\"\n\"Go for a perfect score!\\n\"\n\"Good Luck!\" EVENT",
+    "el_msg": "QUICKTEXT_ENABLE \"ΕΥΓΕ!!\" QUICKTEXT_DISABLE \"\\n\"\n\"Παιδιὰ γάρ ἐστι τελείων!\\n\"\n\"Τὸ ἔνδοξον τῆς Ὑρούλης\\n\"\nCOLOR(RED) \"Τοξευτήριον\" COLOR(DEFAULT) \"!\"\nBOX_BREAK\n\n\"Σκόπευε τοὺς σκοποὺς ἀπὸ τοῦ\\n\"\n\"βήματος! Ἆρα δύνῃ πλήττειν\\n\"\nCOLOR(RED) \"δέκα σκοπούς\" COLOR(DEFAULT) \"; Ἔχεις δὲ\\n\"\nCOLOR(RED) \"πεντεκαίδεκα βολάς\" COLOR(DEFAULT) \"!\"\nBOX_BREAK\n\n\"Ἕλκε τὸ τόξον διὰ τοῦ \" COLOR(ADJUSTABLE) \"[B]\" COLOR(DEFAULT) \".\\n\"\n\"Ἆρα ἕτοιμος εἶ;\\n\"\n\"Πλήρωσον τοὺς σκοπούς!\\n\"\n\"Ἀγαθῇ τύχῃ!\" EVENT"
+  },
+  {
+    "id": "0x002F",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"You see a small mound of soft\\n\"\n\"soil here.\"",
+    "el_msg": "\"Ὁρᾷς μικρὸν χῶμα μαλακῆς\\n\"\n\"γῆς ἐνθάδε.\""
+  },
+  {
+    "id": "0x0030",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE ITEM_ICON(ITEM_SLINGSHOT) QUICKTEXT_ENABLE \"You found the \" COLOR(RED) \"Fairy Slingshot\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"On the \" COLOR(YELLOW) \"Select Item Subscreen\" COLOR(DEFAULT) \",\\n\"\n\"you can set it to \" COLOR(YELLOW) \"[C-Left]\" COLOR(DEFAULT) \", \" COLOR(YELLOW) \"[C-Down]\" COLOR(DEFAULT) \" or\" COLOR(YELLOW) \" [C-Right]\" COLOR(DEFAULT) \".\"\nBOX_BREAK\n\nUNSKIPPABLE ITEM_ICON(ITEM_SLINGSHOT) \"Press \" COLOR(YELLOW) \"[C] \" COLOR(DEFAULT) \"to take it out and hold\\n\"\n\"it. As you hold \" COLOR(YELLOW) \"[C] \" COLOR(DEFAULT) \"you can aim \\n\"\n\"with \" COLOR(LIGHTBLUE) \"[Control-Pad]\" COLOR(DEFAULT) \". Release \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \" to unleash \\n\"\n\"a \" COLOR(RED) \"Deku Seed\" COLOR(DEFAULT) \".\"\nBOX_BREAK\n\nUNSKIPPABLE ITEM_ICON(ITEM_SLINGSHOT) \"If you want to shoot right \\n\"\n\"away, when you first press \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \", \\n\"\n\"hold down \" COLOR(YELLOW) \"[C] \" COLOR(DEFAULT) \"a little longer to \\n\"\n\"get a seed ready.\"",
+    "el_msg": "UNSKIPPABLE ITEM_ICON(ITEM_SLINGSHOT) QUICKTEXT_ENABLE \"Εὗρες τὴν \" COLOR(RED) \"Νυμφικὴν\\n\"\n\"Σφενδόνην\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Ἐν τῇ \" COLOR(YELLOW) \"Ἐκλογῇ Σκευῶν\" COLOR(DEFAULT) \", τάξον\\n\"\n\"αὐτὴν ἐν \" COLOR(YELLOW) \"[C-Left]\" COLOR(DEFAULT) \", \" COLOR(YELLOW) \"[C-Down]\" COLOR(DEFAULT) \" ἢ \" COLOR(YELLOW) \"[C-Right]\" COLOR(DEFAULT) \".\"\nBOX_BREAK\n\nUNSKIPPABLE ITEM_ICON(ITEM_SLINGSHOT) \"Πίεσον \" COLOR(YELLOW) \"[C] \" COLOR(DEFAULT) \"καὶ λάβε. Ἅμα\\n\"\n\"δὲ κατέχων \" COLOR(YELLOW) \"[C] \" COLOR(DEFAULT) \"στόχευε\\n\"\n\"τῷ \" COLOR(LIGHTBLUE) \"[Control-Pad]\" COLOR(DEFAULT) \". Ἄφες \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \" ἵνα\\n\"\n\"ῥίψῃς \" COLOR(RED) \"Σπέρμα Δέκου\" COLOR(DEFAULT) \".\"\nBOX_BREAK\n\nUNSKIPPABLE ITEM_ICON(ITEM_SLINGSHOT) \"Εἰ δὲ βούλει εὐθὺς ῥῖψαι,\\n\"\n\"πιέσας τὸ \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \", κάτεχε\\n\"\n\"αὐτὸ \" COLOR(YELLOW) \"[C] \" COLOR(DEFAULT) \"μικρῷ πλείω χρόνον\\n\"\n\"ἵνα ἑτοιμάσῃς τὸ σπέρμα.\""
+  },
+  {
+    "id": "0x0031",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE ITEM_ICON(ITEM_BOW) QUICKTEXT_ENABLE \"You found the \" COLOR(RED) \"Fairy Bow\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"On the \" COLOR(YELLOW) \"Select Item Subscreen\" COLOR(DEFAULT) \",\\n\"\n\"you can set it to \" COLOR(YELLOW) \"[C-Left]\" COLOR(DEFAULT) \", \" COLOR(YELLOW) \"[C-Down]\" COLOR(DEFAULT) \" or\" COLOR(YELLOW) \" [C-Right]\" COLOR(DEFAULT) \".\"\nBOX_BREAK\n\nUNSKIPPABLE ITEM_ICON(ITEM_BOW) \"Press \" COLOR(YELLOW) \"[C] \" COLOR(DEFAULT) \"to take it out\\n\"\n\"and hold it. As you hold down\\n\"\nCOLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \" you can aim with \" COLOR(LIGHTBLUE) \"[Control-Pad]\" COLOR(DEFAULT) \".\" COLOR(YELLOW) \" \" COLOR(DEFAULT) \"Release\\n\"\nCOLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \" to let fly with an \" COLOR(RED) \"arrow\" COLOR(DEFAULT) \".\"",
+    "el_msg": "UNSKIPPABLE ITEM_ICON(ITEM_BOW) QUICKTEXT_ENABLE \"Εὗρες τὸ \" COLOR(RED) \"Νυμφικὸν\\n\"\n\"Τόξον\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Ἐν τῇ \" COLOR(YELLOW) \"Ἐκλογῇ Σκευῶν\" COLOR(DEFAULT) \", τάξον\\n\"\n\"αὐτὸ ἐν \" COLOR(YELLOW) \"[C-Left]\" COLOR(DEFAULT) \", \" COLOR(YELLOW) \"[C-Down]\" COLOR(DEFAULT) \" ἢ \" COLOR(YELLOW) \"[C-Right]\" COLOR(DEFAULT) \".\"\nBOX_BREAK\n\nUNSKIPPABLE ITEM_ICON(ITEM_BOW) \"Πίεσον \" COLOR(YELLOW) \"[C] \" COLOR(DEFAULT) \"καὶ λάβε.\\n\"\n\"Κατέχων δὲ τὸ \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \" στόχευε\\n\"\n\"τῷ \" COLOR(LIGHTBLUE) \"[Control-Pad]\" COLOR(DEFAULT) \".\" COLOR(YELLOW) \" \" COLOR(DEFAULT) \"Ἄφες \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \" ἵνα\\n\"\n\"ἀφῇς τὸ \" COLOR(RED) \"βέλος\" COLOR(DEFAULT) \".\""
+  },
+  {
+    "id": "0x0032",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "ITEM_ICON(ITEM_BOMB) QUICKTEXT_ENABLE \"You got \" COLOR(RED) \"Bombs\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"On the \" COLOR(YELLOW) \"Select Item Subscreen\" COLOR(DEFAULT) \",\\n\"\n\"you can set it to \" COLOR(YELLOW) \"[C-Left]\" COLOR(DEFAULT) \", \" COLOR(YELLOW) \"[C-Down]\" COLOR(DEFAULT) \" or\" COLOR(YELLOW) \" [C-Right]\" COLOR(DEFAULT) \".\"\nBOX_BREAK\n\nITEM_ICON(ITEM_BOMB) \"Use \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \" to lift and place\\n\"\n\"it. Press \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \" while running to\\n\"\n\"throw it. If you see something\\n\"\n\"suspicious, bomb it!\"",
+    "el_msg": "ITEM_ICON(ITEM_BOMB) QUICKTEXT_ENABLE \"Ἔλαβες \" COLOR(RED) \"Βόμβας\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Ἐν τῇ \" COLOR(YELLOW) \"Ἐκλογῇ Σκευῶν\" COLOR(DEFAULT) \", τάξον\\n\"\n\"αὐτὰς ἐν \" COLOR(YELLOW) \"[C-Left]\" COLOR(DEFAULT) \", \" COLOR(YELLOW) \"[C-Down]\" COLOR(DEFAULT) \" ἢ \" COLOR(YELLOW) \"[C-Right]\" COLOR(DEFAULT) \".\"\nBOX_BREAK\n\nITEM_ICON(ITEM_BOMB) \"Χρῶ τῷ \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \" ἵνα ἄρῃς καὶ\\n\"\n\"θῇς. Πίεσον δὲ \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \" τρέχων\\n\"\n\"ἵνα ῥίψῃς. Εἴ τι ὕποπτον\\n\"\n\"ὁρᾷς, διάρρηξον!\""
+  },
+  {
+    "id": "0x0033",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "ITEM_ICON(ITEM_BOMBCHU) QUICKTEXT_ENABLE \"You got \" COLOR(RED) \"Bombchu\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"On the \" COLOR(YELLOW) \"Select Item Subscreen\" COLOR(DEFAULT) \",\\n\"\n\"you can set it to \" COLOR(YELLOW) \"[C-Left]\" COLOR(DEFAULT) \", \" COLOR(YELLOW) \"[C-Down]\" COLOR(DEFAULT) \" or\" COLOR(YELLOW) \" [C-Right]\" COLOR(DEFAULT) \".\"\nBOX_BREAK\n\nITEM_ICON(ITEM_BOMBCHU) \" Carry and place with \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \".\\n\"\n\"This is a new type bomb that\\n\"\n\"can even crawl up walls.\\n\"\n\"Aim well and release it!\"",
+    "el_msg": "ITEM_ICON(ITEM_BOMBCHU) QUICKTEXT_ENABLE \"Ἔλαβες \" COLOR(RED) \"Βομβόμυν\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Ἐν τῇ \" COLOR(YELLOW) \"Ἐκλογῇ Σκευῶν\" COLOR(DEFAULT) \", τάξον\\n\"\n\"αὐτὸν ἐν \" COLOR(YELLOW) \"[C-Left]\" COLOR(DEFAULT) \", \" COLOR(YELLOW) \"[C-Down]\" COLOR(DEFAULT) \" ἢ \" COLOR(YELLOW) \"[C-Right]\" COLOR(DEFAULT) \".\"\nBOX_BREAK\n\nITEM_ICON(ITEM_BOMBCHU) \" Βάσταζε καὶ θὲς τῷ \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \".\\n\"\n\"Καινὴ γάρ ἐστι βόμβα ἥτις\\n\"\n\"καὶ τοίχους ἕρπει.\\n\"\n\"Εὖ στοχασάμενος, ἄφες!\""
+  },
+  {
+    "id": "0x0034",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "ITEM_ICON(ITEM_DEKU_NUT) QUICKTEXT_ENABLE \"You got a \" COLOR(RED) \"Deku Nut\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"On the \" COLOR(YELLOW) \"Select Item Subscreen\" COLOR(DEFAULT) \",\\n\"\n\"you can set it to \" COLOR(YELLOW) \"[C-Left]\" COLOR(DEFAULT) \", \" COLOR(YELLOW) \"[C-Down]\" COLOR(DEFAULT) \" or\" COLOR(YELLOW) \" [C-Right]\" COLOR(DEFAULT) \".\"\nBOX_BREAK\n\nITEM_ICON(ITEM_DEKU_NUT) \"Set it to \" COLOR(YELLOW) \"[C] \" COLOR(DEFAULT) \"and try \\n\"\n\"throwing it! It will flash and \\n\"\n\"stun the enemy!\"",
+    "el_msg": "ITEM_ICON(ITEM_DEKU_NUT) QUICKTEXT_ENABLE \"Ἔλαβες \" COLOR(RED) \"Κάρυον Δέκου\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Ἐν τῇ \" COLOR(YELLOW) \"Ἐκλογῇ Σκευῶν\" COLOR(DEFAULT) \", τάξον\\n\"\n\"αὐτὸ ἐν \" COLOR(YELLOW) \"[C-Left]\" COLOR(DEFAULT) \", \" COLOR(YELLOW) \"[C-Down]\" COLOR(DEFAULT) \" ἢ \" COLOR(YELLOW) \"[C-Right]\" COLOR(DEFAULT) \".\"\nBOX_BREAK\n\nITEM_ICON(ITEM_DEKU_NUT) \"Τάξας ἐν \" COLOR(YELLOW) \"[C] \" COLOR(DEFAULT) \"ῥῖψον! Ἀστρά-\\n\"\n\"ψαν γὰρ καταπλήξει τοὺς\\n\"\n\"ἐχθρούς!\""
+  },
+  {
+    "id": "0x0035",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE ITEM_ICON(ITEM_BOOMERANG) QUICKTEXT_ENABLE \"You found the \" COLOR(RED) \"Boomerang\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"On the \" COLOR(YELLOW) \"Select Item Subscreen\" COLOR(DEFAULT) \",\\n\"\n\"you can set it to \" COLOR(YELLOW) \"[C-Left]\" COLOR(DEFAULT) \", \" COLOR(YELLOW) \"[C-Down]\" COLOR(DEFAULT) \" or\" COLOR(YELLOW) \" [C-Right]\" COLOR(DEFAULT) \".\"\nBOX_BREAK\n\nUNSKIPPABLE ITEM_ICON(ITEM_BOOMERANG) \"Press \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \" to use it to \\n\"\n\"attack distant enemies!\"",
+    "el_msg": "UNSKIPPABLE ITEM_ICON(ITEM_BOOMERANG) QUICKTEXT_ENABLE \"Εὗρες τὴν \" COLOR(RED) \"Παλίντονον\\n\"\n\"Βολίδα\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Ἐν τῇ \" COLOR(YELLOW) \"Ἐκλογῇ Σκευῶν\" COLOR(DEFAULT) \", τάξον\\n\"\n\"αὐτὴν ἐν \" COLOR(YELLOW) \"[C-Left]\" COLOR(DEFAULT) \", \" COLOR(YELLOW) \"[C-Down]\" COLOR(DEFAULT) \" ἢ \" COLOR(YELLOW) \"[C-Right]\" COLOR(DEFAULT) \".\"\nBOX_BREAK\n\nUNSKIPPABLE ITEM_ICON(ITEM_BOOMERANG) \"Πίεσον \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \" ἵνα πλήξῃς\\n\"\n\"τοὺς πόρρω ἐχθρούς!\""
+  },
+  {
+    "id": "0x0036",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE ITEM_ICON(ITEM_HOOKSHOT) QUICKTEXT_ENABLE \"You found the \" COLOR(RED) \"Hookshot\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"It's a spring-loaded chain that\\n\"\n\"you can cast out to hook things.\"\nBOX_BREAK\n\nUNSKIPPABLE ITEM_ICON(ITEM_HOOKSHOT) \"You can use it to drag\\n\"\n\"distant items toward you, or\\n\"\n\"you can use it to pull yourself\\n\"\n\"toward something.\"\nBOX_BREAK\n\nUNSKIPPABLE ITEM_ICON(ITEM_HOOKSHOT) \"While holding \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \", you can\\n\"\n\"aim with \" COLOR(LIGHTBLUE) \"[Control-Pad]\" COLOR(DEFAULT) \". Shoot it by\\n\"\n\"releasing \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \".\"",
+    "el_msg": "UNSKIPPABLE ITEM_ICON(ITEM_HOOKSHOT) QUICKTEXT_ENABLE \"Εὗρες τὸ \" COLOR(RED) \"Ἄγκιστρον\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Ἅλυσις δ' ἐστὶν ἐλατηρία\\n\"\n\"ἣν ἐκπέμπων ἀγκιστρεύεις.\"\nBOX_BREAK\n\nUNSKIPPABLE ITEM_ICON(ITEM_HOOKSHOT) \"Δύνασαι ἕλκειν πόρρω\\n\"\n\"σκεύη πρὸς σεαυτόν, ἢ καὶ\\n\"\n\"σεαυτὸν ἕλκειν πρὸς αὐτά.\"\nBOX_BREAK\n\nUNSKIPPABLE ITEM_ICON(ITEM_HOOKSHOT) \"Κατέχων δὲ τὸ \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \",\\n\"\n\"στόχευε τῷ \" COLOR(LIGHTBLUE) \"[Control-Pad]\" COLOR(DEFAULT) \". Ἄφες\\n\"\n\"τὸ \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \" ἵνα ἐκτοξεύσῃς.\""
+  },
+  {
+    "id": "0x0037",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "ITEM_ICON(ITEM_DEKU_STICK) QUICKTEXT_ENABLE \"You got a \" COLOR(RED) \"Deku Stick\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"On the \" COLOR(YELLOW) \"Select Item Subscreen\" COLOR(DEFAULT) \",\\n\"\n\"you can set it to \" COLOR(YELLOW) \"[C-Left]\" COLOR(DEFAULT) \", \" COLOR(YELLOW) \"[C-Down]\" COLOR(DEFAULT) \" or\" COLOR(YELLOW) \" [C-Right]\" COLOR(DEFAULT) \".\"\nBOX_BREAK\n\nITEM_ICON(ITEM_DEKU_STICK) \"Set it to \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \" and swing it\\n\"\n\"with \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \"!\"\nBOX_BREAK\n\nITEM_ICON(ITEM_DEKU_STICK) \"When you want to put it away, \\n\"\n\"stand still and press \" COLOR(BLUE) \"[A]\" COLOR(DEFAULT) \". \\n\"\n\"You can carry up to 10 sticks,\\n\"\n\"but don't waste them.\"",
+    "el_msg": "ITEM_ICON(ITEM_DEKU_STICK) QUICKTEXT_ENABLE \"Ἔλαβες \" COLOR(RED) \"Ῥάβδον Δέκου\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Ἐν τῇ \" COLOR(YELLOW) \"Ἐκλογῇ Σκευῶν\" COLOR(DEFAULT) \", τάξον\\n\"\n\"αὐτὴν ἐν \" COLOR(YELLOW) \"[C-Left]\" COLOR(DEFAULT) \", \" COLOR(YELLOW) \"[C-Down]\" COLOR(DEFAULT) \" ἢ \" COLOR(YELLOW) \"[C-Right]\" COLOR(DEFAULT) \".\"\nBOX_BREAK\n\nITEM_ICON(ITEM_DEKU_STICK) \"Τάξας ἐν \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \", κράδαινε\\n\"\n\"διὰ τοῦ \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \"!\"\nBOX_BREAK\n\nITEM_ICON(ITEM_DEKU_STICK) \"Εἰ δὲ βούλει καταθέσθαι,\\n\"\n\"στὰς πίεσον \" COLOR(BLUE) \"[A]\" COLOR(DEFAULT) \". Δύνασαι\\n\"\n\"φέρειν ἕως 10 ῥάβδους,\\n\"\n\"μὴ μέντοι εἰκῇ ἀνάλισκε.\""
+  },
+  {
+    "id": "0x0038",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE ITEM_ICON(ITEM_HAMMER) QUICKTEXT_ENABLE \"You found the \" COLOR(RED) \"Megaton Hammer\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Press \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \" to smash and break \\n\"\n\"junk! It's so heavy, you need to \\n\"\n\"use two hands to swing it!\"",
+    "el_msg": "UNSKIPPABLE ITEM_ICON(ITEM_HAMMER) QUICKTEXT_ENABLE \"Εὗρες τὴν \" COLOR(RED) \"Ὑπερμεγέθη Σφῦραν\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Πίεσον \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \" ἵνα συντρίψῃς σκεύη!\\n\"\n\"Βαρεῖα δ' οὖσα, δεῖ ἀμφοτέραις\\n\"\n\"χερσὶ κραδαίνειν!\""
+  },
+  {
+    "id": "0x0039",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE ITEM_ICON(ITEM_LENS_OF_TRUTH) QUICKTEXT_ENABLE \"You found the \" COLOR(RED) \"Lens of Truth\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Set it to \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \" and press \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \" to \\n\"\n\"look through it! Mysterious \\n\"\n\"things are hidden everywhere!\"\nBOX_BREAK\n\nUNSKIPPABLE ITEM_ICON(ITEM_LENS_OF_TRUTH) \"Be sure to try to use it outside\\n\"\n\"of the well. Seeing the truth will\\n\"\n\"cost magic power, so press \" COLOR(YELLOW) \"[C]\\n\"\nCOLOR(DEFAULT) \"again to stop using it.\"",
+    "el_msg": "UNSKIPPABLE ITEM_ICON(ITEM_LENS_OF_TRUTH) QUICKTEXT_ENABLE \"Εὗρες τὸν \" COLOR(RED) \"Φακὸν τῆς Ἀληθείας\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Τάξας ἐν \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \" πίεσον \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \" ἵνα\\n\"\n\"κατοπτεύσῃς! Μυστήρια γὰρ\\n\"\n\"πανταχοῦ κέκρυπται!\"\nBOX_BREAK\n\nUNSKIPPABLE ITEM_ICON(ITEM_LENS_OF_TRUTH) \"Πείρασον δὲ καὶ ἔξω τοῦ\\n\"\n\"φρέατος. Τὸ δ' ὁρᾶν τὴν ἀλήθειαν\\n\"\n\"μαγείας δεῖ, ὥστε πίεσον \" COLOR(YELLOW) \"[C]\\n\"\nCOLOR(DEFAULT) \"πάλιν ἵνα παύσῃς.\""
+  },
+  {
+    "id": "0x003A",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE ITEM_ICON(ITEM_OCARINA_OF_TIME) QUICKTEXT_ENABLE \"You found the \" COLOR(RED) \"Ocarina of Time\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"This is the Royal Family's hidden \\n\"\n\"treasure which Zelda left behind.\\n\"\n\"It glows with a mystical light...\"",
+    "el_msg": "UNSKIPPABLE ITEM_ICON(ITEM_OCARINA_OF_TIME) QUICKTEXT_ENABLE \"Εὗρες τὴν \" COLOR(RED) \"Πλαγίαυλον τοῦ Χρόνου\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Κειμήλιον τοῦ Βασιλικοῦ Οἴκου\\n\"\n\"ὃ Ζέλδα κατέλιπεν. Ἀστράπτει\\n\"\n\"δὲ μυστικῷ φωτί...\""
+  },
+  {
+    "id": "0x003B",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"You cast Farore's Wind!\\n\"\nTHREE_CHOICE\n    COLOR(ADJUSTABLE) \"Return to the Warp Point\\n\"\n    \"Dispel the Warp Point\\n\"\n    \"Exit\" COLOR(DEFAULT)",
+    "el_msg": "\"Ἐξέπεμψας τὸν Ἄνεμον τῆς Φαρώρης!\\n\"\nTHREE_CHOICE\n    COLOR(ADJUSTABLE) \"Ἐπανελθεῖν εἰς τὸ Σημεῖον\\n\"\n    \"Λῦσαι τὸ Σημεῖον\\n\"\n    \"Ἐξελθεῖν\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x003C",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE ITEM_ICON(ITEM_MEDALLION_FIRE) QUICKTEXT_ENABLE \"You received the \" COLOR(RED) \"Fire\\n\"\n\"Medallion\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Darunia awakens as a Sage and\\n\"\n\"adds his power to yours!\"",
+    "el_msg": "UNSKIPPABLE ITEM_ICON(ITEM_MEDALLION_FIRE) QUICKTEXT_ENABLE \"Ἔλαβες τὸ \" COLOR(RED) \"Μετάλλιον τοῦ\\n\"\n\"Πυρός\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Δαρούνιος ὁ Σοφὸς προστίθησι\\n\"\n\"τὴν ἑαυτοῦ δύναμιν τῇ σῇ!\""
+  },
+  {
+    "id": "0x003D",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE ITEM_ICON(ITEM_MEDALLION_WATER) QUICKTEXT_ENABLE \"You received the \" COLOR(BLUE) \"Water\\n\"\n\"Medallion\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Ruto awakens as a Sage and\\n\"\n\"adds her power to yours!\"",
+    "el_msg": "UNSKIPPABLE ITEM_ICON(ITEM_MEDALLION_WATER) QUICKTEXT_ENABLE \"Ἔλαβες τὸ \" COLOR(BLUE) \"Μετάλλιον τοῦ\\n\"\n\"Ὕδατος\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Ῥούτω ἡ Σοφὴ προστίθησι\\n\"\n\"τὴν ἑαυτῆς δύναμιν τῇ σῇ!\""
+  },
+  {
+    "id": "0x003E",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE ITEM_ICON(ITEM_MEDALLION_FOREST) QUICKTEXT_ENABLE \"You received the \" COLOR(ADJUSTABLE) \"Forest\\n\"\n\"Medallion\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Saria awakens as a Sage and\\n\"\n\"adds her power to yours!\"",
+    "el_msg": "UNSKIPPABLE ITEM_ICON(ITEM_MEDALLION_FOREST) QUICKTEXT_ENABLE \"Ἔλαβες τὸ \" COLOR(ADJUSTABLE) \"Μετάλλιον τῆς\\n\"\n\"Ὕλης\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Σαρία ἡ Σοφὴ προστίθησι\\n\"\n\"τὴν ἑαυτῆς δύναμιν τῇ σῇ!\""
+  },
+  {
+    "id": "0x003F",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE ITEM_ICON(ITEM_MEDALLION_SPIRIT) QUICKTEXT_ENABLE \"You received the \" COLOR(YELLOW) \"Spirit\\n\"\n\"Medallion\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Nabooru awakens as a Sage and\\n\"\n\"adds her power to yours!\"",
+    "el_msg": "UNSKIPPABLE ITEM_ICON(ITEM_MEDALLION_SPIRIT) QUICKTEXT_ENABLE \"Ἔλαβες τὸ \" COLOR(YELLOW) \"Μετάλλιον τοῦ\\n\"\n\"Πνεύματος\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Ναβούρου ἡ Σοφὴ προστίθησι\\n\"\n\"τὴν ἑαυτῆς δύναμιν τῇ σῇ!\""
+  },
+  {
+    "id": "0x0040",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE ITEM_ICON(ITEM_MEDALLION_LIGHT) QUICKTEXT_ENABLE \"You received the \" COLOR(LIGHTBLUE) \"Light\\n\"\n\"Medallion\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Rauru the Sage adds his power\\n\"\n\"to yours!\"",
+    "el_msg": "UNSKIPPABLE ITEM_ICON(ITEM_MEDALLION_LIGHT) QUICKTEXT_ENABLE \"Ἔλαβες τὸ \" COLOR(LIGHTBLUE) \"Μετάλλιον τοῦ\\n\"\n\"Φωτός\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Ῥαοῦρος ὁ Σοφὸς προστίθησι\\n\"\n\"τὴν δύναμιν αὐτοῦ τῇ σῇ!\""
+  },
+  {
+    "id": "0x0041",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE ITEM_ICON(ITEM_MEDALLION_SHADOW) QUICKTEXT_ENABLE \"You received the \" COLOR(PURPLE) \"Shadow\\n\"\n\"Medallion\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Impa awakens as a Sage and\\n\"\n\"adds her power to yours!\"",
+    "el_msg": "UNSKIPPABLE ITEM_ICON(ITEM_MEDALLION_SHADOW) QUICKTEXT_ENABLE \"Ἔλαβες τὸ \" COLOR(PURPLE) \"Μετάλλιον τῆς\\n\"\n\"Σκιᾶς\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Ἴμπα ἡ Σοφὴ προστίθησι\\n\"\n\"τὴν ἑαυτῆς δύναμιν τῇ σῇ!\""
+  },
+  {
+    "id": "0x0042",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE ITEM_ICON(ITEM_BOTTLE_EMPTY) QUICKTEXT_ENABLE \"You got an \" COLOR(RED) \"Empty Bottle\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"After you put something in this\\n\"\n\"bottle, set it to \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \" when you\\n\"\n\"want to use the item inside.\"",
+    "el_msg": "UNSKIPPABLE ITEM_ICON(ITEM_BOTTLE_EMPTY) QUICKTEXT_ENABLE \"Ἔλαβες \" COLOR(RED) \"Κενὴν Λήκυθον\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Ἐμβαλών τι εἰς ταύτην,\\n\"\n\"τάξον ἐν \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \" ὅταν βούλῃ\\n\"\n\"χρῆσθαι τῷ ἔνδον.\""
+  },
+  {
+    "id": "0x0043",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "ITEM_ICON(ITEM_BOTTLE_POTION_RED) QUICKTEXT_ENABLE \"You got a \" COLOR(RED) \"Red Potion\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"On the \" COLOR(YELLOW) \"Select Item Subscreen\" COLOR(DEFAULT) \",\\n\"\n\"set it to \" COLOR(YELLOW) \"[C-Left]\" COLOR(DEFAULT) \", \" COLOR(YELLOW) \"[C-Down]\" COLOR(DEFAULT) \" or\" COLOR(YELLOW) \" [C-Right]\" COLOR(DEFAULT) \".\"\nBOX_BREAK\n\nITEM_ICON(ITEM_BOTTLE_POTION_RED) \"Drink it with \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \" to recover\\n\"\n\"your life energy.\\n\"\n\"You carry this potion in one\\n\"\n\"of your bottles.\"",
+    "el_msg": "ITEM_ICON(ITEM_BOTTLE_POTION_RED) QUICKTEXT_ENABLE \"Ἔλαβες \" COLOR(RED) \"Ἐρυθρὸν Φάρμακον\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Ἐν τῇ \" COLOR(YELLOW) \"Ἐκλογῇ Σκευῶν\" COLOR(DEFAULT) \", τάξον\\n\"\n\"αὐτὸ ἐν \" COLOR(YELLOW) \"[C-Left]\" COLOR(DEFAULT) \", \" COLOR(YELLOW) \"[C-Down]\" COLOR(DEFAULT) \" ἢ \" COLOR(YELLOW) \"[C-Right]\" COLOR(DEFAULT) \".\"\nBOX_BREAK\n\nITEM_ICON(ITEM_BOTTLE_POTION_RED) \"Πῖθι διὰ τοῦ \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \" ἵνα ἀνα-\\n\"\n\"κτήσῃς τὴν ζωτικήν σου ἰσχύν.\\n\"\n\"Φέρεις δὲ τοῦτο τὸ φάρμακον\\n\"\n\"ἐν μιᾷ τῶν ληκύθων σου.\""
+  },
+  {
+    "id": "0x0044",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "ITEM_ICON(ITEM_BOTTLE_POTION_GREEN) QUICKTEXT_ENABLE \"You got a \" COLOR(ADJUSTABLE) \"Green Potion\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"On the \" COLOR(YELLOW) \"Select Item Subscreen\" COLOR(DEFAULT) \",\\n\"\n\"set it to \" COLOR(YELLOW) \"[C-Left]\" COLOR(DEFAULT) \", \" COLOR(YELLOW) \"[C-Down]\" COLOR(DEFAULT) \" or\" COLOR(YELLOW) \" [C-Right]\" COLOR(DEFAULT) \".\"\nBOX_BREAK\n\nITEM_ICON(ITEM_BOTTLE_POTION_GREEN) \"Drink it with \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \" to recover\\n\"\n\"your magic power.\\n\"\n\"You carry this potion in one\\n\"\n\"of your bottles.\"",
+    "el_msg": "ITEM_ICON(ITEM_BOTTLE_POTION_GREEN) QUICKTEXT_ENABLE \"Ἔλαβες \" COLOR(ADJUSTABLE) \"Χλωρὸν Φάρμακον\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Ἐν τῇ \" COLOR(YELLOW) \"Ἐκλογῇ Σκευῶν\" COLOR(DEFAULT) \", τάξον\\n\"\n\"αὐτὸ ἐν \" COLOR(YELLOW) \"[C-Left]\" COLOR(DEFAULT) \", \" COLOR(YELLOW) \"[C-Down]\" COLOR(DEFAULT) \" ἢ \" COLOR(YELLOW) \"[C-Right]\" COLOR(DEFAULT) \".\"\nBOX_BREAK\n\nITEM_ICON(ITEM_BOTTLE_POTION_GREEN) \"Πῖθι διὰ τοῦ \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \" ἵνα ἀνα-\\n\"\n\"κτήσῃς τὴν μαγικήν σου ἰσχύν.\\n\"\n\"Φέρεις δὲ τοῦτο τὸ φάρμακον\\n\"\n\"ἐν μιᾷ τῶν ληκύθων σου.\""
+  },
+  {
+    "id": "0x0045",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "ITEM_ICON(ITEM_BOTTLE_POTION_BLUE) QUICKTEXT_ENABLE \"You got a \" COLOR(BLUE) \"Blue Potion\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Drink it with \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \" to recover\\n\"\n\"your life energy and magic power.\"",
+    "el_msg": "ITEM_ICON(ITEM_BOTTLE_POTION_BLUE) QUICKTEXT_ENABLE \"Ἔλαβες \" COLOR(BLUE) \"Κυανοῦν Φάρμακον\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Πῖθι διὰ τοῦ \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \" ἵνα ἀνακτήσῃς\\n\"\n\"τήν τε ζωτικὴν καὶ τὴν\\n\"\n\"μαγικήν σου ἰσχύν.\""
+  },
+  {
+    "id": "0x0046",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "ITEM_ICON(ITEM_BOTTLE_FAIRY) QUICKTEXT_ENABLE \"You caught a \" COLOR(RED) \"Fairy\" COLOR(DEFAULT) \" in a bottle!\" QUICKTEXT_DISABLE \"\\n\"\n\"On the \" COLOR(YELLOW) \"Select Item Subscreen\" COLOR(DEFAULT) \",\\n\"\n\"you can set it to \" COLOR(YELLOW) \"[C-Left]\" COLOR(DEFAULT) \", \" COLOR(YELLOW) \"[C-Down]\" COLOR(DEFAULT) \" or\" COLOR(YELLOW) \" [C-Right]\" COLOR(DEFAULT) \".\"\nBOX_BREAK\n\nITEM_ICON(ITEM_BOTTLE_FAIRY) \"This tiny fairy is a reliable \\n\"\n\"partner who will revive you\\n\"\n\"the moment you run out of life \\n\"\n\"energy.\"\nBOX_BREAK\n\nITEM_ICON(ITEM_BOTTLE_FAIRY) \"Once you set it to \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \",\\n\"\n\"though, you can ask for its help\\n\"\n\"anytime.\"",
+    "el_msg": "ITEM_ICON(ITEM_BOTTLE_FAIRY) QUICKTEXT_ENABLE \"Ἔλαβες \" COLOR(RED) \"Νύμφην\" COLOR(DEFAULT) \" ἐν ληκύθῳ!\" QUICKTEXT_DISABLE \"\\n\"\n\"Ἐν τῇ \" COLOR(YELLOW) \"Ἐκλογῇ Σκευῶν\" COLOR(DEFAULT) \", τάξον\\n\"\n\"αὐτὴν ἐν \" COLOR(YELLOW) \"[C-Left]\" COLOR(DEFAULT) \", \" COLOR(YELLOW) \"[C-Down]\" COLOR(DEFAULT) \" ἢ \" COLOR(YELLOW) \"[C-Right]\" COLOR(DEFAULT) \".\"\nBOX_BREAK\n\nITEM_ICON(ITEM_BOTTLE_FAIRY) \"Αὕτη ἡ μικρὰ νύμφη πιστὴ\\n\"\n\"βοηθός ἐστιν, ἥτις ἀναβιώσει\\n\"\n\"σε εὐθὺς ὅταν ἐκλείπῃ ἡ ζωή.\"\nBOX_BREAK\n\nITEM_ICON(ITEM_BOTTLE_FAIRY) \"Τάξας δὲ ἐν \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \", δύνασαι\\n\"\n\"αἰτεῖν τὴν βοήθειαν αὐτῆς\\n\"\n\"ὁποτεοῦν.\""
+  },
+  {
+    "id": "0x0047",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "ITEM_ICON(ITEM_BOTTLE_FISH) QUICKTEXT_ENABLE \"You got a \" COLOR(RED) \"Fish\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Use it with \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \" and something \\n\"\n\"might happen... It looks so \\n\"\n\"fresh and delicious!\"\nBOX_BREAK\n\nITEM_ICON(ITEM_BOTTLE_FISH) \"On the \" COLOR(YELLOW) \"Select Item Subscreen\" COLOR(DEFAULT) \",\\n\"\n\"you can set it to \" COLOR(YELLOW) \"[C-Left]\" COLOR(DEFAULT) \", \" COLOR(YELLOW) \"[C-Down]\" COLOR(DEFAULT) \"\\n\"\n\"or \" COLOR(YELLOW) \"[C-Right]\" COLOR(DEFAULT) \", and then press that\\n\"\nCOLOR(YELLOW) \"[C] \" COLOR(DEFAULT) \"to use it.\"",
+    "el_msg": "ITEM_ICON(ITEM_BOTTLE_FISH) QUICKTEXT_ENABLE \"Ἔλαβες \" COLOR(RED) \"Ἰχθύν\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Χρῶ αὐτῷ διὰ τοῦ \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \" καὶ\\n\"\n\"ἴσως τι συμβήσεται... Ἔοικε\\n\"\n\"γὰρ προσφάτῳ καὶ ἡδεῖ!\"\nBOX_BREAK\n\nITEM_ICON(ITEM_BOTTLE_FISH) \"Ἐν τῇ \" COLOR(YELLOW) \"Ἐκλογῇ Σκευῶν\" COLOR(DEFAULT) \", τάξον\\n\"\n\"αὐτὸν ἐν \" COLOR(YELLOW) \"[C-Left]\" COLOR(DEFAULT) \", \" COLOR(YELLOW) \"[C-Down]\" COLOR(DEFAULT) \" ἢ\\n\"\nCOLOR(YELLOW) \"[C-Right]\" COLOR(DEFAULT) \", ἔπειτα δὲ πίεσον\\n\"\n\"τὸ \" COLOR(YELLOW) \"[C] \" COLOR(DEFAULT) \"ἵνα χρήσῃ.\""
+  },
+  {
+    "id": "0x0048",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "ITEM_ICON(ITEM_MAGIC_BEAN) QUICKTEXT_ENABLE \"You got a \" COLOR(RED) \"Magic Bean\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Find a suitable spot for a garden\\n\"\n\"and plant it with \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \". Then, wait\\n\"\n\"for something fun to happen!\"\nBOX_BREAK\n\nITEM_ICON(ITEM_MAGIC_BEAN) \"On the \" COLOR(YELLOW) \"Select Item Subscreen\" COLOR(DEFAULT) \",\\n\"\n\"you can set it to \" COLOR(YELLOW) \"[C-Left]\" COLOR(DEFAULT) \", \" COLOR(YELLOW) \"[C-Down]\" COLOR(DEFAULT) \"\\n\"\n\"or \" COLOR(YELLOW) \"[C-Right]\" COLOR(DEFAULT) \", and then use that\\n\"\nCOLOR(YELLOW) \"[C] \" COLOR(DEFAULT) \"to plant it.\"",
+    "el_msg": "ITEM_ICON(ITEM_MAGIC_BEAN) QUICKTEXT_ENABLE \"Ἔλαβες \" COLOR(RED) \"Μαγικὸν Κύαμον\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Εὑρὼν ἐπιτήδειον τόπον,\\n\"\n\"φύτευσον διὰ τοῦ \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \". Ἔπειτα\\n\"\n\"προσδόκα τερπνόν τι γενέσθαι!\"\nBOX_BREAK\n\nITEM_ICON(ITEM_MAGIC_BEAN) \"Ἐν τῇ \" COLOR(YELLOW) \"Ἐκλογῇ Σκευῶν\" COLOR(DEFAULT) \", τάξον\\n\"\n\"αὐτὸν ἐν \" COLOR(YELLOW) \"[C-Left]\" COLOR(DEFAULT) \", \" COLOR(YELLOW) \"[C-Down]\" COLOR(DEFAULT) \" ἢ\\n\"\nCOLOR(YELLOW) \"[C-Right]\" COLOR(DEFAULT) \", καὶ χρῶ τῷ \" COLOR(YELLOW) \"[C] \" COLOR(DEFAULT) \"ἵνα\\n\"\n\"φυτεύσῃς.\""
+  },
+  {
+    "id": "0x0049",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Sorry about that...OK, well...\"\nBOX_BREAK\n\nQUICKTEXT_ENABLE SHIFT(61) COLOR(RED) \"LET'S BOWL\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE EVENT",
+    "el_msg": "\"Σύγγνωθι... εἶεν δή...\"\nBOX_BREAK\n\nQUICKTEXT_ENABLE SHIFT(61) COLOR(RED) \"ΠΑΙΞΩΜΕΝ\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE EVENT"
+  },
+  {
+    "id": "0x004A",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE ITEM_ICON(ITEM_OCARINA_FAIRY) QUICKTEXT_ENABLE \"You received the \" COLOR(RED) \"Fairy Ocarina\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"This is a memento from Saria.\\n\"\n\"Set it to \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \" and press \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \"\\n\"\n\"to start playing it!\"\nBOX_BREAK\n\nUNSKIPPABLE ITEM_ICON(ITEM_OCARINA_FAIRY) \"On the \" COLOR(YELLOW) \"Select Item Subscreen\" COLOR(DEFAULT) \",\\n\"\n\"you can set it to \" COLOR(YELLOW) \"[C-Left]\" COLOR(DEFAULT) \", \" COLOR(YELLOW) \"[C-Down]\" COLOR(DEFAULT) \"\\n\"\n\"or \" COLOR(YELLOW) \"[C-Right]\" COLOR(DEFAULT) \", and then use that\\n\"\nCOLOR(YELLOW) \"[C] \" COLOR(DEFAULT) \"to start playing it.\"\nBOX_BREAK\n\nUNSKIPPABLE ITEM_ICON(ITEM_OCARINA_FAIRY) \"You can play different notes\\n\"\n\"with \" COLOR(BLUE) \"[A]\" COLOR(DEFAULT) \" and the four \" COLOR(YELLOW) \"[C] Buttons\" COLOR(DEFAULT) \". \\n\"\n\"Press \" COLOR(ADJUSTABLE) \"[B]\" COLOR(DEFAULT) \" to quit playing, or \\n\"\n\"to start your song over again.\"",
+    "el_msg": "UNSKIPPABLE ITEM_ICON(ITEM_OCARINA_FAIRY) QUICKTEXT_ENABLE \"Ἔλαβες τὴν \" COLOR(RED) \"Νυμφικὴν Πλαγίαυλον\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Μνημεῖόν ἐστι παρὰ Σαρίας.\\n\"\n\"Τάξον ἐν \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \" καὶ πίεσον \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \"\\n\"\n\"ἵνα ἄρξῃ αὐλεῖν!\"\nBOX_BREAK\n\nUNSKIPPABLE ITEM_ICON(ITEM_OCARINA_FAIRY) \"Ἐν τῇ \" COLOR(YELLOW) \"Ἐκλογῇ Σκευῶν\" COLOR(DEFAULT) \", τάξον\\n\"\n\"αὐτὴν ἐν \" COLOR(YELLOW) \"[C-Left]\" COLOR(DEFAULT) \", \" COLOR(YELLOW) \"[C-Down]\" COLOR(DEFAULT) \" ἢ\\n\"\nCOLOR(YELLOW) \"[C-Right]\" COLOR(DEFAULT) \", ἔπειτα δὲ πίεσον\\n\"\n\"τὸ \" COLOR(YELLOW) \"[C] \" COLOR(DEFAULT) \"ἵνα αὐλῇς.\"\nBOX_BREAK\n\nUNSKIPPABLE ITEM_ICON(ITEM_OCARINA_FAIRY) \"Φθόγγους διαφόρους αὐλεῖς\\n\"\n\"διὰ τοῦ \" COLOR(BLUE) \"[A]\" COLOR(DEFAULT) \" καὶ τῶν τεσσάρων\\n\"\nCOLOR(YELLOW) \"[C] πλήκτρων\" COLOR(DEFAULT) \". Πίεσον \" COLOR(ADJUSTABLE) \"[B]\" COLOR(DEFAULT) \" ἵνα\\n\"\n\"παύσῃ ἢ ἄρξῃ πάλιν τῆς ᾠδῆς.\""
+  },
+  {
+    "id": "0x004B",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "ITEM_ICON(ITEM_SWORD_BIGGORON) QUICKTEXT_ENABLE \"You got the \" COLOR(ADJUSTABLE) \"Giant's Knife\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Hold it with both hands and use \\n\"\nCOLOR(ADJUSTABLE) \"[B] \" COLOR(DEFAULT) \"to attack! It's so long, you\\n\"\n\"can't use it with a \" COLOR(LIGHTBLUE) \"shield\" COLOR(DEFAULT) \".\"",
+    "el_msg": "ITEM_ICON(ITEM_SWORD_BIGGORON) QUICKTEXT_ENABLE \"Ἔλαβες τὴν \" COLOR(ADJUSTABLE) \"Μάχαιραν τοῦ Γίγαντος\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Κράτει ἀμφοῖν καὶ χρῶ τῷ \" COLOR(ADJUSTABLE) \"[B] \"\\n\"\nCOLOR(DEFAULT) \"εἰς μάχην! Μακρὰ δ' οὖσα, οὐ\\n\"\n\"χρήσῃ \" COLOR(LIGHTBLUE) \"θυρεῷ\" COLOR(DEFAULT) \".\""
+  },
+  {
+    "id": "0x004C",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "ITEM_ICON(ITEM_SHIELD_DEKU) QUICKTEXT_ENABLE \"You got a \" COLOR(LIGHTBLUE) \"Deku Shield\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Switch to the \" COLOR(BLUE) \"Equipment \\n\"\n\"Subscreen\" COLOR(RED) \" \" COLOR(DEFAULT) \"and select the\\n\"\n\"shield. Press \" COLOR(BLUE) \"[A] \" COLOR(DEFAULT) \"to equip it.\"\nBOX_BREAK\n\nITEM_ICON(ITEM_SHIELD_DEKU) \"Press \" COLOR(LIGHTBLUE) \"[R]\" COLOR(DEFAULT) \" to crouch and\\n\"\n\"defend. If you press \" COLOR(LIGHTBLUE) \"[R]\" COLOR(DEFAULT) \" while \\n\"\nCOLOR(LIGHTBLUE) \"[Z] Targeting\" COLOR(DEFAULT) \", you can move\\n\"\n\"while defending.\"",
+    "el_msg": "ITEM_ICON(ITEM_SHIELD_DEKU) QUICKTEXT_ENABLE \"Ἔλαβες \" COLOR(LIGHTBLUE) \"Θυρεὸν Δέκου\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Ἔλθε εἰς τὴν \" COLOR(BLUE) \"Ὀθόνην\\n\"\n\"Ἐξοπλισμοῦ\" COLOR(RED) \" \" COLOR(DEFAULT) \"καὶ ἐπίλεξον\\n\"\n\"αὐτόν. Πίεσον \" COLOR(BLUE) \"[A] \" COLOR(DEFAULT) \"ἵνα ὁπλίσῃ.\"\nBOX_BREAK\n\nITEM_ICON(ITEM_SHIELD_DEKU) \"Πίεσον \" COLOR(LIGHTBLUE) \"[R]\" COLOR(DEFAULT) \" ἵνα συγκύψας\\n\"\n\"ἀμύνῃ. Εἰ δὲ πιέσεις \" COLOR(LIGHTBLUE) \"[R]\" COLOR(DEFAULT) \"\\n\"\n\"ἐν \" COLOR(LIGHTBLUE) \"[Z]-Σκοπεύσει\" COLOR(DEFAULT) \", δύνῃ κινεῖσθαι\\n\"\n\"ἀμυνόμενος.\""
+  },
+  {
+    "id": "0x004D",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "ITEM_ICON(ITEM_SHIELD_HYLIAN) QUICKTEXT_ENABLE \"You got a \" COLOR(LIGHTBLUE) \"Hylian Shield\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Switch to the \" COLOR(BLUE) \"Equipment \\n\"\n\"Subscreen\" COLOR(DEFAULT) \" and select this\\n\"\n\"shield, then equip it with \" COLOR(BLUE) \"[A]\" COLOR(DEFAULT) \".\"",
+    "el_msg": "ITEM_ICON(ITEM_SHIELD_HYLIAN) QUICKTEXT_ENABLE \"Ἔλαβες \" COLOR(LIGHTBLUE) \"Ὑλικὸν Θυρεόν\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Ἔλθε εἰς τὴν \" COLOR(BLUE) \"Ὀθόνην\\n\"\n\"Ἐξοπλισμοῦ\" COLOR(DEFAULT) \" καὶ ἐπίλεξον τοῦτον\\n\"\n\"τὸν θυρεόν, καὶ ὅπλισον τῷ \" COLOR(BLUE) \"[A]\" COLOR(DEFAULT) \".\""
+  },
+  {
+    "id": "0x004E",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE ITEM_ICON(ITEM_SHIELD_MIRROR) QUICKTEXT_ENABLE \"You found the \" COLOR(LIGHTBLUE) \"Mirror Shield\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"The shield's polished surface can\\n\"\n\"reflect light or energy. Press \" COLOR(LIGHTBLUE) \"[R]\\n\"\nCOLOR(DEFAULT) \"to use it.\"",
+    "el_msg": "UNSKIPPABLE ITEM_ICON(ITEM_SHIELD_MIRROR) QUICKTEXT_ENABLE \"Εὗρες τὸν \" COLOR(LIGHTBLUE) \"Κατοπτρικὸν Θυρεόν\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Ἡ στίλβουσα ἐπιφάνεια ἀνακλᾷ\\n\"\n\"φῶς τε καὶ ἰσχύν. Πίεσον \" COLOR(LIGHTBLUE) \"[R]\\n\"\nCOLOR(DEFAULT) \"ἵνα χρήσῃ αὐτῷ.\""
+  },
+  {
+    "id": "0x004F",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE ITEM_ICON(ITEM_LONGSHOT) QUICKTEXT_ENABLE \"You found the \" COLOR(RED) \"Longshot\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"It's an upgraded Hookshot.\\n\"\n\"It extends \" COLOR(RED) \"twice\" COLOR(DEFAULT) \" as far!\"",
+    "el_msg": "UNSKIPPABLE ITEM_ICON(ITEM_LONGSHOT) QUICKTEXT_ENABLE \"Εὗρες τὸ \" COLOR(RED) \"Μακρὸν\\n\"\n\"Ἄγκιστρον\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Βελτίων ἐστὶ τοῦ Ἀγκίστρου.\\n\"\n\"Ἐκτείνεται γὰρ εἰς \" COLOR(RED) \"διπλάσιον\" COLOR(DEFAULT) \"!\""
+  },
+  {
+    "id": "0x0050",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "ITEM_ICON(ITEM_TUNIC_GORON) QUICKTEXT_ENABLE \"You got a \" COLOR(RED) \"Goron Tunic\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"This heat-resistant tunic is\\n\"\n\"adult size, so it won't fit a kid...\\n\"\n\"Going to a hot place? No worry!\"",
+    "el_msg": "ITEM_ICON(ITEM_TUNIC_GORON) QUICKTEXT_ENABLE \"Ἔλαβες \" COLOR(RED) \"Γορώνιον Χιτῶνα\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Πυρίμαχος ὢν χιτὼν μεγέθους\\n\"\n\"ἀνδρῶν ἐστιν, οὐ παιδός...\\n\"\n\"Εἰς θερμὸν ἰὼν τόπον, μὴ φόβου!\""
+  },
+  {
+    "id": "0x0051",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "ITEM_ICON(ITEM_TUNIC_ZORA) QUICKTEXT_ENABLE \"You got a \" COLOR(BLUE) \"Zora Tunic\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"This diving suit is adult size,\\n\"\n\"so it won't fit a kid. Wear it,\\n\"\n\"and you won't drown underwater.\"",
+    "el_msg": "ITEM_ICON(ITEM_TUNIC_ZORA) QUICKTEXT_ENABLE \"Ἔλαβες \" COLOR(BLUE) \"Ζώρειον Χιτῶνα\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Κολυμβητικὸς ὢν χιτὼν μέγεθος\\n\"\n\"ἀνδρῶν ἐστιν, οὐ παιδός.\\n\"\n\"Φορῶν δ' οὐ πνιγήσῃ ὑπὸ ὕδατος.\""
+  },
+  {
+    "id": "0x0052",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "QUICKTEXT_ENABLE \"You got a \" COLOR(ADJUSTABLE) \"Magic Jar\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Your Magic Meter is filled!\"",
+    "el_msg": "QUICKTEXT_ENABLE \"Ἔλαβες \" COLOR(ADJUSTABLE) \"Μαγικὸν Ἀγγεῖον\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Τὸ μαγικόν σου μέτρον ἐπληρώθη!\""
+  },
+  {
+    "id": "0x0053",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE ITEM_ICON(ITEM_BOOTS_IRON) QUICKTEXT_ENABLE \"You got the \" COLOR(RED) \"Iron Boots\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"So heavy, you can't run.\\n\"\n\"So heavy, you can't float.\"",
+    "el_msg": "UNSKIPPABLE ITEM_ICON(ITEM_BOOTS_IRON) QUICKTEXT_ENABLE \"Ἔλαβες τὰ \" COLOR(RED) \"Σιδηρᾶ\\n\"\n\"Ὑποδήματα\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Βαρέα ὄντα, οὐ δύνῃ τρέχειν.\\n\"\n\"Βαρέα ὄντα, οὐ δύνῃ ἐπιπολάζειν.\""
+  },
+  {
+    "id": "0x0054",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE ITEM_ICON(ITEM_BOOTS_HOVER) QUICKTEXT_ENABLE \"You got the \" COLOR(RED) \"Hover Boots\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"With these mysterious boots\\n\"\n\"you can hover above the ground.\\n\"\n\"The downside? No traction!\"\nBOX_BREAK\n\nUNSKIPPABLE ITEM_ICON(ITEM_BOOTS_HOVER) \"You can even use these to\\n\"\n\"walk for short periods where \\n\"\n\"there is no solid ground. Be brave\\n\"\n\"and trust in the boots!\"",
+    "el_msg": "UNSKIPPABLE ITEM_ICON(ITEM_BOOTS_HOVER) QUICKTEXT_ENABLE \"Ἔλαβες \" COLOR(RED) \"Ἐπιπολάζοντα Ὑποδήματα\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Τούτοις τοῖς ὑποδήμασιν\\n\"\n\"ἐπιπολάζεις ὑπὲρ τῆς γῆς.\\n\"\n\"Τὸ δὲ χαλεπόν; Οὐδὲν ἕδραιον!\"\nBOX_BREAK\n\nUNSKIPPABLE ITEM_ICON(ITEM_BOOTS_HOVER) \"Ἔξεστι δὲ καὶ βαδίζειν ἐπὶ\\n\"\n\"βραχὺ ὅπου οὐκ ἔστι στερεὰ γῆ.\\n\"\n\"Θάρσει καὶ πίστευε τοῖς\\n\"\n\"ὑποδήμασιν!\""
+  },
+  {
+    "id": "0x0055",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "QUICKTEXT_ENABLE \"You got a \" COLOR(PURPLE) \"Recovery Heart\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Your life energy is recovered!\"",
+    "el_msg": "QUICKTEXT_ENABLE \"Ἔλαβες \" COLOR(PURPLE) \"Καρδίαν Ἰάσεως\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Ἡ ζωτική σου ἰσχὺς ἀνεκτήθη!\""
+  },
+  {
+    "id": "0x0056",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE ITEM_ICON(ITEM_QUIVER_40) QUICKTEXT_ENABLE \"You upgraded your quiver to a\\n\"\nCOLOR(RED) \"Big Quiver\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Now you can carry more arrows-\\n\"\nCOLOR(YELLOW) \"40 \" COLOR(DEFAULT) \"in total!\"",
+    "el_msg": "UNSKIPPABLE ITEM_ICON(ITEM_QUIVER_40) QUICKTEXT_ENABLE \"Ἐπηύξησας τὴν φαρέτραν εἰς\\n\"\nCOLOR(RED) \"Μεγάλην Φαρέτραν\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Δύνασαι νῦν πλείονα βέλη\\n\"\n\"φέρειν--σύμπαντα \" COLOR(YELLOW) \"40\" COLOR(DEFAULT) \"!\""
+  },
+  {
+    "id": "0x0057",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE ITEM_ICON(ITEM_QUIVER_40) QUICKTEXT_ENABLE \"You upgraded your quiver to\\n\"\n\"the \" COLOR(RED) \"Biggest Quiver\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Now you can carry even more \\n\"\n\"arrows, to a maximum of \" COLOR(YELLOW) \"50\" COLOR(DEFAULT) \"!\"",
+    "el_msg": "UNSKIPPABLE ITEM_ICON(ITEM_QUIVER_40) QUICKTEXT_ENABLE \"Ἐπηύξησας τὴν φαρέτραν εἰς\\n\"\n\"τὴν \" COLOR(RED) \"Μεγίστην Φαρέτραν\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Δύνασαι νῦν ἔτι πλείονα βέλη\\n\"\n\"φέρειν, μέχρι \" COLOR(YELLOW) \"50\" COLOR(DEFAULT) \"!\""
+  },
+  {
+    "id": "0x0058",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE ITEM_ICON(ITEM_BOMB_BAG_20) QUICKTEXT_ENABLE \"You found a \" COLOR(RED) \"Bomb Bag\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"This bomb-holding bag is made \\n\"\n\"from a Dodongo's stomach!\"\nBOX_BREAK\n\nUNSKIPPABLE ITEM_ICON(ITEM_BOMB) QUICKTEXT_ENABLE \"You found \" COLOR(RED) \"20 Bombs\" COLOR(DEFAULT) \" inside!\" QUICKTEXT_DISABLE \"\\n\"\n\"Now you can set Bombs to \" COLOR(YELLOW) \"[C]\\n\"\nCOLOR(DEFAULT) \"and blow stuff up! What a lucky \\n\"\n\"guy!\"",
+    "el_msg": "UNSKIPPABLE ITEM_ICON(ITEM_BOMB_BAG_20) QUICKTEXT_ENABLE \"Εὗρες \" COLOR(RED) \"Βομβοφόρον Θύλακον\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Οὗτος δὲ ὁ θύλακος ἐκ τῆς\\n\"\n\"γαστρὸς Δοδόνγου ἐποίηται!\"\nBOX_BREAK\n\nUNSKIPPABLE ITEM_ICON(ITEM_BOMB) QUICKTEXT_ENABLE \"Εὗρες ἔνδον \" COLOR(RED) \"20 Βόμβας\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Τάξον τὰς βόμβας ἐν \" COLOR(YELLOW) \"[C]\\n\"\nCOLOR(DEFAULT) \"καὶ διάρρηξον! Ὡς εὐτυχὴς\\n\"\n\"εἶ!\""
+  },
+  {
+    "id": "0x0059",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE ITEM_ICON(ITEM_BOMB_BAG_30) QUICKTEXT_ENABLE \"You got a \" COLOR(RED) \"Big Bomb Bag\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Now you can carry more \\n\"\n\"Bombs, up to a maximum of \" COLOR(YELLOW) \"30\" COLOR(DEFAULT) \"!\"",
+    "el_msg": "UNSKIPPABLE ITEM_ICON(ITEM_BOMB_BAG_30) QUICKTEXT_ENABLE \"Ἔλαβες \" COLOR(RED) \"Μέγαν Βομβοφόρον\\n\"\n\"Θύλακον\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Δύνασαι νῦν πλείονας βόμβας\\n\"\n\"φέρειν, μέχρι \" COLOR(YELLOW) \"30\" COLOR(DEFAULT) \"!\""
+  },
+  {
+    "id": "0x005A",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE ITEM_ICON(ITEM_BOMB_BAG_40) QUICKTEXT_ENABLE \"You got the \\n\"\nCOLOR(RED) \"Biggest Bomb Bag\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Now, you can carry up to \\n\"\nCOLOR(YELLOW) \"40\" COLOR(DEFAULT) \" Bombs!\"",
+    "el_msg": "UNSKIPPABLE ITEM_ICON(ITEM_BOMB_BAG_40) QUICKTEXT_ENABLE \"Ἔλαβες τὸν \" COLOR(RED) \"Μέγιστον\\n\"\n\"Βομβοφόρον Θύλακον\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Δύνασαι νῦν φέρειν μέχρι\\n\"\nCOLOR(YELLOW) \"40\" COLOR(DEFAULT) \" βόμβας!\""
+  },
+  {
+    "id": "0x005B",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE ITEM_ICON(ITEM_STRENGTH_SILVER_GAUNTLETS) QUICKTEXT_ENABLE \"You found the \" COLOR(BLUE) \"Silver Gauntlets\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"If you wore them, you would\\n\"\n\"feel power in your arms, the \\n\"\n\"power to lift big things with \" COLOR(BLUE) \"[A]\" COLOR(DEFAULT) \"!\"\nBOX_BREAK\n\nUNSKIPPABLE ITEM_ICON(ITEM_STRENGTH_SILVER_GAUNTLETS) \"But, these gauntlets won't fit\\n\"\n\"a kid... Plus, you promised to give\\n\"\n\"them to \" COLOR(RED) \"Nabooru\" COLOR(DEFAULT) \". You should keep\\n\"\n\"your word...\"",
+    "el_msg": "UNSKIPPABLE ITEM_ICON(ITEM_STRENGTH_SILVER_GAUNTLETS) QUICKTEXT_ENABLE \"Εὗρες τὰς \" COLOR(BLUE) \"Ἀργυρᾶς Χειρῖδας\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Φορῶν δ' αὐτάς, αἰσθήσῃ\\n\"\n\"δύναμιν ἐν βραχίοσι, ὥστ' αἴρειν\\n\"\n\"μεγάλα διὰ τοῦ \" COLOR(BLUE) \"[A]\" COLOR(DEFAULT) \"!\"\nBOX_BREAK\n\nUNSKIPPABLE ITEM_ICON(ITEM_STRENGTH_SILVER_GAUNTLETS) \"Ἀλλ' οὐχ ἁρμόζουσι παιδί...\\n\"\n\"Ἔπειτα, ὑπέσχου δοῦναι τῇ\\n\"\nCOLOR(RED) \"Ναβούρου\" COLOR(DEFAULT) \". Ἐμμένειν οὖν δεῖ\\n\"\n\"τοῖς ὡμολογημένοις...\""
+  },
+  {
+    "id": "0x005C",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE ITEM_ICON(ITEM_STRENGTH_GOLD_GAUNTLETS) QUICKTEXT_ENABLE \"You found the \" COLOR(BLUE) \"Golden Gauntlets\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"You can feel even more power \\n\"\n\"coursing through your arms!\\n\"\n\"Grab with \" COLOR(BLUE) \"[A] \" COLOR(DEFAULT) \"and lift stuff up!\"",
+    "el_msg": "UNSKIPPABLE ITEM_ICON(ITEM_STRENGTH_GOLD_GAUNTLETS) QUICKTEXT_ENABLE \"Εὗρες τὰς \" COLOR(BLUE) \"Χρυσᾶς Χειρῖδας\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Ἔτι πλείονα δύναμιν αἰσθάνῃ\\n\"\n\"ῥέουσαν ἐν τοῖς βραχίοσι!\\n\"\n\"Λαβοῦ τῷ \" COLOR(BLUE) \"[A] \" COLOR(DEFAULT) \"καὶ αἶρε πάντα!\""
+  },
+  {
+    "id": "0x005D",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "ITEM_ICON(ITEM_BOTTLE_BLUE_FIRE) QUICKTEXT_ENABLE \"You put a \" COLOR(LIGHTBLUE) \"Blue Fire\" COLOR(DEFAULT) \"\\n\"\n\"into the bottle!\" QUICKTEXT_DISABLE \"\\n\"\n\"This is a cool flame you can\\n\"\n\"use with \" COLOR(YELLOW) \"[C-Left]\" COLOR(DEFAULT) \",\" COLOR(YELLOW) \" [C-Down]\" COLOR(DEFAULT) \" or\" COLOR(YELLOW) \" [C-Right]\" COLOR(DEFAULT) \".\"",
+    "el_msg": "ITEM_ICON(ITEM_BOTTLE_BLUE_FIRE) QUICKTEXT_ENABLE \"Ἐνέβαλες \" COLOR(LIGHTBLUE) \"Κυανοῦν Πῦρ\" COLOR(DEFAULT) \"\\n\"\n\"εἰς τὴν λήκυθον!\" QUICKTEXT_DISABLE \"\\n\"\n\"Ψυχρὰ δ' ἐστὶ φλόξ, ᾗ χρῆσαι\\n\"\n\"διὰ \" COLOR(YELLOW) \"[C-Left]\" COLOR(DEFAULT) \", \" COLOR(YELLOW) \"[C-Down]\" COLOR(DEFAULT) \" ἢ\" COLOR(YELLOW) \" [C-Right]\" COLOR(DEFAULT) \".\""
+  },
+  {
+    "id": "0x005E",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE ITEM_ICON(ITEM_ADULTS_WALLET) QUICKTEXT_ENABLE \"You got an \" COLOR(BLUE) \"Adult's Wallet\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Adults are allowed to carry a \\n\"\n\"lot of money. Now you can hold \\n\"\n\"up to \" COLOR(YELLOW) \"200\" COLOR(DEFAULT) \" \" COLOR(YELLOW) \"Rupees\" COLOR(DEFAULT) \".\"",
+    "el_msg": "UNSKIPPABLE ITEM_ICON(ITEM_ADULTS_WALLET) QUICKTEXT_ENABLE \"Ἔλαβες \" COLOR(BLUE) \"Βαλάντιον Ἀνδρός\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Τοῖς ἀνδράσιν ἔξεστι πολὺ\\n\"\n\"ἀργύριον φέρειν. Δύνασαι νῦν\\n\"\n\"φέρειν ἕως \" COLOR(YELLOW) \"200\" COLOR(DEFAULT) \" \" COLOR(YELLOW) \"Ῥούπια\" COLOR(DEFAULT) \".\""
+  },
+  {
+    "id": "0x005F",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE ITEM_ICON(ITEM_GIANTS_WALLET) QUICKTEXT_ENABLE \"You got a \" COLOR(BLUE) \"Giant's Wallet\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"What a huge wallet! Now \\n\"\n\"you can carry up to \" COLOR(YELLOW) \"500\" COLOR(DEFAULT) \" \" COLOR(YELLOW) \"Rupees\" COLOR(DEFAULT) \".\"",
+    "el_msg": "UNSKIPPABLE ITEM_ICON(ITEM_GIANTS_WALLET) QUICKTEXT_ENABLE \"Ἔλαβες \" COLOR(BLUE) \"Βαλάντιον Γίγαντος\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Οἷον ὑπερμέγεθες βαλάντιον!\\n\"\n\"Δύνασαι νῦν φέρειν ἕως\\n\"\nCOLOR(YELLOW) \"500\" COLOR(DEFAULT) \" \" COLOR(YELLOW) \"Ῥούπια\" COLOR(DEFAULT) \".\""
+  },
+  {
+    "id": "0x0060",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "ITEM_ICON(ITEM_SMALL_KEY) QUICKTEXT_ENABLE \"You found a \" COLOR(RED) \"Small Key\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"This key will open a locked \\n\"\n\"door. You can use it only\\n\"\n\"in this dungeon.\"",
+    "el_msg": "ITEM_ICON(ITEM_SMALL_KEY) QUICKTEXT_ENABLE \"Εὗρες \" COLOR(RED) \"Μικρὸν Κλειδίον\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Τοῦτο τὸ κλειδίον ἀνοίξει\\n\"\n\"κεκλεισμένην θύραν. Μόνῳ δ'\\n\"\n\"ἐν τῷδε δεσμωτηρίῳ χρήσῃ.\""
+  },
+  {
+    "id": "0x0061",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "QUICKTEXT_ENABLE COLOR(RED) \"Bombchu  (20 pieces)  180 Rupees\\n\"\nCOLOR(DEFAULT) \"This looks like a toy mouse, but\\n\"\n\"it's actually a self-propelled time\\n\"\n\"bomb!\" QUICKTEXT_DISABLE PERSISTENT",
+    "el_msg": "QUICKTEXT_ENABLE COLOR(RED) \"Βομβόμυς  (20 τεμάχια)  180 Ῥούπια\\n\"\nCOLOR(DEFAULT) \"Ἔοικε μὲν παιγνίῳ μυΐ, ὄντως\\n\"\n\"δ' ἐστὶν αὐτοκίνητος βόμβα\\n\"\n\"χρόνου!\" QUICKTEXT_DISABLE PERSISTENT"
+  },
+  {
+    "id": "0x0062",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "QUICKTEXT_ENABLE \"Red Potion   40 Rupees\" QUICKTEXT_DISABLE \"\\n\"\n\"\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Buy\\n\"\n    \"Don't buy\" COLOR(DEFAULT)",
+    "el_msg": "QUICKTEXT_ENABLE \"Ἐρυθρὸν Φάρμακον   40 Ῥούπια\" QUICKTEXT_DISABLE \"\\n\"\n\"\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Ἀγοράσαι\\n\"\n    \"Μὴ ἀγοράσαι\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x0063",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "QUICKTEXT_ENABLE \"Red Potion   50 Rupees\" QUICKTEXT_DISABLE \"\\n\"\n\"\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Buy\\n\"\n    \"Don't buy\" COLOR(DEFAULT)",
+    "el_msg": "QUICKTEXT_ENABLE \"Ἐρυθρὸν Φάρμακον   50 Ῥούπια\" QUICKTEXT_DISABLE \"\\n\"\n\"\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Ἀγοράσαι\\n\"\n    \"Μὴ ἀγοράσαι\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x0064",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "QUICKTEXT_ENABLE COLOR(RED) \"Red Potion   40 Rupees\\n\"\nCOLOR(DEFAULT) \"If you drink this, you will\\n\"\n\"recover your life energy.\\n\"\n\"This is a single dose.\" QUICKTEXT_DISABLE PERSISTENT",
+    "el_msg": "QUICKTEXT_ENABLE COLOR(RED) \"Ἐρυθρὸν Φάρμακον   40 Ῥούπια\\n\"\nCOLOR(DEFAULT) \"Πιὼν τοῦτο, ἀνακτήσῃ\\n\"\n\"τὴν ζωτικήν σου ἰσχύν.\\n\"\n\"Ἁπλῆ δ' ἐστὶ δόσις.\" QUICKTEXT_DISABLE PERSISTENT"
+  },
+  {
+    "id": "0x0065",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "QUICKTEXT_ENABLE COLOR(RED) \"Red Potion   50 Rupees\\n\"\nCOLOR(DEFAULT) \"If you drink this, you will\\n\"\n\"recover your life energy.\\n\"\n\"This is a single dose.\" QUICKTEXT_DISABLE PERSISTENT",
+    "el_msg": "QUICKTEXT_ENABLE COLOR(RED) \"Ἐρυθρὸν Φάρμακον   50 Ῥούπια\\n\"\nCOLOR(DEFAULT) \"Πιὼν τοῦτο, ἀνακτήσῃ\\n\"\n\"τὴν ζωτικήν σου ἰσχύν.\\n\"\n\"Ἁπλῆ δ' ἐστὶ δόσις.\" QUICKTEXT_DISABLE PERSISTENT"
+  },
+  {
+    "id": "0x0066",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "ITEM_ICON(ITEM_DUNGEON_MAP) QUICKTEXT_ENABLE \"You found the \" COLOR(RED) \"Dungeon Map\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Press \" COLOR(RED) \"START \" COLOR(DEFAULT) \"to get into the \\n\"\n\"Subscreens and look at the\\n\"\nCOLOR(RED) \"Map Subscreen\" COLOR(DEFAULT) \"!\"\nBOX_BREAK\n\nITEM_ICON(ITEM_DUNGEON_MAP) COLOR(BLUE) \"Blue chambers\" COLOR(DEFAULT) \" are places \\n\"\n\"you have already visited. \\n\"\n\"Your current location is \\n\"\n\"the \" COLOR(LIGHTBLUE) \"flashing room\" COLOR(DEFAULT) \".\"\nBOX_BREAK\n\nITEM_ICON(ITEM_DUNGEON_MAP) \"Move \" COLOR(LIGHTBLUE) \"[Control-Pad] up and down\" COLOR(DEFAULT) \" to \\n\"\n\"select a floor to view.\"",
+    "el_msg": "ITEM_ICON(ITEM_DUNGEON_MAP) QUICKTEXT_ENABLE \"Εὗρες τὸν \" COLOR(RED) \"Χάρτην τοῦ\\n\"\n\"Δεσμωτηρίου\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Πίεσον \" COLOR(RED) \"START \" COLOR(DEFAULT) \"εἰς τὰς ὀθόνας\\n\"\n\"καὶ ἴδε τὸν \" COLOR(RED) \"Χάρτην\" COLOR(DEFAULT) \"!\"\nBOX_BREAK\n\nITEM_ICON(ITEM_DUNGEON_MAP) COLOR(BLUE) \"Κυανοῖ οἶκοι\" COLOR(DEFAULT) \" εἰσὶν οὺς ἤδη\\n\"\n\"ἐπεσκέψω. Ἐν δὲ τῷ \" COLOR(LIGHTBLUE) \"στίλβοντι\\n\"\n\"οἴκῳ\" COLOR(DEFAULT) \" νῦν εἶ.\"\nBOX_BREAK\n\nITEM_ICON(ITEM_DUNGEON_MAP) \"Κίνει \" COLOR(LIGHTBLUE) \"[Control-Pad] ἄνω καὶ κάτω\" COLOR(DEFAULT) \"\\n\"\n\"ἵνα ἐπιλέξῃς στέγην.\""
+  },
+  {
+    "id": "0x0067",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "ITEM_ICON(ITEM_DUNGEON_COMPASS) QUICKTEXT_ENABLE \"You found the \" COLOR(RED) \"Compass\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Now you can see the locations\\n\"\n\"of many hidden things in the\\n\"\n\"dungeon!\"",
+    "el_msg": "ITEM_ICON(ITEM_DUNGEON_COMPASS) QUICKTEXT_ENABLE \"Εὗρες τὴν \" COLOR(RED) \"Πυξίδα\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Δύνασαι νῦν ὁρᾶν τὰς θέσεις\\n\"\n\"πολλῶν κεκρυμμένων πραγμάτων\\n\"\n\"ἐν τῷ δεσμωτηρίῳ!\""
+  },
+  {
+    "id": "0x0068",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE ITEM_ICON(ITEM_STONE_OF_AGONY) QUICKTEXT_ENABLE \"You obtained the \" COLOR(RED) \"Stone of Agony\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"If you equip a \" COLOR(LIGHTBLUE) \"Rumble Pak\" COLOR(DEFAULT) \", it\\n\"\n\"will react to nearby...secrets.\"",
+    "el_msg": "UNSKIPPABLE ITEM_ICON(ITEM_STONE_OF_AGONY) QUICKTEXT_ENABLE \"Ἔλαβες τὸν \" COLOR(RED) \"Λίθον τῆς Ἀγωνίας\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Ἐὰν ἁρμόσῃς \" COLOR(LIGHTBLUE) \"Rumble Pak\" COLOR(DEFAULT) \", κρα-\\n\"\n\"δανθήσεται πλησίον ὄντων\\n\"\n\"μυστικῶν πραγμάτων.\""
+  },
+  {
+    "id": "0x0069",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE ITEM_ICON(ITEM_ZELDAS_LETTER) QUICKTEXT_ENABLE \"You received \" COLOR(RED) \"Zelda's Letter\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Wow! This letter has Princess\\n\"\n\"Zelda's autograph! Set it to \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \"\\n\"\n\"and show it with \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \".\"\nBOX_BREAK\n\nUNSKIPPABLE ITEM_ICON(ITEM_ZELDAS_LETTER) \"On the \" COLOR(YELLOW) \"Select Item Subscreen\" COLOR(DEFAULT) \",\\n\"\n\"you can set it to \" COLOR(YELLOW) \"[C-Left]\" COLOR(DEFAULT) \", \" COLOR(YELLOW) \"[C-Down] \" COLOR(DEFAULT) \"or \" COLOR(YELLOW) \"[C-Right]\" COLOR(DEFAULT) \",\\n\"\n\"and then use that \" COLOR(YELLOW) \"[C] \" COLOR(DEFAULT) \"to show it\\n\"\n\"to people.\"",
+    "el_msg": "UNSKIPPABLE ITEM_ICON(ITEM_ZELDAS_LETTER) QUICKTEXT_ENABLE \"Ἔλαβες \" COLOR(RED) \"Ἐπιστολὴν τῆς Ζέλδας\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Βαβαί! Αὐτόγραφός ἐστι τῆς\\n\"\n\"βασιλίδος Ζέλδας! Τάξον ἐν \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \"\\n\"\n\"καὶ δεῖξον διὰ τοῦ \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \".\"\nBOX_BREAK\n\nUNSKIPPABLE ITEM_ICON(ITEM_ZELDAS_LETTER) \"Ἐν τῇ \" COLOR(YELLOW) \"Ἐκλογῇ Σκευῶν\" COLOR(DEFAULT) \", τάξον\\n\"\n\"αὐτὴν ἐν \" COLOR(YELLOW) \"[C-Left]\" COLOR(DEFAULT) \", \" COLOR(YELLOW) \"[C-Down] \" COLOR(DEFAULT) \"ἢ \" COLOR(YELLOW) \"[C-Right]\" COLOR(DEFAULT) \",\\n\"\n\"καὶ χρῶ τῷ \" COLOR(YELLOW) \"[C] \" COLOR(DEFAULT) \"ἵνα δεικνύῃς\\n\"\n\"τοῖς ἀνθρώποις.\""
+  },
+  {
+    "id": "0x006A",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "QUICKTEXT_ENABLE \"Welcome! May I help you?\" QUICKTEXT_DISABLE \"\\n\"\n\"\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"I want to shop\\n\"\n    \"Just looking\" COLOR(DEFAULT)",
+    "el_msg": "QUICKTEXT_ENABLE \"Χαῖρε! Τί σοι ποιήσω;\" QUICKTEXT_DISABLE \"\\n\"\n\"\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Ἀγοράσαι βούλομαι\\n\"\n    \"Μόνον θεωρῶ\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x006B",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "QUICKTEXT_ENABLE \"Would you like to buy something\\n\"\n\"else?\" QUICKTEXT_DISABLE \"\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Yes\\n\"\n    \"No\" COLOR(DEFAULT)",
+    "el_msg": "QUICKTEXT_ENABLE \"Ἆρα βούλει ἀγοράσαι τι\\n\"\n\"ἄλλο;\" QUICKTEXT_DISABLE \"\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Ναί\\n\"\n    \"Οὔ\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x006C",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "ITEM_ICON(ITEM_BULLET_BAG_50) QUICKTEXT_ENABLE \"Your \" COLOR(RED) \"Deku Seeds Bullet Bag \\n\"\nCOLOR(DEFAULT) \"has become bigger!\" QUICKTEXT_DISABLE \"\\n\"\n\"Now you can carry more bullets!\\n\"\n\"This bag can hold \" COLOR(YELLOW) \"50\" COLOR(RED) \" \" COLOR(DEFAULT) \"bullets!\"",
+    "el_msg": "ITEM_ICON(ITEM_BULLET_BAG_50) QUICKTEXT_ENABLE \"Ὁ \" COLOR(RED) \"Θύλακος Σπερμάτων Δέκου\\n\"\nCOLOR(DEFAULT) \"μείζων ἐγένετο!\" QUICKTEXT_DISABLE \"\\n\"\n\"Δύνασαι νῦν πλείονα φέρειν!\\n\"\n\"Χωρεῖ γὰρ οὗτος \" COLOR(YELLOW) \"50\" COLOR(RED) \" \" COLOR(DEFAULT) \"σπέρματα!\""
+  },
+  {
+    "id": "0x006D",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Open the chest and...Surprise!\\n\"\n\"If you find a Key inside, you'll \\n\"\n\"be able to advance. Left or\\n\"\n\"right--try your luck!\"\nBOX_BREAK\n\nCOLOR(RED) \"10 Rupees \" COLOR(DEFAULT) \"to play. Do you want \\n\"\n\"to try it?\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Yes\\n\"\n    \"No\" COLOR(DEFAULT)",
+    "el_msg": "\"Ἄνοιξον τὴν κιβωτόν... ἰδού!\\n\"\n\"Εὑρὼν γὰρ ἔνδον Κλειδίον,\\n\"\n\"δυνήσῃ προβαίνειν. Δεξιὰ ἢ\\n\"\n\"ἀριστερά--πείρασον τύχης!\"\nBOX_BREAK\n\nCOLOR(RED) \"10 Ῥούπια \" COLOR(DEFAULT) \"ἡ παιδιά. Ἆρα\\n\"\n\"βούλει πειρᾶσαι;\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Ναί\\n\"\n    \"Οὔ\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x006E",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_VARIABLE",
+    "en_msg": "\"Great! You are a real gambler!\"",
+    "el_msg": "\"Εὖγε! Ὡς ἀληθῶς κυβευτὴς εἶ!\""
+  },
+  {
+    "id": "0x006F",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "QUICKTEXT_ENABLE \"You got a \" COLOR(ADJUSTABLE) \"Green Rupee\" COLOR(DEFAULT) \"!\\n\"\n\"That's \" COLOR(ADJUSTABLE) \"one Rupee\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE",
+    "el_msg": "QUICKTEXT_ENABLE \"Ἔλαβες \" COLOR(ADJUSTABLE) \"Χλωρὸν Ῥούπιον\" COLOR(DEFAULT) \"!\\n\"\n\"Τοῦτό ἐστιν \" COLOR(ADJUSTABLE) \"ἓν Ῥούπιον\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE"
+  },
+  {
+    "id": "0x0070",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE ITEM_ICON(ITEM_ARROW_FIRE) QUICKTEXT_ENABLE \"You got the \" COLOR(RED) \"Fire Arrow\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Set it to \" COLOR(YELLOW) \"[C] \" COLOR(DEFAULT) \"and your arrows will\\n\"\n\"be powered up! If you hit\\n\"\n\"your target, it will catch fire.\"",
+    "el_msg": "UNSKIPPABLE ITEM_ICON(ITEM_ARROW_FIRE) QUICKTEXT_ENABLE \"Ἔλαβες τὸ \" COLOR(RED) \"Βέλος τοῦ Πυρός\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Τάξον ἐν \" COLOR(YELLOW) \"[C] \" COLOR(DEFAULT) \"καὶ τὰ βέλη σου\\n\"\n\"δυναμωθήσεται! Ἐὰν δὲ πλήξῃς\\n\"\n\"τὸν σκοπόν, ἐκπυρωθήσεται.\""
+  },
+  {
+    "id": "0x0071",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE ITEM_ICON(ITEM_ARROW_ICE) QUICKTEXT_ENABLE \"You got the \" COLOR(BLUE) \"Ice Arrow\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Set it to \" COLOR(YELLOW) \"[C] \" COLOR(DEFAULT) \"and your arrows will\\n\"\n\"be powered up! If you hit your \\n\"\n\"target, it will freeze.\"\nBOX_BREAK\n\nUNSKIPPABLE ITEM_ICON(ITEM_ARROW_ICE) \"This arrow magic is granted\\n\"\n\"only to those who complete the \\n\"\n\"difficult training of the Gerudos,\\n\"\n\"so use it with pride!\"",
+    "el_msg": "UNSKIPPABLE ITEM_ICON(ITEM_ARROW_ICE) QUICKTEXT_ENABLE \"Ἔλαβες τὸ \" COLOR(BLUE) \"Βέλος τοῦ Κρυστάλλου\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Τάξον ἐν \" COLOR(YELLOW) \"[C] \" COLOR(DEFAULT) \"καὶ δυναμωθήσεται!\\n\"\n\"Ἐὰν δὲ πλήξῃς τὸν σκοπόν,\\n\"\n\"παγήσεται.\"\nBOX_BREAK\n\nUNSKIPPABLE ITEM_ICON(ITEM_ARROW_ICE) \"Αὕτη ἡ μαγεία δίδοται μόνοις\\n\"\n\"τοῖς τὴν χαλεπὴν ἄσκησιν\\n\"\n\"τῶν Γερούδων τελέσασιν,\\n\"\n\"ὥστε χρῶ μετὰ σεμνότητος!\""
+  },
+  {
+    "id": "0x0072",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE ITEM_ICON(ITEM_ARROW_LIGHT) QUICKTEXT_ENABLE \"You got the \" COLOR(LIGHTBLUE) \"Light Arrow\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Set it to \" COLOR(YELLOW) \"[C] \" COLOR(DEFAULT) \"and your arrows will\\n\"\n\"be powered up! The light of\\n\"\n\"justice will smite evil!\"",
+    "el_msg": "UNSKIPPABLE ITEM_ICON(ITEM_ARROW_LIGHT) QUICKTEXT_ENABLE \"Ἔλαβες τὸ \" COLOR(LIGHTBLUE) \"Βέλος τοῦ Φωτός\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Τάξον ἐν \" COLOR(YELLOW) \"[C] \" COLOR(DEFAULT) \"καὶ δυναμωθήσεται!\\n\"\n\"Τὸ γὰρ φῶς τῆς δικαιοσύνης\\n\"\n\"πατάξει τὸ πονηρόν!\""
+  },
+  {
+    "id": "0x0073",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE SHIFT(40) \"You have learned the\\n\"\nSHIFT(47) COLOR(ADJUSTABLE) \"Minuet of Forest\" COLOR(DEFAULT) \"!\"",
+    "el_msg": "UNSKIPPABLE SHIFT(40) \"Ἔμαθες τὸ\\n\"\nSHIFT(40) COLOR(ADJUSTABLE) \"Μινουέτον τῆς Ὕλης\" COLOR(DEFAULT) \"!\""
+  },
+  {
+    "id": "0x0074",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE SHIFT(40) \"You have learned the\\n\"\nSHIFT(55) COLOR(RED) \"Bolero of Fire\" COLOR(DEFAULT) \"!\"",
+    "el_msg": "UNSKIPPABLE SHIFT(40) \"Ἔμαθες τὸ\\n\"\nSHIFT(45) COLOR(RED) \"Μπολερὸ τοῦ Πυρός\" COLOR(DEFAULT) \"!\""
+  },
+  {
+    "id": "0x0075",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE SHIFT(40) \"You have learned the \\n\"\nSHIFT(41) COLOR(BLUE) \"Serenade of Water\" COLOR(DEFAULT) \"!\"",
+    "el_msg": "UNSKIPPABLE SHIFT(40) \"Ἔμαθες τὴν \\n\"\nSHIFT(40) COLOR(BLUE) \"Σερενάταν τοῦ Ὕδατος\" COLOR(DEFAULT) \"!\""
+  },
+  {
+    "id": "0x0076",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE SHIFT(40) \"You have learned the \\n\"\nSHIFT(45) COLOR(YELLOW) \"Requiem of Spirit\" COLOR(DEFAULT) \"!\"",
+    "el_msg": "UNSKIPPABLE SHIFT(40) \"Ἔμαθες τὸ \\n\"\nSHIFT(35) COLOR(YELLOW) \"Ἐπιτάφιον τοῦ Πνεύματος\" COLOR(DEFAULT) \"!\""
+  },
+  {
+    "id": "0x0077",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE SHIFT(40) \"You have learned the \\n\"\nSHIFT(40) COLOR(PURPLE) \"Nocturne of Shadow\" COLOR(DEFAULT) \"!\"",
+    "el_msg": "UNSKIPPABLE SHIFT(40) \"Ἔμαθες τὸ \\n\"\nSHIFT(40) COLOR(PURPLE) \"Νυκτερινὸν τῆς Σκιᾶς\" COLOR(DEFAULT) \"!\""
+  },
+  {
+    "id": "0x0078",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE SHIFT(40) \"You have learned the \\n\"\nSHIFT(50) COLOR(LIGHTBLUE) \"Prelude of Light\" COLOR(DEFAULT) \"!\"",
+    "el_msg": "UNSKIPPABLE SHIFT(40) \"Ἔμαθες τὸ \\n\"\nSHIFT(40) COLOR(LIGHTBLUE) \"Προοίμιον τοῦ Φωτός\" COLOR(DEFAULT) \"!\""
+  },
+  {
+    "id": "0x0079",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE ITEM_ICON(ITEM_STRENGTH_GORONS_BRACELET) QUICKTEXT_ENABLE \"You got the \" COLOR(RED) \"Goron's Bracelet\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Now you can pull up Bomb \\n\"\n\"Flowers. Stand next to one and\\n\"\n\"use \" COLOR(BLUE) \"[A]\" COLOR(DEFAULT) \" to pull it up!\"",
+    "el_msg": "UNSKIPPABLE ITEM_ICON(ITEM_STRENGTH_GORONS_BRACELET) QUICKTEXT_ENABLE \"Ἔλαβες τὸ \" COLOR(RED) \"Ψέλιον τῶν Γορώνων\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Δύνασαι νῦν ἀνασπᾶν Βομβοφόρα\\n\"\n\"Ἄνθη. Στὰς δὲ πλησίον,\\n\"\n\"χρῶ τῷ \" COLOR(BLUE) \"[A]\" COLOR(DEFAULT) \" ἵνα ἀνασπάσῃς!\""
+  },
+  {
+    "id": "0x007A",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "ITEM_ICON(ITEM_BOTTLE_BUG) QUICKTEXT_ENABLE \"You put a \" COLOR(RED) \"Bug \" COLOR(DEFAULT) \"in the bottle!\" QUICKTEXT_DISABLE \"\\n\"\n\"You can release it by pressing\\n\"\nCOLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \". This kind of bug prefers to\\n\"\n\"live in small holes in the ground.\"",
+    "el_msg": "ITEM_ICON(ITEM_BOTTLE_BUG) QUICKTEXT_ENABLE \"Ἐνέβαλες \" COLOR(RED) \"Ἔντομον \" COLOR(DEFAULT) \"εἰς τὴν λήκυθον!\" QUICKTEXT_DISABLE \"\\n\"\n\"Δύνασαι ἀπολῦσαι πιέσας\\n\"\n\"τὸ \" COLOR(YELLOW) \"[C]\" COLOR(DEFAULT) \". Τοιοῦτο δ' ἔντομον\\n\"\n\"φιλεῖ οἰκεῖν ἐν ὀπαῖς τῆς γῆς.\""
+  },
+  {
+    "id": "0x007B",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE ITEM_ICON(ITEM_GERUDOS_CARD) QUICKTEXT_ENABLE \"You obtained the \" COLOR(RED) \"Gerudo's \\n\"\n\"Membership Card\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"You can get into the Gerudo's\\n\"\n\"training ground in their hideout.\"",
+    "el_msg": "UNSKIPPABLE ITEM_ICON(ITEM_GERUDOS_CARD) QUICKTEXT_ENABLE \"Ἔλαβες τὸ \" COLOR(RED) \"Γνώρισμα\\n\"\n\"τῶν Γερούδων\" COLOR(DEFAULT) \"!\" QUICKTEXT_DISABLE \"\\n\"\n\"Δύνασαι νῦν εἰσιέναι εἰς τὸ\\n\"\n\"γυμνάσιον ἐν τῷ ὀχυρώματι.\""
+  },
+  {
+    "id": "0x007C",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "QUICKTEXT_ENABLE \"Bombs  10 pieces  50 Rupees\" QUICKTEXT_DISABLE \"\\n\"\n\"\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Buy\\n\"\n    \"Don't buy\" COLOR(DEFAULT)",
+    "el_msg": "QUICKTEXT_ENABLE \"Βόμβαι  10 τεμάχια  50 Ῥούπια\" QUICKTEXT_DISABLE \"\\n\"\n\"\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Ἀγοράσαι\\n\"\n    \"Μὴ ἀγοράσαι\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x007D",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "QUICKTEXT_ENABLE \"Arrows  50 pieces  90 Rupees\" QUICKTEXT_DISABLE \"\\n\"\n\"\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Buy\\n\"\n    \"Don't buy\" COLOR(DEFAULT)",
+    "el_msg": "QUICKTEXT_ENABLE \"Βέλη  50 τεμάχια  90 Ῥούπια\" QUICKTEXT_DISABLE \"\\n\"\n\"\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Ἀγοράσαι\\n\"\n    \"Μὴ ἀγοράσαι\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x007E",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "QUICKTEXT_ENABLE \"Fish   200 Rupees\" QUICKTEXT_DISABLE \"\\n\"\n\"\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Buy\\n\"\n    \"Don't buy\" COLOR(DEFAULT)",
+    "el_msg": "QUICKTEXT_ENABLE \"Ἰχθύς   200 Ῥούπια\" QUICKTEXT_DISABLE \"\\n\"\n\"\\n\"\nTWO_CHOICE\n    COLOR(ADJUSTABLE) \"Ἀγοράσαι\\n\"\n    \"Μὴ ἀγοράσαι\" COLOR(DEFAULT)"
+  }
+]

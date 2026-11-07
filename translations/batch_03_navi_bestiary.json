@@ -1,0 +1,1080 @@
+[
+  {
+    "id": "0x0100",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "COLOR(LIGHTBLUE) \"What's that?\" COLOR(DEFAULT)",
+    "el_msg": "COLOR(LIGHTBLUE) \"Τί ἐστι τοῦτο;\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x0101",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"Look, look, \" NAME \"!\\n\"\n\"You can see down below this \" COLOR(DEFAULT) \"web\" COLOR(LIGHTBLUE) \"\\n\"\n\"using \" COLOR(YELLOW) \"[C-Up]\" COLOR(LIGHTBLUE) \"!\" COLOR(DEFAULT)",
+    "el_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"Βλέπε, βλέπε, ὦ \" NAME \"!\n\" \"Ἔξεστι κάτω τοῦδε τοῦ\n\" COLOR(DEFAULT) \"ἀραχνίου \" COLOR(LIGHTBLUE) \"ὁρᾶν διὰ τοῦ\n\" COLOR(YELLOW) \"[C-Up]\" COLOR(LIGHTBLUE) \"!\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x0102",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"Look at this wall! The vines\\n\"\n\"growing on it give it a rough\\n\"\n\"surface... Maybe you can climb \\n\"\n\"it, \" NAME \"!\" COLOR(DEFAULT)",
+    "el_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"Ἴδε τὸν τοῖχον! Αἱ ἄμπελοι\n\" \"τραχεῖαν ποιοῦσι τὴν\n\" \"ἐπιφάνειαν... Ἴσως δύνασαι\n\" \"ἀναβαίνειν, ὦ \" NAME \"!\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x0103",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"You can open a \" COLOR(DEFAULT) \"door\" COLOR(LIGHTBLUE) \" by standing\\n\"\n\"in front of it and pressing \" COLOR(BLUE) \"[A]\" COLOR(LIGHTBLUE) \".\" COLOR(DEFAULT)\nBOX_BREAK\n\nUNSKIPPABLE COLOR(LIGHTBLUE) \"Pay attention to what the\\n\"\nCOLOR(BLUE) \"Action\" COLOR(LIGHTBLUE) \" \" COLOR(BLUE) \"Icon\" COLOR(LIGHTBLUE) \" says.\\n\"\n\"That's the \" COLOR(BLUE) \"blue icon\" COLOR(LIGHTBLUE) \" at the top of\\n\"\n\"the screen!\" COLOR(DEFAULT)",
+    "el_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"Δύνασαι ἀνοῖξαι \" COLOR(DEFAULT) \"θύραν\n\" COLOR(LIGHTBLUE) \"στὰς ἔμπροσθεν καὶ πιέσας\n\" \"τὸ πλῆκτρον \" COLOR(BLUE) \"[A]\" COLOR(LIGHTBLUE) \".\" COLOR(DEFAULT)\nBOX_BREAK\n\nUNSKIPPABLE COLOR(LIGHTBLUE) \"Πρόσεχε ὅ τι λέγει τὸ\n\" COLOR(BLUE) \"Σημεῖον \" COLOR(LIGHTBLUE) \"τῆς \" COLOR(BLUE) \"Πράξεως\" COLOR(LIGHTBLUE) \".\n\" \"Τοῦτό ἐστι τὸ \" COLOR(BLUE) \"κυανοῦν σημεῖον\n\" COLOR(LIGHTBLUE) \"ἄνωθεν τῆς ὀθόνης!\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x0104",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"Look! Something is hanging up\\n\"\n\"there! It looks like an old \" COLOR(DEFAULT) \"ladder\" COLOR(LIGHTBLUE) \"!\" COLOR(DEFAULT)",
+    "el_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"Ἰδού! Τί κρέμαται ἐκεῖ ἄνω;\n\" \"Ἔοικε παλαιᾷ \" COLOR(DEFAULT) \"κλίμακι\" COLOR(LIGHTBLUE) \"!\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x0105",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"Hey...\\n\"\n\"Isn't that the same design that's\\n\"\n\"on the \" COLOR(DEFAULT) \"Door of Time\" COLOR(LIGHTBLUE) \"?\" COLOR(DEFAULT)",
+    "el_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"Εἶα...\n\" \"Ἆρ' οὐ τοῦτό ἐστι τὸ αὐτὸ\n\" \"σχῆμα ὃ ἐπὶ τῆς \" COLOR(DEFAULT) \"Θύρας\n\" \"τοῦ Χρόνου\" COLOR(LIGHTBLUE) \";\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x0106",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"It looks like that torch was\\n\"\n\"burning not too long ago...\" COLOR(DEFAULT)",
+    "el_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"Ἔοικεν ἡ λαμπὰς αὕτη\n\" \"οὐ πρὸ πολλοῦ καίεσθαι...\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x0107",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"From here on, we'll be going\\n\"\n\"through some narrow passages!\\n\"\n\"If you take it slow, maybe you\\n\"\n\"can sneak up on some enemies.\"\nBOX_BREAK\n\nCOLOR(DEFAULT) UNSKIPPABLE COLOR(LIGHTBLUE) \"Use \" COLOR(DEFAULT) \"[Z] Targeting \" COLOR(LIGHTBLUE) \"to always look\\n\"\n\"in the proper direction. Set your\\n\"\n\"view so you can see down the next\\n\"\n\"corridor before you turn a corner.\"\nBOX_BREAK\n\nCOLOR(DEFAULT) UNSKIPPABLE COLOR(LIGHTBLUE) \"Once your view is set, hold down\\n\"\nCOLOR(DEFAULT) \"[Z] \" COLOR(LIGHTBLUE) \"to \" COLOR(DEFAULT) \"sidestep \" COLOR(LIGHTBLUE) \"around the corner.\\n\"\n\"That way you won't be surprised\\n\"\n\"by an enemy waiting in ambush.\" COLOR(DEFAULT)",
+    "el_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"Ἐντεῦθεν διὰ στενῶν\n\" \"διελευσόμεθα ὁδῶν!\n\" \"Ἐὰν δὲ βραδέως βαδίζῃς, ἴσως\n\" \"λάθρᾳ τοῖς ἐχθροῖς προσελεύσῃ.\"\nBOX_BREAK\n\nCOLOR(DEFAULT) UNSKIPPABLE COLOR(LIGHTBLUE) \"Χρῶ τῇ \" COLOR(DEFAULT) \"διὰ τοῦ [Z] Σκοπεύσει\n\" COLOR(LIGHTBLUE) \"ἵνα ὀρθῶς βλέπῃς. Ὅρα τὴν\n\" \"ἑξῆς διάβασιν πρὶν ἢ κάμψαι\n\" \"τὴν γωνίαν.\"\nBOX_BREAK\n\nCOLOR(DEFAULT) UNSKIPPABLE COLOR(LIGHTBLUE) \"Κατόπιν δὲ κατάσχες τὸ \" COLOR(DEFAULT) \"[Z]\n\" COLOR(LIGHTBLUE) \"ἵνα \" COLOR(DEFAULT) \"πλαγίως παρακάμψῃς\" COLOR(LIGHTBLUE) \".\n\" \"Οὕτως οὐκ ἐξαίφνης ὑπ' ἐνέδρας\n\" \"ἐχθροῦ ταραχθήσῃ.\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x0108",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"Stand next to this \" COLOR(DEFAULT) \"block\" COLOR(LIGHTBLUE) \" and grab\\n\"\n\"hold of it with \" COLOR(BLUE) \"[A]\" COLOR(LIGHTBLUE) \". While holding\\n\"\nCOLOR(BLUE) \"[A]\" COLOR(LIGHTBLUE) \", you can push or pull it.\"\nBOX_BREAK\n\nCOLOR(DEFAULT) UNSKIPPABLE COLOR(LIGHTBLUE) \"If you stand next to the \" COLOR(DEFAULT) \"block\" COLOR(LIGHTBLUE) \"\\n\"\n\"and press \" COLOR(BLUE) \"[A]\" COLOR(LIGHTBLUE) \" while pressing \" COLOR(DEFAULT) \"[Control-Pad]\" COLOR(LIGHTBLUE) \"\\n\"\n\"towards the \" COLOR(DEFAULT) \"block\" COLOR(LIGHTBLUE) \", you can climb\\n\"\n\"on top of it.\"\nBOX_BREAK\n\nCOLOR(DEFAULT) UNSKIPPABLE COLOR(LIGHTBLUE) \"Pay attention to what the \" COLOR(BLUE) \"Action\\n\"\n\"Icon \" COLOR(LIGHTBLUE) \"says!\" COLOR(DEFAULT)",
+    "el_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"Στὰς παρὰ τὸν \" COLOR(DEFAULT) \"λίθον\" COLOR(LIGHTBLUE) \" τοῦτον,\n\" \"λάβε αὐτὸν διὰ τοῦ \" COLOR(BLUE) \"[A]\" COLOR(LIGHTBLUE) \".\n\" \"Κατέχων δὲ τὸ \" COLOR(BLUE) \"[A]\" COLOR(LIGHTBLUE) \", δύνασαι\n\" \"ὠθεῖν ἢ ἕλκειν αὐτόν.\"\nBOX_BREAK\n\nCOLOR(DEFAULT) UNSKIPPABLE COLOR(LIGHTBLUE) \"Ἐὰν δὲ στὰς παρ' αὐτὸν\n\" \"πιέσῃς τὸ \" COLOR(BLUE) \"[A] \" COLOR(LIGHTBLUE) \"κινῶν τὸν\n\" COLOR(DEFAULT) \"[Control-Pad] \" COLOR(LIGHTBLUE) \"πρὸς τὸν \" COLOR(DEFAULT) \"λίθον\" COLOR(LIGHTBLUE) \",\n\" \"ἀναβήσῃ ἐπ' αὐτόν.\"\nBOX_BREAK\n\nCOLOR(DEFAULT) UNSKIPPABLE COLOR(LIGHTBLUE) \"Πρόσεχε ὅ τι λέγει τὸ\n\" COLOR(BLUE) \"Σημεῖον τῆς Πράξεως\" COLOR(LIGHTBLUE) \"!\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x0109",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"0109\"",
+    "el_msg": "\"0109\""
+  },
+  {
+    "id": "0x010A",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"010a\"",
+    "el_msg": "\"010a\""
+  },
+  {
+    "id": "0x010B",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"010b\"",
+    "el_msg": "\"010b\""
+  },
+  {
+    "id": "0x010C",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"After you get into the water, if\\n\"\n\"you hold down\" COLOR(BLUE) \" [A]\" COLOR(LIGHTBLUE) \", you can dive!\\n\"\n\"I bet there are some interesting\\n\"\n\"things underwater!\" COLOR(DEFAULT)",
+    "el_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"Εἰσελθὼν εἰς τὸ ὕδωρ, ἐὰν\n\" \"κατάσχῃς τὸ\" COLOR(BLUE) \" [A]\" COLOR(LIGHTBLUE) \", δύνασαι\n\" \"καταδύεσθαι! Ἐκεῖ δή τινα\n\" \"θαυμαστὰ ὑπὸ ὕδωρ ἐστίν!\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x010D",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"010d\"",
+    "el_msg": "\"010d\""
+  },
+  {
+    "id": "0x010E",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"010e\"",
+    "el_msg": "\"010e\""
+  },
+  {
+    "id": "0x010F",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"010f\"",
+    "el_msg": "\"010f\""
+  },
+  {
+    "id": "0x0110",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"0110\"",
+    "el_msg": "\"0110\""
+  },
+  {
+    "id": "0x0111",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"0111\"",
+    "el_msg": "\"0111\""
+  },
+  {
+    "id": "0x0112",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"0112\"",
+    "el_msg": "\"0112\""
+  },
+  {
+    "id": "0x0113",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"0113\"",
+    "el_msg": "\"0113\""
+  },
+  {
+    "id": "0x0114",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"Wow! Look at all those \\n\"\nCOLOR(DEFAULT) \"Bomb Flowers\" COLOR(LIGHTBLUE) \"!\" COLOR(DEFAULT)\nBOX_BREAK\n\nUNSKIPPABLE COLOR(LIGHTBLUE) \"Is there any way you can set\\n\"\n\"them all off at once?\" COLOR(DEFAULT)",
+    "el_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"Βαβαί! Ἰδοὺ τοσαῦτα\n\" COLOR(DEFAULT) \"Ἄνθη Βόμβης\" COLOR(LIGHTBLUE) \"!\" COLOR(DEFAULT)\nBOX_BREAK\n\nUNSKIPPABLE COLOR(LIGHTBLUE) \"Ἆρ' ἔστι τρόπος ὥστε πάντα\n\" \"ἅμα ἐκραγῆναι;\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x0115",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"It looks like there are many \" COLOR(DEFAULT) \"lava\\n\"\n\"pits \" COLOR(LIGHTBLUE) \"around here, so watch your\\n\"\n\"step!\" COLOR(DEFAULT)",
+    "el_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"Ἔοικεν ἐνθάδε πολλοὺς εἶναι\n\" COLOR(DEFAULT) \"βόθρους λάβας\" COLOR(LIGHTBLUE) \", ὥστε φύλαττε\n\" \"τοὺς πόδας σου!\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x0116",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"With that switch on, the moving\\n\"\nCOLOR(DEFAULT) \"platform \" COLOR(LIGHTBLUE) \"goes higher. Now you can\\n\"\n\"quickly reach the second floor!\" COLOR(DEFAULT)",
+    "el_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"Κινηθέντος τοῦ μοχλοῦ, τὸ\n\" COLOR(DEFAULT) \"βάθρον \" COLOR(LIGHTBLUE) \"ὑψηλότερον αἴρεται.\n\" \"Νῦν δὴ ταχέως φθάσεις εἰς\n\" \"τὸ δεύτερον τέγος!\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x0117",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"0117\"",
+    "el_msg": "\"0117\""
+  },
+  {
+    "id": "0x0118",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"0118\"",
+    "el_msg": "\"0118\""
+  },
+  {
+    "id": "0x0119",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"You never know what will be \\n\"\n\"around the corner in these narrow\\n\"\n\"paths....\"\nBOX_BREAK\n\nCOLOR(DEFAULT) UNSKIPPABLE COLOR(LIGHTBLUE) \"Use \" COLOR(DEFAULT) \"[Z] Targeting \" COLOR(LIGHTBLUE) \"to always look\\n\"\n\"in the proper direction. This is a\\n\"\n\"useful technique, isn't it?\" COLOR(DEFAULT)",
+    "el_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"Οὐδεὶς οἶδεν ὅ τι ἔσται\n\" \"μετὰ τὴν γωνίαν ἐν ταύταις\n\" \"ταῖς στεναῖς ὁδοῖς....\"\nBOX_BREAK\n\nCOLOR(DEFAULT) UNSKIPPABLE COLOR(LIGHTBLUE) \"Χρῶ τῇ \" COLOR(DEFAULT) \"διὰ τοῦ [Z] Σκοπεύσει\n\" COLOR(LIGHTBLUE) \"ἵνα ὀρθῶς βλέπῃς. Οὐχὶ\n\" \"χρησίμη ἐστὶν αὕτη ἡ\n\" \"τέχνη;\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x011A",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"011a\"",
+    "el_msg": "\"011a\""
+  },
+  {
+    "id": "0x011B",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"011b\"",
+    "el_msg": "\"011b\""
+  },
+  {
+    "id": "0x011C",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"011c\"",
+    "el_msg": "\"011c\""
+  },
+  {
+    "id": "0x011D",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"011d\"",
+    "el_msg": "\"011d\""
+  },
+  {
+    "id": "0x011E",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"011e\"",
+    "el_msg": "\"011e\""
+  },
+  {
+    "id": "0x011F",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) NAME \", what are you \\n\"\n\"looking at?\" COLOR(DEFAULT)",
+    "el_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"Ὦ \" NAME \", τί\n\" \"προσβλέπεις;\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x0120",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"0120\"",
+    "el_msg": "\"0120\""
+  },
+  {
+    "id": "0x0121",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"0121\"",
+    "el_msg": "\"0121\""
+  },
+  {
+    "id": "0x0122",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"0122\"",
+    "el_msg": "\"0122\""
+  },
+  {
+    "id": "0x0123",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"0123\"",
+    "el_msg": "\"0123\""
+  },
+  {
+    "id": "0x0124",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"The Desert Colossus's face...it \\n\"\n\"sure looks evil!\" COLOR(DEFAULT)",
+    "el_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"Τὸ τοῦ Κολοσσοῦ τῆς Ἐρήμου\n\" \"πρόσωπον... πάνυ πονηρὸν\n\" \"φαίνεται!\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x0125",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"0125\"",
+    "el_msg": "\"0125\""
+  },
+  {
+    "id": "0x0126",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"I can hear the spirits whispering \\n\"\n\"in this room...\"\nBOX_BREAK\n\nCOLOR(DEFAULT) UNSKIPPABLE \"\\\"Look for the eye of truth...\\\"\\n\"\nCOLOR(LIGHTBLUE) \"That's what they are saying!\" COLOR(DEFAULT)",
+    "el_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"Ἀκούω τῶν πνευμάτων ἐν\n\" \"τῷδε τῷ οἴκῳ ψιθυριζόντων...\"\nBOX_BREAK\n\nCOLOR(DEFAULT) UNSKIPPABLE \"«Ζήτει τὸν τῆς ἀληθείας\n\" \"ὀφθαλμόν...»\n\" COLOR(LIGHTBLUE) \"Τοῦτο δὴ λέγουσιν!\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x0127",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"0127\"",
+    "el_msg": "\"0127\""
+  },
+  {
+    "id": "0x0128",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"Here...I can hear the spirits\\n\"\n\"whispering in this room...\" COLOR(DEFAULT)\nBOX_BREAK\n\nUNSKIPPABLE \"\\\"Those who have \" COLOR(RED) \"sacred feet \" COLOR(DEFAULT) \"\\n\"\n\"should let the wind guide them.\\n\"\n\"Then, they will be led to the \\n\"\n\"hidden path.\\\"\"\nBOX_BREAK\n\nCOLOR(LIGHTBLUE) \"That's what they are saying!\" COLOR(DEFAULT)",
+    "el_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"Ὡδε... τῶν πνευμάτων ἀκούω\n\" \"ἐν τῷδε τῷ οἴκῳ\n\" \"ψιθυριζόντων...\" COLOR(DEFAULT)\nBOX_BREAK\n\nUNSKIPPABLE \"«Οἱ ἔχοντες \" COLOR(RED) \"ἱεροὺς πόδας\n\" COLOR(DEFAULT) \"ὑπ' ἀνέμου ἀγέσθωσαν.\n\" \"Οὕτω γὰρ ἀχθήσονται πρὸς\n\" \"τὴν κεκρυμμένην ὁδόν.»\"\nBOX_BREAK\n\nCOLOR(LIGHTBLUE) \"Τοῦτο δὴ λέγουσιν!\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x0129",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"This wall...it says something here...\\n\"\nCOLOR(DEFAULT) \"\\\"Danger above...\\\"\" COLOR(LIGHTBLUE) \"\\n\"\n\"That's what it says.\" COLOR(DEFAULT)",
+    "el_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"Ὁ τοῖχος οὗτος... τι λέγει...\n\" COLOR(DEFAULT) \"«Κίνδυνος ἄνωθεν...»\" COLOR(LIGHTBLUE) \"\n\" \"Τοῦτο δὴ λέγει.\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x012A",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"This wall...it says something here...\\n\"\nCOLOR(DEFAULT) \"\\\"Danger below...\\\"\\n\"\nCOLOR(LIGHTBLUE) \"That's what it says.\" COLOR(DEFAULT)",
+    "el_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"Ὁ τοῖχος οὗτος... τι λέγει...\n\" COLOR(DEFAULT) \"«Κίνδυνος κάτωθεν...»\n\" COLOR(LIGHTBLUE) \"Τοῦτο δὴ λέγει.\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x012B",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"The water flowing out of this \\n\"\n\"statue is flooding the entire floor.\" COLOR(DEFAULT)",
+    "el_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"Τὸ ἐκ τοῦ ἀγάλματος ἐκρέον\n\" \"ὕδωρ πᾶν τὸ ἔδαφος\n\" \"ἐπικλύζει.\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x012C",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"012c\"",
+    "el_msg": "\"012c\""
+  },
+  {
+    "id": "0x012D",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"012d\"",
+    "el_msg": "\"012d\""
+  },
+  {
+    "id": "0x012E",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"012e\"",
+    "el_msg": "\"012e\""
+  },
+  {
+    "id": "0x012F",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"Watch out, \" NAME \"!\\n\"\n\"Electricity is running through\\n\"\n\"this \" COLOR(ADJUSTABLE) \"green slimy thing\" COLOR(LIGHTBLUE) \"!\" COLOR(DEFAULT)",
+    "el_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"Φύλαξαι, ὦ \" NAME \"!\n\" \"Ἠλεκτρικὸν ῥεῦμα διατρέχει\n\" \"τοῦτο τὸ \" COLOR(ADJUSTABLE) \"χλωρὸν μυξῶδες\" COLOR(LIGHTBLUE) \"!\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x0130",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"0130\"",
+    "el_msg": "\"0130\""
+  },
+  {
+    "id": "0x0131",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"Watch out \" NAME \"!\\n\"\n\"Electricity is running through\\n\"\n\"this \" COLOR(RED) \"red slimy thing\" COLOR(LIGHTBLUE) \"!\" COLOR(DEFAULT)",
+    "el_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"Φύλαξαι, ὦ \" NAME \"!\n\" \"Ἠλεκτρικὸν ῥεῦμα διατρέχει\n\" \"τοῦτο τὸ \" COLOR(RED) \"ἐρυθρὸν μυξῶδες\" COLOR(LIGHTBLUE) \"!\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x0132",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"Watch out \" NAME \"!\\n\"\n\"Electricity is running through\\n\"\n\"this \" COLOR(BLUE) \"blue slimy thing\" COLOR(LIGHTBLUE) \"!\" COLOR(DEFAULT)",
+    "el_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"Φύλαξαι, ὦ \" NAME \"!\n\" \"Ἠλεκτρικὸν ῥεῦμα διατρέχει\n\" \"τοῦτο τὸ \" COLOR(BLUE) \"κυανοῦν μυξῶδες\" COLOR(LIGHTBLUE) \"!\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x0133",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"This \" COLOR(DEFAULT) \"switch\" COLOR(LIGHTBLUE) \"...\\n\"\n\"It doesn't look like you can press\\n\"\n\"it down with your weight alone,\\n\"\nNAME \"...\" COLOR(DEFAULT)",
+    "el_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"Ὁ \" COLOR(DEFAULT) \"μοχλὸς \" COLOR(LIGHTBLUE) \"οὗτος...\n\" \"Οὐκ ἔοικας πιέσειν αὐτὸν\n\" \"τῷ σῷ βάρει μόνῳ,\n\" NAME \"...\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x0134",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"0134\"",
+    "el_msg": "\"0134\""
+  },
+  {
+    "id": "0x0135",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"0135\"",
+    "el_msg": "\"0135\""
+  },
+  {
+    "id": "0x0136",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"0136\"",
+    "el_msg": "\"0136\""
+  },
+  {
+    "id": "0x0137",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"The \" COLOR(RED) \"red slimy thing \" COLOR(LIGHTBLUE) \"is gone! \\n\"\n\"That must be because you cut the\\n\"\nCOLOR(RED) \"red tail\" COLOR(LIGHTBLUE) \"! Will that work with \\n\"\n\"the other ones too?\" COLOR(DEFAULT)",
+    "el_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"Τὸ \" COLOR(RED) \"ἐρυθρὸν μυξῶδες \" COLOR(LIGHTBLUE) \"ἠφάνισται!\n\" \"Τοῦτο γὰρ ὅτι ἐξέκοψας τὴν\n\" COLOR(RED) \"ἐρυθρὰν οὐράν\" COLOR(LIGHTBLUE) \"! Ἆρα καὶ ἐπὶ\n\" \"τῶν ἄλλων τοῦτο δράσει;\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x0138",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"0138\"",
+    "el_msg": "\"0138\""
+  },
+  {
+    "id": "0x0139",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"There's a switch beyond this \\n\"\n\"wall!\" COLOR(DEFAULT)",
+    "el_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"Μοχλός ἐστι πέραν τοῦδε\n\" \"τοῦ τοίχου!\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x013A",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"It looks like there is something\\n\"\n\"up there on top of the platform!\" COLOR(DEFAULT)",
+    "el_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"Ἔοικέ τι εἶναι ἐκεῖ ἄνω\n\" \"ἐπὶ τοῦ βάθρου!\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x013B",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"013b\"",
+    "el_msg": "\"013b\""
+  },
+  {
+    "id": "0x013C",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"013c\"",
+    "el_msg": "\"013c\""
+  },
+  {
+    "id": "0x013D",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE SHIFT(66) COLOR(LIGHTBLUE) \"WHAAAT!?\"\nBOX_BREAK\n\nCOLOR(DEFAULT) UNSKIPPABLE COLOR(LIGHTBLUE) \"Look at all those \" COLOR(DEFAULT) \"flags\" COLOR(LIGHTBLUE) \"!\\n\"\n\"Can you figure out which ones are\\n\"\n\"real?\" COLOR(DEFAULT)",
+    "el_msg": "UNSKIPPABLE SHIFT(66) COLOR(LIGHTBLUE) \"ΤΙΙΙ;\"\nBOX_BREAK\n\nCOLOR(DEFAULT) UNSKIPPABLE COLOR(LIGHTBLUE) \"Ἴδε πάσας ταύτας τὰς\n\" COLOR(DEFAULT) \"σημαίας\" COLOR(LIGHTBLUE) \"! Ἆρα δύνασαι\n\" \"εὑρεῖν αἵτινες ἀληθεῖς\n\" \"εἰσίν;\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x013E",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"013e\"",
+    "el_msg": "\"013e\""
+  },
+  {
+    "id": "0x013F",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"013f\"",
+    "el_msg": "\"013f\""
+  },
+  {
+    "id": "0x0140",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "COLOR(LIGHTBLUE) \"The \" COLOR(DEFAULT) \"Great Deku Tree\" COLOR(RED) \" \" COLOR(LIGHTBLUE) \"has \\n\"\n\"summoned you!\\n\"\n\"Please come with me!\" COLOR(DEFAULT)",
+    "el_msg": "COLOR(LIGHTBLUE) \"Ὁ \" COLOR(DEFAULT) \"Μέγας Δένδρος Δέκου\" COLOR(RED) \" \" COLOR(LIGHTBLUE) \"σε\n\" \"μετεπέμψατο!\n\" \"Παρακαλῶ, ἐλθὲ μετ' ἐμοῦ!\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x0141",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "COLOR(LIGHTBLUE) \"C'mon! Be brave!\\n\"\n\"Let's go into the \\n\"\n\"Great Deku Tree!\" COLOR(DEFAULT)",
+    "el_msg": "COLOR(LIGHTBLUE) \"Ἴθι δή! Ἀνδρίζου!\n\" \"Εἰσέλθωμεν εἰς τὸν\n\" \"Μέγαν Δένδρον Δέκου!\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x0142",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "COLOR(LIGHTBLUE) \"The Great Deku Tree wanted us\\n\"\n\"to go to visit the princess at\\n\"\nCOLOR(DEFAULT) \"Hyrule Castle\" COLOR(LIGHTBLUE) \".... Shouldn't we\\n\"\n\"get going?\" COLOR(DEFAULT)",
+    "el_msg": "COLOR(LIGHTBLUE) \"Ὁ Μέγας Δένδρος Δέκου\n\" \"ἐκέλευσεν ἡμᾶς ἰδεῖν τὴν\n\" \"βασιλίδα ἐν τῷ \" COLOR(DEFAULT) \"Φρουρίῳ\n\" \"τῆς Ὑρούλης\" COLOR(LIGHTBLUE) \"... Οὐ πορευτέον;\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x0143",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "COLOR(LIGHTBLUE) \"The girl from the ranch asked us\\n\"\n\"to find her \" COLOR(DEFAULT) \"father\" COLOR(LIGHTBLUE) \"...I wonder where\\n\"\n\"he is?\" COLOR(DEFAULT)",
+    "el_msg": "COLOR(LIGHTBLUE) \"Ἡ παῖς τῆς ἐπαύλεως ᾔτησεν\n\" \"ἡμᾶς εὑρεῖν τὸν \" COLOR(DEFAULT) \"πατέρα\n\" COLOR(LIGHTBLUE) \"αὐτῆς... Ποῦ ἆρά ἐστιν;\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x0144",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "COLOR(LIGHTBLUE) \"I wonder where we'll find the \\n\"\nCOLOR(DEFAULT) \"princess \" COLOR(LIGHTBLUE) \"in this big old castle?\" COLOR(DEFAULT)",
+    "el_msg": "COLOR(LIGHTBLUE) \"Ποῦ ἆρα εὑρήσομεν τὴν\n\" COLOR(DEFAULT) \"βασιλίδα \" COLOR(LIGHTBLUE) \"ἐν τούτῳ τῷ\n\" \"μεγάλῳ παλαιῷ φρουρίῳ;\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x0145",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "COLOR(LIGHTBLUE) \"What would \" COLOR(DEFAULT) \"Saria\" COLOR(RED) \" \" COLOR(LIGHTBLUE) \"say if we told\\n\"\n\"her we're going to save Hyrule?\" COLOR(DEFAULT)",
+    "el_msg": "COLOR(LIGHTBLUE) \"Τί ἂν ἡ \" COLOR(DEFAULT) \"Σαρία\" COLOR(RED) \" \" COLOR(LIGHTBLUE) \"εἴποι εἰ\n\" \"λέγοιμεν αὐτῇ ὅτι σῴζομεν\n\" \"τὴν Ὑρούλην;\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x0146",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"Impa \" COLOR(LIGHTBLUE) \"said that the Spiritual Stone\\n\"\n\"of Fire is somewhere on \" COLOR(DEFAULT) \"Death\\n\"\n\"Mountain\" COLOR(LIGHTBLUE) \".\" COLOR(DEFAULT)",
+    "el_msg": "\"Ἡ Ἴμπα \" COLOR(LIGHTBLUE) \"εἶπεν ὅτι ὁ τοῦ Πυρὸς\n\" \"Πνευματικὸς Λίθος ἐν τῷ\n\" COLOR(DEFAULT) \"Ὄρει τοῦ Θανάτου \" COLOR(LIGHTBLUE) \"πού\n\" \"ἐστιν.\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x0147",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "COLOR(LIGHTBLUE) \"Let's go inside the Dodongo's\\n\"\n\"Cavern using a \" COLOR(DEFAULT) \"Bomb Flower\" COLOR(LIGHTBLUE) \"!\" COLOR(DEFAULT)",
+    "el_msg": "COLOR(LIGHTBLUE) \"Εἰσέλθωμεν εἰς τὸ τῶν\n\" \"Δοδόνγων Σπήλαιον δι'\n\" COLOR(DEFAULT) \"Ἄνθους Βόμβης\" COLOR(LIGHTBLUE) \"!\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x0148",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "COLOR(LIGHTBLUE) \"Darunia said that a \" COLOR(DEFAULT) \"fairy\\n\"\nCOLOR(LIGHTBLUE) \"lives on top of Death Mountain,\\n\"\n\"didn't he?\" COLOR(DEFAULT)",
+    "el_msg": "COLOR(LIGHTBLUE) \"Ὁ Δαρούνιος εἶπεν ὅτι \" COLOR(DEFAULT) \"νύμφη\n\" COLOR(LIGHTBLUE) \"οἰκεῖ ἐπ' ἄκρῳ τοῦ Ὄρους τοῦ\n\" \"Θανάτου, οὐχί;\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x0149",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "COLOR(LIGHTBLUE) \"I wonder if \" COLOR(DEFAULT) \"Saria \" COLOR(LIGHTBLUE) \"knows anything\\n\"\n\"about the other Spiritual Stone?\" COLOR(DEFAULT)",
+    "el_msg": "COLOR(LIGHTBLUE) \"Ἆρ' οἶδέν τι ἡ \" COLOR(DEFAULT) \"Σαρία \" COLOR(LIGHTBLUE) \"περὶ τοῦ\n\" \"ἑτέρου Πνευματικοῦ Λίθου;\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x014A",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "COLOR(LIGHTBLUE) \"It seems \" COLOR(DEFAULT) \"Princess Ruto \" COLOR(LIGHTBLUE) \"somehow \" COLOR(DEFAULT) \"\\n\"\nCOLOR(LIGHTBLUE) \"got inside Jabu-Jabu's belly...\" COLOR(DEFAULT)",
+    "el_msg": "COLOR(LIGHTBLUE) \"Ἔοικεν ἡ \" COLOR(DEFAULT) \"βασιλὶς Ῥούτω \" COLOR(LIGHTBLUE) \"πως \" COLOR(DEFAULT) \"\n\" COLOR(LIGHTBLUE) \"εἰσελθεῖν εἰς τὴν κοιλίαν\n\" \"τοῦ Ἰαβοῦ-Ἰαβοῦ...\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x014B",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "COLOR(LIGHTBLUE) \"You collected three Spiritual\\n\"\n\"Stones! Let's go back to \" COLOR(DEFAULT) \"Hyrule\\n\"\n\"Castle\" COLOR(LIGHTBLUE) \"!\" COLOR(DEFAULT)",
+    "el_msg": "COLOR(LIGHTBLUE) \"Συνέλεξας τρεῖς Πνευματικοὺς\n\" \"Λίθους! Ἐπανέλθωμεν εἰς τὸ\n\" COLOR(DEFAULT) \"Φρούριον τῆς Ὑρούλης\" COLOR(LIGHTBLUE) \"!\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x014C",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "COLOR(LIGHTBLUE) \"Those people on the white horse...\\n\"\n\"they were Zelda and Impa, weren't\\n\"\n\"they? It looked like they threw \\n\"\n\"something into the \" COLOR(DEFAULT) \"moat\" COLOR(LIGHTBLUE) \"!\" COLOR(DEFAULT)",
+    "el_msg": "COLOR(LIGHTBLUE) \"Οἱ ἐπὶ τοῦ λευκοῦ ἵππου...\n\" \"Ζέλδα καὶ Ἴμπα ἦσαν, οὐχί;\n\" \"Ἔδοξαν γάρ τι ῥῖψαι εἰς\n\" \"τὴν \" COLOR(DEFAULT) \"τάφρον\" COLOR(LIGHTBLUE) \"!\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x014D",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "COLOR(LIGHTBLUE) \"Let's go check inside the \\n\"\nCOLOR(DEFAULT) \"Temple of Time\" COLOR(LIGHTBLUE) \".\" COLOR(DEFAULT)",
+    "el_msg": "COLOR(LIGHTBLUE) \"Ἴωμεν ἰδεῖν ἔνδον τοῦ\n\" COLOR(DEFAULT) \"Ναοῦ τοῦ Χρόνου\" COLOR(LIGHTBLUE) \".\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x014E",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "COLOR(LIGHTBLUE) \"Should we believe what Sheik said \\n\"\n\"and go to \" COLOR(DEFAULT) \"Kakariko Village\" COLOR(LIGHTBLUE) \"?\" COLOR(DEFAULT)",
+    "el_msg": "COLOR(LIGHTBLUE) \"Ἆρα πειστέον τοῖς τοῦ Σεΐχ\n\" \"λόγοις καὶ πορευτέον εἰς\n\" \"τὴν \" COLOR(DEFAULT) \"κώμην Κακαρικό\" COLOR(LIGHTBLUE) \";\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x014F",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"014f\"",
+    "el_msg": "\"014f\""
+  },
+  {
+    "id": "0x0150",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "COLOR(LIGHTBLUE) \"I wonder what's going on in the\\n\"\n\"forest right now... I'm worried\\n\"\n\"about \" COLOR(DEFAULT) \"Saria\" COLOR(LIGHTBLUE) \", too!\" COLOR(DEFAULT)",
+    "el_msg": "COLOR(LIGHTBLUE) \"Τί ἆρα νῦν γίγνεται ἐν τῷ\n\" \"δρυμῷ... Μεριμνῶ δὲ καὶ\n\" \"περὶ τῆς \" COLOR(DEFAULT) \"Σαρίας\" COLOR(LIGHTBLUE) \"!\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x0151",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "COLOR(LIGHTBLUE) \"That cloud over \" COLOR(DEFAULT) \"Death Mountain\" COLOR(LIGHTBLUE) \"...\\n\"\n\"there is something strange about \\n\"\n\"it...\" COLOR(DEFAULT)",
+    "el_msg": "COLOR(LIGHTBLUE) \"Ἡ ἐπάνω τοῦ \" COLOR(DEFAULT) \"Ὄρους τοῦ\n\" \"Θανάτου \" COLOR(LIGHTBLUE) \"νεφέλη... ἀλλόκοτόν\n\" \"τί ἐστιν ἐν αὐτῇ...\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x0152",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "COLOR(LIGHTBLUE) \"An arctic wind is blowing from\\n\"\nCOLOR(DEFAULT) \"Zora's River\" COLOR(LIGHTBLUE) \"...do you feel it?\" COLOR(DEFAULT)",
+    "el_msg": "COLOR(LIGHTBLUE) \"Ψυχρὸς ἄνεμος πνεῖ ἀπὸ τοῦ\n\" COLOR(DEFAULT) \"Ποταμοῦ τῶν Ζῶρα\" COLOR(LIGHTBLUE) \"...\n\" \"ἆρ' αἰσθάνῃ αὐτοῦ;\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x0153",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "COLOR(LIGHTBLUE) \"Those \" COLOR(DEFAULT) \"Iron Boots \" COLOR(LIGHTBLUE) \"look like\\n\"\n\"they weigh a ton! If you wear\\n\"\n\"those boots, you may be able to\\n\"\n\"walk at the bottom of a lake.\" COLOR(DEFAULT)",
+    "el_msg": "COLOR(LIGHTBLUE) \"Τὰ \" COLOR(DEFAULT) \"Σιδηρᾶ Ὑποδήματα \" COLOR(LIGHTBLUE) \"ἔοικε\n\" \"βαρύτατα εἶναι! Ἐὰν αὐτὰ\n\" \"φορῇς, ἴσως δυνήσῃ περιπατεῖν\n\" \"ἐν τῷ πυθμένι τῆς λίμνης.\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x0154",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "COLOR(LIGHTBLUE) \"Let's look for someone who might\\n\"\n\"know something about the other\\n\"\nCOLOR(DEFAULT) \"Sages\" COLOR(LIGHTBLUE) \"!\" COLOR(DEFAULT)",
+    "el_msg": "COLOR(LIGHTBLUE) \"Ζητήσωμέν τινα ὃς ἂν εἰδείη\n\" \"τι περὶ τῶν ἄλλων\n\" COLOR(DEFAULT) \"Σοφῶν\" COLOR(LIGHTBLUE) \"!\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x0155",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "COLOR(LIGHTBLUE) \"That monster! It came out of the \\n\"\nCOLOR(DEFAULT) \"well in the village\" COLOR(LIGHTBLUE) \"! Let's go \\n\"\n\"check out the well!\" COLOR(DEFAULT)",
+    "el_msg": "COLOR(LIGHTBLUE) \"Τὸ τέρας ἐκεῖνο! Ἐξῆλθεν ἐκ τοῦ\n\" COLOR(DEFAULT) \"φρέατος τῆς κώμης\" COLOR(LIGHTBLUE) \"! Ἴωμεν δὴ\n\" \"κατασκέψασθαι τὸ φρέαρ!\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x0156",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "COLOR(LIGHTBLUE) \"I wonder who built the \" COLOR(DEFAULT) \"Spirit\" COLOR(LIGHTBLUE) \"\\n\"\nCOLOR(DEFAULT) \"Temple\" COLOR(LIGHTBLUE) \", and for what purpose?\" COLOR(DEFAULT)",
+    "el_msg": "COLOR(LIGHTBLUE) \"Τίς ἆρα ᾠκοδόμησε τὸν\n\" COLOR(DEFAULT) \"Ναὸν\" COLOR(LIGHTBLUE) \" τοῦ \" COLOR(DEFAULT) \"Πνεύματος\" COLOR(LIGHTBLUE) \",\n\" \"καὶ πρὸς τίνα σκοπόν;\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x0157",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "COLOR(LIGHTBLUE) \"Have you ever played the \\n\"\nCOLOR(PURPLE) \"Nocturne of Shadow\" COLOR(LIGHTBLUE) \" that Sheik\\n\"\n\"taught you?\" COLOR(DEFAULT)",
+    "el_msg": "COLOR(LIGHTBLUE) \"Ἆρ' ᾔδεις ποτὲ τὸ \" COLOR(PURPLE) \"Νυκτερινὸν\n\" \"τῆς Σκιᾶς\" COLOR(LIGHTBLUE) \" ὃ ὁ Σεΐχ σοι\n\" \"ἐδίδαξεν;\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x0158",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "COLOR(LIGHTBLUE) \"The \" COLOR(DEFAULT) \"desert\" COLOR(LIGHTBLUE) \"...that is where\\n\"\n\"Ganondorf the Evil King was born.\\n\"\n\"If we go there, we might find\\n\"\n\"something...\" COLOR(DEFAULT)",
+    "el_msg": "COLOR(LIGHTBLUE) \"Ἡ \" COLOR(DEFAULT) \"ἔρημος\" COLOR(LIGHTBLUE) \"... ἐκεῖ ἐγεννήθη\n\" \"ὁ Γανωνδόρφ, ὁ βασιλεὺς τῆς\n\" \"πονηρίας. Ἐὰν ἐκεῖσε ἴωμεν,\n\" \"ἴσως τι εὑρήσομεν...\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x0159",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"0159\"",
+    "el_msg": "\"0159\""
+  },
+  {
+    "id": "0x015A",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "COLOR(LIGHTBLUE) \"Equip the \" COLOR(DEFAULT) \"Silver Gauntlets \\n\"\nCOLOR(LIGHTBLUE) \"and try to move things you \\n\"\n\"couldn't budge before!\" COLOR(DEFAULT)",
+    "el_msg": "COLOR(LIGHTBLUE) \"Ἔνδυσαι τὰς \" COLOR(DEFAULT) \"Ἀργυρᾶς\n\" \"Χειρῖδας \" COLOR(LIGHTBLUE) \"καὶ πείρασαι κινεῖν\n\" \"ἃ πρότερον οὐκ ἠδύνασο!\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x015B",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "COLOR(LIGHTBLUE) \"The one who is waiting for us at\\n\"\n\"the Temple of Time...it could be...\" COLOR(DEFAULT)",
+    "el_msg": "COLOR(LIGHTBLUE) \"Ὁ προσδοκῶν ἡμᾶς ἐν τῷ\n\" \"Ναῷ τοῦ Χρόνου... ἴσως ἐστίν...\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x015C",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "COLOR(LIGHTBLUE) \"We have to save Princess Zelda\\n\"\n\"from her imprisonment in Ganon's\\n\"\n\"Castle!\" COLOR(DEFAULT)",
+    "el_msg": "COLOR(LIGHTBLUE) \"Δεῖ ἡμᾶς σῷσαι τὴν βασιλίδα\n\" \"Ζέλδαν ἐκ τοῦ δεσμωτηρίου\n\" \"ἐν τῷ τοῦ Γάνωνος Φρουρίῳ!\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x015D",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"015D\"",
+    "el_msg": "\"015D\""
+  },
+  {
+    "id": "0x015E",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"015E\"",
+    "el_msg": "\"015E\""
+  },
+  {
+    "id": "0x015F",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "COLOR(LIGHTBLUE) NAME \"...\\n\"\n\"Try to keep moving!!\" COLOR(DEFAULT)",
+    "el_msg": "COLOR(LIGHTBLUE) \"Ὦ \" NAME \"...\n\" \"Πείραζε μὴ ἵστασθαι!!\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x0160",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"I don't mind talking to you \\n\"\n\"using the Ocarina's magic, but\\n\"\n\"I'd really like to talk to you\\n\"\n\"face-to-face!\" EVENT",
+    "el_msg": "\"Οὐκ ἄχθομαι σοὶ λαλοῦσα διὰ\n\" \"τῆς μαγείας τῆς Πλαγιαύλου,\n\" \"ἀλλὰ πάνυ βούλομαι λαλεῖν\n\" \"πρόσωπον πρὸς πρόσωπον!\" EVENT"
+  },
+  {
+    "id": "0x0161",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"The forest is connected to many \\n\"\n\"places! If you can hear my song,\\n\"\n\"you must be somewhere that is\\n\"\n\"connected to the forest!\" EVENT",
+    "el_msg": "\"Ὁ δρυμὸς συνάπτεται πολλοῖς\n\" \"τόποις! Εἰ ἀκούεις τῆς ἐμῆς\n\" \"ᾠδῆς, που εἶ ὅπου συνάπτεται\n\" \"τῷ δρυμῷ!\" EVENT"
+  },
+  {
+    "id": "0x0162",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"I was so happy to hear that\\n\"\n\"Mr. Darunia loved my song so\\n\"\n\"much!\"\nBOX_BREAK\n\n\"I was even happier to find out\\n\"\n\"that it helped you on your quest,\\n\"\nNAME \"!\\n\"\n\"Tee hee hee!\" EVENT",
+    "el_msg": "\"Πάνυ ἐχάρην ἀκούσασα ὅτι\n\" \"ὁ κύριος Δαρούνιος οὕτως\n\" \"ἠγάπησε τὴν ἐμὴν ᾠδήν!\"\nBOX_BREAK\n\n\"Μειζόνως δ' ἐχάρην μαθοῦσα\n\" \"ὅτι ὠφέλησέ σε ἐν τῷ ἀγῶνί\n\" \"σου, ὦ \" NAME \"!\n\" \"Ἀ ἃ ἅ!\" EVENT"
+  },
+  {
+    "id": "0x0163",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"Are you collecting Spiritual\\n\"\n\"Stones? You have one more to\\n\"\n\"find? You mean the \" COLOR(BLUE) \"Spiritual \\n\"\n\"Stone of Water\" COLOR(DEFAULT) \", don't you?\"\nBOX_BREAK\n\n\"The Great Deku Tree once told me\\n\"\n\"that \" COLOR(BLUE) \"King Zora, ruler of Zora's \\n\"\n\"Domain, \" COLOR(DEFAULT) \"has it...\" EVENT",
+    "el_msg": "\"Ἆρα συλλέγεις τοὺς Πνευματικοὺς\n\" \"Λίθους; Εἷς σοι λοιπός ἐστιν;\n\" \"Τὸν \" COLOR(BLUE) \"τοῦ Ὕδατος Πνευματικὸν\n\" \"Λίθον \" COLOR(DEFAULT) \"λέγεις, οὐχί;\"\nBOX_BREAK\n\n\"Ὁ Μέγας Δένδρος Δέκου ποτέ μοι\n\" \"εἶπεν ὅτι \" COLOR(BLUE) \"ὁ Βασιλεὺς τῶν Ζῶρα,\n\" \"ὁ ἄρχων τῆς Ἐπικρατείας, \" COLOR(DEFAULT) \"\n\" \"ἔχει αὐτόν...\" EVENT"
+  },
+  {
+    "id": "0x0164",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"Are you collecting Spiritual\\n\"\n\"Stones? You have one more to\\n\"\n\"find? You mean the \" COLOR(RED) \"Spiritual \\n\"\n\"Stone of Fire\" COLOR(DEFAULT) \", don't you?\"\nBOX_BREAK\n\n\"The Great Deku Tree once told me\\n\"\n\"that \" COLOR(RED) \"Mr. Darunia of the Gorons\\n\"\nCOLOR(DEFAULT) \"has it...\" EVENT",
+    "el_msg": "\"Ἆρα συλλέγεις τοὺς Πνευματικοὺς\n\" \"Λίθους; Εἷς σοι λοιπός ἐστιν;\n\" \"Τὸν \" COLOR(RED) \"τοῦ Πυρὸς Πνευματικὸν\n\" \"Λίθον \" COLOR(DEFAULT) \"λέγεις, οὐχί;\"\nBOX_BREAK\n\n\"Ὁ Μέγας Δένδρος Δέκου ποτέ μοι\n\" \"εἶπεν ὅτι \" COLOR(RED) \"ὁ κύριος Δαρούνιος\n\" \"τῶν Γορώνων \" COLOR(DEFAULT) \"ἔχει αὐτόν...\" EVENT"
+  },
+  {
+    "id": "0x0165",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "NAME \"...\\n\"\n\"I don't know what it is...\\n\"\n\"I have this feeling of dread...\"\nBOX_BREAK\n\n\"The Castle...\\n\"\n\"Yes, something bad is happening\\n\"\n\"at the Castle!\" EVENT",
+    "el_msg": "\"Ὦ \" NAME \"...\n\" \"Οὐκ οἶδα ὅ τι ἐστίν...\n\" \"Πλῆρες δέους ἐστὶ τὸ ἦτόρ μου...\"\nBOX_BREAK\n\n\"Τὸ Φρούριον...\n\" \"Ναί, κακόν τι γίγνεται\n\" \"ἐν τῷ Φρουρίῳ!\" EVENT"
+  },
+  {
+    "id": "0x0166",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"What? Your ocarina sounds...\\n\"\n\"different somehow... \\n\"\n\"Have you been practicing a lot,\\n\"\nNAME \"?\" EVENT",
+    "el_msg": "\"Τί; Ἡ πλαγίαυλός σου...\n\" \"ἄλλως πως ἠχεῖ...\n\" \"Ἆρα πολλὰ ἐμελέτησας,\n\" \"ὦ \" NAME \";\" EVENT"
+  },
+  {
+    "id": "0x0167",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"Are you looking for a temple?\\n\"\n\"A mysterious bird once told me...\"\nBOX_BREAK\n\n\"\\\"\" COLOR(LIGHTBLUE) \"Eyes that can see through \\n\"\n\"darkness will open in a storm.\" COLOR(DEFAULT) \"\\\"\\n\"\n\"Do you have any idea what he \\n\"\n\"meant by this?\" EVENT",
+    "el_msg": "\"Ἆρα ναὸν ζητεῖς;\n\" \"Θαυμαστὸν ὄρνεόν ποτέ μοι\n\" \"εἶπεν...\"\nBOX_BREAK\n\n\"«\" COLOR(LIGHTBLUE) \"Ὀφθαλμοὶ οἱ διὰ τοῦ σκότους\n\" \"βλέποντες ἐν χειμῶνι\n\" \"ἀνοιχθήσονται.\" COLOR(DEFAULT) \"»\n\" \"Ἆρ' οἶσθα ὅ τι τοῦτο λέγει;\" EVENT"
+  },
+  {
+    "id": "0x0168",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"Where are you, \" NAME \"?\\n\"\n\"Are you looking for a temple?\\n\"\n\"I once heard a mysterious bird \\n\"\n\"say...\"\nBOX_BREAK\n\n\"\\\"\" COLOR(LIGHTBLUE) \"Go, young man. Go to the\\n\"\n\"Desert Goddess with an ocarina.\" COLOR(DEFAULT) \"\\\"\\n\"\n\"Do you have any idea what he\\n\"\n\"may have meant by this?\" EVENT",
+    "el_msg": "\"Ποῦ εἶ, ὦ \" NAME \";\n\" \"Ἆρα ναὸν ζητεῖς;\n\" \"Ἤκουσα ποτε θαυμαστοῦ ὀρνέου\n\" \"λέγοντος...\"\nBOX_BREAK\n\n\"«\" COLOR(LIGHTBLUE) \"Ὕπαγε, νεανία. Ἴθι πρὸς τὴν\n\" \"Θεὰν τῆς Ἐρήμου μετὰ\n\" \"πλαγιαύλου.\" COLOR(DEFAULT) \"»\n\" \"Ἆρ' οἶσθα ὅ τι τοῦτο λέγει;\" EVENT"
+  },
+  {
+    "id": "0x0169",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"Did you find all the temples yet?\" EVENT",
+    "el_msg": "\"Ἆρα πάντας τοὺς ναοὺς\n\" \"ἤδη εὗρες;\" EVENT"
+  },
+  {
+    "id": "0x016A",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"Great! You're safe!\\n\"\n\"I knew I would hear from\\n\"\n\"you again!\"\nBOX_BREAK\n\n\"I'm in the \" COLOR(ADJUSTABLE) \"Forest Temple\" COLOR(DEFAULT) \"!\\n\"\n\"The forest spirits were calling\\n\"\n\"for help, so I went to check it\\n\"\n\"out...\"\nBOX_BREAK\n\n\"But it's full of evil monsters!\\n\"\n\"Help me, \" NAME \"!\" EVENT",
+    "el_msg": "\"Εὖγε! Σῶος εἶ!\n\" \"ᾔδειν γὰρ ὅτι πάλιν\n\" \"ἀκούσομαί σου!\"\nBOX_BREAK\n\n\"Ἐν τῷ \" COLOR(ADJUSTABLE) \"Ναῷ τῆς Ὕλης \" COLOR(DEFAULT) \"εἰμί!\n\" \"Τὰ τοῦ δρυμοῦ πνεύματα\n\" \"ἐβόων πρὸς βοήθειαν, ὥστε\n\" \"ἦλθον κατασκέψασθαι...\"\nBOX_BREAK\n\n\"Ἀλλὰ πλῆρές ἐστι πονηρῶν\n\" \"τεράτων! Βοήθει μοι,\n\" \"ὦ \" NAME \"!\" EVENT"
+  },
+  {
+    "id": "0x016B",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "NAME \"...\\n\"\n\"At first, I didn't want to become \\n\"\n\"the \" COLOR(ADJUSTABLE) \"Sage of the Forest\" COLOR(DEFAULT) \"....\"\nBOX_BREAK\n\n\"But I'm glad now.\"\nBOX_BREAK\n\n\"Because I am helping you to save\\n\"\n\"Hyrule, \" NAME \"!\\n\"\n\"Yes, I am!\" EVENT",
+    "el_msg": "\"Ὦ \" NAME \"...\n\" \"Πρῶτον μὲν οὐκ ἐβουλόμην\n\" \"γενέσθαι ἡ \" COLOR(ADJUSTABLE) \"Σοφὴ τῆς Ὕλης\" COLOR(DEFAULT) \"....\"\nBOX_BREAK\n\n\"Νῦν δὲ χαίρω.\"\nBOX_BREAK\n\n\"Βοηθῶ γάρ σοι σῴζειν τὴν\n\" \"Ὑρούλην, ὦ \" NAME \"!\n\" \"Ναί, ἀληθῶς!\" EVENT"
+  },
+  {
+    "id": "0x016C",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"If all six \" COLOR(RED) \"Sages\" COLOR(DEFAULT) \" come together, \\n\"\n\"we can imprison Ganondorf, the \\n\"\n\"King of Evil, in the Sacred Realm.\"\nBOX_BREAK\n\n\"But, in order to make a perfect\\n\"\n\"seal, we need the \" COLOR(RED) \"seventh \\n\"\n\"Sage\" COLOR(DEFAULT) \".\"\nBOX_BREAK\n\n\"Someone you know must be that\\n\"\n\"Sage, \" NAME \"...\"\nBOX_BREAK\n\n\"From now on, you must travel \\n\"\n\"between past and future to\\n\"\n\"awaken the remaining Sages!\"\nBOX_BREAK\n\n\"Keep up the good work,\\n\"\nNAME \"!\" EVENT",
+    "el_msg": "\"Ἐὰν οἱ ἓξ \" COLOR(RED) \"Σοφοὶ \" COLOR(DEFAULT) \"συνέλθωσιν,\n\" \"δυνησόμεθα κατακλεῖσαι τὸν\n\" \"Γανωνδόρφ, τὸν βασιλέα τῆς\n\" \"πονηρίας, ἐν τῷ Ἱερῷ Πεδίῳ.\"\nBOX_BREAK\n\n\"Ἀλλ' ἵνα τελεία γένηται\n\" \"ἡ σφραγίς, δεῖ ἡμῖν καὶ τοῦ\n\" COLOR(RED) \"ἑβδόμου Σοφοῦ\" COLOR(DEFAULT) \".\"\nBOX_BREAK\n\n\"Γνώριμός τίς σου δεῖ εἶναι\n\" \"ὁ Σοφὸς ἐκεῖνος,\n\" \"ὦ \" NAME \"...\"\nBOX_BREAK\n\n\"Ἐντεῦθεν οὖν πορευτέον\n\" \"μεταξὺ παρελθόντος καὶ\n\" \"μέλλοντος ἵνα ἐγείρῃς τοὺς\n\" \"λοιποὺς Σοφούς!\"\nBOX_BREAK\n\n\"Ἀνδρίζου δὴ καὶ εὐημέρει,\n\" \"ὦ \" NAME \"!\" EVENT"
+  },
+  {
+    "id": "0x016D",
+    "box_type": "TEXTBOX_TYPE_BLUE",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"We, the Six Sages, are channeling\\n\"\n\"our power to you!\"\nBOX_BREAK\n\n\"The destiny of Hyrule depends \\n\"\n\"upon you!\" EVENT",
+    "el_msg": "\"Ἡμεῖς, οἱ Ἑξ Σοφοί,\n\" \"διαδίδομεν τὴν δύναμιν\n\" \"ἡμῶν εἰς σέ!\"\nBOX_BREAK\n\n\"Τὸ τῆς Ὑρούλης πεπρωμένον\n\" \"ἐν σοὶ κεῖται!\" EVENT"
+  },
+  {
+    "id": "0x0180",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"I can hear a voice from\\n\"\n\"somewhere...\" COLOR(DEFAULT)\nBOX_BREAK\n\nUNSKIPPABLE COLOR(LIGHTBLUE) \"It's saying:\\n\"\nCOLOR(DEFAULT) SHIFT(17) \"\\\"Collect five silver Rupees...\\\"\"",
+    "el_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"Ἀκούω φωνῆς ποθέν...\" COLOR(DEFAULT)\nBOX_BREAK\n\nUNSKIPPABLE COLOR(LIGHTBLUE) \"Λέγει γάρ:\n\" COLOR(DEFAULT) SHIFT(17) \"«Σύλλεξον πέντε ἀργυρᾶ ῥούπια...»\""
+  },
+  {
+    "id": "0x0181",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"This wall...it's saying something!\" COLOR(DEFAULT)\nBOX_BREAK\n\nUNSKIPPABLE COLOR(LIGHTBLUE) \"It says:\\n\"\nCOLOR(DEFAULT) \"If you want to see a ferry to the\\n\"\nSHIFT(30) \"other world, come here...\"",
+    "el_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"Ὁ τοῖχος οὗτος... τι λέγει!\" COLOR(DEFAULT)\nBOX_BREAK\n\nUNSKIPPABLE COLOR(LIGHTBLUE) \"Λέγει γάρ:\n\" COLOR(DEFAULT) \"Εἰ βούλει ἰδεῖν πορθμεῖον εἰς\n\" SHIFT(30) \"τὸν ἕτερον κόσμον, ἐλθὲ ὧδε...\""
+  },
+  {
+    "id": "0x0182",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"0182\"",
+    "el_msg": "\"0182\""
+  },
+  {
+    "id": "0x0183",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"If you want to ride that \" COLOR(DEFAULT) \"boat\" COLOR(LIGHTBLUE) \", be \\n\"\n\"careful! It looks very old... Who\\n\"\n\"knows when it might sink?\" COLOR(DEFAULT)",
+    "el_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"Εἰ βούλει ἐπιβαίνειν τῷ \" COLOR(DEFAULT) \"πλοίῳ\n\" COLOR(LIGHTBLUE) \"τούτῳ, φυλάττου! Ἔοικε γὰρ\n\" \"παλαιότατον εἶναι... Τίς οἶδε\n\" \"πότε καταδύσεται;\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x0184",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"There is a \" COLOR(DEFAULT) \"door \" COLOR(LIGHTBLUE) \"over here... Is \\n\"\n\"there any way to get across?\" COLOR(DEFAULT)",
+    "el_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"Ἔστι \" COLOR(DEFAULT) \"θύρα \" COLOR(LIGHTBLUE) \"ὧδε... Ἆρ' ἔστι\n\" \"τρόπος διαβῆναι;\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x0185",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"0185\"",
+    "el_msg": "\"0185\""
+  },
+  {
+    "id": "0x0186",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"That \" COLOR(DEFAULT) \"red ice\" COLOR(LIGHTBLUE) \"...it's so weird!\" COLOR(DEFAULT)",
+    "el_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"Ὁ \" COLOR(DEFAULT) \"ἐρυθρὸς κρύσταλλος \" COLOR(LIGHTBLUE) \"ἐκεῖνος...\n\" \"πάνυ ἀλλόκοτός ἐστιν!\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x0187",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"0187\"",
+    "el_msg": "\"0187\""
+  },
+  {
+    "id": "0x0188",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"0188\"",
+    "el_msg": "\"0188\""
+  },
+  {
+    "id": "0x0189",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"This \" COLOR(DEFAULT) \"blue fire\" COLOR(LIGHTBLUE) \"...it doesn't seem\\n\"\n\"natural. Maybe you can use it for\\n\"\n\"something?\" COLOR(DEFAULT)",
+    "el_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"Τὸ \" COLOR(DEFAULT) \"κυανοῦν πῦρ \" COLOR(LIGHTBLUE) \"τοῦτο... οὐκ\n\" \"ἔοικε φυσικὸν εἶναι. Ἴσως\n\" \"δύνασαι χρῆσθαί ποτε αὐτῷ;\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x018A",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"018a\"",
+    "el_msg": "\"018a\""
+  },
+  {
+    "id": "0x018B",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"018b\"",
+    "el_msg": "\"018b\""
+  },
+  {
+    "id": "0x018C",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"The \" COLOR(DEFAULT) \"fires on the torches \" COLOR(LIGHTBLUE) \"are gone.\\n\"\n\"Seems like the ghosts took them \\n\"\n\"away!\" COLOR(DEFAULT)",
+    "el_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"Τὸ \" COLOR(DEFAULT) \"πῦρ τῶν λαμπάδων \" COLOR(LIGHTBLUE) \"ἠφάνισται.\n\" \"Ἔοικε τὰ φάσματα\n\" \"ἀπενεγκεῖν αὐτό!\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x018D",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"Look, \" NAME \"! A \" COLOR(DEFAULT) \"torch\" COLOR(LIGHTBLUE) \"\\n\"\n\"is lit! That's because\\n\"\n\"you beat a ghost, isn't it?!\" COLOR(DEFAULT)",
+    "el_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"Ἴδε, ὦ \" NAME \"! Ἡ \" COLOR(DEFAULT) \"λαμπὰς\n\" COLOR(LIGHTBLUE) \"ἥφθη! Τοῦτο γὰρ ὅτι ἐνίκησας\n\" \"φάσμα, οὐχί;!\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x018E",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"018e\"",
+    "el_msg": "\"018e\""
+  },
+  {
+    "id": "0x018F",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"There are \" COLOR(DEFAULT) \"arrows \" COLOR(LIGHTBLUE) \"painted on the \\n\"\n\"floor!\" COLOR(DEFAULT)",
+    "el_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"Ἔστι \" COLOR(DEFAULT) \"βέλη \" COLOR(LIGHTBLUE) \"γεγραμμένα ἐπὶ τοῦ\n\" \"ἐδάφους!\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x0190",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"This \" COLOR(DEFAULT) \"corridor \" COLOR(LIGHTBLUE) \"is all twisted!\" COLOR(DEFAULT)",
+    "el_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"Ὁ \" COLOR(DEFAULT) \"διάδρομος \" COLOR(LIGHTBLUE) \"οὗτος ὅλος\n\" \"διέστραπται!\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x0191",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"Watch for the \" COLOR(DEFAULT) \"shadows of\\n\"\n\"monsters \" COLOR(LIGHTBLUE) \"that hang from the\\n\"\n\"ceiling.\" COLOR(DEFAULT)",
+    "el_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"Φύλαξαι τὰς \" COLOR(DEFAULT) \"σκιὰς τῶν\n\" \"τεράτων \" COLOR(LIGHTBLUE) \"τῶν ἐκ τῆς ὀροφῆς\n\" \"κρεμαμένων.\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x0192",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"There's a \" COLOR(DEFAULT) \"treasure chest\" COLOR(LIGHTBLUE) \" here.\" COLOR(DEFAULT)",
+    "el_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"Ἔστι \" COLOR(DEFAULT) \"κιβωτὸς θησαυροῦ \" COLOR(LIGHTBLUE) \"ὧδε.\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x0193",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"0193\"",
+    "el_msg": "\"0193\""
+  },
+  {
+    "id": "0x0194",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"This...this is the same \" COLOR(DEFAULT) \"torch\" COLOR(LIGHTBLUE) \" we\\n\"\n\"saw at the entrance to the temple,\\n\"\n\"isn't it?\" COLOR(DEFAULT)",
+    "el_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"Αὕτη... αὕτη ἐστὶν ἡ αὐτὴ\n\" COLOR(DEFAULT) \"λαμπὰς \" COLOR(LIGHTBLUE) \"ἣν εἴδομεν ἐπὶ τῇ\n\" \"εἰσόδῳ τοῦ ναοῦ, οὐχί;\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x0195",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"This \" COLOR(DEFAULT) \"torch\" COLOR(LIGHTBLUE) \" is lit...that means...\" COLOR(DEFAULT)",
+    "el_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"Ἡ \" COLOR(DEFAULT) \"λαμπὰς \" COLOR(LIGHTBLUE) \"αὕτη ἧπται...\n\" \"τοῦτο δὴ σημαίνει...\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x0196",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"0196\"",
+    "el_msg": "\"0196\""
+  },
+  {
+    "id": "0x0197",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"This \" COLOR(DEFAULT) \"switch\" COLOR(LIGHTBLUE) \" is frozen!\" COLOR(DEFAULT)",
+    "el_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"Ὁ \" COLOR(DEFAULT) \"μοχλὸς \" COLOR(LIGHTBLUE) \"οὗτος πέπηγεν!\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x0198",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) NAME \", watch out!\\n\"\n\"The ceiling is falling down!\" COLOR(DEFAULT)",
+    "el_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"Ὦ \" NAME \", φύλαξαι!\n\" \"Ἡ ὀροφὴ καταπίπτει!\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x0199",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"0199\"",
+    "el_msg": "\"0199\""
+  },
+  {
+    "id": "0x019A",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"019a\"",
+    "el_msg": "\"019a\""
+  },
+  {
+    "id": "0x019B",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"019b\"",
+    "el_msg": "\"019b\""
+  },
+  {
+    "id": "0x019C",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"019c\"",
+    "el_msg": "\"019c\""
+  },
+  {
+    "id": "0x019D",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"019d\"",
+    "el_msg": "\"019d\""
+  },
+  {
+    "id": "0x019E",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"019e\"",
+    "el_msg": "\"019e\""
+  },
+  {
+    "id": "0x019F",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"019f\"",
+    "el_msg": "\"019f\""
+  },
+  {
+    "id": "0x01A0",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"01a0\"",
+    "el_msg": "\"01a0\""
+  },
+  {
+    "id": "0x01A1",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"01a1\"",
+    "el_msg": "\"01a1\""
+  },
+  {
+    "id": "0x01A2",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"01a2\"",
+    "el_msg": "\"01a2\""
+  },
+  {
+    "id": "0x01A3",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) NAME \", I hear \" COLOR(DEFAULT) \"Goron \\n\"\n\"voices \" COLOR(LIGHTBLUE) \"down below.\" COLOR(DEFAULT)",
+    "el_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"Ὦ \" NAME \", ἀκούω \" COLOR(DEFAULT) \"φωνῶν\n\" \"Γορώνων \" COLOR(LIGHTBLUE) \"κάτωθεν.\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x01A4",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"01a4\"",
+    "el_msg": "\"01a4\""
+  },
+  {
+    "id": "0x01A5",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"You can see down from here...\\n\"\n\"Isn't that the room where we saw\\n\"\nCOLOR(DEFAULT) \"Darunia\" COLOR(LIGHTBLUE) \"?\" COLOR(DEFAULT)",
+    "el_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"Ἔξεστι κάτωθεν ὁρᾶν...\n\" \"Ἆρ' οὐ τοῦτό ἐστι τὸ οἴκημα\n\" \"οὗ εἴδομεν τὸν \" COLOR(DEFAULT) \"Δαρούνιον\" COLOR(LIGHTBLUE) \";\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x01A6",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"01a6\"",
+    "el_msg": "\"01a6\""
+  },
+  {
+    "id": "0x01A7",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"This \" COLOR(DEFAULT) \"statue\" COLOR(LIGHTBLUE) \"...haven't we seen it\\n\"\n\"somewhere before?\" COLOR(DEFAULT)",
+    "el_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"Τὸ \" COLOR(DEFAULT) \"ἄγαλμα \" COLOR(LIGHTBLUE) \"τοῦτο... ἆρ' οὐκ\n\" \"εἴδομεν αὐτό που πρότερον;\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x01A8",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"01a8\"",
+    "el_msg": "\"01a8\""
+  },
+  {
+    "id": "0x01A9",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"This \" COLOR(DEFAULT) \"switch \" COLOR(LIGHTBLUE) \"looks rusted.\" COLOR(DEFAULT)",
+    "el_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"Ὁ \" COLOR(DEFAULT) \"μοχλὸς \" COLOR(LIGHTBLUE) \"οὗτος κατιωμένος\n\" \"φαίνεται.\" COLOR(DEFAULT)"
+  },
+  {
+    "id": "0x01AA",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "\"01aa\"",
+    "el_msg": "\"01aa\""
+  },
+  {
+    "id": "0x01AB",
+    "box_type": "TEXTBOX_TYPE_BLACK",
+    "box_pos": "TEXTBOX_POS_BOTTOM",
+    "en_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) NAME \"! Be careful!\\n\"\n\"Don't get swallowed by the \\n\"\n\"vortexes!\" COLOR(DEFAULT)",
+    "el_msg": "UNSKIPPABLE COLOR(LIGHTBLUE) \"Ὦ \" NAME \"! Φυλάττου!\n\" \"Μὴ καταποθῇς ὑπὸ\n\" \"τῶν δινῶν!\" COLOR(DEFAULT)"
+  }
+]
