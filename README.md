@@ -5,6 +5,14 @@ A complete, unabridged fan translation of **The Legend of Zelda: Ocarina of Time
 
 ---
 
+## 📸 Screenshots
+
+| Saria in Kokiri Forest | Obtaining the Kokiri Sword | Kokiri Shopkeeper |
+|:---:|:---:|:---:|
+| <img src="screenshots/01_saria_dialogue.jpg" width="300" alt="Saria dialogue in Ancient Greek" /> | <img src="screenshots/02_kokiri_sword_item.jpg" width="300" alt="Obtaining the Kokiri Sword" /> | <img src="screenshots/03_kokiri_shopkeeper.jpg" width="300" alt="Kokiri Shopkeeper dialogue" /> |
+
+---
+
 ## 🎮 How to Play (Applying the Patch)
 
 Apply the `.bps` patch to a clean copy of the decompressed NTSC 1.2 ROM.
@@ -91,6 +99,10 @@ To compile the ROM from source code and translation batches:
 
 ```
 .
+├── screenshots/
+│   ├── 01_saria_dialogue.jpg             # Saria greeting Link in Kokiri Forest
+│   ├── 02_kokiri_sword_item.jpg          # Obtaining the Kokiri Sword from the chest
+│   └── 03_kokiri_shopkeeper.jpg          # Kokiri Shop dialogue & shopkeeper stelae
 ├── patches/
 │   └── zelda_ocarina_of_time_greek.bps   # Complete BPS patch for NTSC 1.2
 ├── translations/
