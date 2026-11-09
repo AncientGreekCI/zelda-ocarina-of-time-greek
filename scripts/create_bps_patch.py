@@ -159,9 +159,9 @@ def create_ips_patch(source_bytes, target_bytes):
     return bytes(patch)
 
 if __name__ == "__main__":
-    src_path = sys.argv[1]
-    tgt_path = sys.argv[2]
-    out_prefix = sys.argv[3] if len(sys.argv) > 3 else "ages_greek"
+    src_path = sys.argv[1] if len(sys.argv) > 1 else os.path.join("oot", "baseroms", "ntsc-1.2", "baserom-decompressed.z64")
+    tgt_path = sys.argv[2] if len(sys.argv) > 2 else "oot_ancient_greek.z64"
+    out_prefix = sys.argv[3] if len(sys.argv) > 3 else os.path.join("patches", "zelda_ocarina_of_time_greek")
 
     with open(src_path, "rb") as f:
         src = f.read()
@@ -193,9 +193,10 @@ if __name__ == "__main__":
     verify_bps_patch(bps_data, src, tgt)
     print("  -> BPS patch verified byte-for-byte against target ROM! PASS")
 
-    # 2. IPS
-    ips_path = f"{out_prefix}.ips"
-    ips_data = create_ips_patch(src, tgt)
-    with open(ips_path, "wb") as f:
-        f.write(ips_data)
-    print(f"\nGenerated IPS patch: {ips_path} ({len(ips_data):,} bytes)")
+    # 2. IPS (only if <= 16MB, as standard IPS format only supports 24-bit 16MB offsets)
+    if len(tgt) <= 16 * 1024 * 1024:
+        ips_path = f"{out_prefix}.ips"
+        ips_data = create_ips_patch(src, tgt)
+        with open(ips_path, "wb") as f:
+            f.write(ips_data)
+        print(f"\nGenerated IPS patch: {ips_path} ({len(ips_data):,} bytes)")

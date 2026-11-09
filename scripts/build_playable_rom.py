@@ -27,6 +27,7 @@ from scripts.patch_font_binary import get_char_for_byte, patch_font
 from scripts.polytonic_map import generate_default_charmap, normalize_greek_text
 from scripts.verify_translations import tokenize_msg, compile_tokens_to_bytes
 from scripts.patch_menu_textures import patch_all_menu_textures
+from scripts.patch_name_entry import patch_name_entry
 
 BASE_ROM = os.path.join("oot", "baseroms", "ntsc-1.2", "baserom-decompressed.z64")
 PATCHED_FONT = os.path.join("oot", "extracted", "ntsc-1.2", "baserom", "nes_font_static")
@@ -260,6 +261,9 @@ def build_rom() -> bool:
 
     # 4. Patch All 265 Graphical Menu Textures (Actions, Pause Menu, Item Banners, File Select, Title Cards)
     patch_all_menu_textures(OUTPUT_ROM)
+
+    # 4b. Patch Greek Name Entry Keyboard & Decoding
+    patch_name_entry(OUTPUT_ROM)
 
     with open(OUTPUT_ROM, "rb") as f_in:
         rom = bytearray(f_in.read())
